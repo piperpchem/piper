@@ -1,0 +1,52 @@
+---
+title: "Engaging Students in Physical Chemistry"
+#author: "ssinglet"
+date: "2018-08-01"
+categories: ["book"]
+image: bk-2018-1279.largecover.jpg
+---
+
+ACS Symposium Series
+
+![](bk-2018-1279.largecover.jpg){width="50%" link="https://pubs.acs.org/doi/book/10.1021/bk-2018-1279"}
+
+This book reflects the diversity of physical chemistry experiences of the authors themselves. Some chapters provide suggestions to increase engagement by providing new, intriguing contexts such as protein interactions and surface chemistry through which to teach traditional physical chemistry concepts. Other chapters focus on pedagogy, presenting ideas on how to increase the active involvement of students in their own learning or how to help students memorize difficult thermodynamic equations. Still other chapters challenge traditional instructional notions with ideas such as using flipped classrooms and incorporating a graphic novel. In general, we organized the chapters according to these broad categories, although some chapters bridge categories.
+
+In short, this book has a little bit of a lot of different things. However, there are twin unifying threads present throughout. First, this book was written by people interested in physical chemistry education who wanted to improve student learning in their classes. Second, this book was written for those who share our passions about teaching and learning physical chemistry.
+
+As mentioned above, each of us has our own particular setting in which we teach our students physical chemistry. Thus, you will probably not be able to implement all the ideas from the chapters directly into your own classroom and laboratory because specific details about each author’s situation will not likely match your own. Therefore, this book is not so much a step-by-step instruction manual as it is a resource for ideas, guidance, and inspiration for improving your own physical chemistry curriculum for the purpose of engaging students.
+
+
+## Chapters {#chapters}
+
+-   Strategies for Engagement: Enhancing Your Teaching
+-   Measuring Novel Protein-Protein Binding with Surface Plasmon Resonance in the Physical Chemistry Lab
+-   Bridging the Microscopic and Macroscopic in Thermodynamics with Molecular Dynamics Simulations: Lab Exercises for Undergraduate Physical Chemistry
+-   Partition Functions and Statistical Thermodynamics: Spreadsheet Activities To Promote Connections in Physical Chemistry
+-   Engaging Students in the Physical Chemistry Laboratory by Creating a Non-Traditional Research Experience through an Independent Project
+-   Incorporating Experimental Design into a Stand-Alone Undergraduate Physical Chemistry Laboratory Course
+-   Using a Context Rich Pedagogy To Teach Kinetics, Quantum Mechanics, and Spectroscopy
+-   Designing an Active Learning Physical Chemistry Course Using Best Practices
+-   Mnemonic Devices for Thermodynamic Relationships
+-   The Impact of Guided Inquiry Materials on Student Representational Level Understanding of Thermodynamics
+-   Reflections on the Effect of the Flipped Classroom on Students’ Difficulties with Homework in Physical Chemistry
+-   Engaging Students in Quantum Theory Using a Graphic Novel about Niels Bohr
+
+
+## Editors {#editors}
+
+Craig M. Teague, Cornell College
+
+David E. Gardner, Lander University
+
+
+## Citation {#citation}
+
+_Engaging Students in Physical Chemistry_ Teague and Gardner, American Chemical Society, 2018, DOI: 10.1021/bk-2018-1279
+
+<https://pubs.acs.org/doi/book/10.1021/bk-2018-1279>
+
+
+## License {#license}
+
+Copyright American Chemical Society

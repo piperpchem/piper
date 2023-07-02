@@ -1,0 +1,39 @@
+---
+title: "Foregrounding the code: Computational chemistry instructional activities using a highly readable fluid simulation code"
+#author: "ssinglet"
+date: "2022-09-03T00:00:00-05:00"
+categories: ["computing", "jupyter", "python"]
+image: lennard-jones-fluid.png
+---
+
+![](lennard-jones-fluid.png){height="80%"}
+
+Motivated by the need for instructional activities that provide hands-on experience with computer code, a pair of activities were created around a free lightweight (runs on standard laptops) open-source Lennard-Jones (LJ) fluid simulation code written in Python, a programming language that prioritizes readability. The first activity, aimed at undergraduate physical chemistry lab courses, involves students writing Python code in a Jupyter Notebook that is used to run LJ simulations and fit a Van der Waals gas model to data produced by the LJ fluid simulations. The second is a jigsaw activity, aimed at advanced undergraduate or graduate students, where students are assigned different sections of the LJ fluid simulation code, and must demonstrate the functionality of their section to the class by both giving an oral presentation and sharing a Jupyter Notebook demonstration of their own design.
+
+This lab activity is intended to be used as part of an undergraduate physical chemistry lab course, but really the only prerequisite is that the student knows how to take the derivative of a polynomial. The activity does require students to write some Python code, but the video link above explains things so that the activity be completed by students who have not written code.
+
+
+## Student Learning Outcomes {#student-learning-outcomes}
+
+Upon completing this lab, students will be able to:
+
+-   Perform a few simple functions in Jupyter notebooks like executing code cells (press shift + enter)
+-   Perform a few simple functions using the Python programming language, like accessing attributes from Python objects (e.g. use the dot like this: system1.pressure to access the pressure of the object system1)
+-   Run Lennard-Jones fluid simulations using the included Python code written by Dr. Grazioli
+-   Use algebra and knowledge of the Lennard-Jones force equation to calculate the value of the parameter b from the Van der Waals equation for a Lennard-Jones fluid
+-   Use linear regression on data produced by a set of Lennard-Jones molecular simulations to calculate the value of the parameter a from the Van der Waals equation for a Lennard-Jones fluid
+
+
+## Location {#location}
+
+<https://github.com/ggrazioli/LennardJonesFluidLab>
+
+
+## Citation {#citation}
+
+Grazioli G, Ingwerson A, Santiago D, Cho H, Regan P. Foregrounding the code: Computational chemistry instructional activities using a highly readable fluid simulation code. ChemRxiv. Cambridge: Cambridge Open Engage; 2022; This content is a preprint and has not been peer-reviewed. <https://doi.org/10.26434/chemrxiv-2022-xfx89>
+
+
+## License {#license}
+
+The content is available under CC BY NC 4.0 License [CreativeCommons.org](https://creativecommons.org/licenses/by-nc/4.0/)

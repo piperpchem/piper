@@ -1,0 +1,35 @@
+---
+title: "Google Colab and Virtual Simulations: Practical e-Learning Tools to Support the Teaching of Thermodynamics and to Introduce Coding to Students"
+#author: "ssinglet"
+date: "2022-04-21T00:00:00-05:00"
+categories: ["computing", "python", "jupyter", "thermo"]
+image: google-colab-and-virtual-simulations.gif
+---
+
+![](google-colab-and-virtual-simulations.gif){}
+
+Various studies have reported the versatility and great scope of programming tools in all areas of knowledge. Coding is generally of paramount importance to chemistry students regardless of whether they intend to work with theoretical chemistry. Google Colab notebooks can introduce students to programming concepts and could be a convenient tool to assist in the chemistry teaching process. In this article, we implemented Google Colab notebooks to aid in the teaching of thermodynamics in a physical chemistry class. We presented six notebooks, covering introductory concepts of both coding and thermodynamics as a set of learning objects that can be useful in a virtual learning environment. In addition, in some of the notebooks, we included a step-by-step guide on how to run virtual lab simulations. The Colab notebooks were created for students without previous experience in programming. All of the Colab notebooks contain exercises of the activities and the solutions of the proposed exercises. Furthermore, all of the Colab notebooks can be modified and downloaded from the Github repository. Finally, we used the Python programming language and Colab because they are free and widely used by the academic community.
+
+Sessions in English and Spanish:
+
+-   Introduction to Google Colaboratory
+-   Mathematical treatment of experimental data
+-   Ideal Gases
+-   Equation of the State (EoS)
+-   First Law
+-   Hess's Law - Matrix Method
+
+
+## Citation {#citation}
+
+William Vallejo, Carlos Díaz-Uribe, and Catalina Fajardo ACS Omega 2022 7 (8), 7421-7429 https://doi.org/10.1021/acsomega.2c00362
+
+
+## Resources {#resources}
+
+<https://github.com/wavallejol/ColabChem>
+
+
+## License {#license}
+
+Copyright 2022 The Authors

@@ -1,0 +1,18 @@
+---
+title: "When the Kitchen Turns into a Physical Chemistry Lab"
+#author: "ssinglet"
+date: "2022-02-07T00:00:00-06:00"
+categories: ["lab", "spectroscopy", "thermo"]
+image: kitchen-pchem-lab.gif
+---
+
+![](kitchen-pchem-lab.gif){width="90%"}
+
+We present our experience with transferring a four-day photometry and dye-adsorption laboratory experiment to the kitchens of students of Applied Thermodynamics from our degree in “Industrial Chemical Process Engineering”. The students designed and built a double-beam photometer using their smartphones and household materials, then prepared a series of dye-solutions with well-known relative concentrations and measured the absorbance–concentration calibration curve. After 24 h of adsorption to kitchen absorbent paper the solutions were visibly decolored. The students were able to determine the equilibrium dye concentrations from absorbance measurements and to calculate the adsorption isotherm. This home-lab experiment allowed them to keep on track with their lessons during the severe lock down in Spain due to COVID-19. They were highly motivated and achieved the learning objectives to a similar degree as in years before with conventional lab equipment.
+
+
+## Citation {#citation}
+
+Wajih Al-Soufi, Jorge Carrazana-Garcia, and Mercedes Novo,
+_Journal of Chemical Education_, 2020, _97_ (9), 3090-3096
+https://doi.org/10.1021/acs.jchemed.0c00745

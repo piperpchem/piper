@@ -1,0 +1,30 @@
+---
+title: "CO₂ IR absorption spectra"
+#author: "ssinglet"
+date: "2020-07-05T11:27:00-05:00"
+categories: ["dataset"]
+---
+
+Spreadsheets with IR absorption spectra of ν1 and ν2 of CO₂. Supplemental information for the Journal of Chemical Education article "Total Chemical Footprint of an Experiment: A Systems Thinking Approach to Teaching Rovibrational Spectroscopy" (citation below).
+
+
+## Location {#location}
+
+<https://pubs.acs.org/doi/abs/10.1021/acs.jchemed.9b00405>
+
+
+## Citation {#citation}
+
+J. Chem. Educ. 2019, 96, 12, 2947–2951
+
+Publication Date: October 1, 2019
+
+
+## License {#license}
+
+&amp;copy; ACS Publications
+
+
+## Status <span class="tag"><span class="Reviewed">Reviewed</span></span> {#status}
+
+Reviewed

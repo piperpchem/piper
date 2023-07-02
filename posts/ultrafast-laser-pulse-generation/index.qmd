@@ -1,0 +1,23 @@
+---
+title: "Ultrafast Laser Pulse Generation by Mode Locking: Matlab-based Demonstrations"
+#author: "ssinglet"
+date: "2022-06-23T00:00:00-05:00"
+categories: ["computing", "matlab"]
+image: ultrafast-laser-pulse-generation.png
+---
+
+![](ultrafast-laser-pulse-generation.png){width="80%"}
+
+Ultrafast laser spectroscopy is a valuable and increasingly accessible technique for studies of rapid chemical reactions. Critical to ultrafast spectroscopy is the concept of mode-locking, a technique that enables a fixed phase relationship between laser modes, resulting in laser pulses with very short duration (in the fs or ps range). Despite an increasing importance of ultrafast lasers in chemistry, the introduction of key concepts behind their operation into the undergraduate and graduate chemistry coursework has been limited. To help the incorporation of these topics into chemistry courses, we report here a hands-on activity that helps students develop an intuitive understanding of the factors that impact electromagnetic wave evolution in optical cavities and the process of mode-locking. We first provide the theoretical background by introducing cavity modes and contrasting them with well-known propagating electromagnetic waves. We then explore what happens when modes are added and how the relative phase between the modes affect their behavior. In the second section of the manuscript, three teaching modules are provided, along with associated Matlab codes and animated images, that can be used in the classroom to introduce concepts of cavity modes and mode-locking. These teaching modules start by contrasting propagating electromagnetic waves with cavity modes, then illustrate what happens when multiple modes are present in the cavity and how the relative phase between the modes affects the overall electromagnetic fields in the cavity.
+
+
+## Citation {#citation}
+
+Goun A, Glusac K. Ultrafast Laser Pulse Generation by Mode Locking: Matlab-based Demonstrations . ChemRxiv. Cambridge: Cambridge Open Engage; 2022;  This content is a preprint and has not been peer-reviewed.
+
+https://doi.org/10.26434/chemrxiv-2022-k6pgj
+
+
+## License {#license}
+
+The content is available under CC BY NC 4.0 License CreativeCommons.org

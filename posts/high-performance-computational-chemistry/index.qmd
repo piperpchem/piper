@@ -1,0 +1,22 @@
+---
+title: "High-Performance Computational Chemistry in Undergraduate Physical Chemistry: Exercises in Homonuclear Diatomic Molecules"
+#author: "ssinglet"
+date: "2022-11-19T00:00:00-06:00"
+categories: ["computing", "computational"]
+image: high-performance-computing.png
+---
+
+![](high-performance-computing.png){}
+
+Computational chemistry exercises that are designed to be incorporated into an undergraduate physical chemistry course. This activity teaches computational chemistry as it is performed in higher-level research (in a command-line environment and executed on a high-performance computing cluster) to provide students with a foundation of computational chemistry skills for more advanced computational chemistry research. The activity is also a practical application of topics taught in physical chemistry courses, using the linear combination of atomic orbitals molecular orbital (LCAO-MO) theory description of homonuclear diatomic molecules as a basis to introduce students to computational chemistry techniques, density functional theory calculations of physical observables, and the analysis of computational results. Results from a survey assessing students’ learning gains demonstrate that these exercises produce significant gains in students’ computational skills, highlighting the efficacy of this activity in achieving its primary goals.
+
+
+## Citation {#citation}
+
+Leah Isseroff Bendavid, Journal of Chemical Education Article ASAP,
+https://doi.org/10.1021/acs.jchemed.2c00706
+
+
+## License {#license}
+
+Copyright American Chemical Society

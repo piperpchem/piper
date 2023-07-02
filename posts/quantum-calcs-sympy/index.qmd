@@ -1,0 +1,51 @@
+---
+title: "Solving Common Introductory Quantum Mechanics Problems using Sympy"
+#author: "ssinglet"
+date: "2020-07-01T14:26:00-05:00"
+categories: ["computing", "jupyter", "quantum", "python"]
+image: sympy-conjugate.png
+---
+
+This Jupyter  notebook show basic examples for quantum calculations encountered in undergraduate physical chemistry course. The purpose of this notebook is not to explain the theory behind the calculations, bur rather show how python can be used for solving typical problems.
+
+This notebook assumes sympy is available and some familiarity with python lists and functions. The sympy tutorial describes all of the functions used in the notebook.
+
+![](sympy-conjugate.png){width="85%"}
+
+
+## Learning  Objectives {#learning-objectives}
+
+After completing this work you should be able to use python and sympy to
+
+-   calculate a normalization constant
+-   calculate an expectation value and its variance
+-   determine whether a function is an eigenvalue of an operator
+-   determine if functions are orthogonal
+
+
+## Prerequisites {#prerequisites}
+
+-   basic understanding of eigenfuctions, normalization, orthogonality, and expectation values
+-   basic knowledge of python and sympy
+-   a python environment with Sympy symbolic math library
+
+
+## Author {#author}
+
+Steve Singleton, Coe College ssinglet@coe.edu
+
+Adapted from work of E. Harvey, JCE Symmath project.
+
+
+## Location {#location}
+
+Jupyter notebook [preview](https://nbviewer.jupyter.org/github/singletS/clueopen/blob/master/example_qm_calcs/Example_Quantum_Calculations_sympy.ipynb)
+
+Download [ipynb file](https://raw.githubusercontent.com/singletS/clueopen/master/example_qm_calcs/Example_Quantum_Calculations_sympy.ipynb) (click Save As)
+
+
+## License {#license}
+
+Original work © Journal of Chemical Education
+
+Derivative work is Creative Commons ShareAlike.

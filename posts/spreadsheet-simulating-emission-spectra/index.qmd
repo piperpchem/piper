@@ -1,0 +1,44 @@
+---
+title: "Spreadsheet-Based Program for Simulating Atomic Emission Spectra"
+#author: "ssinglet"
+date: "2021-02-05T00:00:00-06:00"
+categories: ["computing", "spectroscopy", "article"]
+image: spreadsheet-atomic-emission-simulation.png
+---
+
+![](spreadsheet-atomic-emission-simulation.png){width="70%"}
+
+A simple Excel spreadsheet-based program for simulating atomic
+emission spectra from the properties of neutral atoms (e.g., energies
+and statistical weights of the electronic states, electronic partition
+functions, transition probabilities, etc.) is described. The contents
+of the spreadsheet (i.e., input parameters, formulas for calculating
+emission intensities, etc.) are in full view and are controllable by
+the student and instructor, and the result of changing temperature and
+line width on relative intensities can be observed in real time.
+Thorough descriptions of how to use the spreadsheet-based program, how
+to extract relevant quantum mechanical properties from the NIST Atomic
+Spectra Database, and how to create a new worksheet for an element of
+interest are also included. It is envisioned that the program will
+serve as a means for instructors to link atomic emission in the
+visible region of the electromagnetic spectrum, as in the flame test
+demonstration, to the theoretical concepts of statistical and quantum
+mechanics encountered in advanced physical and analytical chemistry
+courses.
+
+
+## Author {#author}
+
+David J. Flannigan
+
+Department of Chemical Engineering and Materials Science, University of Minnesota, Minneapolis, Minnesota
+
+
+## Citation {#citation}
+
+J. Chem. Educ. 2014, 91, 10, 1736–1738, <https://doi.org/10.1021/ed500479u>
+
+
+## License {#license}
+
+Copyright American Chemical Society and Division of Chemical Education, Inc.

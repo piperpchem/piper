@@ -1,0 +1,46 @@
+---
+title: "Virtual HeNDI Spectrometer"
+#author: "ssinglet"
+date: "2020-11-24T11:22:00-06:00"
+categories: ["lab", "spectroscopy"]
+image: virtual-hendi-spectrometer.png
+---
+
+This virtual Helium NanoDroplet Isolation (HeNDI) spectrometer simulates the infrared spectra of OCS molecules in liquid helium droplets. The low temperature of the droplets makes for simplified spectra in comparison to the gas phase, and analysis of the rotationally resolved monomer band makes for interesting activities in molecular spectroscopy.
+
+Objectives of a tested exercise that uses the virtual spectrometer are to:
+
+-   Collect simulated infrared spectra of OCS solvated in liquid helium, and perform a rovibrational analysis of the monomer P- and R-branches (2061-2062 wavenumbers).
+
+-   Determine the moment of inertia of helium that is coupled to OCS by comparing the helium solvated and gas phase rotational constants.
+
+-   After determining the intensity of each P- and R-branch peak, calculate the rotational temperature of the droplets.
+
+![](virtual-hendi-spectrometer.png){width="90%"}
+
+
+## Location {#location}
+
+<http://virtual-hendi.isaac-j-miller.com/>
+
+<https://github.com/isaac-j-miller/virtual-hendi>
+
+Information on the instrument and on its usage can be found in the pdf at <https://osf.io/2kx78/download>. Additional details about the webapp can be found in the readme.md file located in the git repository at <https://github.com/isaac-j-miller/virtual-hendi>. Further details on the HeNDI technique can be found in the open access review article at <https://doi.org/10.1080/23746149.2018.1553569>.
+
+
+## Authors {#authors}
+
+Isaac Miller, James Madison University
+
+Paul Raston, James Madison University
+
+
+## Status {#status}
+
+Not reviewed
+
+
+## License {#license}
+
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+License <http://creativecommons.org/licenses/by-nc-sa/4.0/>

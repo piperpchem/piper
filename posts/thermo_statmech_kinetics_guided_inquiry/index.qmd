@@ -1,0 +1,44 @@
+---
+title: "Thermodynamics, Statistical Mechanics & Kinetics: A Guided Inquiry"
+#author: "ssinglet"
+date: "2021-06-12"
+categories: ["book", "thermo", "kinetics", "stat-mech"]
+image: thermo-statmech-guided-inquiry.png
+---
+
+![](thermo-statmech-guided-inquiry.png){width="50%"}
+
+   The activities presented guide students through a wide variety of topics found
+in a typical undergraduate treatment of Thermodynamics, Statistical Mechanics,
+and Kinetics. The activities have been tested both in settings that teach
+quantum first and also those that teach thermodynamics first, and we have found
+they serve students well in both contexts. Although it is assumed students are
+familiar with quantized energy levels, the activities do not require prior
+knowledge of Quantum Mechanics beyond a one-year general chemistry course.
+
+The title of each activity includes both a label classifying the content and a number signaling the order. Activities labeled Fundamental, represent the core set of Thermodynamic topics suitable for an undergraduate physical chemistry course. They should be used in the order presented and generally without omission since each subsequent activity was written presuming either implicitly or explicitly the prior content as pre-requisite. Activities labeled StatMech and Kinetics cover content traditionally associated with these subject areas. In general, these activities could be introduced at anytime throughout the course depending on the instructor preference.
+
+Activities labeled "Extension" are intended to guide students more deeply into a particular topic and are numbered according to the prerequisite activity. Any extension activity can be used or omitted depending on the learning objectives identified for students. We presume that instructors will vary in terms of the details they wish to include on any topic depending on the context of the course they teach and their own interests. We have attempted to provide the necessary flexibility in these materials to allow instructors to present a particular category or extend fundamental concepts as they see fit in the course.
+
+Lists of the content and process objectives describe what each student should achieve after completing the activity. Instructors may want to share this information with students or create assessment and evaluation materials that reinforce these stated objectives.The Instructor’s Guide also indicates the appropriate Extension activities for each Fundamentalactivity. Implementation Notes provide additional ideas or cautions regarding the use of theactivities in the classroom
+
+
+## More information {#more-information}
+
+[Thermodynamics, Statistical Mechanics &amp; Kinetics: A Guided Inquiry](https://pogil.org/curricular-materials/chemistry/thermodynamics-statistical-mechanics-and-kinetics-a-guided-inquiry)
+
+
+## Authors {#authors}
+
+Tricia D. Shepherd, The POGIL Project
+
+Sean Garrett-Roe, University of Pittsburgh
+
+Alexander Grushow, Rider University
+
+Richard S. Moog, Franklin &amp; Marshall College
+
+
+## License {#license}
+
+Copyright, The Pogil Project

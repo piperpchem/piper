@@ -1,0 +1,42 @@
+---
+title: "Interactive Explorations for Teaching and Learning Quantum Dynamics"
+#author: "ssinglet"
+date: "2022-02-05T00:00:00-06:00"
+categories: ["computing", "article", "quantum"]
+image: open-access-quantum-dynamics.gif
+---
+
+![](open-access-quantum-dynamics.gif){width="25%"}
+
+While the research field of quantum dynamics (QD) benefits from advances in modern computational power, the educational field of QD paradoxically does not. We have developed an open-access, interactive, electronic notebook that leverages a user-friendly interface to engage a new generation of visual learners with QD. We begin each topic (e.g., adiabaticity, light–matter interactions, and relaxation processes) with essential questions, issues, and background that orient the learner; we then move directly to visual explorations of the phenomena, where the learner can immediately manipulate parameters that control and drive the physics. This notebook requires only a computer that can run Wolfram’s computable document format (CDF) files (both the notebook and CDF player are free) and enables learning in a variety of contexts and grade levels: flipped classrooms, small groups, and high school students through advanced researchers. Without sacrificing rigor, Quantum Dynamics...with the Dynamics! (QDWD) aims to develop physical intuition and is built in the spirit of hands-on experimentation with immediate and visual results. The hierarchical structure of QDWD lends itself to differentiated instruction, where a motivated or advanced student can explore the computer code, mathematical formalism, and underpinning physics.
+
+
+## Learning Outcomes {#learning-outcomes}
+
+Through QDWD, students will be able to identify and to relate the key parameters that drive the time evolution of quantum systems. Students may also synthesize new ideas from learned ones by splicing and editing the provided Mathematica code.
+
+Learners may map problems in the scientific literature onto the simplified models developed in QDWD.
+
+
+## Authors {#authors}
+
+Nicholas F. Polizzi
+
+David N. Beratan
+
+Department of Biochemistry, Department of Chemistry, and Department of Physics, Duke University, Durham, North Carolina
+
+
+## Location {#location}
+
+Mathematica CDF files: <https://pubs.acs.org/doi/suppl/10.1021/acs.jchemed.5b00662/suppl_file/ed5b00662_si_001.zip>
+
+Article: <https://pubs.acs.org/doi/10.1021/acs.jchemed.5b00662>
+
+
+## License {#license}
+
+Mathematica files: "Free to use"
+
+Article: Copyright American Chemical Society and
+Division of Chemical Education, Inc

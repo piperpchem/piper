@@ -1,0 +1,42 @@
+---
+title: "Introduction to Machine Learning for chemists: An undergraduate course using Python notebooks for visualization, data processing, data analysis, and data modeling"
+#author: "ssinglet"
+date: "2022-04-10T00:00:00-05:00"
+categories: ["computing", "python", "jupyter"]
+image: intro-machine-learning-chemists.jpg
+---
+
+![](intro-machine-learning-chemists.jpg){}
+
+Machine Learning, a subdomain of Artificial intelligence, is a pervasive technology that would mold how chemists interact with data. Therefore, it is a relevant skill to incorporate into the toolbox of any chemistry student. This work presents a course that introduces machine learning for chemistry students based on a set of Python Notebooks and assignments. Python language, one of the most popular programming languages, allows for free software and resources, which ensures availability. The course is constructed for students without previous experience in programming, leading to an incremental progression in depth and complexity that covers both programming and machine learning concepts. The examples used are related to real data from physicochemical characterizations of wines, producing an attractive material that captures the interest of students. Topics included are Introduction to Python, Basic Statistics, Data Visualization and Dimension Reduction, Classification, and Regression.
+
+
+## Learning Objectives {#learning-objectives}
+
+The aim of this course is to expose chemistry students to machine learning, including some
+programming notions, data visualization, data processing, data analysis, and data modeling. The main
+objectives for this course are:
+
+1.  Making students understand the Python language.
+2.  Explore several scientific Python libraries for interacting with data.
+3.  Expose students to machine learning concepts and use them to analyze a dataset.
+4.  Develop a self-learning attitude through the use of documentation and question and answer (Q&amp;A) sites for programmers
+
+
+## Location {#location}
+
+Article:  <https://doi.org/10.26434/chemrxiv.13749199.v1>
+
+Jupyter notebooks: <https://github.com/ML4chemArg/Intro-to-Machine-Learning-in-Chemistry>
+
+
+## Citation {#citation}
+
+Lafuente D, Cohen B, Fiorini G, García A, Bringas M, Morzan E, et al. Introduction to Machine Learning for Chemists: An Undergraduate Course Using Python Notebooks for Visualization, Data Processing, Data Analysis, and Data Modeling. ChemRxiv. Cambridge: Cambridge Open Engage; 2021; This content is a preprint and has not been peer-reviewed.
+
+<https://doi.org/10.26434/chemrxiv.13749199.v1>
+
+
+## License {#license}
+
+The content is available under CC BY NC ND 4.0 License CreativeCommons.org

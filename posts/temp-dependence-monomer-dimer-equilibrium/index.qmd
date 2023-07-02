@@ -1,0 +1,43 @@
+---
+title: "An Investigation of the Temperature Dependence of a Monomer−Dimer Equilibrium Using UV−Vis and 1H NMR Spectroscopies"
+#author: "ssinglet"
+date: "2023-03-15T00:00:00-05:00"
+categories: ["lab", "nmr", "thermo"]
+image: temp-dependence-monomer-dimer-equilibrium.png
+---
+
+![](temp-dependence-monomer-dimer-equilibrium.png){width="70%"}
+
+A laboratory experiment in which 1H NMR and UV−vis spectroscopies are
+applied to probe the temperature dependence of a monomer−dimer
+equilibrium involving a cyclopentadienone derivative is described and
+discussed. Details of the data analysis for extraction of equilibrium
+constants from the raw experimental data from both techniques are
+provided, leading to the determination of thermodynamic parameters
+(ΔrH° and ΔrS°) via van’t Hoff analysis. Fully analyzed datasets are
+provided in the Supporting Information to aid adaptation of the
+experiment or its use as a data analysis activity.
+
+
+## Learning Objectives {#learning-objectives}
+
+Skills
+
+-   Mass/moles/concentration calculations.
+-   Planning your work: time management and communication.
+-   Manipulation of data using a spreadsheet.
+-   Graphical analysis of data using a spreadsheet.
+-   Mathematical skills: manipulating and solving algebraic equations
+-   Locating and extracting information from research papers.
+
+Objectives
+
+-   Obtain the UV-Vis spectra of solutions equilibrated at various temperatures
+-   Determine equilibrium constants for the Diels-Alder reaction at various temperatures from visible absorbance (A) data using the Beer-Lambert law.
+-   Determine thermodynamic parameters (ΔrH° and ΔrS°) for the Diels-Alder reaction using the van’t Hoff equation.
+-   Compare experimentally determined values of ΔrH° and ΔrS° with published values.
+
+
+## Citation {#citation}
+
+Laura M. Hancock, David J. McGarvey, and Daniela Plana, Journal of Chemical Education 2023 100 (3), 1283-1288, https://doi.org/10.1021/acs.jchemed.2c00917

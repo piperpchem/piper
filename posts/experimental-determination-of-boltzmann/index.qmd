@@ -1,0 +1,23 @@
+---
+title: "Experimental determination of the Boltzmann constant: An undergraduate laboratory exercise for molecular physics or physical chemistry"
+#author: "ssinglet"
+date: "2022-03-03T00:00:00-06:00"
+categories: ["lab", "spectroscopy"]
+image: experimental-determination-of-boltzmann.jpeg
+---
+
+![](experimental-determination-of-boltzmann.jpeg){width="70%"}
+
+This article describes an undergraduate laboratory exercise that uses optical spectroscopy to determine the magnitude and the uncertainty of the Boltzmann constant kb. The more accurate approach uses photoacoustic spectroscopy to measure the Doppler-broadened line profile of individual spectral lines of N2O to extract kb. Measurements and estimates of the uncertainties in the quantities needed to calculate kb from the line profiles are then used to estimate the uncertainty in kb. This experiment is unusual in that it uses advanced laser-based spectroscopy techniques to emphasize standard practices of uncertainty analysis. The core instrumentation is modular and relatively affordable; it requires a tunable single-mode laser, photoreceiver, optical cell, and vacuum pump. If this instrumentation is not available, an alternate approach can be performed which uses the intensity of each rotational transition of an infrared band to measure kb. Although there is more uncertainty using the alternate approach, low concentrations of CO2, DCl, or N2O give reasonable results for the magnitude of kb. Student assessment results indicate retention and mastery of the concept of combined measurement uncertainty.
+
+
+## Authors {#authors}
+
+H. M. Campbell, B. M. Boardman, T. C. DeVore, and D. K. Havey
+
+Department of Chemistry and Biochemistry, James Madison University, MSC 4501, Harrisonburg, Virginia 22807
+
+
+## Citation {#citation}
+
+American Journal of Physics 80, 1045 (2012); <https://doi.org/10.1119/1.4764490>

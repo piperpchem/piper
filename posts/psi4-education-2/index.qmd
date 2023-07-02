@@ -1,0 +1,69 @@
+---
+title: "PSI4 Education"
+#author: "ssinglet"
+date: "2020-12-13T16:23:00-06:00"
+categories: ["computing", "computational", "lab", "quantum", "jupyter", "bonding", "spectroscopy", "symmetry"]
+image: psi4banner_education.png
+---
+
+![](psi4banner_education.png){width="70%"}
+
+From the Psi4Education website:
+
+Psi4Education is the education and outreach program of Psi4, the free, open-source quantum chemistry software package. We offer a suite of free, open-source lab activities, suitable for use in classes across the chemistry curriculum, which use Psi4, the Psi4Numpy Python API, and WebMO, a graphical front end to help build molecules and set up calculations for Psi4. Psi4Education aims to increase students exposure to scientific programming and computational chemistry and help students learn chemistry through computation.
+
+Many of the lab activities use Psi4Numpy, the Psi4 Python API. Psi4Numpy allows you to import and use Psi4 functions directly in Jupyter notebooks. These labs assume some prerequisite knowledge of python.
+
+Lab activities are distributed as Jupyter notebooks or PDF files. Editable Jupyter notebooks can be downloaded.
+
+Lab activities:
+
+-   Understanding the Iterative Nature of the Hartree-Fock Procedure
+-   Machine Learning in Computational Chemistry
+-   Determining Structure from Microwave Spectroscopy
+-   Intermolecular Interactions and Symmetry-Adapted Perturbation Theory
+-   What is the radius of an atom?
+-   What makes a molecule polar or non-polar?
+-   Calculating Spectroscopic Constants from a Potential Energy Surface
+-   How do we calculate the most accurate energies for a boron atom?
+-   Can we visually predict binding energies?
+-   When does water become OH + H? (A study in molecular orbitals)
+-   What happens to the orbitals as a one-dimensional box gets longer? (A study in molecular orbitals)
+-   Is C<sub>3</sub>H<sup>+</sup> present in the Horsehead nebula?
+-   What is symmetry in chemistry?
+
+
+## Contributors {#contributors}
+
+Prof. Ashley Ringer McDonald, Cal Poly San Luis Obispo, Director, Psi4Education
+
+Victor H. Chavez, Purdue University
+
+Prof. Ryan C. Fortenberry, University of Mississippi
+
+Prof. D. Brandon Magers, Belhaven University
+
+Prof. Konrad Patkowski, Auburn University
+
+Benjamin G. Peyton, Virginia Tech
+
+Dr. Tricia D. Shepherd, The POGIL Project
+
+Prof. C. David Sherrill, Georgia Tech
+
+Dr. Dominic Sirianni, University of Richmond
+
+
+## Location {#location}
+
+<https://psicode.netlify.app/posts/psi4education/>
+
+
+## License {#license}
+
+[BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)
+
+
+## Review status {#review-status}
+
+Reviewed

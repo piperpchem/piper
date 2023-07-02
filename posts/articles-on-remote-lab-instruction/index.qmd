@@ -1,0 +1,52 @@
+---
+title: "Articles related to virtual/remote laboratory instruction"
+#author: "ssinglet"
+date: "2020-07-09T15:42:00-05:00"
+categories: ["article", "lab"]
+---
+
+Compiled by Mary Emenike, submitted by Mark Muñiz, Rutgers University.
+
+An, J., Poly, L.-P., &amp; Holme, T. A. (2020). Usability Testing and the Development of an Augmented Reality Application for Laboratory Learning. Journal of Chemical Education, 97(1), 97-105. doi: 10.1021/acs.jchemed.9b00453
+
+Andrews, J. L., de Los Rios, J. P., Rayaluru, M., Lee, S., Mai, L., Schusser, A., &amp; Mak, C. H. (2020). Experimenting with At-Home General Chemistry Laboratories During the COVID-19 Pandemic. Journal of Chemical Education. doi: 10.1021/acs.jchemed.0c00483
+
+Clemons, T. D., Fouché, L., Rummey, C., Lopez, R. E., &amp; Spagnoli, D. (2019). Introducing the First Year Laboratory to Undergraduate Chemistry Students with an Interactive 360° Experience. Journal of Chemical Education, 96(7), 1491-1496. doi: 10.1021/acs.jchemed.8b00861
+
+Davenport, J. L., Rafferty, A. N., &amp; Yaron, D. J. (2018). Whether and How Authentic Contexts Using a Virtual Chemistry Lab Support Learning. Journal of Chemical Education, 95(8), 1250-1259. doi: 10.1021/acs.jchemed.8b00048
+
+Kennepohl, D. (2007). Using home-laboratory kits to teach general chemistry. Chemistry Education Research and Practice, 8(3), 337-346. doi: 10.1039/B7RP90008B
+
+Dunnagan, C. L., Dannenberg, D. A., Cuales, M. P., Earnest, A. D., Gurnsey, R. M., &amp; Gallardo-Williams, M. T. (2020). Production and Evaluation of a Realistic Immersive Virtual Reality Organic Chemistry Laboratory Experience: Infrared Spectroscopy. Journal of Chemical Education, 97(1), 258-262. doi: 10.1021/acs.jchemed.9b00705
+
+Enneking, K. M., Breitenstein, G. R., Coleman, A. F., Reeves, J. H., Wang, Y., &amp; Grove, N. P. (2019). The Evaluation of a Hybrid, General Chemistry Laboratory Curriculum: Impact on Students’ Cognitive, Affective, and Psychomotor Learning. Journal of Chemical Education, 96(6), 1058-1067. doi: 10.1021/acs.jchemed.8b00637
+
+Faulconer, E. K., Griffith, J. C., Wood, B. L., Acharyya, S., &amp; Roberts, D. L. (2018). A comparison of online and traditional chemistry lecture and lab. Chemistry Education Research and Practice, 19(1), 392-397. doi: 10.1039/C7RP00173H
+
+Ferrell, J. B., Campbell, J. P., McCarthy, D. R., McKay, K. T., Hensinger, M., Srinivasan, R., . . . Schneebeli, S. T. (2019). Chemical Exploration with Virtual Reality in Organic Teaching Laboratories. Journal of Chemical Education, 96(9), 1961-1966. doi: 10.1021/acs.jchemed.9b00036
+
+Hawkins, I., &amp; Phelps, A. J. (2013). Virtual laboratory vs. traditional laboratory: which is more effective for teaching electrochemistry? Chemistry Education Research and Practice, 14(4), 516-523. doi: 10.1039/C3RP00070B
+
+Hensen, C., &amp; Barbera, J. (2019). Assessing Affective Differences between a Virtual General Chemistry Experiment and a Similar Hands-On Experiment. Journal of Chemical Education, 96(10), 2097-2108. doi: 10.1021/acs.jchemed.9b00561
+
+Irby, S. M., Borda, E. J., &amp; Haupt, J. (2018). Effects of Implementing a Hybrid Wet Lab and Online Module Lab Curriculum into a General Chemistry Course: Impacts on Student Performance and Engagement with the Chemistry Triplet. Journal of Chemical Education, 95(2), 224-232. doi: 10.1021/acs.jchemed.7b00642
+
+Mahaffey, A. L. (2019). A Complementary Laboratory Exercise: Introducing Molecular Structure–Function Topics to Undergraduate Nursing Health Professions Students. Journal of Chemical Education, 96(10), 2188-2193. doi: 10.1021/acs.jchemed.9b00388
+
+Nennig, H. T., Idárraga, K. L., Salzer, L. D., Bleske-Rechek, A., &amp; Theisen, R. M. (2020). Comparison of student attitudes and performance in an online and a face-to-face inorganic chemistry course. Chemistry Education Research and Practice, 21(1), 168-177. doi: 10.1039/C9RP00112C
+
+Penn, M., &amp; Ramnarain, U. (2019). South African university students’ attitudes towards chemistry learning in a virtually simulated learning environment. Chemistry Education Research and Practice, 20(4), 699-709. doi: 10.1039/C9RP00014C
+
+Pölloth, B., Schwarzer, S., &amp; Zipse, H. (2020). Student Individuality Impacts Use and Benefits of an Online Video Library for the Organic Chemistry Laboratory. Journal of Chemical Education, 97(2), 328-337. doi: 10.1021/acs.jchemed.9b00647
+
+Reynders, G., Suh, E., Cole, R. S., &amp; Sansom, R. L. (2019). Developing Student Process Skills in a General Chemistry Laboratory. Journal of Chemical Educationn, 96(10), 2109-2119. doi: 10.1021/acs.jchemed.9b00441
+
+Stone, D. C. (2007). Teaching Chromatography Using Virtual Laboratory Exercises. Journal of Chemical Education, 84(9), 1488. doi: 10.1021/ed084p1488
+
+Stout, R. P. (2020). Reimagining an Oral Presentation Assignment as a TED Talk Improves Student Oral Presentations, Leading to More Significant Learning. Journal of Chemical Education, 97(1), 271-274. doi: 10.1021/acs.jchemed.9b00258
+
+Sung, R.-J., Wilson, A. T., Lo, S. M., Crowl, L. M., Nardi, J., St. Clair, K., &amp; Liu, J. M. (2020). BiochemAR: An Augmented Reality Educational Tool for Teaching Macromolecular Structure and Function. Journal of Chemical Education, 97(1), 147-153. doi: 10.1021/acs.jchemed.8b00691
+
+Ullah, S., Ali, N., &amp; Rahman, S. U. (2016). The Effect of Procedural Guidance on Students’ Skill Enhancement in a Virtual Chemistry Laboratory. Journal of Chemical Education, 93(12), 2018-2025. doi: 10.1021/acs.jchemed.5b00969
+
+Winkelmann, K., Keeney-Kennicutt, W., Fowler, D., &amp; Macik, M. (2017). Development, Implementation, and Assessment of General Chemistry Lab Experiments Performed in the Virtual World of Second Life. Journal of Chemical Education, 94(7), 849-858. doi: 10.1021/acs.jchemed.6b00733

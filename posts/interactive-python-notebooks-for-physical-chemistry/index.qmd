@@ -1,0 +1,21 @@
+---
+title: "Interactive Python Notebooks for Physical Chemistry"
+#author: "ssinglet"
+date: "2023-01-14T00:00:00-06:00"
+categories: ["computing", "python", "thermo"]
+image: "interactive-notebooks-pchem.png"
+---
+
+![](interactive-notebooks-pchem.png){width="80%"}
+
+These interactive exercises employ the Python programming language to explore a variety of chemical problems related to kinetics, the Maxwell–Boltzmann distribution, numerical versus analytical solutions, and real-world application of concepts. Accessibility was prioritized and students were assumed to have no prior programming experience; the notebooks are cost-free and browser based. Students were guided to use widgets to build interactive GUIs that provide dynamic representations, immediate access to multiple investigations, and interaction with key variables.
+
+
+## Location {#location}
+
+<https://github.com/Abravene/Python-Notebooks-for-Physical-Chemistry>
+
+
+## License {#license}
+
+Unknown

@@ -1,0 +1,29 @@
+---
+title: "Development of an interdisciplinary conceptual conservation of energy theme for use in undergraduate physics, chemistry, and biology courses"
+#author: "ssinglet"
+date: "2022-04-01T00:00:00-05:00"
+categories: ["article", "thermo", "classroom"]
+image: conceptual-conservation-of-energy.jpeg
+---
+
+![](conceptual-conservation-of-energy.jpeg){width="50%"}
+
+An ongoing need exists for the creation of interdisciplinary working groups in the sciences and development of pedagogical approaches to content themes that tie together different scientific disciplines. The work described here addresses this need through the development of a collaborative faculty group and a process of content and pedagogical development around the central interdisciplinary theme of energy conservation and transfer, taught in various lower and upper level courses in physics, biology, and chemistry. Our main goal was to design conceptual, visual models that addressed our energy topic and allowed us to provide related, challenging, active-learning experiences that students could easily recognize and expand upon in subsequent courses as they progressed through our curriculum. We used an assessment-first approach in which we designed models with our student outcomes in mind and then created course approaches around our assessment tools. Early indications suggest that students are challenged by and appreciative of these learning approaches, especially when more advanced models are developed in advanced courses in the Physics of Medicine curriculum.
+
+
+## Authors {#authors}
+
+Nancy L. Donaldson, Department of Physics, Rockhurst University, Kansas City, Missouri 64011
+
+Lisa K. Felzien, Department of Biology, Rockhurst University, Kansas City, Missouri 64011
+
+Michael C. Marvin, Department of Chemistry, Rockhurst University, Kansas City, Missouri 64011
+
+Joanna J. Cielocha, Department of Biology, Rockhurst University, Kansas City, Missouri 64011
+
+Trace Shapiro, Department of Physics, Rockhurst University, Kansas City, Missouri 64011
+
+
+## Citation {#citation}
+
+American Journal of Physics 87, 527 (2019); <https://doi.org/10.1119/1.5110710>

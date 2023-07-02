@@ -1,0 +1,38 @@
+---
+title: "Multiphase Kinetic Multilayer Model Interfaces for Simulating Surface and Bulk Chemistry for Environmental and Atmospheric Chemistry Teaching"
+#author: "ssinglet"
+date: "2022-04-21T00:00:00-05:00"
+categories: ["computing", "matlab", "kinetics"]
+image: multiphase-kinetic-multilayer.gif
+---
+
+![](multiphase-kinetic-multilayer.gif){}
+
+This paper presents MATLAB user interfaces for two multiphase kinetic models: the kinetic double-layer model of aerosol surface chemistry and gas–particle interactions (K2-SURF) and the kinetic multilayer model of aerosol surface and bulk chemistry (KM-SUB). Each interface has simple and user-friendly features that allow undergraduate and graduate students in physical, environmental, and atmospheric chemistry classes to learn about multiphase chemistry modeling without prior computer programming or modeling experience. It is easy to input parameters, and the simulation results are promptly displayed in the interface; thus, these model interfaces are particularly suitable for in-classroom and homework teaching applications. The model input parameters include surface and bulk reaction rate coefficients, surface accommodation coefficient, and gas and bulk diffusivities, while model outputs include gas uptake coefficient and surface and bulk concentrations. Students can use the K2-SURF interface to simulate surface processes and the KM-SUB interface to simulate surface and bulk processes. Example simulations were performed for each interface to present atmospherically relevant applications and to demonstrate its versatility for exploring model sensitivity on various kinetic parameters. The K2-SURF interface was used to show how the rate of ozone uptake by an organic surface and temporal evolution of surface concentrations are affected by the surface accommodation coefficient, desorption lifetime, and surface reaction rate coefficient. Additionally, the KM-SUB interface was applied to demonstrate how bulk diffusivities impact the degradation kinetics of oleic acid particles, so that students can learn how the phase state (liquid vs semisolid vs glassy solid) impacts multiphase chemical kinetics. The developed K2-SURF and KM-SUB interfaces are effective tools for modeling surface and bulk reactions in college-level educational settings, helping students to obtain a deeper understanding of the complex behaviors of heterogeneous and multiphase systems.
+
+
+## Supporting information {#supporting-information}
+
+The Supporting Information is available at <https://pubs.acs.org/doi/10.1021/acs.jchemed.1c00931>.
+
+K2-SURF User Interface Files: MATLAB code and figure
+files, .txt file with parameter definitions, and Excel.xlsx
+spreadsheet with simulated data for surface concentration
+ratios over time.
+
+KM-SUB User Interface Files: MATLAB code and figure
+files, .txt file with parameter definitions, and Excel.xlsx
+spreadsheet with Ziemann’s experimental data for
+absolute number of Y molecules over time
+
+Worksheet example
+
+
+## Citation {#citation}
+
+Amy K. Hua, Pascale S. J. Lakey, and Manabu Shiraiwa, Journal of Chemical Education 2022 99 (3), 1246-1254, https://doi.org/10.1021/acs.jchemed.1c00931
+
+
+## License {#license}
+
+Copyright 2022 American Chemical Society and Division of Chemical Education, Inc.

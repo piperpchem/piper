@@ -1,0 +1,23 @@
+---
+title: "Anesthesia as a Theme for Context-Based Learning in a Physical Chemistry Short Course"
+#author: "ssinglet"
+date: "2022-05-19T00:00:00-05:00"
+categories: ["article"]
+image: anesthesia-theme.png
+---
+
+![](anesthesia-theme.png){width="75%"}
+
+Of the three main subdivisions in chemistry, physical chemistry often presents a challenge when delivered to those not majoring in chemistry or its cognate disciplines. This is, at least in part, due to the seemingly unrelatedness of the subject to students’ anticipated career. We describe the redesign of a nested physical chemistry course for health science majors using a context-based learning approach. Each of the major themes of introductory physical chemistry (viz., gas laws, equilibrium, thermodynamics, kinetics, and electrochemistry) is taught and assessed using examples drawn from anesthesia. We summarize the motivations for this change and provide a range of examples demonstrating how basic physical chemistry can be related to anesthesia. The aim of this article is to provide instructors with interesting examples that they can incorporate either fully or in part into their curricula.
+
+
+## Citation {#citation}
+
+J. Chem. Educ. 2022, 99, 5, 1931–1937
+
+<https://doi.org/10.1021/acs.jchemed.2c00053>
+
+
+## License {#license}
+
+Copyright © 2022 American Chemical Society and Division of Chemical Education, Inc.

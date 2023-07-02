@@ -1,0 +1,41 @@
+---
+title: "Teaching and Learning with Jupyter"
+#author: "ssinglet"
+date: 2018-11-01
+categories: ["book", "jupyter"]
+---
+
+This handbook is for any educator teaching a topic that includes data analysis or computation in order to support learning. It is not just for educators teaching courses in engineering or science, but also data journalism, business and quantitative economics, data-based decision sciences and policy, quantitative health sciences, and digital humanities. It aims to provide an entry point, and a broad overview of Jupyter in education. Whether you are already using Jupyter to teach, you have found learning materials built on Jupyter that piqued your curiosity, or have never heard of Jupyter, the material in this open book can empower you to use this technology in your teaching.
+
+Through a series of anecdotes we will illustrate how you, as an educator, can use Jupyter notebooks to increase your students’ 1) engagement, 2) participation, 3) understanding, 4) performance, and 5) preparation for their career. These are starting places and we are confident that you will also take these examples in new and exciting directions.
+
+
+### Table of Contents {#table-of-contents}
+
+-   Introduction
+-   Why we use Jupyter notebooks
+-   Notebooks in teaching and learning
+-   A catalog of pedagogical practices
+-   Jupyter notebook ecosystems
+-   Getting your class going with Jupyter
+-   Usage case studies
+-   About the authors
+-   Glossary
+-   References
+
+
+## Authors {#authors}
+
+Lorena A. Barba, Lecia J. Barker, Douglas S. Blank, Jed Brown, Allen B. Downey, Timothy George, Lindsey J. Heagy, Kyle T. Mandli, Jason K. Moore, David Lippert, Kyle E. Niemeyer, Ryan R. Watkins, Richard H. West, Elizabeth Wickes, Carol Willing, and Michael Zingale
+
+
+## Location {#location}
+
+<https://jupyter4edu.github.io/jupyter-edu-book/>
+
+
+## License {#license}
+
+Creative Commons Attribution 4.0 International
+
+<https://github.com/jupyter4edu/jupyter-edu-book/blob/master/LICENSE.md>

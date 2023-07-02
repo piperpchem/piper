@@ -1,0 +1,21 @@
+---
+title: "Analysis of the Learning-Centeredness of Physical Chemistry Syllabi"
+#author: "ssinglet"
+date: "2022-04-06T00:00:00-05:00"
+categories: ["article"]
+image: analysis-of-student-centeredness.gif
+---
+
+![](analysis-of-student-centeredness.gif){}
+
+Abstract: Students’ negative perceptions of physical chemistry courses are well-known and are likely impacting their learning and performance in this upper-division course for majors. The syllabus can be the first interaction students have with a course and instructor and can be central to the expectations student set for the learning experience. While syllabi are not necessarily evidence of enacted classroom practice, their focus may be related to the enacted course design and instructional practices. Additionally, developing and modifying the document gives an instructor an opportunity to reflect on those same enacted practices, potentially facilitating a more learning-centered experience for students. In this study, we collected physical chemistry syllabi from across the United States and evaluated the learning-centeredness of this document using the Measuring the Promise syllabus rubric. Physical chemistry syllabi from 2017 to 2019 were largely content-focused. Analysis of the specific components of syllabi revealed potential improvements that may shift the focus of physical chemistry syllabi toward the learning end of the learning-centeredness spectrum. These include communicating learning goals and objectives across a wide range of dimensions, introducing transparency about the alignment of assessments with objectives, and creating supportive classroom climates via the syllabus.
+
+
+## Citation {#citation}
+
+Julie Donnelly and Kurt Winkelmann, Journal of Chemical Education 2021 98 (6), 1888-1897, [doi.org/10.1021/acs.jchemed.1c00225](https://doi.org/10.1021/acs.jchemed.1c00225)
+
+
+## License {#license}
+
+Copyright © 2021 American Chemical Society and Division of Chemical Education, Inc.

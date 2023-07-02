@@ -1,0 +1,25 @@
+---
+title: "Orbital Explorer and BingOrbital"
+#author: "ssinglet"
+date: "2022-05-05T00:00:00-05:00"
+categories: ["website", "quantum"]
+image: orbital-explorer.jpg
+---
+
+![](orbital-explorer.jpg){}
+
+An online suite of tools that enables inquiry-based active-learning activities to develop students’ representational competence about atomic orbitals. Orbital Explorer is a Web site for the visualization and interactive investigation of atomic orbital properties. Orbital Explorer contains two integrated tools, namely, Atomic Orbital Explorer, which enables one to visualize and interrogate individual atomic orbitals, and Orbital RDF Comparison, which enables one to make a more detailed quantitative comparison of orbital energies and properties of orbital radial distribution functions (RDFs). In addition, an original chemistry educational gamification design, BingOrbital, is constructed in a format resembling Bingo (American version). The game aims to reinforce the recognition of atomic orbitals based on the RDF and three-dimensional isosurface and has been applied as an engaging retrieval practice tool. A companion set of example activities that use the Orbital Explorer and BingOrbital game have been presented in another article.
+
+
+## Location {#location}
+
+Website: <https://elearning.rutgers.edu/orbitalexplorer/tools/index.php>
+
+Article: Xiao Li, Marc Muñiz, Karlun Chun, Jonathan Tai, Francesca
+Guerra, and Darrin M. York, _Journal of Chemical Education_, 2022, 99, 5, 2135-2142
+https://doi.org/10.1021/acs.jchemed.1c01277
+
+
+## License {#license}
+
+Unknown

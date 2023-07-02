@@ -1,0 +1,30 @@
+---
+title: "Chem 1000: Mathematics for Chemistry"
+#author: "ssinglet"
+date: "2021-06-12"
+categories: ["computing", "jupyter", "classroom"]
+---
+
+[These materials support a] course intended for sophomore and junior chemistry majors with a background of some calculus to prepare for physical and analytical chemistry courses. It presents mathematical topics and some minimal programming in Python / Jupyter relevant to chemists with chemical applications. In particular, these notebooks are intended to foster skills in computational mathematics and computational thinking.
+
+Mathematical tools are essential across chemistry. In this class, we will survey the most important mathematical methods for chemists and illustrate applications to problems from across the chemical field.
+
+
+### Learning Objectives {#learning-objectives}
+
+After finishing the course, students should be able to apply mathematical tools to common problems in physical and analytical chemistry, including solving ordinary and partial differential equations, performing Fourier transforms, calculating differentials, solving integrals, optimizing functions, working with complex numbers, vectors, matrices, and eigenvalues.  Students should be able to solve basic chemistry-related mathematical problems using the Python programming language and use Jupyter notebooks.
+
+
+## Location {#location}
+
+<https://github.com/ghutchis/chem1000>
+
+
+## Author {#author}
+
+Prof. Geoffrey Hutchison, Department of Chemistry, University of Pittsburgh
+
+
+## License {#license}
+
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)

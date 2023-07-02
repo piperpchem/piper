@@ -1,0 +1,21 @@
+---
+title: "A first encounter with the Hartree-Fock self-consistent-field method"
+#author: "ssinglet"
+date: "2022-03-20T00:00:00-05:00"
+categories: ["computing", "computational", "python", "article"]
+image: a-first-encounter.jpeg
+---
+
+![](a-first-encounter.jpeg){width="50%"}
+
+This paper is intended to serve as a bridge between introductory textbooks on quantum mechanics, which typically do not cover the Hartree-Fock self-consistent-field method, and more advanced ones which treat this important computational method for fermionic many-body systems in an abstract and formal way. We derive the Hartree-Fock equation for the 1s orbital of a realistic two-electron atom. By employing a two-dimensional basis-set representation, we avoid the use of variational calculus and are able to visualize key aspects of the method. We explain the basic self-consistent-field algorithm and provide a python script to illustrate how the algorithm works in practice. Utilizing perturbation theory, we perform an analysis of the convergence behavior of the self-consistent-field algorithm, thereby facilitating a deeper understanding of the numerical examples presented. We expect that this work will be useful for teaching computational techniques to physics students.
+
+
+## Authors {#authors}
+
+Robin Santra and Michael Obermeyer
+
+
+## Citation {#citation}
+
+American Journal of Physics 89, 426 (2021); <https://doi.org/10.1119/10.0002644>

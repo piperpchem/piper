@@ -1,0 +1,23 @@
+---
+title: "Estimating Quantum Dot Size with Pulsed Field Gradient NMR"
+#author: "ssinglet"
+date: "2023-05-27T00:00:00-05:00"
+categories: ["lab", "nmr", "spectroscopy"]
+image: estimating-quantum-dot-size.png
+---
+
+![](estimating-quantum-dot-size.png){width="75%"}
+
+Pulsed field gradient nuclear magnetic resonance (NMR) is used to estimate the size of quantum dots (QDs) produced in a simple, fast, small-scale synthesis. This upper-division laboratory experiment teaches the basics of QD synthesis and pulsed field gradient NMR, a powerful technique for measuring diffusion coefficients in solution. The diffusion coefficients are used to calculate hydrodynamic radii, which are compared to core radii obtained from optical absorbance sizing curves, providing insight into the structure of QDs in colloidal suspension and the nature of the information provided by pulsed field gradient NMR.
+
+Required Time: The QD synthesis and workup can be accomplished in a
+single 4 hour laboratory period. With judicious planning, the entire
+experiment can be run in two 4 hour laboratory periods. Alternatively,
+this experiment could be offered as an open-ended, multiperiod
+project.
+
+
+## Citation {#citation}
+
+Hal Van Ryswyk, Hanna Z. Porter, Connor K. M. Seto, Ixchel Lopez, Emma Dy, J. Chem. Educ. 2023, 100, 5, 2021–2026.
+<https://doi.org/10.1021/acs.jchemed.3c00155>

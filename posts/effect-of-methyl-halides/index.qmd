@@ -1,0 +1,25 @@
+---
+title: "Effect of Methyl Halides on the Luminol Sonochemiluminescence Reaction: An Experimental Approach to Introduce Sonochemistry to Undergraduate Students"
+#author: "ssinglet"
+date: "2022-11-05T00:00:00-05:00"
+categories: ["lab", "kinetics"]
+image: effect-of-methyl-halides.png
+---
+
+![](effect-of-methyl-halides.png){}
+
+The rate of the sonochemiluminescence reaction of luminol in alkaline medium can be increased in the presence of carbon tetrachloride, chloroform, and bromoform. The presence of the latter activators enhances the light emission, to allow studying the kinetics of this reaction in a 4-h laboratory session using a mobile phone camera as a detector device. This experimental approach can be used to introduce sonochemistry to undergraduate students using an inexpensive setup. Finally, these experiments can be used by the students to analyze complex chemical reactions from the point of view of the thermodynamics, chemical kinetics, and reaction mechanism.
+
+
+## Citation {#citation}
+
+Oscar J. Moreno, Laura S. Pineda, Carlos E. A. Camargo, and Marco Fidel Suarez-Herrera
+
+Journal of Chemical Education
+
+https://doi.org/10.1021/acs.jchemed.2c00399
+
+
+## License {#license}
+
+Copyright American Chemical Society

@@ -1,0 +1,45 @@
+---
+title: "ESCIP: Enhancing Science Courses by Integrating Python"
+#author: "ssinglet"
+date: "2021-06-12"
+categories: ["computing", "jupyter"]
+image: ESCIP_logo.jpg
+---
+
+![](ESCIP_logo.jpg){width="50%"}
+
+ESCIP is a collaborative dedicated to providing easy access to Jupyter Notebooks for chemistry, physics and astronomy education. We aim to build faculty networks and facilitate the sharing of instructional modules through virtual and in-person workshops, as well as a repository of Jupyter Notebooks for educators and students.
+
+Enhancing Science Courses by Integrating Python (ESCIP) is funded by the
+Research Corporation for Scientific Advancement through the Cottrell Scholars
+Collaborative program.
+
+Examples of Jupyter notebooks:
+
+-   Chemical Kinetics_Michaelis-Menten_Competitive-Inhibition
+-   Visualizing NO2 Decay Reaction Kinetics
+-   Visualizing Ozone Decay Reaction Kinetics
+-   Math for Chemistry
+-   Right-Hand-Rules
+-   Gaussian Wavepacket Dynamics
+
+
+## Resource Location {#resource-location}
+
+<https://escip.github.io/>
+
+
+## Organizers {#organizers}
+
+Grace Stokes, Santa Clara University
+
+Jonathan Foley, William Paterson University
+
+Tyler Luchko, California State University, Northridge
+
+Chad Risko, University of Kentuky
+
+
+## License {#license}
+
+Unknown

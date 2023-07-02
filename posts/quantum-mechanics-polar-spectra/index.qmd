@@ -1,0 +1,47 @@
+---
+title: "Quantum mechanics: Polar spectra"
+#author: "ssinglet"
+date: "2023-06-20T00:00:00-05:00"
+categories: ["computing", "python", "jupyter", "quantum", "climate"]
+image: quantum-mechanics-polar-spectra.png
+---
+
+![](quantum-mechanics-polar-spectra.png){width="75%"}
+
+
+## Summary {#summary}
+
+Students learn about the greenhouse effect by examining a "forbidden" rovibrational band in the infrared emission spectra of Earth's atmosphere, recorded from the surface at South Pole Station. By weighting rotational energy degeneracies with a Boltzmann factor, they simulate the R-branch of the band; the result is a rudimentary estimate of the average temperature of the troposphere above the South Pole. A second activity simulates radiative emission in a saturated part of the spectrum as a Planck Blackbody, which yields the temperature of the atmosphere just above the surface. All computations and graphical displays are done in Jupyter Notebooks.
+
+
+## Learning Goals {#learning-goals}
+
+Students download and analyze spectra of downwelling infrared radiance from polar regions and investigated spectra structure due to rovibrational transitions. This analysis is scaffolded by a Computational Guided Inquiry (CGI) module composed of three Jupyter Notebooks, which they use to conduct inquiry in the role of a scientist through making calculations and producing and examining plots. Critical thinking and active inquiry is promoted by open-ended responses to prompts (Pause for Analysis questions). Specific learning goals are as follows:
+
+1.  Learn about the greenhouse effect.
+2.  Learn how to download and plot a downwelling radiance spectrum from polar regions.
+3.  Understand how gases contribute to the greenhouse effect, which are the most important, and how these contributions are unique in Polar Regions.
+4.  Examine infrared spectral features due to rovibrational transitions.
+5.  Learn how to model the populations of rotational states according to degeneracy and temperature.
+6.  Learn how to use that population to infer an effective temperature of atmospheric CO2 in a downwelling emission spectrum from South Pole Station, Antarctica.
+7.  Learn how blackbody radiation is related to downwelling radiation from the atmosphere.
+8.  Learn how to use the Planck function and a downwelling radiance spectrum to estimate the surface temperature.
+
+
+## Context for Use {#context-for-use}
+
+This activity is designed to be used in an upper-level Quantum Mechanics, Quantum Chemistry, or Physical Chemistry course. It has also been adapted for a lower-level Engineering Physics course. Students must have in-class access to computers with internet access and with Jupyter Notebook installed. The activity has successfully been taught in over several class sections or in a longer lab section, for classes of 11 students or less, and is appropriate for up to 30 students. The activity typically takes 3 to 5 hours and includes homework assignments. No previous computational or coding experience is required. The instructor will give an introductory lecture on the quantum-mechanical concepts, assign pre-module homework, guide the students in working through the module, and facilitate group discussions. The module is adaptable – either of three parts can be used or modified, as has been done for a lower-level Engineering Physics course.
+
+
+## Location {#location}
+
+<https://serc.carleton.edu/penguin/modules/quantmech_spectra.html>
+
+<https://github.com/penguin-code/modules/tree/master/polar_spectra_pchem>
+
+
+## Authors and license {#authors-and-license}
+
+Penny Rowe, NorthWest Research Associates; Steven Neshyba, University of Puget Sound; and Aedin Wright, University of Puget Sound
+
+Copyright 2017 by Steven Neshyba, Penny M. Rowe, and NorthWest Research Associates. All rights reserved. Created with funding from NSF, including NSF 1712282, Computational Guided Inquiry for Incorporating Polar Research into Undergraduate Curricula.

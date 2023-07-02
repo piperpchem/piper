@@ -1,0 +1,43 @@
+---
+title: "Chem Compute"
+#author: "ssinglet"
+date: "2022-11-16T00:00:00-06:00"
+categories: ["computing", "computational", "lab", "website", "quantum", "mol dynamics"]
+image: chemcompute.png
+---
+![](chemcompute.png)
+
+The Chem Compute website allows students to easily access state-of-the-art computational software for free. Our hope is that this will enable faculty to incorporate computational chemistry into their undergraduate teaching and research curriculum without the hassle of compiling, installing, and maintaining software and hardware.
+
+Instructors are encouraged to use this site in their classes. The service is completely free and you don't need to ask permission.
+
+Prepared experiments:
+
+
+### GAMESS (ab initio) {#gamess--ab-initio}
+
+-   Electron-Electron_Repulsion
+-   Molecular Orbitals, Vibrational Spectra, and Relative pKa Calculations
+-   Calculate a Potential Energy Surface of CO by varying the bond length
+-   Transition State Theory: Kinetics of Ammonia Production
+-   Dihydrogen Potential Energy Curve
+
+
+### TINKER (molecular dynamics) {#tinker--molecular-dynamics}
+
+-   How to perform MD calculations
+
+
+### NAMD (molecular dynamics) {#namd--molecular-dynamics}
+
+-   How to perform MD calculations with NAMD
+
+
+### Jupyter {#jupyter}
+
+-   How to user Jupyterhub
+
+
+## Location {#location}
+
+<https://chemcompute.org/>

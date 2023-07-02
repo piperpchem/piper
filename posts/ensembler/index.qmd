@@ -1,0 +1,27 @@
+---
+title: "Ensembler: A python package for teaching molecular simulations"
+#author: "ssinglet"
+date: "2022-05-03T00:00:00-05:00"
+categories: ["computing", "python", "jupyter", "computational"]
+image: ensembler.png
+---
+
+![](ensembler.png){}
+
+Ensembler is a python package that allows fast and easy access to one and two-dimensional model systems simulations. It enables method development using small test systems and helps deepen understanding of a broad spectrum of molecular dynamics (MD) methods, starting from basic techniques to enhanced sampling and free energy calculations. It is easy to install, fast, increases shareability, comparability, and reproducibility of scientific code developments. Here, we provide insights into the package's implementation, usage, and an application example for free energy calculation.
+
+
+## Location {#location}
+
+Documentation: <https://rinikerlab.github.io/Ensembler/index.html>
+
+Source: <https://github.com/rinikerlab/Ensembler>
+
+Article: Benjamin Ries, Stephanie M. Linker, David F. Hahn, Gerhard
+König, and Sereina Riniker Journal of Chemical Information and
+Modeling 2021 61 (2), 560-564 https://doi.org/10.1021/acs.jcim.0c01283
+
+
+## License {#license}
+
+[MIT](https://github.com/rinikerlab/Ensembler/blob/master/LICENSE)

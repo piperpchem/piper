@@ -1,0 +1,20 @@
+---
+title: "VIPEr Virtual Inorganic Pedagogical Electronic Resource: A community for teachers and students of inorganic chemistry"
+#author: "ssinglet"
+date: "2022-03-22T00:00:00-05:00"
+categories: ["website"]
+image: viper.svg
+---
+
+![](viper.svg){}
+
+A Community of Practice for Improving Inorganic Chemical Education
+
+We seek to enhance the inorganic chemistry classroom and laboratory experience for students and faculty members through the development and growth of IONiC (Interactive Online Network of Inorganic Chemists), a vibrant virtual 'community of practice.’  The community’s foundation will be a cyber-interface that facilitates collaborative development of learning materials and their dissemination to the wider inorganic community.  This website, VIPEr (Virtual Inorganic Pedagogical Electronic Resource), will serve both as a repository and as a user-friendly platform for social networking tools that facilitate virtual collaboration and community building.  Using VIPEr, we will develop and disseminate best practices for teaching inorganic chemistry.
+
+We hope that this project will (1) contribute to the knowledge base of inorganic chemistry teaching by developing, testing, and disseminating new inorganic learning materials; (2) contribute to the understanding of best practices for “virtual communities of practice” by assessing the impact of IONiC on the leadership group and other users; and (3) develop knowledge about the use of synchronous and asynchronous communication tools for faculty and students.
+
+
+## Location {#location}
+
+<https://www.ionicviper.org/>

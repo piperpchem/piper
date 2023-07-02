@@ -1,0 +1,23 @@
+---
+title: "The physics and the chemistry of the heat pad"
+#author: "ssinglet"
+date: "2022-03-27T00:00:00-05:00"
+categories: ["lab", "thermo"]
+image: physics-chemistry-heat-pad.jpeg
+---
+
+![](physics-chemistry-heat-pad.jpeg){width="50%"}
+
+Flexing a metallic disk triggers the crystallization of the supercooled sodium acetate solution contained in commercial heat pads. Many mechanisms have been proposed to explain the apparent nucleation of crystalline material. In this paper a simple experiment is described that demonstrates that nucleation is triggered by preserving seed crystals clamped between opposing metal surfaces. An explanation for the retention of the crystalline particles is the elevated melting point caused by very high local pressures. A series of thermophysical properties of the sodium acetate solution is also measured, including the available enthalpy upon crystallization of the supercooled substance, and liquid and solid phase specific heat capacities.
+
+
+## Author {#author}
+
+B. Sandnes
+
+Department of Physics, University of Oslo, P.O. Box 1048, Blindern, NO-0316 Oslo, Norway
+
+
+## Citation {#citation}
+
+American Journal of Physics 76, 546 (2008); <https://doi.org/10.1119/1.2830533>

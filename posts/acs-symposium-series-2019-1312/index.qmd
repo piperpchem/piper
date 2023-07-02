@@ -1,0 +1,51 @@
+---
+title: "Using Computational Methods To Teach Chemical Principles"
+#author: "ssinglet"
+date: "2020-06-28T00:00:00-05:00"
+categories: ["book"]
+image: bk-2019-1312.largecover.jpg
+---
+
+![](bk-2019-1312.largecover.jpg){width="40%" link="https://pubs.acs.org/doi/book/10.1021/bk-2019-1312"}
+
+While computational chemistry methods are usually a research topic of their own, even in the undergraduate curriculum, many methods are becoming mainstream and can be used to appropriately compute chemical parameters that are not easily measured in the undergraduate laboratory. These calculations can be used to help students explore and understand chemical principles and properties. Visualization and animation of structures and properties are also aids in students’ exploration of chemistry. The ubiquity of personal computing devices capable of running calculations and the user-friendliness of software to fully optimize small and medium molecules using graphical interfaces and drop-down control menus has made it possible to readily use computational chemistry tools in most chemistry courses in the undergraduate curriculum. This book will focus on the use of computational chemistry as a tool in the classroom and laboratory to teach chemical principles.
+
+
+## Chapters {#chapters}
+
+-   Using Computational Methods To Teach Chemical Principles: Overview
+-   Molecular Dynamics Simulations in First-Semester General Chemistry: Visualizing Gas Particle Motion and Making Connections to Mathematical Gas Law Relationships
+-   Using Electronic Structure Calculations To Investigate the Kinetics of Gas-Phase Ammonia Synthesis
+-   Modeling Reaction Energies and Exploring Noble Gas Chemistry in the Physical Chemistry Laboratory
+-   How Can You Measure a Reaction Enthalpy without Going into the Lab?
+-   Process Oriented Guided Inquiry Learning Computational Chemistry Experiments: Revisions and Extensions Based on Lessons Learned from Implementation
+-   Chem Compute Science Gateway: An Online Computational Chemistry Tool
+-   Using Computational Chemistry to Extend the Acetylene Rovibrational Spectrum to C<sub>2</sub>T<sub>2</sub>
+-   Introducing Quantum Calculations into the Physical Chemistry Laboratory
+-   Learning by Computing: A First Year Honors Chemistry Curriculum
+-   Integrating Computational Chemistry into an Organic Chemistry Laboratory Curriculum Using WebMO
+-   Computational Narrative Activities: Combining Computing, Context, and Communication To Teach Chemical Concepts
+-   Computational Chemistry as a Course for Students Majoring in the Sciences
+-   Beyond the Analytical Solution: Using Mathematical Software To Enhance Understanding of Physical Chemistry
+-   A Lab Course in Computational Chemistry Is Not About Computers
+-   Discovery-Based Computational Activities in the Undergraduate Chemistry Curriculum
+-   Using the Hydrogen Bond as a Platform for the Enhancement of Integrative Learning
+
+
+## Editors {#editors}
+
+Alexander Grushow, Rider University
+
+Melissa S. Reeves, Tuskegee University
+
+
+## Citation {#citation}
+
+_Using Computational Methods To Teach Chemical Principles_, Grushow and Reeves ed., American Chemical Society Symposium Series, 2019, DOI: 10.1021/bk-2019-1312
+
+<https://pubs.acs.org/doi/book/10.1021/bk-2019-1312>
+
+
+## License {#license}
+
+Copyright American Chemical Society

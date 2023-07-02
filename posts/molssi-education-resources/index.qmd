@@ -1,0 +1,25 @@
+---
+title: "MolSSI Education Resources"
+#author: "ssinglet"
+date: "2020-07-01T14:16:00-05:00"
+categories: ["computing", "python"]
+image: molssi_main_horizontal.png
+---
+
+MolSSI offers 1-2 day workshops as well as online tutorial materials. All
+tutorials are hosted on GitHub in the MolSSI Education GitHub organization.
+Workshops and materials here may still be under development. Outside
+contribution is welcomed and encouraged!
+
+![](molssi_main_horizontal.png){width="50%" link="http://education.molssi.org/resources.html"}
+
+Tutorials and materials related to workshops:
+
+-   Python Data and Scripting
+-   Data Analysis using Python
+-   Parallel Programming
+
+
+## Location {#location}
+
+[http://education.molssi.org/resources.html](http://education.molssi.org/resources.html)

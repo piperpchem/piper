@@ -1,0 +1,467 @@
+{
+  "about.qmd": {
+    "about.html": "04e89a9b"
+  },
+  "posts/05-output-location/output-location.qmd": {
+    "output-location.html": "1e063cfb"
+  },
+  "posts/05-output-location/index.qmd": {
+    "index.html": "06bc5238"
+  },
+  "posts/26-image-alt/index.qmd": {
+    "index.html": "148aa2f2"
+  },
+  "posts/28-fig-alt/index.qmd": {
+    "index.html": "8f649443"
+  },
+  "posts/22-shiny/index.qmd": {
+    "index.html": "6e57cfbb"
+  },
+  "posts/16-code-tools/index.qmd": {
+    "index.html": "a84b7254"
+  },
+  "posts/02-fenced-echo/index.qmd": {
+    "index.html": "bec96567"
+  },
+  "posts/12-html-block/index.qmd": {
+    "index.html": "f21fda0d"
+  },
+  "posts/27-slide-tone/slide-tone.qmd": {
+    "slide-tone.html": "1588d509"
+  },
+  "posts/27-slide-tone/index.qmd": {
+    "index.html": "1fd9e44f"
+  },
+  "posts/20-yaml-intelligence/index.qmd": {
+    "index.html": "4d7f9553"
+  },
+  "posts/01-side-by-side-tables/index.qmd": {
+    "index.html": "da47fb0c"
+  },
+  "posts/15-help/index.qmd": {
+    "index.html": "587a3b0b"
+  },
+  "posts/10-site-resources/index.qmd": {
+    "index.html": "95d95993"
+  },
+  "posts/25-aria-labels/index.qmd": {
+    "index.html": "05f725c7"
+  },
+  "posts/29-a11y-theme/index.qmd": {
+    "index.html": "45ce2e04"
+  },
+  "posts/04-include/index.qmd": {
+    "index.html": "42152b29"
+  },
+  "posts/21-diagrams/index.qmd": {
+    "index.html": "0a5ad333"
+  },
+  "posts/23-titleless-slides/titleless.qmd": {
+    "titleless.html": "c20bd44a"
+  },
+  "posts/23-titleless-slides/index.qmd": {
+    "index.html": "b7033bde"
+  },
+  "posts/18-font-awesome/index.qmd": {
+    "index.html": "1b4f238a"
+  },
+  "posts/24-citations/index.qmd": {
+    "index.html": "45065722"
+  },
+  "posts/07-slide-annotation/chalkboard.qmd": {
+    "chalkboard.html": "170777eb"
+  },
+  "posts/07-slide-annotation/index.qmd": {
+    "index.html": "d77dae84"
+  },
+  "posts/09-self-contained/index.qmd": {
+    "index.html": "5bd0dc14"
+  },
+  "posts/13-homebrew/index.qmd": {
+    "index.html": "2f686315"
+  },
+  "posts/06-listing-contents/index.qmd": {
+    "index.html": "a2ed4623"
+  },
+  "posts/11-spans/spans.qmd": {
+    "spans.html": "d3de7364"
+  },
+  "posts/11-spans/index.qmd": {
+    "index.html": "95847abb"
+  },
+  "posts/14-slide-zoom/slide-zoom.qmd": {
+    "slide-zoom.html": "7168833a"
+  },
+  "posts/14-slide-zoom/index.qmd": {
+    "index.html": "58062ead"
+  },
+  "posts/31-hello-quarto/index.qmd": {
+    "index.html": "6b660c9e"
+  },
+  "posts/30-quarto-curious/index.qmd": {
+    "index.html": "858699ff"
+  },
+  "posts/17-dark-mode/index.qmd": {
+    "index.html": "ca5221a8"
+  },
+  "posts/19-gallery/index.qmd": {
+    "index.html": "9a31e49f"
+  },
+  "posts/08-rmd-switch/index.qmd": {
+    "index.html": "f960c4d3"
+  },
+  "posts/03-freeze/index.qmd": {
+    "index.html": "868df1df"
+  },
+  "index.qmd": {
+    "index.html": "5455c67f"
+  },
+  "posts/000-first/beer-foam.md": {
+    "beer-foam.html": "33e1f33e"
+  },
+  "posts/000-first/index.qmd": {
+    "index.html": "63ecaf05"
+  },
+  "posts/first/index.qmd": {
+    "index.html": "9e5c66d8"
+  },
+  "posts/teaching-programming-across-chemistry/index.qmd": {
+    "index.html": "6010078a"
+  },
+  "posts/mathematical-methods-molecular-science/index.qmd": {
+    "index.html": "c76eaf19"
+  },
+  "posts/pchem-understanding-greenhouse-effect/index.qmd": {
+    "index.html": "1177458e"
+  },
+  "posts/lennard-jones-fluid-simulation/index.qmd": {
+    "index.html": "b9ded44f"
+  },
+  "posts/photochemcad-database/index.qmd": {
+    "index.html": "fcb3a178"
+  },
+  "posts/thermo_statmech_kinetics_guided_inquiry/index.qmd": {
+    "index.html": "ba2cbfe8"
+  },
+  "posts/co2-spectrum-data/index.qmd": {
+    "index.html": "c1a4ddff"
+  },
+  "posts/ensembler/index.qmd": {
+    "index.html": "a9204b6d"
+  },
+  "posts/google-colab-and-virtual-simulations/index.qmd": {
+    "index.html": "be9da3b4"
+  },
+  "posts/multiphase-kinetic-multilayer/index.qmd": {
+    "index.html": "16d81ce4"
+  },
+  "posts/pandas-gui/index.qmd": {
+    "index.html": "2589a0e8"
+  },
+  "posts/quantum-chemistry-and-spectroscopy/index.qmd": {
+    "index.html": "91c94029"
+  },
+  "posts/index.qmd": {
+    "index.html": "2037b1b2"
+  },
+  "posts/anesthesia-as-a-theme/index.qmd": {
+    "index.html": "5c8b95c3"
+  },
+  "posts/effect-of-methyl-halides/index.qmd": {
+    "index.html": "1b177c4a"
+  },
+  "posts/high-resolution-co2-spectra/index.qmd": {
+    "index.html": "9ea93118"
+  },
+  "posts/the-challenges-and-value-of-oral-exams-pchem/index.qmd": {
+    "index.html": "6129c29b"
+  },
+  "posts/using-familiar-and-new-assessment-tools/index.qmd": {
+    "index.html": "3d5f17a2"
+  },
+  "posts/royal-soc-CHER/index.qmd": {
+    "index.html": "6735a2ed"
+  },
+  "posts/python-in-chemistry/index.qmd": {
+    "index.html": "f351ab85"
+  },
+  "posts/acs-symposium-series-2019-1312/index.qmd": {
+    "index.html": "7b0acb6c"
+  },
+  "posts/chem-1000-mathematics-for-chemistry/index.qmd": {
+    "index.html": "6decbdc2"
+  },
+  "posts/comparing-morse-potentials-diatomics/index.qmd": {
+    "index.html": "9e8f76a1"
+  },
+  "posts/how-electronic-state-affects-acidity/index.qmd": {
+    "index.html": "fe93030e"
+  },
+  "posts/melting-point-binary-mixture/index.qmd": {
+    "index.html": "ec5fc176"
+  },
+  "posts/pogil-pcl-model/index.qmd": {
+    "index.html": "7cbd0b90"
+  },
+  "posts/pogil-pcl-site/index.qmd": {
+    "index.html": "aec85c49"
+  },
+  "posts/psi4-education-2/index.qmd": {
+    "index.html": "653d1615"
+  },
+  "posts/pytherm-applied-thermo/index.qmd": {
+    "index.html": "92e7ffa1"
+  },
+  "posts/ultrafast-laser-pulse-generation/index.qmd": {
+    "index.html": "7cd4d528"
+  },
+  "posts/visualizing-thermodynamic-surfaces/index.qmd": {
+    "index.html": "9e9a8786"
+  },
+  "posts/acs-symposium-series-2020-1343/index.qmd": {
+    "index.html": "36c7921f"
+  },
+  "posts/algebra-with-sympy/index.qmd": {
+    "index.html": "88fc3fc0"
+  },
+  "posts/analysis-of-learning-centeredness/index.qmd": {
+    "index.html": "2d55d789"
+  },
+  "posts/applying-density-functional-theory-to-common-organic/index.qmd": {
+    "index.html": "642441c1"
+  },
+  "posts/carbonMonoxide-ir-data/index.qmd": {
+    "index.html": "929b6ee1"
+  },
+  "posts/chickpea-lab/index.qmd": {
+    "index.html": "e33148de"
+  },
+  "posts/data-driven-exercises/index.qmd": {
+    "index.html": "908297b0"
+  },
+  "posts/free-and-open-source-software/index.qmd": {
+    "index.html": "7e00b687"
+  },
+  "posts/kinetic-analysis-of-covid-19/index.qmd": {
+    "index.html": "1fc2794a"
+  },
+  "posts/raman-spectroscopy-group-theory/index.qmd": {
+    "index.html": "2b3a5bcc"
+  },
+  "posts/caffeine-partitioning-thermodynamics/index.qmd": {
+    "index.html": "8a5c35cf"
+  },
+  "posts/chemtube3d/index.qmd": {
+    "index.html": "36be5fc2"
+  },
+  "posts/dichloroethene-raman-data/index.qmd": {
+    "index.html": "3ad7f249"
+  },
+  "posts/molecules-red-big-small/index.qmd": {
+    "index.html": "450070cf"
+  },
+  "posts/thermodynamics-sea-ice-melt/index.qmd": {
+    "index.html": "f9d26795"
+  },
+  "posts/che-420_chemical_thermodynamics/index.qmd": {
+    "index.html": "f23dd961"
+  },
+  "posts/escip/index.qmd": {
+    "index.html": "b2651c08"
+  },
+  "posts/clean-network/index.qmd": {
+    "index.html": "415bda7f"
+  },
+  "posts/principles-tomorrows-university/index.qmd": {
+    "index.html": "423d8c0e"
+  },
+  "posts/a-first-encounter-hartree-fock/index.qmd": {
+    "index.html": "5418f7ba"
+  },
+  "posts/acs-symposium-series-2019-1279/index.qmd": {
+    "index.html": "22c8e9eb"
+  },
+  "posts/an-introduction-to-python-for-chemistry/index.qmd": {
+    "index.html": "bd2f8d21"
+  },
+  "posts/articles-on-remote-lab-instruction/index.qmd": {
+    "index.html": "1e78c629"
+  },
+  "posts/beer-foam/index.qmd": {
+    "index.html": "aab54ba5"
+  },
+  "posts/best-practice-dft-protocols/index.qmd": {
+    "index.html": "3430dfe7"
+  },
+  "posts/chemcompute/index.qmd": {
+    "index.html": "c960eb70"
+  },
+  "posts/compuational-cost-and-accuracy/index.qmd": {
+    "index.html": "a524ae4c"
+  },
+  "posts/computational-templates-nuclear-science/index.qmd": {
+    "index.html": "f333b5f1"
+  },
+  "posts/conceptual-conservation-of-energy/index.qmd": {
+    "index.html": "2e707772"
+  },
+  "posts/conversations-among-physical-chemists/index.qmd": {
+    "index.html": "90133447"
+  },
+  "posts/development-and-implementation-two-level-lab/index.qmd": {
+    "index.html": "ddc488de"
+  },
+  "posts/devil-in-details/index.qmd": {
+    "index.html": "2264373d"
+  },
+  "posts/echem-a-notebook-exploration/index.qmd": {
+    "index.html": "1842d090"
+  },
+  "posts/escapability-of-molecule/index.qmd": {
+    "index.html": "f41a6c1f"
+  },
+  "posts/experimental-determination-of-boltzmann/index.qmd": {
+    "index.html": "f8592bb9"
+  },
+  "posts/falstad-applets/index.qmd": {
+    "index.html": "1c61a1b6"
+  },
+  "posts/fluorescence-of-excimer-thermodynamics/index.qmd": {
+    "index.html": "2c392dc0"
+  },
+  "posts/from-integrated-rate-laws-to-integrating-rate-laws/index.qmd": {
+    "index.html": "2d282070"
+  },
+  "posts/gas-phase-ir-pcl/index.qmd": {
+    "index.html": "0d3c621e"
+  },
+  "posts/high-performance-computational-chemistry/index.qmd": {
+    "index.html": "69472b39"
+  },
+  "posts/highres-hcl-dcl-ir-spectra/index.qmd": {
+    "index.html": "5b1b7082"
+  },
+  "posts/hitran-website/index.qmd": {
+    "index.html": "3c28e4e3"
+  },
+  "posts/hydrogen-atom-pcl-experiment/index.qmd": {
+    "index.html": "c6cc30f1"
+  },
+  "posts/interactive-python-notebooks-for-physical-chemistry/index.qmd": {
+    "index.html": "c849175b"
+  },
+  "posts/intro-machine-learning-for-chemists/index.qmd": {
+    "index.html": "0f3fd129"
+  },
+  "posts/introduction-to-quantum-mechanics-dpatoyan/index.qmd": {
+    "index.html": "4dd5e80b"
+  },
+  "posts/kinetic-parameters-heterogeneous-rxn/index.qmd": {
+    "index.html": "b70392cd"
+  },
+  "posts/kitchen-pchem-lab/index.qmd": {
+    "index.html": "95015702"
+  },
+  "posts/kolasinskis-physical-chemistry-youtube-channel/index.qmd": {
+    "index.html": "d5c81590"
+  },
+  "posts/machine-learning-for-functional-group/index.qmd": {
+    "index.html": "b11646de"
+  },
+  "posts/making-it-rain/index.qmd": {
+    "index.html": "baddf864"
+  },
+  "posts/molssi-education-resources/index.qmd": {
+    "index.html": "15919245"
+  },
+  "posts/multivariable-model-fitting/index.qmd": {
+    "index.html": "7bf24cd1"
+  },
+  "posts/nmr-keto-enol-spectra/index.qmd": {
+    "index.html": "7c7cbed9"
+  },
+  "posts/open-access-quantum-dynamics/index.qmd": {
+    "index.html": "00be43aa"
+  },
+  "posts/orbital-explorer/index.qmd": {
+    "index.html": "3157d7a3"
+  },
+  "posts/pchem-demo-videos-selco/index.qmd": {
+    "index.html": "5c07fbe9"
+  },
+  "posts/phet-interactive-simulations/index.qmd": {
+    "index.html": "aab2b7da"
+  },
+  "posts/physics-chemistry-heat-pad/index.qmd": {
+    "index.html": "31ea8f98"
+  },
+  "posts/pogil-site/index.qmd": {
+    "index.html": "1f03619e"
+  },
+  "posts/practical-computational-chemistry-course/index.qmd": {
+    "index.html": "945fc183"
+  },
+  "posts/pylj/index.qmd": {
+    "index.html": "3c584307"
+  },
+  "posts/python-explore-morse-potential/index.qmd": {
+    "index.html": "f03f6a59"
+  },
+  "posts/quantum-calcs-sympy/index.qmd": {
+    "index.html": "1a2633cb"
+  },
+  "posts/quvis/index.qmd": {
+    "index.html": "ec3fa7d1"
+  },
+  "posts/regiochemistry-eas/index.qmd": {
+    "index.html": "f0d1d0b4"
+  },
+  "posts/resources-for-teaching-online-ACS/index.qmd": {
+    "index.html": "977c7129"
+  },
+  "posts/scientific-computing-for-chemists/index.qmd": {
+    "index.html": "64da299b"
+  },
+  "posts/spreadsheet-simulating-emission-spectra/index.qmd": {
+    "index.html": "fecfab5f"
+  },
+  "posts/statistical_mechanics_for_chemistry_and_biology/index.qmd": {
+    "index.html": "a1a28b7b"
+  },
+  "posts/students-thinking-like-physical-chemists/index.qmd": {
+    "index.html": "a67f2281"
+  },
+  "posts/tale-of-two-molecules/index.qmd": {
+    "index.html": "21ed05bd"
+  },
+  "posts/teaching-and-learning-with-jupyter/index.qmd": {
+    "index.html": "8806db1e"
+  },
+  "posts/teaching-enzyme-catalysis/index.qmd": {
+    "index.html": "fd0eb461"
+  },
+  "posts/temp-dependence-monomer-dimer-equilibrium/index.qmd": {
+    "index.html": "bd635f8d"
+  },
+  "posts/tmp-chem-youtube/index.qmd": {
+    "index.html": "becb2be7"
+  },
+  "posts/valence-electron/index.qmd": {
+    "index.html": "49a4662a"
+  },
+  "posts/viper-virtual-inorganic/index.qmd": {
+    "index.html": "6a698c01"
+  },
+  "posts/virtual-hendi-spectrometer/index.qmd": {
+    "index.html": "41968ed0"
+  },
+  "posts/quantum-mechanics-polar-spectra/index.qmd": {
+    "index.html": "eb3d6f5a"
+  },
+  "posts/estimating-quantum-dot-size/index.qmd": {
+    "index.html": "66d5e13a"
+  },
+  "posts/opening-the-density-functional-black-box/index.qmd": {
+    "index.html": "cbb87a50"
+  }
+}

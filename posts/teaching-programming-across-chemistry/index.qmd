@@ -1,0 +1,41 @@
+---
+title: "Teaching Programming across the Chemistry Curriculum"
+#author: "ssinglet"
+date: "2022-01-19T00:00:00-06:00"
+categories: ["book", "python", "computing", "jupyter"]
+image: teaching-programming-across-chemistry.jpg
+---
+
+![](teaching-programming-across-chemistry.jpg){width="50%"}
+
+Incorporating Necessary Skills for Research and Career Success. Programming and computational science is an essential part of chemistry, yet some curricula still do not prioritize its inclusion. This work contains a collection of strategies, activities, and resources available to incorporate programming into all levels of the chemistry curriculum, with a focus on how the programming learning objectives are integrated with chemistry learning objectives. Chapters highlight best practices in software development, emphasize their importance to the future of computational molecular sciences, and describe challenges instructors might face in implementing programming in their own curriculum.
+
+
+## Chapters {#chapters}
+
+Chapter 1: Teaching Programming across the Chemistry Curriculum: A Revolution or a Revival?, Ashley Ringer McDonald
+
+Chapter 2: How Faculty with Minimal Programming Experience Implemented Jupyter Notebooks in Physical and General Chemistry Courses, Grace Yin Stokes
+
+Chapter 3: Hiding the Vegetables: Teaching Programming to Chemists as a Professional Skill, Christopher E. Berndsen and Shveta Gupta
+
+Chapter 4: Learning Programming through Chemistry in a First-Year Scientific Computing Course, Arun K. Sharma, Caecilia Thuermer, and Victor Ruan
+
+Chapter 5: Introducing Students to Scientific Computing in the Laboratory through Python and Jupyter Notebooks, Charles J. Weiss and Andrew Klose
+
+Chapter 6: The Compute-to-Learn Pedagogy and Its Implementation in the Chemistry Curriculum, Heidi P. Hendrickson, Kristina M. Lenn, Frank X. Vazquez, Kyle L. Williams, Blair A. Winograd, Ellen A. Mulvihill, and Eitan Geva
+
+Chapter 7: Integrating Programming to Reinforce Quantum Mechanical Principles in Physical Chemistry, Danfei Hu, Janet N. Ahn, Alyssa Lakatos, Jose Bello, Jonathan McTague, and Jonathan J. Foley
+
+Chapter 8: PSI4EDUCATION: Free and Open-Source Programing Activities for Chemical Education with Free and Open-Source Software, D. Brandon Magers, Victor H. Chávez, Benjamin G. Peyton, Dominic A. Sirianni, Ryan C. Fortenberry, and Ashley Ringer McDonald
+
+Chapter 9: Integrating Python into an Undergraduate Mathematics for Chemists Course, Geoffrey R. Hutchison
+
+Chapter 10: Teaching Computer-Aided Drug Design Using TeachOpenCADD, Dominique Sydow, Jaime Rodríguez-Guerra, and Andrea Volkamer
+
+Chapter 11: Coding, Software Engineering, and Molecular Science &amp;mdash; Teaching a Multidisciplinary Course to Chemistry Graduate Students, Jessica A. Nash and Benjamin P. Pritchard
+
+
+## Citation {#citation}
+
+Ashley Ringer McDonald, Jessica A. Nash, Eds, ACS Symposium Series, 2021, https://doi.org/10.1021/bk-2021-1387

@@ -1,0 +1,26 @@
+---
+title: "CHE-420 Chemical Thermodynamics"
+#author: "ssinglet"
+date: "2021-06-12"
+categories: ["website", "stat-mech"]
+image: che-450_chemical_thermodynamics.jpg
+---
+
+A LibreText Open Educational Resource to accompany the POGIL thermodynamics activities [Thermodynamics, Statistical Mechanics &amp; Kinetics: A Guided Inquiry](https://pogil.org/curricular-materials/chemistry/thermodynamics-statistical-mechanics-and-kinetics-a-guided-inquiry).
+
+![](che-450_chemical_thermodynamics.jpg){width="70%"}
+
+
+## Location {#location}
+
+[CHE-420: Chemical Thermodynamics](https://chem.libretexts.org/Courses/Meredith_College/Thermodynamics)
+
+
+## Author {#author}
+
+Contributed by Andrea Allgood Carter, Assistant Professor of Chemistry, Department of Chemistry, Physics, &amp; Geoscience, Meredith College
+
+
+## License {#license}
+
+[CC BY-NC-SA 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/us/)

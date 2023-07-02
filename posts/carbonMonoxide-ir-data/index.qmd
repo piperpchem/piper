@@ -1,0 +1,16 @@
+---
+title: "Carbon monoxide IR absorption spectra"
+#author: "ssinglet"
+date: "2020-07-02T14:23:00-05:00"
+categories: ["dataset"]
+image: Vib_rot_CO.png
+---
+
+![](Vib_rot_CO.png){}
+
+CSV and xlsx data files of CO carbon monoxide IR absorption spectra at several resolutions. Recorded at a POGIL-PCL workshop hosted by UT-Austin.
+
+
+## Location {#location}
+
+<https://github.com/singletS/datasets-gh/tree/master/CO_irspectra>

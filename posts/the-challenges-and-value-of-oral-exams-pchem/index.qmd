@@ -1,0 +1,20 @@
+---
+title: "The Challenges and Value of Undergraduate Oral Exams in the Physical Chemistry Classroom: A Useful Tool in the Assessment Toolbox"
+#author: "ssinglet"
+date: "2023-05-06T00:00:00-05:00"
+categories: ["article", "classroom"]
+image: challenges-and-value-oral-exams.png
+---
+
+![](challenges-and-value-oral-exams.png){width="40%"}
+
+The COVID-19 pandemic illuminated challenges with assessment, especially in online environments that threaten academic integrity. In the wake of the pandemic, faculty in higher education were seeking alternative assessments that meet the assessment goal(s) of their classroom. Even though the COVID-based disruptions are diminishing, higher education continues to experience ongoing upheaval related to new technology, such as ChatGPT, requiring ongoing reevaluation of our assessment practices. Upon reflecting on our assessment goals, we explored oral exams as a potentially valuable tool in the assessment toolbox in Physical Chemistry I and II courses at two institutions. In analyzing the course evaluation data at both institutions, we found consistent themes in student-perceived challenges, student-perceived value, and instructor-perceived value. Students had an overwhelmingly positive response to the oral exam experience and recommended their continued use in spite of their perceived challenges. Students found the oral exams challenging due to the stress and anxiety of verbal presentation and the depth of understanding required to answer questions verbally. In response to these challenges, students adjusted their study habits to incorporate studying in groups, verbally speaking out loud, utilizing spaced practice methods, and focusing on understanding concepts and equations instead of relying on memorization of material. Considering the challenges and required adjustment in study habits, students still overwhelmingly recommend using oral exams because they recognize the value of communication and teamwork in their future careers. In addition to student value, the instructors found value in oral assessments, despite the challenges with time commitments, validity, reliability, and fairness. We believe oral assessments in undergraduate chemistry curricula warrant further investigation as a useful tool in the assessment toolbox.
+
+
+## Citation {#citation}
+
+David E. Gardner and Andrea N. Giordano
+Journal of Chemical Education Article ASAP
+https://doi.org/10.1021/acs.jchemed.3c00011
+
+© 2023 American Chemical Society and Division of Chemical Education, Inc.

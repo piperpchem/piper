@@ -1,0 +1,24 @@
+---
+title: "PhotoChemCAD Database of Absorption and Fluorescence Spectra of >300 Common Compounds"
+#author: "ssinglet"
+date: "2020-06-24T11:23:00-05:00"
+categories: ["dataset", "website", "spectroscopy"]
+---
+
+Search spectra by compound name or structure. Absorption and emission spectra downloadable in text format. Fluorescence quantum yields available for many compounds.
+
+From the website:
+
+PhotochemCAD™ is a program of calculational modules and accompanying database of spectra aimed at advancing the photosciences.
+
+
+## Location {#location}
+
+<http://www.photochemcad.com/>
+
+Accessed: <span class="timestamp-wrapper"><span class="timestamp">[2022-04-05 Tue]</span></span>
+
+
+## License {#license}
+
+Unknown

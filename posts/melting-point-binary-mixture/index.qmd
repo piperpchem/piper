@@ -1,0 +1,63 @@
+---
+title: "How Is The Freezing Point Of A Binary Mixture Of Solids Related To The Composition Of The Mixture?"
+#author: "Sally Hunnicutt"
+date: "2020-07-09T14:31:00-05:00"
+categories: ["lab", "phase change"]
+image: eutectic.png
+---
+
+Solid mixtures have important "real-world" applications. Mixtures of lead and
+tin are used as solder to make jewelry, to connect copper pipes for plumbing,
+or to connect electronics components to circuit boards. Solid mixtures have
+interesting properties that were studied by early physical chemists, who then
+developed equations and theories that describe and predict the behavior of
+mixtures. In this experiment we will probe mixtures of fatty acids, which are
+non-toxic and commonly found in soaps.
+
+![](eutectic.png){width="70%"}
+
+
+## Author {#author}
+
+Sally Hunnicutt, Virginia Commonwealth University sshunnic@vcu.edu
+
+
+## Learning objectives {#learning-objectives}
+
+
+### Process Objectives {#process-objectives}
+
+Develop the ability to convert a relationship into a linear form and apply that relationship, demonstrating the ability to
+
+-   linearize a relationship.
+-   identify the dependent and independent variables in a linear relation and
+    relate these variables to measurable quantities in the lab.
+-   locate the desired properties from a linearized, graphed relationship
+    using the slope and intercept.
+
+
+### Content Objectives {#content-objectives}
+
+Choose experimental parameters that allow determination of the phase diagram of a mixture of solids demonstrating the ability to
+
+-   predict the freezing point of a mixture
+-   connect the freezing points of mixtures of solid A with solid B added as the solute to mixtures of solid B with solid A added as the solute
+-   define and label the components of a solid-liquid phase diagram, including the eutectic point.
+
+
+## Location {#location}
+
+<https://drive.google.com/file/d/0B9eKUY5kLiYoUEF5a1FVY1NJRDg/view?usp=sharing>
+
+Instructor's handbook available by request.
+
+
+## License {#license}
+
+This work is licensed under the Creative Commons
+Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+
+## Status <span class="tag"><span class="Reviewed">Reviewed</span></span> {#status}
+
+Reviewed

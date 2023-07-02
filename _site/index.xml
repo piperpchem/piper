@@ -1,0 +1,691 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>PIPER: Resources for Teaching Physical Chemistry</title>
+<link>https://chemistry.coe.edu/piper2/index.html</link>
+<atom:link href="https://chemistry.coe.edu/piper2/index.xml" rel="self" type="application/rss+xml"/>
+<description>PIPER resources for teaching and learning physical chemistry</description>
+<generator>quarto-1.3.353</generator>
+<lastBuildDate>Tue, 20 Jun 2023 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>Quantum mechanics: Polar spectra</title>
+  <link>https://chemistry.coe.edu/piper2/posts/quantum-mechanics-polar-spectra/index.html</link>
+  <description><![CDATA[ 
+
+
+
+<p><img src="https://chemistry.coe.edu/piper2/posts/quantum-mechanics-polar-spectra/quantum-mechanics-polar-spectra.png" class="img-fluid" style="width:75.0%"></p>
+<section id="summary" class="level2">
+<h2 class="anchored" data-anchor-id="summary">Summary</h2>
+<p>Students learn about the greenhouse effect by examining a “forbidden” rovibrational band in the infrared emission spectra of Earth’s atmosphere, recorded from the surface at South Pole Station. By weighting rotational energy degeneracies with a Boltzmann factor, they simulate the R-branch of the band; the result is a rudimentary estimate of the average temperature of the troposphere above the South Pole. A second activity simulates radiative emission in a saturated part of the spectrum as a Planck Blackbody, which yields the temperature of the atmosphere just above the surface. All computations and graphical displays are done in Jupyter Notebooks.</p>
+</section>
+<section id="learning-goals" class="level2">
+<h2 class="anchored" data-anchor-id="learning-goals">Learning Goals</h2>
+<p>Students download and analyze spectra of downwelling infrared radiance from polar regions and investigated spectra structure due to rovibrational transitions. This analysis is scaffolded by a Computational Guided Inquiry (CGI) module composed of three Jupyter Notebooks, which they use to conduct inquiry in the role of a scientist through making calculations and producing and examining plots. Critical thinking and active inquiry is promoted by open-ended responses to prompts (Pause for Analysis questions). Specific learning goals are as follows:</p>
+<ol type="1">
+<li>Learn about the greenhouse effect.</li>
+<li>Learn how to download and plot a downwelling radiance spectrum from polar regions.</li>
+<li>Understand how gases contribute to the greenhouse effect, which are the most important, and how these contributions are unique in Polar Regions.</li>
+<li>Examine infrared spectral features due to rovibrational transitions.</li>
+<li>Learn how to model the populations of rotational states according to degeneracy and temperature.</li>
+<li>Learn how to use that population to infer an effective temperature of atmospheric CO2 in a downwelling emission spectrum from South Pole Station, Antarctica.</li>
+<li>Learn how blackbody radiation is related to downwelling radiation from the atmosphere.</li>
+<li>Learn how to use the Planck function and a downwelling radiance spectrum to estimate the surface temperature.</li>
+</ol>
+</section>
+<section id="context-for-use" class="level2">
+<h2 class="anchored" data-anchor-id="context-for-use">Context for Use</h2>
+<p>This activity is designed to be used in an upper-level Quantum Mechanics, Quantum Chemistry, or Physical Chemistry course. It has also been adapted for a lower-level Engineering Physics course. Students must have in-class access to computers with internet access and with Jupyter Notebook installed. The activity has successfully been taught in over several class sections or in a longer lab section, for classes of 11 students or less, and is appropriate for up to 30 students. The activity typically takes 3 to 5 hours and includes homework assignments. No previous computational or coding experience is required. The instructor will give an introductory lecture on the quantum-mechanical concepts, assign pre-module homework, guide the students in working through the module, and facilitate group discussions. The module is adaptable – either of three parts can be used or modified, as has been done for a lower-level Engineering Physics course.</p>
+</section>
+<section id="location" class="level2">
+<h2 class="anchored" data-anchor-id="location">Location</h2>
+<p><a href="https://serc.carleton.edu/penguin/modules/quantmech_spectra.html" class="uri">https://serc.carleton.edu/penguin/modules/quantmech_spectra.html</a></p>
+<p><a href="https://github.com/penguin-code/modules/tree/master/polar_spectra_pchem" class="uri">https://github.com/penguin-code/modules/tree/master/polar_spectra_pchem</a></p>
+</section>
+<section id="authors-and-license" class="level2">
+<h2 class="anchored" data-anchor-id="authors-and-license">Authors and license</h2>
+<p>Penny Rowe, NorthWest Research Associates; Steven Neshyba, University of Puget Sound; and Aedin Wright, University of Puget Sound</p>
+<p>Copyright 2017 by Steven Neshyba, Penny M. Rowe, and NorthWest Research Associates. All rights reserved. Created with funding from NSF, including NSF 1712282, Computational Guided Inquiry for Incorporating Polar Research into Undergraduate Curricula.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>computing</category>
+  <category>python</category>
+  <category>jupyter</category>
+  <category>quantum</category>
+  <category>climate</category>
+  <guid>https://chemistry.coe.edu/piper2/posts/quantum-mechanics-polar-spectra/index.html</guid>
+  <pubDate>Tue, 20 Jun 2023 05:00:00 GMT</pubDate>
+  <media:content url="https://chemistry.coe.edu/piper2/posts/quantum-mechanics-polar-spectra/quantum-mechanics-polar-spectra.png" medium="image" type="image/png" height="70" width="144"/>
+</item>
+<item>
+  <title>Opening the Density-Functional Theory Black Box</title>
+  <link>https://chemistry.coe.edu/piper2/posts/opening-the-density-functional-black-box/index.html</link>
+  <description><![CDATA[ 
+
+
+
+<p><img src="https://chemistry.coe.edu/piper2/posts/opening-the-density-functional-black-box/opening-black-box.png" class="img-fluid" style="width:50.0%"></p>
+<p>Density-Functional Theory (DFT) is indubitably the most popular and among the most successful approaches for approximately solving the many-electron Schrödinger equation. The level of understanding on the part of both researchers and students using DFT, however, is lacking given the availability of black box software. The present work addresses this knowledge gap by providing three Jupyter notebooks, easily accessible through the Google Colaboratory (GitHub repository that provide a short skirmish with the fundamentals of DFT through a particle in a box-type model system. These notebooks were tested in conjunction with a problem worksheet in a graduate-level quantum chemistry course; pre- and post-activity survey results reveal largely positive reactions to this implementation and sustained enthusiasm for the subject.</p>
+<p>Notebook 1: Particle in a 3D box</p>
+<p>Notebook 2: PAH Frontier Orbitals</p>
+<p>Notebook 3: Density-Functional Theory</p>
+<p><a href="https://github.com/tjz21/DFT_PIB_Code" class="uri">https://github.com/tjz21/DFT_PIB_Code</a></p>
+<section id="citation" class="level2">
+<h2 class="anchored" data-anchor-id="citation">Citation</h2>
+<p><a href="https://doi.org/10.26434/chemrxiv-2023-jfgcl" class="uri">https://doi.org/10.26434/chemrxiv-2023-jfgcl</a></p>
+<p>Hirschi JS, Bashirova D, Zuehlsdorff TJ. Opening the Density-Functional Theory Black Box: a Collection of Pedagogic Jupyter Notebooks. ChemRxiv. Cambridge: Cambridge Open Engage; 2023</p>
+
+
+</section>
+
+ ]]></description>
+  <category>computing</category>
+  <category>python</category>
+  <category>jupyter</category>
+  <guid>https://chemistry.coe.edu/piper2/posts/opening-the-density-functional-black-box/index.html</guid>
+  <pubDate>Wed, 07 Jun 2023 05:00:00 GMT</pubDate>
+  <media:content url="https://chemistry.coe.edu/piper2/posts/opening-the-density-functional-black-box/opening-black-box.png" medium="image" type="image/png" height="165" width="144"/>
+</item>
+<item>
+  <title>Estimating Quantum Dot Size with Pulsed Field Gradient NMR</title>
+  <link>https://chemistry.coe.edu/piper2/posts/estimating-quantum-dot-size/index.html</link>
+  <description><![CDATA[ 
+
+
+
+<p><img src="https://chemistry.coe.edu/piper2/posts/estimating-quantum-dot-size/estimating-quantum-dot-size.png" class="img-fluid" style="width:75.0%"></p>
+<p>Pulsed field gradient nuclear magnetic resonance (NMR) is used to estimate the size of quantum dots (QDs) produced in a simple, fast, small-scale synthesis. This upper-division laboratory experiment teaches the basics of QD synthesis and pulsed field gradient NMR, a powerful technique for measuring diffusion coefficients in solution. The diffusion coefficients are used to calculate hydrodynamic radii, which are compared to core radii obtained from optical absorbance sizing curves, providing insight into the structure of QDs in colloidal suspension and the nature of the information provided by pulsed field gradient NMR.</p>
+<p>Required Time: The QD synthesis and workup can be accomplished in a single 4 hour laboratory period. With judicious planning, the entire experiment can be run in two 4 hour laboratory periods. Alternatively, this experiment could be offered as an open-ended, multiperiod project.</p>
+<section id="citation" class="level2">
+<h2 class="anchored" data-anchor-id="citation">Citation</h2>
+<p>Hal Van Ryswyk, Hanna Z. Porter, Connor K. M. Seto, Ixchel Lopez, Emma Dy, J. Chem. Educ. 2023, 100, 5, 2021–2026. <a href="https://doi.org/10.1021/acs.jchemed.3c00155" class="uri">https://doi.org/10.1021/acs.jchemed.3c00155</a></p>
+
+
+</section>
+
+ ]]></description>
+  <category>lab</category>
+  <category>nmr</category>
+  <category>spectroscopy</category>
+  <guid>https://chemistry.coe.edu/piper2/posts/estimating-quantum-dot-size/index.html</guid>
+  <pubDate>Sat, 27 May 2023 05:00:00 GMT</pubDate>
+  <media:content url="https://chemistry.coe.edu/piper2/posts/estimating-quantum-dot-size/estimating-quantum-dot-size.png" medium="image" type="image/png" height="81" width="144"/>
+</item>
+<item>
+  <title>From Integrated Rate Laws to Integrating Rate Laws: Computation as a Conceptual Catalyst</title>
+  <link>https://chemistry.coe.edu/piper2/posts/from-integrated-rate-laws-to-integrating-rate-laws/index.html</link>
+  <description><![CDATA[ 
+
+
+
+<p><img src="https://chemistry.coe.edu/piper2/posts/from-integrated-rate-laws-to-integrating-rate-laws/from-integrated-rate-laws.png" class="img-fluid" style="width:75.0%"></p>
+<p>When learning chemistry, students must learn to extract chemical information from mathematical expressions. However, chemistry students’ exposure to mathematics often comes primarily from pure mathematics courses, which can lead to knowledge fragmentation and potentially hinder their ability to use mathematics in chemistry. This study examines how computation can affect students’ blending of cognitive resources and their framing of mathematics in a chemical context. How students analytically and numerically interpret mathematical expressions in chemistry are examined through 14 individual clinical interviews with undergraduate chemistry students. The analysis was done by performing a thematic analysis of the interviews through a theoretical lens provided by the blended processing framework. This analysis reveals that computation and iterative thinking might serve as a catalyst for conceptual understanding and blending of cognitive resources. These findings suggest that we should evaluate how computational approaches could be leveraged to give students a better understanding of both mathematical models and the chemical concepts illustrated through these models.</p>
+<section id="citation" class="level2">
+<h2 class="anchored" data-anchor-id="citation">Citation</h2>
+<p>Andreas Haraldsrud and Tor Ole B. Odden, Journal of Chemical Education Article ASAP, https://doi.org/10.1021/acs.jchemed.2c00881</p>
+</section>
+<section id="license" class="level2">
+<h2 class="anchored" data-anchor-id="license">License</h2>
+<p>© 2023 The Authors. Published by American Chemical Society and Division of Chemical Education, Inc.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>article</category>
+  <guid>https://chemistry.coe.edu/piper2/posts/from-integrated-rate-laws-to-integrating-rate-laws/index.html</guid>
+  <pubDate>Sat, 06 May 2023 05:00:00 GMT</pubDate>
+  <media:content url="https://chemistry.coe.edu/piper2/posts/from-integrated-rate-laws-to-integrating-rate-laws/from-integrated-rate-laws.png" medium="image" type="image/png" height="113" width="144"/>
+</item>
+<item>
+  <title>The Challenges and Value of Undergraduate Oral Exams in the Physical Chemistry Classroom: A Useful Tool in the Assessment Toolbox</title>
+  <link>https://chemistry.coe.edu/piper2/posts/the-challenges-and-value-of-oral-exams-pchem/index.html</link>
+  <description><![CDATA[ 
+
+
+
+<p><img src="https://chemistry.coe.edu/piper2/posts/the-challenges-and-value-of-oral-exams-pchem/challenges-and-value-oral-exams.png" class="img-fluid" style="width:40.0%"></p>
+<p>The COVID-19 pandemic illuminated challenges with assessment, especially in online environments that threaten academic integrity. In the wake of the pandemic, faculty in higher education were seeking alternative assessments that meet the assessment goal(s) of their classroom. Even though the COVID-based disruptions are diminishing, higher education continues to experience ongoing upheaval related to new technology, such as ChatGPT, requiring ongoing reevaluation of our assessment practices. Upon reflecting on our assessment goals, we explored oral exams as a potentially valuable tool in the assessment toolbox in Physical Chemistry I and II courses at two institutions. In analyzing the course evaluation data at both institutions, we found consistent themes in student-perceived challenges, student-perceived value, and instructor-perceived value. Students had an overwhelmingly positive response to the oral exam experience and recommended their continued use in spite of their perceived challenges. Students found the oral exams challenging due to the stress and anxiety of verbal presentation and the depth of understanding required to answer questions verbally. In response to these challenges, students adjusted their study habits to incorporate studying in groups, verbally speaking out loud, utilizing spaced practice methods, and focusing on understanding concepts and equations instead of relying on memorization of material. Considering the challenges and required adjustment in study habits, students still overwhelmingly recommend using oral exams because they recognize the value of communication and teamwork in their future careers. In addition to student value, the instructors found value in oral assessments, despite the challenges with time commitments, validity, reliability, and fairness. We believe oral assessments in undergraduate chemistry curricula warrant further investigation as a useful tool in the assessment toolbox.</p>
+<section id="citation" class="level2">
+<h2 class="anchored" data-anchor-id="citation">Citation</h2>
+<p>David E. Gardner and Andrea N. Giordano Journal of Chemical Education Article ASAP https://doi.org/10.1021/acs.jchemed.3c00011</p>
+<p>© 2023 American Chemical Society and Division of Chemical Education, Inc.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>article</category>
+  <category>classroom</category>
+  <guid>https://chemistry.coe.edu/piper2/posts/the-challenges-and-value-of-oral-exams-pchem/index.html</guid>
+  <pubDate>Sat, 06 May 2023 05:00:00 GMT</pubDate>
+  <media:content url="https://chemistry.coe.edu/piper2/posts/the-challenges-and-value-of-oral-exams-pchem/challenges-and-value-oral-exams.png" medium="image" type="image/png" height="136" width="144"/>
+</item>
+<item>
+  <title>Making-it-rain</title>
+  <link>https://chemistry.coe.edu/piper2/posts/making-it-rain/index.html</link>
+  <description><![CDATA[ 
+
+
+
+<p><img src="https://chemistry.coe.edu/piper2/posts/making-it-rain/making-it-rain.png" class="img-fluid"></p>
+<p>A repository of Jupyter notebook scripts for running Molecular Dynamics (MD) simulations using OpenMM engine and AMBER and CHARMM force fields files on Google Colab. This repository is supplementary material of the paper “Making it rain: Cloud-based molecular simulations for everyone” and we encourage you to read it before using this pipeline.</p>
+<p>The main goal of this work is to demonstrate how to harness the power of cloud-computing to run microsecond-long MD simulations in a cheap and yet feasible fashion.</p>
+<section id="location" class="level2">
+<h2 class="anchored" data-anchor-id="location">Location</h2>
+<p><a href="https://github.com/pablo-arantes/making-it-rain" class="uri">https://github.com/pablo-arantes/making-it-rain</a></p>
+<p><a href="https://doi.org/10.1021/acs.jcim.1c00998" class="uri">https://doi.org/10.1021/acs.jcim.1c00998</a></p>
+</section>
+<section id="citation" class="level2">
+<h2 class="anchored" data-anchor-id="citation">Citation</h2>
+<p>Arantes P.R., Depólo Polêto M., Pedebos C., Ligabue-Braun R. Making it rain: cloud-based molecular simulations for everyone. Journal of Chemical Information and Modeling 2021. &lt;10.1021/acs.jcim.1c00998&gt;</p>
+
+
+</section>
+
+ ]]></description>
+  <category>computing</category>
+  <category>python</category>
+  <category>jupyter</category>
+  <category>mol dynamics</category>
+  <guid>https://chemistry.coe.edu/piper2/posts/making-it-rain/index.html</guid>
+  <pubDate>Sat, 29 Apr 2023 05:00:00 GMT</pubDate>
+  <media:content url="https://chemistry.coe.edu/piper2/posts/making-it-rain/making-it-rain.png" medium="image" type="image/png" height="78" width="144"/>
+</item>
+<item>
+  <title>Development and Implementation of a Two-Level Inquiry- and Project-Based Modular Approach to Teaching a Second-Semester Physical Chemistry Laboratory Course</title>
+  <link>https://chemistry.coe.edu/piper2/posts/development-and-implementation-two-level-lab/index.html</link>
+  <description><![CDATA[ 
+
+
+
+<p><img src="https://chemistry.coe.edu/piper2/posts/development-and-implementation-two-level-lab/development-and-implentation-two-level-lab.png" class="img-fluid" style="width:70.0%"></p>
+<p>Over the past 20 years, significant effort has been devoted to advancing the modular approach to teaching chemistry laboratory courses. The development and implementation of two modules are presented here for teaching a second-semester physical chemistry laboratory course using the modular approach: an inquiry-based module concerning proteins and a project-based module concerning organic small molecules. Each module focuses on a molecular system in question and allows participating students to choose and apply various methods to study the system in different ways, according to the advantages and disadvantages of each method. The common thrust of all of the modules is to develop students’ critical thinking skills, provide them a conduit to apply their knowledge to real applications, encourage them to model the approaches and behavior of practicing scientists, and excite them to initiate and pursue research opportunities. Details of implementation of this modular approach in teaching the second-semester physical chemistry laboratory for the past 11 years are provided. The assessment results indicate encouraging evidence that this two-level modular approach has achieved its goals and assisted students in choosing more research-based careers.</p>
+<section id="citation" class="level2">
+<h2 class="anchored" data-anchor-id="citation">Citation</h2>
+<p>Boyd M. Goodson, Qingfeng Ge, and Lichang Wang Journal of Chemical Education 2023</p>
+<p>https://doi.org/10.1021/acs.jchemed.2c01225</p>
+</section>
+<section id="license" class="level2">
+<h2 class="anchored" data-anchor-id="license">License</h2>
+<p>© 2023 American Chemical Society and Division of Chemical Education, Inc.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>article</category>
+  <category>lab</category>
+  <guid>https://chemistry.coe.edu/piper2/posts/development-and-implementation-two-level-lab/index.html</guid>
+  <pubDate>Sun, 23 Apr 2023 05:00:00 GMT</pubDate>
+  <media:content url="https://chemistry.coe.edu/piper2/posts/development-and-implementation-two-level-lab/development-and-implentation-two-level-lab.png" medium="image" type="image/png" height="71" width="144"/>
+</item>
+<item>
+  <title>Introduction to Quantum Mechanics</title>
+  <link>https://chemistry.coe.edu/piper2/posts/introduction-to-quantum-mechanics-dpatoyan/index.html</link>
+  <description><![CDATA[ 
+
+
+
+<p><img src="https://chemistry.coe.edu/piper2/posts/introduction-to-quantum-mechanics-dpatoyan/intro-quantum-mechanics-dpatoyan.png" class="img-fluid" style="width:70.0%"></p>
+<p>These lecture notes incorporate interactive numerical computing visualization, and other media alongside the traditional lecture material. This integrated approach allows seeing both the fundamental and applied side of quantum mechanics. Our hope is that by engaging in hands-on numerical explorations one can demistify complex concepts of quantum mechanics. Additionally quantum emchanics can serve as a good motivator for picking up widely applicable numerical and computaitonal and data skills.</p>
+<p>All course content is written in Markdown and Jupyter Notebooks all of which is hosted on Github. The entire course material is open source and freely available for download and personal use. We are happy to recieve any feedback on any aspect of this course. So feel free to reach us with cool ideas!</p>
+<p>All the code in the notebooks is written using python3.7. We primarily use the standard scientific libraries of python (numpy, spicy, matplotlib) which are included in the anaconda3 and miniconda3 distributions.</p>
+<section id="location" class="level2">
+<h2 class="anchored" data-anchor-id="location">Location</h2>
+<p><a href="https://dpotoyan.github.io/Chem324/intro" class="uri">https://dpotoyan.github.io/Chem324/intro</a></p>
+<p><a href="https://github.com/DPotoyan/Chem324" class="uri">https://github.com/DPotoyan/Chem324</a></p>
+</section>
+<section id="authors" class="level2">
+<h2 class="anchored" data-anchor-id="authors">Authors</h2>
+<p>Davit Potoyan with support from Zachery Crandall</p>
+</section>
+<section id="license" class="level2">
+<h2 class="anchored" data-anchor-id="license">License</h2>
+<p>Unknown</p>
+
+
+</section>
+
+ ]]></description>
+  <category>website</category>
+  <category>quantum</category>
+  <category>python</category>
+  <guid>https://chemistry.coe.edu/piper2/posts/introduction-to-quantum-mechanics-dpatoyan/index.html</guid>
+  <pubDate>Sat, 22 Apr 2023 05:00:00 GMT</pubDate>
+  <media:content url="https://chemistry.coe.edu/piper2/posts/introduction-to-quantum-mechanics-dpatoyan/intro-quantum-mechanics-dpatoyan.png" medium="image" type="image/png" height="95" width="144"/>
+</item>
+<item>
+  <title>Thermodynamics: Sea ice melt</title>
+  <link>https://chemistry.coe.edu/piper2/posts/thermodynamics-sea-ice-melt/index.html</link>
+  <description><![CDATA[ 
+
+
+
+<p>Students learn about thermodynamics topics through calculation of the amount of heat required to melt Arctic sea ice. They start by watching an online animation of changing polar ice with time. They next download data of Arctic ice extent and volume. Working in a Jupyter Notebook, they use thermodynamic principles and equations to plot the phase diagram of water, find the freezing point depression of Arctic sea ice in equilibrium with sea water, and compute the change in the enthalpy of fusion of water resulting from that temperature depression.</p>
+<section id="learning-objectives" class="level2">
+<h2 class="anchored" data-anchor-id="learning-objectives">Learning objectives</h2>
+<ol type="1">
+<li>Learn about datasets available for Arctic sea ice volume and extent, and how Arctic sea ice is changing.</li>
+<li>Be familiar with calculating sea ice thickness from extent and volume.</li>
+<li>Develop skills in acquiring and plotting data using Python.</li>
+<li>Be able to construct a phase diagram of water and integrate the Clapeyron equation to get the Clausius-Clapeyron and Thomson Equations. 1.Learn how to compute the heat required for seasonal melt of Arctic sea ice.</li>
+<li>Practice finding the freezing point of Arctic sea ice in equilibrium with sea water using Raoults’ Law.</li>
+<li>Have experience correcting the change in the enthalpy of fusion of ice when it is in equilibrium with seawater, using Kirchoff’s Equation.</li>
+</ol>
+</section>
+<section id="source" class="level2">
+<h2 class="anchored" data-anchor-id="source">Source</h2>
+<p><a href="https://serc.carleton.edu/penguin/modules/thermodyn_icemelt.html" class="uri">https://serc.carleton.edu/penguin/modules/thermodyn_icemelt.html</a></p>
+<p><a href="https://github.com/penguin-code/modules" class="uri">https://github.com/penguin-code/modules</a></p>
+</section>
+<section id="authors" class="level2">
+<h2 class="anchored" data-anchor-id="authors">Authors</h2>
+<p>Steven Neshyba, Penny Rowe, and Aedin Wright.</p>
+</section>
+<section id="license" class="level2">
+<h2 class="anchored" data-anchor-id="license">License</h2>
+<p>Copyright 2017 by Steven Neshyba, Penny M. Rowe, and NorthWest Research Associates. All rights reserved. Created with funding from NSF, including NSF 1712282, Computational Guided Inquiry for Incorporating Polar Research into Undergraduate Curricula.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>computing</category>
+  <category>python</category>
+  <category>jupyter</category>
+  <category>thermo</category>
+  <category>phase change</category>
+  <guid>https://chemistry.coe.edu/piper2/posts/thermodynamics-sea-ice-melt/index.html</guid>
+  <pubDate>Sat, 25 Mar 2023 05:00:00 GMT</pubDate>
+  <media:content url="https://chemistry.coe.edu/piper2/posts/thermodynamics-sea-ice-melt/sea-ice.png" medium="image" type="image/png" height="110" width="144"/>
+</item>
+<item>
+  <title>Physical Chemistry in Context: Using Quantum Mechanics to Understand the Greenhouse Effect</title>
+  <link>https://chemistry.coe.edu/piper2/posts/pchem-understanding-greenhouse-effect/index.html</link>
+  <description><![CDATA[ 
+
+
+
+<p><img src="https://chemistry.coe.edu/piper2/posts/pchem-understanding-greenhouse-effect/pchem-understanding-greenhouse-effect.png" class="img-fluid" style="width:70.0%"></p>
+<p>The concepts taught in an undergraduate physical chemistry course are directly related to the molecular processes governing climate change, yet the connections between quantum mechanical molecular properties and global warming are rarely made explicit. To improve student knowledge about climate change, we developed a three-part activity that computationally and experimentally explores blackbody radiation, the greenhouse effect, and the relationship between IR absorption properties and global warming potentials for the anthropogenic greenhouse gases defined in the Paris Agreement. The activities addressed the traditional learning objectives of a quantum-focused physical chemistry course by exploring topics such as the quantized nature of energy in Planck’s Law, the selection rules for rovibrational transitions, and discrepancies between theoretical models and observed experimental results. However, our approach was unique in that each concept was addressed within the context of the atmospheric phenomena related to climate change. A previously published climate science survey instrument was administered pre- and postactivity to assess student learning gains. The average percent of correct responses on this survey increased from 44% to 68% as a result of completing the activities.</p>
+<p>The activities focused on (1) blackbody radiation and the greenhouse effect, (2) collection and interpretation of the IR spectrum of carbon dioxide, and (3) calculation of the GWPs of several anthropogenic greenhouse gases based on IR vibrational intensities generated from density functional theory (DFT) calculations.</p>
+<section id="learning-objectives" class="level2">
+<h2 class="anchored" data-anchor-id="learning-objectives">Learning Objectives</h2>
+<ul>
+<li>Describe, both qualitatively using pictorial representations and quantitatively using Planck’s Law, how the radiative properties of the sun and the Earth and the infrared absorption of atmospheric gases lead to the greenhouse effect.</li>
+<li>Explain how molecular properties and IR selection rules determine the IR absorption intensity of a vibrational mode and relate this to measured or calculated IR absorption spectra.</li>
+<li>Explain discrepancies between the harmonic oscillator and Morse potential energies and eigenstates, and why these differences necessitate the application of frequency correction factors to vibrational spectra generated using quantum mechanical calculations.</li>
+<li>Calculate the global warming potential of a gas using an IR spectrum and explain how factors such as radiative forcing, density, and atmospheric lifetime influence the GWP.</li>
+<li>Use a Jablonski diagram to explain molecular excitation and relaxation processes and describe the role those molecular processes play in planetary energy balance.</li>
+</ul>
+</section>
+<section id="citation" class="level2">
+<h2 class="anchored" data-anchor-id="citation">Citation</h2>
+<p>W. Paige Hall and Lily Gunning, Journal of Chemical Education, 2023, 100(3), 1333-1342, https://doi.org/10.1021/acs.jchemed.2c00550</p>
+
+
+</section>
+
+ ]]></description>
+  <category>lab</category>
+  <category>computational</category>
+  <guid>https://chemistry.coe.edu/piper2/posts/pchem-understanding-greenhouse-effect/index.html</guid>
+  <pubDate>Thu, 16 Mar 2023 05:00:00 GMT</pubDate>
+  <media:content url="https://chemistry.coe.edu/piper2/posts/pchem-understanding-greenhouse-effect/pchem-understanding-greenhouse-effect.png" medium="image" type="image/png" height="99" width="144"/>
+</item>
+<item>
+  <title>An Investigation of the Temperature Dependence of a Monomer−Dimer Equilibrium Using UV−Vis and 1H NMR Spectroscopies</title>
+  <link>https://chemistry.coe.edu/piper2/posts/temp-dependence-monomer-dimer-equilibrium/index.html</link>
+  <description><![CDATA[ 
+
+
+
+<p><img src="https://chemistry.coe.edu/piper2/posts/temp-dependence-monomer-dimer-equilibrium/temp-dependence-monomer-dimer-equilibrium.png" class="img-fluid" style="width:70.0%"></p>
+<p>A laboratory experiment in which 1H NMR and UV−vis spectroscopies are applied to probe the temperature dependence of a monomer−dimer equilibrium involving a cyclopentadienone derivative is described and discussed. Details of the data analysis for extraction of equilibrium constants from the raw experimental data from both techniques are provided, leading to the determination of thermodynamic parameters (ΔrH° and ΔrS°) via van’t Hoff analysis. Fully analyzed datasets are provided in the Supporting Information to aid adaptation of the experiment or its use as a data analysis activity.</p>
+<section id="learning-objectives" class="level2">
+<h2 class="anchored" data-anchor-id="learning-objectives">Learning Objectives</h2>
+<p>Skills</p>
+<ul>
+<li>Mass/moles/concentration calculations.</li>
+<li>Planning your work: time management and communication.</li>
+<li>Manipulation of data using a spreadsheet.</li>
+<li>Graphical analysis of data using a spreadsheet.</li>
+<li>Mathematical skills: manipulating and solving algebraic equations</li>
+<li>Locating and extracting information from research papers.</li>
+</ul>
+<p>Objectives</p>
+<ul>
+<li>Obtain the UV-Vis spectra of solutions equilibrated at various temperatures</li>
+<li>Determine equilibrium constants for the Diels-Alder reaction at various temperatures from visible absorbance (A) data using the Beer-Lambert law.</li>
+<li>Determine thermodynamic parameters (ΔrH° and ΔrS°) for the Diels-Alder reaction using the van’t Hoff equation.</li>
+<li>Compare experimentally determined values of ΔrH° and ΔrS° with published values.</li>
+</ul>
+</section>
+<section id="citation" class="level2">
+<h2 class="anchored" data-anchor-id="citation">Citation</h2>
+<p>Laura M. Hancock, David J. McGarvey, and Daniela Plana, Journal of Chemical Education 2023 100 (3), 1283-1288, https://doi.org/10.1021/acs.jchemed.2c00917</p>
+
+
+</section>
+
+ ]]></description>
+  <category>lab</category>
+  <category>nmr</category>
+  <category>thermo</category>
+  <guid>https://chemistry.coe.edu/piper2/posts/temp-dependence-monomer-dimer-equilibrium/index.html</guid>
+  <pubDate>Wed, 15 Mar 2023 05:00:00 GMT</pubDate>
+  <media:content url="https://chemistry.coe.edu/piper2/posts/temp-dependence-monomer-dimer-equilibrium/temp-dependence-monomer-dimer-equilibrium.png" medium="image" type="image/png" height="80" width="144"/>
+</item>
+<item>
+  <title>Practical Computational Chemistry Course for a Comprehensive Understanding of Organic, Inorganic, and Physical Chemistry: From Molecular Interactions to Chemical Reactions</title>
+  <link>https://chemistry.coe.edu/piper2/posts/practical-computational-chemistry-course/index.html</link>
+  <description><![CDATA[ 
+
+
+
+<p><img src="https://chemistry.coe.edu/piper2/posts/practical-computational-chemistry-course/practical-computational-chemistry-course.png" class="img-fluid" style="width:80.0%"></p>
+<p>Abstract:</p>
+<p>In all fields of chemistry, it has become essential to use quantum chemical calculations and machine learning for explaining and predicting chemical phenomena. However, it is challenging to apply textbook knowledge to practical research. In this study, we developed teaching material based on computational chemistry to promote the integration of knowledge from all fields of chemistry, including organic, inorganic, and physical chemistry, to bridge the gap between classroom learning and chemistry research. This experimental material, which comprehensively covers weak intermolecular interactions and chemical reactions, is expected to help students conduct purposeful research activities after being assigned to a laboratory.</p>
+<section id="citation" class="level2">
+<h2 class="anchored" data-anchor-id="citation">Citation</h2>
+<p>J. Chem. Ed., 2023, https://doi.org///doi.org/10.1021/acs.jchemed.2c00837</p>
+<p>© 2023 The Authors. Published by American Chemical Society and Division of Chemical Education, Inc.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>computing</category>
+  <category>computational</category>
+  <category>article</category>
+  <guid>https://chemistry.coe.edu/piper2/posts/practical-computational-chemistry-course/index.html</guid>
+  <pubDate>Sun, 15 Jan 2023 06:00:00 GMT</pubDate>
+  <media:content url="https://chemistry.coe.edu/piper2/posts/practical-computational-chemistry-course/practical-computational-chemistry-course.png" medium="image" type="image/png" height="134" width="144"/>
+</item>
+<item>
+  <title>Interactive Python Notebooks for Physical Chemistry</title>
+  <link>https://chemistry.coe.edu/piper2/posts/interactive-python-notebooks-for-physical-chemistry/index.html</link>
+  <description><![CDATA[ 
+
+
+
+<p><img src="https://chemistry.coe.edu/piper2/posts/interactive-python-notebooks-for-physical-chemistry/interactive-notebooks-pchem.png" class="img-fluid" style="width:80.0%"></p>
+<p>These interactive exercises employ the Python programming language to explore a variety of chemical problems related to kinetics, the Maxwell–Boltzmann distribution, numerical versus analytical solutions, and real-world application of concepts. Accessibility was prioritized and students were assumed to have no prior programming experience; the notebooks are cost-free and browser based. Students were guided to use widgets to build interactive GUIs that provide dynamic representations, immediate access to multiple investigations, and interaction with key variables.</p>
+<section id="location" class="level2">
+<h2 class="anchored" data-anchor-id="location">Location</h2>
+<p><a href="https://github.com/Abravene/Python-Notebooks-for-Physical-Chemistry" class="uri">https://github.com/Abravene/Python-Notebooks-for-Physical-Chemistry</a></p>
+</section>
+<section id="license" class="level2">
+<h2 class="anchored" data-anchor-id="license">License</h2>
+<p>Unknown</p>
+
+
+</section>
+
+ ]]></description>
+  <category>computing</category>
+  <category>python</category>
+  <category>thermo</category>
+  <guid>https://chemistry.coe.edu/piper2/posts/interactive-python-notebooks-for-physical-chemistry/index.html</guid>
+  <pubDate>Sat, 14 Jan 2023 06:00:00 GMT</pubDate>
+  <media:content url="https://chemistry.coe.edu/piper2/posts/interactive-python-notebooks-for-physical-chemistry/interactive-notebooks-pchem.png" medium="image" type="image/png" height="57" width="144"/>
+</item>
+<item>
+  <title>Applying Density Functional Theory to Common Organic Mechanisms: A Computational Exercise</title>
+  <link>https://chemistry.coe.edu/piper2/posts/applying-density-functional-theory-to-common-organic/index.html</link>
+  <description><![CDATA[ 
+
+
+
+<p><img src="https://chemistry.coe.edu/piper2/posts/applying-density-functional-theory-to-common-organic/applying-density-functional-theory-to-common-organic.png" class="img-fluid" style="width:80.0%"></p>
+<p>A computational experiment investigating common organic chemistry mechanisms has been developed and implemented in a junior/senior-level physical chemistry laboratory course at two institutions. Students investigated various reactions that proceed via SN1, SN2, E1, and E2 mechanisms using hybrid Density Functional Theory (DFT). Our pre/post-assessments indicate that students at both institutions were able to better visualize and interpret the 3D representation of transition states, stepwise reaction mechanisms, and reaction coordinate diagrams of the aforementioned reactions.</p>
+<section id="learning-objectives" class="level2">
+<h2 class="anchored" data-anchor-id="learning-objectives">Learning Objectives</h2>
+<p>The learning objectives of the experiment are as follows:</p>
+<ul>
+<li>Better comprehension of mechanisms common in organic chemistry using a visual graphic.</li>
+<li>Understand and prepare reaction coordinate diagrams based on quantum chemical calculations.</li>
+<li>Tabulate and interpret the energetics of a chemical reaction via quantum chemical calculations.</li>
+<li>Application of quantum chemical models to chemical reactions using guided assistance.</li>
+<li>Learn how to identify transition states computationally using vibrational frequency calculations.</li>
+<li>Explain how thermochemical data was obtained using first-principles molecular software.</li>
+</ul>
+</section>
+<section id="citation" class="level2">
+<h2 class="anchored" data-anchor-id="citation">Citation</h2>
+<p>Jonathan P. Antle, Masashi W. Kimura, Stefano Racioppi, Corey Damon, Meredith Lang, Caitlyn Gatley-Montross, Laura S. Sánchez B., Daniel P. Miller, Eva Zurek, Adam M. Brown, Kellie Gast, and Scott M. Simpson</p>
+<p><a href="https://doi.org/10.1021/acs.jchemed.2c00935" class="uri">https://doi.org/10.1021/acs.jchemed.2c00935</a></p>
+</section>
+<section id="license" class="level2">
+<h2 class="anchored" data-anchor-id="license">License</h2>
+<p>© 2022 American Chemical Society and Division of Chemical Education, Inc.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>computing</category>
+  <category>computational</category>
+  <guid>https://chemistry.coe.edu/piper2/posts/applying-density-functional-theory-to-common-organic/index.html</guid>
+  <pubDate>Mon, 02 Jan 2023 07:00:00 GMT</pubDate>
+  <media:content url="https://chemistry.coe.edu/piper2/posts/applying-density-functional-theory-to-common-organic/applying-density-functional-theory-to-common-organic.png" medium="image" type="image/png" height="77" width="144"/>
+</item>
+<item>
+  <title>High-Resolution Vibration–Rotation Spectrum of CO₂</title>
+  <link>https://chemistry.coe.edu/piper2/posts/high-resolution-co2-spectra/index.html</link>
+  <description><![CDATA[ 
+
+
+
+<p><img src="https://chemistry.coe.edu/piper2/posts/high-resolution-co2-spectra/carbon_dioxide_ir.png" class="img-fluid"></p>
+<p>High resolution CO<sub>2</sub> IR absorption spectra at 330K and 360K acquired with a mid-infrared lead-salt diode laser and InSb detector.</p>
+<section id="citation" class="level2">
+<h2 class="anchored" data-anchor-id="citation">Citation</h2>
+<p>“High-Resolution Vibration–Rotation Spectroscopy of CO<sub>2</sub>: Understanding the Boltzmann Distribution”, Karen J. Castle, Journal of Chemical Education, 2007, 84 (3), 459</p>
+<p><a href="https://doi.org/10.1021/ed084p459" class="uri">https://doi.org/10.1021/ed084p459</a></p>
+<p>Supporting Information files are available without a subscription to ACS Web Editions.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>dataset</category>
+  <guid>https://chemistry.coe.edu/piper2/posts/high-resolution-co2-spectra/index.html</guid>
+  <pubDate>Wed, 07 Dec 2022 06:00:00 GMT</pubDate>
+  <media:content url="https://chemistry.coe.edu/piper2/posts/high-resolution-co2-spectra/carbon_dioxide_ir.png" medium="image" type="image/png" height="87" width="144"/>
+</item>
+<item>
+  <title>HITRAN</title>
+  <link>https://chemistry.coe.edu/piper2/posts/hitran-website/index.html</link>
+  <description><![CDATA[ 
+
+
+
+<p><img src="https://chemistry.coe.edu/piper2/posts/hitran-website/hitran.png" class="img-fluid"></p>
+<p>HITRAN is an acronym for high-resolution transmission molecular absorption database. HITRAN is a compilation of spectroscopic parameters that a variety of computer codes use to predict and simulate the transmission and emission of light in the atmosphere. The database is a long-running project started by the Air Force Cambridge Research Laboratories (AFCRL) in the late 1960s in response to the need for detailed knowledge of the infrared properties of the atmosphere. A history of the HITRAN database has recently been summarized in the following article:</p>
+<p>The HITRAN compilation, and its associated database HITEMP (high-temperature spectroscopic absorption parameters), are developed and maintained at the Atomic and Molecular Physics Division, Harvard-Smithsonian Center for Astrophysics.</p>
+<p>HITRANonline provides access to the latest version of the HITRAN molecular spectroscopic database.</p>
+<section id="location" class="level2">
+<h2 class="anchored" data-anchor-id="location">Location</h2>
+<p><a href="https://hitran.org/" class="uri">https://hitran.org/</a></p>
+</section>
+<section id="citation" class="level2">
+<h2 class="anchored" data-anchor-id="citation">Citation</h2>
+<p>L.S. Rothman, History of the HITRAN database, Nature Review Physics 3, 302-304 (2021)</p>
+<p><a href="https://doi.org/10.1038/s42254-021-00309-2" class="uri">https://doi.org/10.1038/s42254-021-00309-2</a></p>
+
+
+</section>
+
+ ]]></description>
+  <category>website</category>
+  <category>dataset</category>
+  <category>spectroscopy</category>
+  <guid>https://chemistry.coe.edu/piper2/posts/hitran-website/index.html</guid>
+  <pubDate>Wed, 07 Dec 2022 06:00:00 GMT</pubDate>
+  <media:content url="https://chemistry.coe.edu/piper2/posts/hitran-website/hitran.png" medium="image" type="image/png" height="11" width="144"/>
+</item>
+<item>
+  <title>Statistical Mechanics for Chemistry and Biology</title>
+  <link>https://chemistry.coe.edu/piper2/posts/statistical_mechanics_for_chemistry_and_biology/index.html</link>
+  <description><![CDATA[ 
+
+
+
+<p><img src="https://chemistry.coe.edu/piper2/posts/statistical_mechanics_for_chemistry_and_biology/statistical_mechanics_chemistry_and_biology.jpg" class="img-fluid" style="width:70.0%"></p>
+<p>This website hosts jupyter notebooks containing lectures notes and computational content for the “Chem 563 Statistical Mechanics” course, taught at the Department of Chemistry of Iowa State University. The course has two major objectives.</p>
+<p>Firstly to provide PhD students in STEM field with a solid theoretical foundation of statistical mechanics.</p>
+<ul>
+<li><p>The only pre-requiestes are having taken standard physical-chemistry which assumes basic knowledge of thermodynamics, kinetics and calculus.</p></li>
+<li><p>Secondly, to show how to utilize the variety of powerful computational techniques of statistical mechanics such as Monte Carlo, Molecular Dynamics, Stochastic Processes, Machine Learning. The course.</p></li>
+</ul>
+<p>All the examples and applications are primarily inspired from chemistry, materials science and biology problems and as such this course is different in its choice of materials compared to traditional statistical physics courses taught at chemistry departments.</p>
+<p>No programing expreience is assumed. Python3 and its ecosystem of scientific libraries will be introduced at the beginning of the course in an accessible manner.</p>
+<section id="location" class="level2">
+<h2 class="anchored" data-anchor-id="location">Location</h2>
+<p><a href="https://dpotoyan.github.io/Statmech4ChemBio/" class="uri">https://dpotoyan.github.io/Statmech4ChemBio/</a></p>
+<p><a href="https://github.com/DPotoyan/Statmech4ChemBio" class="uri">https://github.com/DPotoyan/Statmech4ChemBio</a></p>
+</section>
+<section id="author" class="level2">
+<h2 class="anchored" data-anchor-id="author">Author</h2>
+<p>Davit Potoyan</p>
+</section>
+<section id="license" class="level2">
+<h2 class="anchored" data-anchor-id="license">License</h2>
+<p>Author copyright</p>
+
+
+</section>
+
+ ]]></description>
+  <category>website</category>
+  <category>stat-mech</category>
+  <category>python</category>
+  <guid>https://chemistry.coe.edu/piper2/posts/statistical_mechanics_for_chemistry_and_biology/index.html</guid>
+  <pubDate>Thu, 01 Dec 2022 06:00:00 GMT</pubDate>
+  <media:content url="https://chemistry.coe.edu/piper2/posts/statistical_mechanics_for_chemistry_and_biology/statistical_mechanics_chemistry_and_biology.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Encouraging Student Engagement by Using a POGIL Framework for a Gas-Phase IR Physical Chemistry Laboratory Experiment</title>
+  <link>https://chemistry.coe.edu/piper2/posts/gas-phase-ir-pcl/index.html</link>
+  <description><![CDATA[ 
+
+
+
+<p><img src="https://chemistry.coe.edu/piper2/posts/gas-phase-ir-pcl/gas-phase-ir-pcl.png" class="img-fluid"></p>
+<p>A version of the classic rotationally resolved infrared (IR) spectrum of a diatomic molecule experiment has been developed using the POGIL framework to more fully engage students in the collection, modeling, analysis, and interpretation of the data. An analysis of the experimental protocol reveals that the POGIL approach actively engages students in scientific practices. The student learning objectives for this laboratory experiment are to (1) develop an energy level diagram and relate that diagram to rotational–vibrational spectra; (2) identify, describe, and interpret the molecular constants that can be extracted from gas-phase IR spectra; (3) discover the impact of spectral resolution on precision of molecular constants derived from the spectral data; and (4) use data to evaluate and refine quantum mechanical models. The learning cycles, analysis of student engagement with scientific practices, and reflections from instructors are described.</p>
+<section id="license" class="level2">
+<h2 class="anchored" data-anchor-id="license">License</h2>
+<p>Creative Commons Attribution 4.0</p>
+</section>
+<section id="location" class="level2">
+<h2 class="anchored" data-anchor-id="location">Location</h2>
+<p>Instructor’s manual and student handouts available through POGIL-PCL <a href="https://www.pogilpcl.org/get-connected" class="uri">https://www.pogilpcl.org/get-connected</a></p>
+<p>Jordan P. Beck and Diane M. Miller, Journal of Chemical Education, https://doi.org/10.1021/acs.jchemed.2c00314</p>
+
+
+</section>
+
+ ]]></description>
+  <category>lab</category>
+  <category>spectroscopy</category>
+  <guid>https://chemistry.coe.edu/piper2/posts/gas-phase-ir-pcl/index.html</guid>
+  <pubDate>Sat, 19 Nov 2022 06:00:00 GMT</pubDate>
+  <media:content url="https://chemistry.coe.edu/piper2/posts/gas-phase-ir-pcl/gas-phase-ir-pcl.png" medium="image" type="image/png" height="64" width="144"/>
+</item>
+<item>
+  <title>High-Performance Computational Chemistry in Undergraduate Physical Chemistry: Exercises in Homonuclear Diatomic Molecules</title>
+  <link>https://chemistry.coe.edu/piper2/posts/high-performance-computational-chemistry/index.html</link>
+  <description><![CDATA[ 
+
+
+
+<p><img src="https://chemistry.coe.edu/piper2/posts/high-performance-computational-chemistry/high-performance-computing.png" class="img-fluid"></p>
+<p>Computational chemistry exercises that are designed to be incorporated into an undergraduate physical chemistry course. This activity teaches computational chemistry as it is performed in higher-level research (in a command-line environment and executed on a high-performance computing cluster) to provide students with a foundation of computational chemistry skills for more advanced computational chemistry research. The activity is also a practical application of topics taught in physical chemistry courses, using the linear combination of atomic orbitals molecular orbital (LCAO-MO) theory description of homonuclear diatomic molecules as a basis to introduce students to computational chemistry techniques, density functional theory calculations of physical observables, and the analysis of computational results. Results from a survey assessing students’ learning gains demonstrate that these exercises produce significant gains in students’ computational skills, highlighting the efficacy of this activity in achieving its primary goals.</p>
+<section id="citation" class="level2">
+<h2 class="anchored" data-anchor-id="citation">Citation</h2>
+<p>Leah Isseroff Bendavid, Journal of Chemical Education Article ASAP, https://doi.org/10.1021/acs.jchemed.2c00706</p>
+</section>
+<section id="license" class="level2">
+<h2 class="anchored" data-anchor-id="license">License</h2>
+<p>Copyright American Chemical Society</p>
+
+
+</section>
+
+ ]]></description>
+  <category>computing</category>
+  <category>computational</category>
+  <guid>https://chemistry.coe.edu/piper2/posts/high-performance-computational-chemistry/index.html</guid>
+  <pubDate>Sat, 19 Nov 2022 06:00:00 GMT</pubDate>
+  <media:content url="https://chemistry.coe.edu/piper2/posts/high-performance-computational-chemistry/high-performance-computing.png" medium="image" type="image/png" height="68" width="144"/>
+</item>
+<item>
+  <title>What does the emission spectrum of the hydrogen atom reveal about its energy levels?</title>
+  <link>https://chemistry.coe.edu/piper2/posts/hydrogen-atom-pcl-experiment/index.html</link>
+  <description><![CDATA[ 
+
+
+
+<p><img src="https://chemistry.coe.edu/piper2/posts/hydrogen-atom-pcl-experiment/hatom-elevel-diagram.png" class="img-fluid" style="width:60.0%"></p>
+<p>A guided-inquiry approach to the classic hydrogen atom emission spectrum experiment. Throughout this experiment, students should develop an understanding of the connection between an energy level in the atom and a spectroscopic line or electronic transition.</p>
+<p>Students observe the emission spectrum using diffraction goggles, handheld diffraction gratings, filters, or rudimentary spectroscopes. Measurements of the atomic lines can be made using a variety of spectrometers.</p>
+<section id="learning-objectives" class="level2">
+<h2 class="anchored" data-anchor-id="learning-objectives">Learning Objectives</h2>
+<p><strong>Content Objectives</strong></p>
+<p>Students will be able to:</p>
+<ul>
+<li>develop the relationship between the electronic energy levels of an atom and its spectral lines, especially how transitions among energy levels are revealed in emission spectroscopy</li>
+<li>create a quantitative diagram of the electronic energy levels for the hydrogen atom based on their analysis of the emission spectrum</li>
+<li>determine the Rydberg constant as a fit parameter for the Balmer series and they will see that the same constant re-appears in the Lyman and Paschen series.</li>
+</ul>
+<p><strong>Process Objectives</strong></p>
+<p>Students will be able to</p>
+<ul>
+<li>use data to build a graphical model that explains spectral measurements and informs choices for subsequent measurements.</li>
+<li>modify and update their model throughout the experiment</li>
+<li>fit the emission lines to various functions of a quantum number and justify which function is best</li>
+<li>generate quantitative graphical depictions of data and use them to find patterns among different emission bands.</li>
+</ul>
+</section>
+<section id="location" class="level2">
+<h2 class="anchored" data-anchor-id="location">Location</h2>
+<p><a href="https://drive.google.com/file/d/1PBfcTQXeLHdeFolFwefxfye5A7uq4tnt/view?usp=sharing" class="uri">https://drive.google.com/file/d/1PBfcTQXeLHdeFolFwefxfye5A7uq4tnt/view?usp=sharing</a></p>
+<p>Instructor’s handbook available by request.</p>
+<p>Journal of Chemical Education https://doi.org/10.1021/acs.jchemed.2c00348</p>
+</section>
+<section id="timing" class="level2">
+<h2 class="anchored" data-anchor-id="timing">Timing</h2>
+<p>Depending on available equipment and student familiarity with the equipment, the experiment may be possible in a three-hour lab period. Alternatively, there is a natural breaking point to split the experiment across two periods.</p>
+</section>
+<section id="authors" class="level2">
+<h2 class="anchored" data-anchor-id="authors">Authors</h2>
+<p>Carl Salter, Moravian College csalter@chem.moravian.edu</p>
+<p>Steve Singleton, Coe College ssinglet@coe.edu</p>
+<p>Craig Teague, Cornell College cteague@cornellcollege.edu</p>
+</section>
+<section id="license" class="level2">
+<h2 class="anchored" data-anchor-id="license">License</h2>
+<p>Creative Commons Attribution-NonCommercial-ShareAlike 4.0</p>
+
+
+</section>
+
+ ]]></description>
+  <category>lab</category>
+  <category>spectroscopy</category>
+  <category>quantum</category>
+  <guid>https://chemistry.coe.edu/piper2/posts/hydrogen-atom-pcl-experiment/index.html</guid>
+  <pubDate>Sat, 19 Nov 2022 06:00:00 GMT</pubDate>
+  <media:content url="https://chemistry.coe.edu/piper2/posts/hydrogen-atom-pcl-experiment/hatom-elevel-diagram.png" medium="image" type="image/png" height="151" width="144"/>
+</item>
+</channel>
+</rss>

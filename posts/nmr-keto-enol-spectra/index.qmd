@@ -1,0 +1,30 @@
+---
+title: "NMR spectra of 2,4-pentanedione keto-enol"
+#author: "ssinglet"
+date: "2020-07-20T13:09:00-05:00"
+categories: ["dataset", "nmr", "spectroscopy"]
+---
+
+NMR spectra of 2,4-pentanedione in various solvents (acetone, C6D6, C6D12, CD3CN, CDCl3, DMSO-d6) and at different temperatures in one solvent. Spectra are in PDF format with labeled peaks.
+
+
+## Location {#location}
+
+[https://github.com/singletS/datasets-gh/tree/master/nmr_keto_enol_spectra](https://github.com/singletS/datasets-gh/tree/master/nmr_keto_enol_spectra)
+
+
+## Authors {#authors}
+
+A. Grushow, Rider University
+
+C. Liberko, Cornell College
+
+
+## Status {#status}
+
+Not reviewed
+
+
+## License {#license}
+
+Creative Commons ShareAlike

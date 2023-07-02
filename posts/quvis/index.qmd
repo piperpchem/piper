@@ -1,0 +1,42 @@
+---
+title: "QuVis: The Quantum Mechanics Visualisation Project"
+#author: "ssinglet"
+date: "2022-01-31T00:00:00-06:00"
+categories: ["website", "quantum"]
+image: quvis-shot.png
+---
+
+![](quvis-shot.png){width="80%" link="https://www.st-andrews.ac.uk/physics/quvis/index.html"}
+
+QuVis is a collection of research-based interactive simulations for the learning and teaching of quantum mechanics concepts ranging from the advanced high school level to advanced undergraduate university level. Simulations build on existing education research and target areas of difficulty in quantum mechanics. Development is informed by student input, and simulations and activities are iteratively refined using student feedback from individual student observation sessions and in-class trials to optimize their educational effectiveness. Simulations are designed to help students make connections between multiple representations, explore relationships between quantities and compare and contrast different situations.
+
+Activity problems with full solutions in editable format are available for instructors.
+
+Topics include:
+
+-   Fundamental concepts
+-   Classical systems
+-   One and two dimensional potentials
+-   Multiple particles
+-   Spin angular momentum
+-   Entanglement
+-   Single photon experiments
+-   Quantum information
+-   Linear algebra
+
+
+## Location {#location}
+
+<https://www.st-andrews.ac.uk/physics/quvis/index.html>
+
+
+## Contributors {#contributors}
+
+Antje Kohnle ak81@st-andrews.ac.uk
+
+[The QuVis Team](https://www.st-andrews.ac.uk/physics/quvis/about.html)
+
+
+## License {#license}
+
+Unknown

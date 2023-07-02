@@ -1,0 +1,43 @@
+---
+title: "Beer foam kinetics"
+#author: "ssinglet"
+date: "2020-12-10T16:44:00-06:00"
+categories: ["computing", "kinetics", "jupyter"]
+image: beer-1669295_960_720.png
+---
+
+![](beer-1669295_960_720.png){width="500px"}
+
+Surely an important application of kinetic models is to understand the fate of the beer head on a pint. An effective model can be developed for a fermentation process (a zymurgist’s concern) but foam dynamics are important to water treatment plants, chemical production facilities, and agriculture. Indeed, the production and use of surfactants to control foam dynamics is a multi-billion dollar industry.
+
+In this activity, students determine rate laws that model the foam dynamics of
+different beer types.
+
+
+
+## Learning Objectives {#learning-objectives}
+
+In this activity students will
+
+-   determine the order of a reaction using graphical analysis and curve-fitting
+-   distinguish processes using kinetic models
+-   use the numpy curve_fit() function for linear and non-linear curve fitting
+-   import data from a csv file
+-   generate plots using matplotlib
+
+## Author {#author}
+
+Steve Singleton, Coe College, ssinglet@coe.edu
+
+
+## Location {#location}
+
+[https://github.com/singletS/clueopen/tree/master/beer-foam](https://github.com/singletS/clueopen/tree/master/beer-foam)
+
+## License {#license}
+
+CC-SA
+
+## Status {#status}
+
+Not reviewed

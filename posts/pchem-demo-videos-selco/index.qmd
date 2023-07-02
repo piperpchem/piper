@@ -1,0 +1,45 @@
+---
+title: "Chemistry demonstration videos"
+#author: "ssinglet"
+date: "2020-07-20T14:43:00-05:00"
+categories: ["website", "classroom", "demos", "video"]
+---
+
+Introductory contexts for an online physical chemistry course.
+
+| Video Title                               | Topic                            | You Tube Link                                                     |
+|-------------------------------------------|----------------------------------|-------------------------------------------------------------------|
+| Alcohol Water Antacid Test                | Kinetics Demo                    | <https://youtu.be/mGEfGMm39MY>                                    |
+| All Items                                 | Light/matter interactions        | <https://youtu.be/c1HNBVDXoYE>                                    |
+| Bleaching Out                             | Kinetics Demo                    | <https://youtu.be/gd7nYw27u4c>                                    |
+| Blowing Up Balloon                        | Gas Laws                         | <https://youtu.be/bDGnc2OotbU>                                    |
+| Cold Hot Antacid Test                     | Arrhenius Equation               | <https://youtu.be/ZuqCZrQalxc>                                    |
+| Electroplating                            | non-spontaneous reaction         | <https://youtu.be/GwFJyZeGZw8>                                    |
+| Fluorescent                               | fluorescence                     | <https://youtu.be/mElKedGqht8>                                    |
+| Glow Sticks                               | light sticks                     | <https://youtu.be/3g4KjtE21o8>                                    |
+| Make It Rain/Real and Ideal Gases         | real vs ideal gas as T decreases | <https://youtu.be/3vwQuo-JQqM> and <https://youtu.be/vfxZwzhfM74> |
+| Marshmallow1                              | Boyle's Law                      | <https://youtu.be/GfCFxhAQCyo>                                    |
+| Oxidation Reduction Reaction              | spontaneous redox reaction       | <https://youtu.be/R7MAryb_k0U>                                    |
+| Phosphorescent Powder                     |                                  | <https://youtu.be/PoF7sCIHf2o>                                    |
+| Phosphorescent Putty                      |                                  | <https://youtu.be/uJd8RvYQSNA>                                    |
+| Photochromic                              |                                  | <https://youtu.be/7O3ZuM1C1LY>                                    |
+| Popping Balloon                           | heat capacity of air vs water    | <https://youtu.be/WaxNuTT8cHg>                                    |
+| Sodium Carbonate                          | exothermic solvation             | <https://youtu.be/7s2FPkRyvy0>                                    |
+| Steel Wool Battery 2                      | oxidation of steel wool          | <https://youtu.be/jSMoJX9hvhI>                                    |
+| Thermochromic                             |                                  | <https://youtu.be/wz0Zv0thzEU>                                    |
+| Tonic Water                               | fluorescence                     | <https://youtu.be/IXrhboYH8Gg>                                    |
+| Water Boiling Faster                      | heat to boil water               | <https://youtu.be/XC6Mup2mC40>                                    |
+| Water Boiling Slower                      | heat to boil twice as much water | <https://youtu.be/dFY71Xz3ECQ>                                    |
+| Water Jewels Full                         | osmosis                          | <https://youtu.be/wImMnbeuBkU>                                    |
+| Water Temperature with Salt &amp; DampRid | exo- and endothermic solvation   | <https://youtu.be/YsGSNkZgMtg>                                    |
+| Light Board Explained                     | fluorescent markers              | <https://youtu.be/-x12Wjq2mtU>                                    |
+
+
+## Author {#author}
+
+Jodye Selco, Cal Poly Pomona, jiselco@cpp.edu
+
+
+## Status {#status}
+
+Unreviewed

@@ -1,0 +1,31 @@
+---
+title: "Multivariable Model Fitting as Applied to Air, a Physical Chemistry Experiment"
+#author: "ssinglet"
+date: "2022-05-03T00:00:00-05:00"
+categories: ["lab", "computing"]
+image: multivariable-model-fitting.jpg
+---
+
+![](multivariable-model-fitting.jpg){width="30%"}
+
+Students in an upper-level physical chemistry course utilized an open-sourced statistical software package to construct models fitted to experimental pressure–volume data. In the first part of the experiment, students familiarize themselves with model fitting. In the second part of the experiment, students determine which truncated version of the virial equation of state is statistically valid to properly model air. This experiment demonstrates proper multivariable linear regression model construction, along with the nonideality of air.
+
+This experiment was implemented in a first semester physical chemistry course for chemistry and biochemistry majors. The experiment was performed in one 4 h session with students working in groups of 2–3 people. Students first learn how to write and execute scripts in R and then apply these skills to determine which model best describes their pressure–volume data. Our preassessment/postassessment shows growth in student understanding in topics associated with the experiment.
+
+Goals of the experiment:
+
+1.  Have students rationalize which equation of state best models the pressure–volume relationship of a real gas utilizing statistical arguments
+2.  Familiarize students with the open-sourced statistical package R
+3.  Familiarize students with multivariable regressions
+4.  Familiarize students with statistical information for model selection
+5.  Determine values for the second virial coefficient of ambient air
+
+
+## Citation {#citation}
+
+Jonathan P. Antle, Jerry T. Godbout, and Scott Simpson, Journal of Chemical Education  2022, 99, 5, 2107-2111, https://doi.org/10.1021/acs.jchemed.1c01241
+
+
+## License {#license}
+
+Copyright 2022 American Chemical Society and Division of Chemical Education, Inc.

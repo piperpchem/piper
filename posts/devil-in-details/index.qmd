@@ -1,0 +1,23 @@
+---
+title: "The Devil in the Details: What Everybody Should Know When Running DFT Calculations"
+#author: "ssinglet"
+date: "2022-04-19T00:00:00-05:00"
+categories: ["computing", "computational", "article"]
+image: devil-in-details.png
+---
+
+![](devil-in-details.png){width="65%"}
+
+Density functional theory (DFT) has rapidly became the method of choice for the calculation of the electronic structure of atoms and molecules in both the teaching and the research environments. Despite a long history of successes in both fields, DFT still retains several limitations due to the fact that it relies on approximations. Advances on the research side have recently contributed to understand and reduce several of these limitations. The most important results have been obtained in the last two decades by using large databases of accurate data. These databases provided a better understanding of the limitations of current approximations and facilitated the development of more accurate ones. The educational literature, on the other side, has unfortunately remained behind. It is still common, in fact, to find computational laboratory courses that use outdated approximations, without providing a clear report of their limitations, and also failing to mention the modern alternatives. This article introduces a laboratory notebook for a computational chemistry course based on recent advances in DFT research. New approximations and neglected techniques are presented and discussed using data from modern research databases. The course is aimed at upper undergraduate and graduate students, but it includes enough research examples to be interesting for occasional practitioners and beginner researchers as well.
+
+
+## Citation {#citation}
+
+Morgante P, Peverati R. The Devil in the Details: What Everybody Should Know When Running DFT Calculations. ChemRxiv. Cambridge: Cambridge Open Engage; 2019;  This content is a preprint and has not been peer-reviewed.
+
+<https://doi.org/10.26434/chemrxiv.10187756.v1>
+
+
+## License {#license}
+
+The content is available under CC BY NC ND 4.0 License

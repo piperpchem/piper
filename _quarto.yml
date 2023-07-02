@@ -1,0 +1,52 @@
+project:
+  type: website
+  render:
+    - "*.qmd"
+    - "!*.org"
+  preview:
+    port: 8085
+    browser: false
+
+website:
+  favicon: images/profile.png
+  title: "PIPER: Resources for Teaching Physical Chemistry"
+  site-url: https://chemistry.coe.edu/piper2
+  description: 'PIPER resources for teaching and learning physical chemistry'
+
+  #repo-url: https://github.com/mine-cetinkaya-rundel/quarto-tip-a-day
+  #repo-actions: [edit, issue]
+
+  #opengraph: false
+  #twitter-card:
+    #creator: "@quarto_pub"
+    #image: "/images/twitter-card.png"
+
+  navbar:
+    right:
+      - text: About
+        href: about.qmd
+      - icon: rss-fill
+        href: index.xml
+        aria-label: RSS
+      #- icon: github
+        #href: https://github.com/mine-cetinkaya-rundel/quarto-tip-a-day
+        #aria-label: GitHub repo
+      #- icon: twitter
+        #href: https://twitter.com/quarto_pub
+        #aria-label: Quarto Twitter
+
+  page-footer:
+    right: ""
+
+format:
+  html:
+    theme:
+      #light: [litera, styles.scss]
+      light: [flatly]
+      dark: [darkly, styles-dark.scss]
+    #highlight-style: a11y-dark
+    #mainfont: "Atkinson Hyperlegible"
+    code-copy: true
+    code-overflow: wrap
+
+editor: visual

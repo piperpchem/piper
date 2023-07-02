@@ -1,0 +1,27 @@
+---
+title: "Teaching undergraduate physical chemistry lab with kinetic analysis of COVID-19 in the United States"
+#author: "ssinglet"
+date: "2022-05-03T00:00:00-05:00"
+categories: ["lab", "kinetics"]
+image: kinetic-analysis-of-covid-19.png
+---
+
+![](kinetic-analysis-of-covid-19.png){width="75%"}
+
+A physical chemistry lab for undergraduate students described in this report is about applying kinetic models to analyze the spread of COVID-19 in the United States and obtain the reproduction numbers. The susceptible-infectious-recovery (SIR) model and the SIR-vaccinated (SIRV) model are explained to the students and are used to analyze the COVID-19 spread data from U.S. Centers for Disease Control and Prevention (CDC). The basic reproduction number R0 and the real-time reproduction number Rt of COVID-19 are extracted by fitting the data with the models, which explains the spreading kinetics and provides a prediction of the spreading trend in a given state. The procedure outlined here shows the differences between the SIR model and the SIRV model. The SIRV model considers the effect of vaccination which helps explain the later stages of the ongoing pandemic. The predictive power of the models is also shown giving the students some certainty in the predictions they made for the following months.
+
+This laboratory procedure can be completed in two weeks (4 three-hour labs). The students are instructed to collect literature research, process data, write reports, and receive additional instruction outside of class time if needed.
+
+Extending the kinetic model from SIR to SIRV helps the students to understand the later stages of disease prevention and experience kinetic model selection. Comparing the Rt and Re values help the students to distinguish the second-order reaction and the quasi-first order reaction models for the same reaction mechanism, which echoes what they have learned in the class well.
+
+
+## Citation {#citation}
+
+Smith D, Lauro K, Kelly D, Fish J, Lintelman E, McEwen D, et al. Teaching undergraduate physical chemistry lab with kinetic analysis of COVID-19 in the United States . ChemRxiv. Cambridge: Cambridge Open Engage; 2022;  This content is a preprint and has not been peer-reviewed
+
+<https://doi.org/10.26434/chemrxiv-2022-3jv2h>
+
+
+## License {#license}
+
+The content is available under CC BY 4.0 License [CreativeCommons.org](https://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,35 @@
+---
+title: "echem: A notebook exploration of quantum chemistry from laptop to HPC"
+#author: "ssinglet"
+date: "2022-11-11T00:00:00-06:00"
+categories: ["computing", "jupyter", "quantum", "computational", "python"]
+image: echem-a-notebook.png
+---
+
+![](echem-a-notebook.png){width="80%"}
+
+The eChem project features an e-book published as a web page (<https://bit.ly/e-chem>), collecting a repository of Jupyter notebooks developed for the dual purpose of explaining and exploring the underlying theory behind computational chemistry in a highly interactive manner as well as providing a tutorial-based presentation of the complex workflows needed to simulate embedded molecular systems of real biochemical and/or technical interest. For students ranging from beginners to advanced users, the eChem book is well suited for self-directed learning, and workshops led by experienced instructors for targeting student bodies with specific needs and interests can readily be formed from its components. The members of the eChem team are engaged in both education and research and as a mirroring activity, we develop the open-source software upon which this e-book is predominantly based. The overreaching vision and goal of our work is to provide a science- and education-enabling software platform for quantum molecular modeling on contemporary and future high-performance computing systems, with the resulting development and workflows now being documented in the eChem book.
+
+Chapters include:
+
+-   Tutorials and Workflows
+-   Electronic Ground States
+-   Molecular Structure and Dynamics
+-   Spectra and Properties
+-   Visualization
+
+
+## Location {#location}
+
+<https://doi.org/10.30746/978-91-988114-0-7>
+
+
+## Citation {#citation}
+
+Fransson T, Delcey M, Brumboiu I, Hodecker M, Li X, Rinkevicius Z, et al. eChem: A notebook exploration of quantum chemistry. ChemRxiv. Cambridge: Cambridge Open Engage; 2022;  This content is a preprint and has not been peer-reviewed.
+<https://doi.org/10.26434/chemrxiv-2022-98wmf-v2>
+
+
+## License {#license}
+
+The content is available under [CC BY NC ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) License CreativeCommons.org

@@ -1,0 +1,25 @@
+---
+title: "Making-it-rain"
+#author: "ssinglet"
+date: "2023-04-29T00:00:00-05:00"
+categories: ["computing", "python", "jupyter", "mol dynamics"]
+image: making-it-rain.png
+---
+
+![](making-it-rain.png){}
+
+A repository of Jupyter notebook scripts for running Molecular Dynamics (MD) simulations using OpenMM engine and AMBER and CHARMM force fields files on Google Colab. This repository is supplementary material of the paper "Making it rain: Cloud-based molecular simulations for everyone" and we encourage you to read it before using this pipeline.
+
+The main goal of this work is to demonstrate how to harness the power of cloud-computing to run microsecond-long MD simulations in a cheap and yet feasible fashion.
+
+
+## Location {#location}
+
+<https://github.com/pablo-arantes/making-it-rain>
+
+<https://doi.org/10.1021/acs.jcim.1c00998>
+
+
+## Citation {#citation}
+
+Arantes P.R., Depólo Polêto M., Pedebos C., Ligabue-Braun R. Making it rain: cloud-based molecular simulations for everyone. Journal of Chemical Information and Modeling 2021. <10.1021/acs.jcim.1c00998>

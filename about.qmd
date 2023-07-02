@@ -1,0 +1,21 @@
+---
+title: "PIPER: PChem Inspired Pedagogical Electronic Resource"
+image: images/Lomonosov_Chymiae_Physicae_1752.jpg
+about:
+  template: trestles
+  #links:
+    #- icon: twitter
+    #  text: Twitter
+    #  href: https://twitter.com/minebocek
+    #- icon: github
+    #  text: Github
+    #  href: https://github.com/mine-cetinkaya-rundel/quarto-tip-a-day
+---
+
+
+# About this site
+
+PIPER (PChem Inspired Pedagogical Electronic Resource) is an online collection of educational materials that may be useful for teaching and learning physical chemistry.
+
+Contact Steve Singleton ssinglet@coe.edu with submissions (help us build the site!), suggestions, or questions.
+

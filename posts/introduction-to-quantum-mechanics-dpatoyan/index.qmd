@@ -1,0 +1,32 @@
+---
+title: "Introduction to Quantum Mechanics"
+#author: "ssinglet"
+date: "2023-04-22T00:00:00-05:00"
+categories: ["website", "quantum", "python"]
+image: intro-quantum-mechanics-dpatoyan.png
+---
+
+![](intro-quantum-mechanics-dpatoyan.png){width="70%"}
+
+These lecture notes incorporate interactive numerical computing visualization, and other media alongside the traditional lecture material. This integrated approach allows seeing both the fundamental and applied side of quantum mechanics. Our hope is that by engaging in hands-on numerical explorations one can demistify complex concepts of quantum mechanics. Additionally quantum emchanics can serve as a good motivator for picking up widely applicable numerical and computaitonal and data skills.
+
+All course content is written in Markdown and Jupyter Notebooks all of which is hosted on Github. The entire course material is open source and freely available for download and personal use. We are happy to recieve any feedback on any aspect of this course. So feel free to reach us with cool ideas!
+
+All the code in the notebooks is written using python3.7. We primarily use the standard scientific libraries of python (numpy, spicy, matplotlib) which are included in the anaconda3 and miniconda3 distributions.
+
+
+## Location {#location}
+
+<https://dpotoyan.github.io/Chem324/intro>
+
+<https://github.com/DPotoyan/Chem324>
+
+
+## Authors {#authors}
+
+Davit Potoyan with support from Zachery Crandall
+
+
+## License {#license}
+
+Unknown

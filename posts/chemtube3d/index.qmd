@@ -1,0 +1,24 @@
+---
+title: "Chemtube3d"
+#author: "ssinglet"
+date: "2021-01-28"
+categories: ["website", "spectroscopy", "symmetry"]
+---
+
+From the website:
+
+> ChemTube3D contains interactive 3D chemistry animations and structures, with supporting information, for students studying some of the most important topics in advanced school chemistry and university chemistry courses.
+>
+> There are currently ca. 2400 pages in ChemTube3D. ChemTube3D.com has been available to the public as an Open Educational Resource since January 2008. In the period up to June 2019 there had been 4.8 million visitors to the site from 216 different countries.
+
+
+## Location {#location}
+
+<https://www.chemtube3d.com/>
+
+Accessed 2021-01-28
+
+
+## License {#license}
+
+ChemTube3D by Nick Greeves is licensed under a [Creative Commons Attribution-Noncommercial-Share Alike 2.0 UK: England &amp; Wales License](https://creativecommons.org/licenses/by-nc-sa/2.0/uk/)

@@ -1,0 +1,28 @@
+---
+title: "Mathematical Methods for Molecular Science"
+#author: "ssinglet"
+date: "2022-04-22T00:00:00-05:00"
+categories: ["book"]
+image: mathematical-methods-molecular-science.png
+---
+
+![](mathematical-methods-molecular-science.png){}
+
+Forward: It is widely acknowledged that the traditional calculus sequence required of most molecular science majors, consisting of a year of differential and integral calculus and possibly a semester of multivariate calculus, does not provide the mathematical background needed for success in the quantum mechanics and statistical thermodynamics courses that follow. Mathematical Methods for Molecular Science is designed to support a one semester course that builds on the introductory calculus sequence and covers critical topics in multivariate calculus, ordinary differential equations, partial differential equations, harmonic analysis, linear algebra, and group theory.
+
+
+## Location {#location}
+
+<https://sites.bu.edu/straub/mathematical-methods-for-molecular-science/>
+
+<https://unitcirclepress.com/>
+
+
+## Author {#author}
+
+John E. Straub, Boston University
+
+
+## License {#license}
+
+[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)

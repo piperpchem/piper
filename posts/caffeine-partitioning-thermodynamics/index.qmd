@@ -1,0 +1,25 @@
+---
+title: "Project-Based Experiment in a Physical Chemistry Teaching Laboratory: Ion Effects on Caffeine Partitioning Thermodynamics"
+#author: "ssinglet"
+date: "2022-02-06T00:00:00-06:00"
+categories: ["lab", "thermo"]
+image: caffeine-thermodynamics.gif
+---
+
+![](caffeine-thermodynamics.gif){width="70%"}
+
+The Hofmeister series is a recurring trend that ranks ions’ abilities to influence various aqueous processes in solution. Herein, a set of project-based experiments was developed for students in an upper-level physical chemistry laboratory to investigate the specific ion effects on the thermodynamics of caffeine partitioning between aqueous and cyclohexane phases. Students obtained the standard Gibbs free energy for caffeine partitioning in the presence of eight sodium salts in the aqueous phase at varied temperatures. The standard enthalpy and entropy for caffeine partitioning were obtained by plotting the standard Gibbs free energy vs temperature for each salt. Students then identified the trends in the thermodynamics for caffeine partitioning and explored the correlation between anions’ properties and their influence on caffeine partitioning thermodynamic parameters. This project-based laboratory allowed students to gain a deep understanding of ion properties in solution and learn how the Hofmeister ions affect various aqueous processes. It also helped students internalize some fundamental concepts in thermodynamics such as standard Gibbs free energy, enthalpy, and entropy.
+
+Supporting Information includes students’ raw data, correlation plots for strongly hydrated anions, and notes for instructors.
+
+
+## Citation {#citation}
+
+Bradley A. Rogers and Yanjie Zhang
+
+Journal of Chemical Education 2020 97 (11), 4173-4178 DOI: https://doi.org/10.1021/acs.jchemed.0c00961
+
+
+## License {#license}
+
+Article text copyright American Chemical Society and Division of Chemical Education, Inc.

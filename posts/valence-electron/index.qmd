@@ -1,0 +1,50 @@
+---
+title: "What makes an electron a valence electron?"
+#author: "Melissa Reeves"
+date: "2020-07-09T14:31:00-05:00"
+categories: ["lab", "quantum", "computational"]
+---
+
+This experiment investigates the origins of homonuclear diatomic molecular orbitals as well as the appearance of the diatomic potential energy curve through the use of computational chemistry.
+
+
+## Learning Objectives {#learning-objectives}
+
+**Content Objectives**
+
+Students will be able to:
+
+-   create quantitative orbital energy diagrams for atoms and molecules from calculations using a spreadsheet.
+-   articulate the factors that control bond length. (total energy and orbital energies.)
+-   explain periodic trends in molecular orbital energies across a series of diatomic molecules.
+
+**Process Objectives**
+
+Students will be able to:
+
+-   cooperatively organize data to form a coherent visual display
+-   generate and analyze quantitative graphical depictions of data (in ways other than x-y plots).
+
+
+## Location {#location}
+
+[https://drive.google.com/file/d/0B9eKUY5kLiYoQmlKSUxnTU5nZW8/view?usp=sharing](https://drive.google.com/file/d/0B9eKUY5kLiYoQmlKSUxnTU5nZW8/view?usp=sharing)
+
+Instructor's handbook available by request.
+
+## Author {#author}
+
+Melissa Reeves, Tuskeegee University
+
+
+## License {#license}
+
+This work is licensed under the Creative Commons
+Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy
+of this license, visit <http://creativecommons.org/licenses/by-nc-sa/4.0/> or send
+a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+
+
+## Status {#status}
+
+Reviewed

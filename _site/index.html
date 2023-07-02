@@ -1,0 +1,3000 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.3.353">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>PIPER: Resources for Teaching Physical Chemistry</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<link href="./images/profile.png" rel="icon" type="image/png">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
+<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit"
+  }
+}</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-image','listing-date','listing-title','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      page: 18,
+    pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<link rel="alternate" type="application/rss+xml" title="PIPER: Resources for Teaching Physical Chemistry" href="index.xml"></head>
+
+<body class="nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container">
+    <a class="navbar-brand" href="./index.html">
+    <span class="navbar-title">PIPER: Resources for Teaching Physical Chemistry</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="./about.html" rel="" target="">
+ <span class="menu-text">About</span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="./index.xml" rel="" target=""><i class="bi bi-rss-fill" role="img" aria-label="RSS">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
+</ul>
+            <div class="quarto-navbar-tools">
+  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
+</div>
+          </div> <!-- /navcollapse -->
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(112)</span></div><div class="category" data-category="article">article <span class="quarto-category-count">(20)</span></div><div class="category" data-category="bonding">bonding <span class="quarto-category-count">(2)</span></div><div class="category" data-category="book">book <span class="quarto-category-count">(9)</span></div><div class="category" data-category="classroom">classroom <span class="quarto-category-count">(8)</span></div><div class="category" data-category="climate">climate <span class="quarto-category-count">(3)</span></div><div class="category" data-category="computational">computational <span class="quarto-category-count">(20)</span></div><div class="category" data-category="computing">computing <span class="quarto-category-count">(45)</span></div><div class="category" data-category="dataset">dataset <span class="quarto-category-count">(8)</span></div><div class="category" data-category="demos">demos <span class="quarto-category-count">(2)</span></div><div class="category" data-category="jupyter">jupyter <span class="quarto-category-count">(23)</span></div><div class="category" data-category="kinetics">kinetics <span class="quarto-category-count">(9)</span></div><div class="category" data-category="lab">lab <span class="quarto-category-count">(30)</span></div><div class="category" data-category="matlab">matlab <span class="quarto-category-count">(2)</span></div><div class="category" data-category="mol dynamics">mol dynamics <span class="quarto-category-count">(4)</span></div><div class="category" data-category="nmr">nmr <span class="quarto-category-count">(5)</span></div><div class="category" data-category="nuclear">nuclear <span class="quarto-category-count">(1)</span></div><div class="category" data-category="phase change">phase change <span class="quarto-category-count">(2)</span></div><div class="category" data-category="python">python <span class="quarto-category-count">(25)</span></div><div class="category" data-category="quantum">quantum <span class="quarto-category-count">(15)</span></div><div class="category" data-category="spectroscopy">spectroscopy <span class="quarto-category-count">(19)</span></div><div class="category" data-category="stat-mech">stat-mech <span class="quarto-category-count">(4)</span></div><div class="category" data-category="symmetry">symmetry <span class="quarto-category-count">(3)</span></div><div class="category" data-category="thermo">thermo <span class="quarto-category-count">(15)</span></div><div class="category" data-category="video">video <span class="quarto-category-count">(3)</span></div><div class="category" data-category="website">website <span class="quarto-category-count">(21)</span></div></div></div>
+<!-- main -->
+<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
+
+
+
+
+
+
+
+<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+     <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+       <option value="" disabled="" selected="" hidden="">Order By</option>
+       <option value="index" data-direction="asc">Default</option>
+         <option value="listing-title" data-direction="asc">
+          Title
+        </option>
+         <option value="listing-date-sort" data-direction="asc">
+          Date - Oldest
+        </option>
+         <option value="listing-date-sort" data-direction="desc">
+          Date - Newest
+        </option>
+     </select>
+  </div>
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filter">
+    </div>
+</div>
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="computing,python,jupyter,quantum,climate" data-listing-date-sort="1687237200000" data-listing-file-modified-sort="1687357018664" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3">
+<a href="./posts/quantum-mechanics-polar-spectra/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./posts/quantum-mechanics-polar-spectra/quantum-mechanics-polar-spectra.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Quantum mechanics: Polar spectra
+</h5>
+<div class="card-text listing-description">
+Students learn about the greenhouse effect by examining a “forbidden” rovibrational band in the infrared emission spectra of Earth’s atmosphere, recorded from the surface at…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Jun 20, 2023
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="computing,python,jupyter" data-listing-date-sort="1686114000000" data-listing-file-modified-sort="1687357001940" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<a href="./posts/opening-the-density-functional-black-box/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./posts/opening-the-density-functional-black-box/opening-black-box.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Opening the Density-Functional Theory Black Box
+</h5>
+<div class="card-text listing-description">
+Density-Functional Theory (DFT) is indubitably the most popular and among the most successful approaches for approximately solving the many-electron Schrödinger equation.…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Jun 7, 2023
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="2" data-categories="lab,nmr,spectroscopy" data-listing-date-sort="1685163600000" data-listing-file-modified-sort="1687296447809" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<a href="./posts/estimating-quantum-dot-size/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./posts/estimating-quantum-dot-size/estimating-quantum-dot-size.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Estimating Quantum Dot Size with Pulsed Field Gradient NMR
+</h5>
+<div class="card-text listing-description">
+Pulsed field gradient nuclear magnetic resonance (NMR) is used to estimate the size of quantum dots (QDs) produced in a simple, fast, small-scale synthesis. This…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+May 27, 2023
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="3" data-categories="article" data-listing-date-sort="1683349200000" data-listing-file-modified-sort="1684547686522" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<a href="./posts/from-integrated-rate-laws-to-integrating-rate-laws/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./posts/from-integrated-rate-laws-to-integrating-rate-laws/from-integrated-rate-laws.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+From Integrated Rate Laws to Integrating Rate Laws: Computation as a Conceptual Catalyst
+</h5>
+<div class="card-text listing-description">
+When learning chemistry, students must learn to extract chemical information from mathematical expressions. However, chemistry students’ exposure to mathematics often comes…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+May 6, 2023
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="4" data-categories="article,classroom" data-listing-date-sort="1683349200000" data-listing-file-modified-sort="1684547686490" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<a href="./posts/the-challenges-and-value-of-oral-exams-pchem/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./posts/the-challenges-and-value-of-oral-exams-pchem/challenges-and-value-oral-exams.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+The Challenges and Value of Undergraduate Oral Exams in the Physical Chemistry Classroom: A Useful Tool in the Assessment Toolbox
+</h5>
+<div class="card-text listing-description">
+The COVID-19 pandemic illuminated challenges with assessment, especially in online environments that threaten academic integrity. In the wake of the pandemic, faculty in…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+May 6, 2023
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="5" data-categories="computing,python,jupyter,mol dynamics" data-listing-date-sort="1682744400000" data-listing-file-modified-sort="1684547686522" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<a href="./posts/making-it-rain/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./posts/making-it-rain/making-it-rain.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Making-it-rain
+</h5>
+<div class="card-text listing-description">
+A repository of Jupyter notebook scripts for running Molecular Dynamics (MD) simulations using OpenMM engine and AMBER and CHARMM force fields files on Google Colab.…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Apr 29, 2023
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="6" data-categories="article,lab" data-listing-date-sort="1682226000000" data-listing-file-modified-sort="1684547686510" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<a href="./posts/development-and-implementation-two-level-lab/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./posts/development-and-implementation-two-level-lab/development-and-implentation-two-level-lab.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Development and Implementation of a Two-Level Inquiry- and Project-Based Modular Approach to Teaching a Second-Semester Physical Chemistry Laboratory Course
+</h5>
+<div class="card-text listing-description">
+Over the past 20 years, significant effort has been devoted to advancing the modular approach to teaching chemistry laboratory courses. The development and implementation of…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Apr 23, 2023
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="7" data-categories="website,quantum,python" data-listing-date-sort="1682139600000" data-listing-file-modified-sort="1684547686526" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<a href="./posts/introduction-to-quantum-mechanics-dpatoyan/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./posts/introduction-to-quantum-mechanics-dpatoyan/intro-quantum-mechanics-dpatoyan.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Introduction to Quantum Mechanics
+</h5>
+<div class="card-text listing-description">
+These lecture notes incorporate interactive numerical computing visualization, and other media alongside the traditional lecture material. This integrated approach allows…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Apr 22, 2023
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="8" data-categories="computing,python,jupyter,thermo,phase change" data-listing-date-sort="1679720400000" data-listing-file-modified-sort="1684555507609" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<a href="./posts/thermodynamics-sea-ice-melt/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./posts/thermodynamics-sea-ice-melt/sea-ice.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Thermodynamics: Sea ice melt
+</h5>
+<div class="card-text listing-description">
+Students learn about thermodynamics topics through calculation of the amount of heat required to melt Arctic sea ice. They start by watching an online animation of changing…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Mar 25, 2023
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="9" data-categories="lab,computational" data-listing-date-sort="1678942800000" data-listing-file-modified-sort="1684547686478" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<a href="./posts/pchem-understanding-greenhouse-effect/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./posts/pchem-understanding-greenhouse-effect/pchem-understanding-greenhouse-effect.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Physical Chemistry in Context: Using Quantum Mechanics to Understand the Greenhouse Effect
+</h5>
+<div class="card-text listing-description">
+The concepts taught in an undergraduate physical chemistry course are directly related to the molecular processes governing climate change, yet the connections between…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Mar 16, 2023
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="10" data-categories="lab,nmr,thermo" data-listing-date-sort="1678856400000" data-listing-file-modified-sort="1684555679045" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<a href="./posts/temp-dependence-monomer-dimer-equilibrium/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./posts/temp-dependence-monomer-dimer-equilibrium/temp-dependence-monomer-dimer-equilibrium.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+An Investigation of the Temperature Dependence of a Monomer−Dimer Equilibrium Using UV−Vis and 1H NMR Spectroscopies
+</h5>
+<div class="card-text listing-description">
+A laboratory experiment in which 1H NMR and UV−vis spectroscopies are applied to probe the temperature dependence of a monomer−dimer equilibrium involving a…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Mar 15, 2023
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="11" data-categories="computing,computational,article" data-listing-date-sort="1673762400000" data-listing-file-modified-sort="1684547686518" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<a href="./posts/practical-computational-chemistry-course/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./posts/practical-computational-chemistry-course/practical-computational-chemistry-course.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Practical Computational Chemistry Course for a Comprehensive Understanding of Organic, Inorganic, and Physical Chemistry: From Molecular Interactions to Chemical Reactions
+</h5>
+<div class="card-text listing-description">
+Abstract:
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Jan 15, 2023
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="12" data-categories="computing,python,thermo" data-listing-date-sort="1673676000000" data-listing-file-modified-sort="1684552970023" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<a href="./posts/interactive-python-notebooks-for-physical-chemistry/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./posts/interactive-python-notebooks-for-physical-chemistry/interactive-notebooks-pchem.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Interactive Python Notebooks for Physical Chemistry
+</h5>
+<div class="card-text listing-description">
+These interactive exercises employ the Python programming language to explore a variety of chemical problems related to kinetics, the Maxwell–Boltzmann distribution…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Jan 14, 2023
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="13" data-categories="computing,computational" data-listing-date-sort="1672642800000" data-listing-file-modified-sort="1684547686502" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<a href="./posts/applying-density-functional-theory-to-common-organic/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./posts/applying-density-functional-theory-to-common-organic/applying-density-functional-theory-to-common-organic.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Applying Density Functional Theory to Common Organic Mechanisms: A Computational Exercise
+</h5>
+<div class="card-text listing-description">
+A computational experiment investigating common organic chemistry mechanisms has been developed and implemented in a junior/senior-level physical chemistry laboratory course…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Jan 2, 2023
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="14" data-categories="dataset" data-listing-date-sort="1670392800000" data-listing-file-modified-sort="1687382301043" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<a href="./posts/high-resolution-co2-spectra/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./posts/high-resolution-co2-spectra/carbon_dioxide_ir.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+High-Resolution Vibration–Rotation Spectrum of CO₂
+</h5>
+<div class="card-text listing-description">
+High resolution CO<sub>2</sub> IR absorption spectra at 330K and 360K acquired with a mid-infrared lead-salt diode laser and InSb detector.
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Dec 7, 2022
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="15" data-categories="website,dataset,spectroscopy" data-listing-date-sort="1670392800000" data-listing-file-modified-sort="1687393605091" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<a href="./posts/hitran-website/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./posts/hitran-website/hitran.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+HITRAN
+</h5>
+<div class="card-text listing-description">
+HITRAN is an acronym for high-resolution transmission molecular absorption database. HITRAN is a compilation of spectroscopic parameters that a variety of computer codes use…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Dec 7, 2022
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="16" data-categories="website,stat-mech,python" data-listing-date-sort="1669874400000" data-listing-file-modified-sort="1684549021821" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<a href="./posts/statistical_mechanics_for_chemistry_and_biology/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./posts/statistical_mechanics_for_chemistry_and_biology/statistical_mechanics_chemistry_and_biology.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Statistical Mechanics for Chemistry and Biology
+</h5>
+<div class="card-text listing-description">
+This website hosts jupyter notebooks containing lectures…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Dec 1, 2022
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="17" data-categories="lab,spectroscopy" data-listing-date-sort="1668837600000" data-listing-file-modified-sort="1684547686522" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<a href="./posts/gas-phase-ir-pcl/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./posts/gas-phase-ir-pcl/gas-phase-ir-pcl.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Encouraging Student Engagement by Using a POGIL Framework for a Gas-Phase IR Physical Chemistry Laboratory Experiment
+</h5>
+<div class="card-text listing-description">
+A version of the classic rotationally resolved infrared (IR) spectrum of a diatomic molecule experiment has been developed using the POGIL framework to more fully engage…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Nov 19, 2022
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="18" data-categories="computing,computational" data-listing-date-sort="1668837600000" data-listing-file-modified-sort="1684547686514" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<a href="./posts/high-performance-computational-chemistry/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./posts/high-performance-computational-chemistry/high-performance-computing.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+High-Performance Computational Chemistry in Undergraduate Physical Chemistry: Exercises in Homonuclear Diatomic Molecules
+</h5>
+<div class="card-text listing-description">
+Computational chemistry exercises that are designed to be incorporated into an undergraduate physical chemistry course. This activity teaches computational chemistry as it…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Nov 19, 2022
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="19" data-categories="lab,spectroscopy,quantum" data-listing-date-sort="1668837600000" data-listing-file-modified-sort="1687355404206" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<a href="./posts/hydrogen-atom-pcl-experiment/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./posts/hydrogen-atom-pcl-experiment/hatom-elevel-diagram.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+What does the emission spectrum of the hydrogen atom reveal about its energy levels?
+</h5>
+<div class="card-text listing-description">
+A guided-inquiry approach to the classic hydrogen atom emission spectrum…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Nov 19, 2022
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="20" data-categories="computing,computational,lab,website,quantum,mol dynamics" data-listing-date-sort="1668578400000" data-listing-file-modified-sort="1685226748352" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<a href="./posts/chemcompute/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./posts/chemcompute/chemcompute.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Chem Compute
+</h5>
+<div class="card-text listing-description">
+The Chem Compute website allows students to easily access state-of-the-art computational software for free. Our hope is that this will enable faculty to…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Nov 16, 2022
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="21" data-categories="computing,jupyter,quantum,computational,python" data-listing-date-sort="1668146400000" data-listing-file-modified-sort="1684547686514" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<a href="./posts/echem-a-notebook-exploration/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./posts/echem-a-notebook-exploration/echem-a-notebook.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+echem: A notebook exploration of quantum chemistry from laptop to HPC
+</h5>
+<div class="card-text listing-description">
+The eChem project features an e-book published as a web page (https://bit.ly/e-chem), collecting a repository of Jupyter notebooks developed for the dual purpose of explaining and exploring the underlying theory behind computational chemistry in a highly…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Nov 11, 2022
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="22" data-categories="lab,kinetics" data-listing-date-sort="1667624400000" data-listing-file-modified-sort="1684547686486" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<a href="./posts/effect-of-methyl-halides/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./posts/effect-of-methyl-halides/effect-of-methyl-halides.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Effect of Methyl Halides on the Luminol Sonochemiluminescence Reaction: An Experimental Approach to Introduce Sonochemistry to Undergraduate Students
+</h5>
+<div class="card-text listing-description">
+The rate of the sonochemiluminescence reaction of luminol in alkaline medium can be increased in the presence of carbon tetrachloride, chloroform, and bromoform. The…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Nov 5, 2022
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="23" data-categories="lab,nmr" data-listing-date-sort="1664341200000" data-listing-file-modified-sort="1684555588477" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<a href="./posts/students-thinking-like-physical-chemists/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./posts/students-thinking-like-physical-chemists/students-thinking-like-physical-chemists.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Students Thinking Like Physical Chemists Using an Inquiry-Based NMR Experiment
+</h5>
+<div class="card-text listing-description">
+A revised version of a traditional physical chemistry laboratory experiment has been developed to enhance student discussion in the laboratory and to improve students’…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Sep 28, 2022
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="24" data-categories="computing,jupyter,python" data-listing-date-sort="1662181200000" data-listing-file-modified-sort="1684547686474" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<a href="./posts/lennard-jones-fluid-simulation/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./posts/lennard-jones-fluid-simulation/lennard-jones-fluid.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Foregrounding the code: Computational chemistry instructional activities using a highly readable fluid simulation code
+</h5>
+<div class="card-text listing-description">
+Motivated by the need for instructional activities that provide hands-on experience with computer code, a pair of activities were created around a free lightweight (runs on…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Sep 3, 2022
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="25" data-categories="computing,matlab" data-listing-date-sort="1655960400000" data-listing-file-modified-sort="1684547686494" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<a href="./posts/ultrafast-laser-pulse-generation/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./posts/ultrafast-laser-pulse-generation/ultrafast-laser-pulse-generation.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Ultrafast Laser Pulse Generation by Mode Locking: Matlab-based Demonstrations
+</h5>
+<div class="card-text listing-description">
+Ultrafast laser spectroscopy is a valuable and increasingly accessible technique for studies of rapid chemical reactions. Critical to ultrafast spectroscopy is the concept…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Jun 23, 2022
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="26" data-categories="computing,computational" data-listing-date-sort="1653022800000" data-listing-file-modified-sort="1684547686518" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<a href="./posts/best-practice-dft-protocols/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./posts/best-practice-dft-protocols/best-practice-dft-protocols.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Best Practice DFT Protocols for Basic Molecular Computational Chemistry
+</h5>
+<div class="card-text listing-description">
+Nowadays, many chemical investigations can be supported theoretically by routine molecular structure calculations, conformer ensembles, reaction energies, barrier heights…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+May 20, 2022
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="27" data-categories="article" data-listing-date-sort="1652936400000" data-listing-file-modified-sort="1684553918412" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<a href="./posts/anesthesia-as-a-theme/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./posts/anesthesia-as-a-theme/anesthesia-theme.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Anesthesia as a Theme for Context-Based Learning in a Physical Chemistry Short Course
+</h5>
+<div class="card-text listing-description">
+Of the three main subdivisions in chemistry, physical chemistry often presents a challenge when delivered to those not majoring in chemistry or its cognate disciplines. This…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+May 19, 2022
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="28" data-categories="website,quantum" data-listing-date-sort="1651726800000" data-listing-file-modified-sort="1684547686510" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<a href="./posts/orbital-explorer/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./posts/orbital-explorer/orbital-explorer.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Orbital Explorer and BingOrbital
+</h5>
+<div class="card-text listing-description">
+An online suite of tools that enables inquiry-based active-learning activities to develop students’ representational competence about atomic orbitals. Orbital Explorer is a…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+May 5, 2022
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="29" data-categories="computing,python,jupyter,computational" data-listing-date-sort="1651554000000" data-listing-file-modified-sort="1684547686482" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<a href="./posts/ensembler/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./posts/ensembler/ensembler.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Ensembler: A python package for teaching molecular simulations
+</h5>
+<div class="card-text listing-description">
+Ensembler is a python package that allows fast and easy access to one and two-dimensional model systems simulations. It enables method development using small test systems…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+May 3, 2022
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="30" data-categories="lab,kinetics" data-listing-date-sort="1651554000000" data-listing-file-modified-sort="1684547686502" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<a href="./posts/kinetic-analysis-of-covid-19/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./posts/kinetic-analysis-of-covid-19/kinetic-analysis-of-covid-19.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Teaching undergraduate physical chemistry lab with kinetic analysis of COVID-19 in the United States
+</h5>
+<div class="card-text listing-description">
+A physical chemistry lab for undergraduate students described in this report is about applying kinetic models to analyze the spread of COVID-19 in the United States and…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+May 3, 2022
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="31" data-categories="lab,computing" data-listing-date-sort="1651554000000" data-listing-file-modified-sort="1684547686510" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<a href="./posts/multivariable-model-fitting/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./posts/multivariable-model-fitting/multivariable-model-fitting.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Multivariable Model Fitting as Applied to Air, a Physical Chemistry Experiment
+</h5>
+<div class="card-text listing-description">
+Students in an upper-level physical chemistry course utilized an open-sourced statistical software package to construct models fitted to experimental pressure–volume data.…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+May 3, 2022
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="32" data-categories="lab,spectroscopy,computational,symmetry" data-listing-date-sort="1651554000000" data-listing-file-modified-sort="1684547686502" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<a href="./posts/raman-spectroscopy-group-theory/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./posts/raman-spectroscopy-group-theory/raman-spectroscopy-group-theory.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Raman Spectroscopy, Group Theory, and Computational Chemistry: A Physical Chemistry Laboratory Experiment on para-Difluorobenzene
+</h5>
+<div class="card-text listing-description">
+An experiment for the undergraduate physical chemistry laboratory is described in which the Raman spectrum of liquid para-difluorobenzene is recorded and assigned. A density…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+May 3, 2022
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="33" data-categories="lab,computational,thermo" data-listing-date-sort="1651122000000" data-listing-file-modified-sort="1684547686514" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<a href="./posts/compuational-cost-and-accuracy/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="images/image-placeholder.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+An Undergraduate Chemistry Lab Exploring Computational Cost and Accuracy: Methane Combustion Energy
+</h5>
+<div class="card-text listing-description">
+Over the past half century, computational chemistry has evolved from a niche field to a ubiquitous pillar of modern chemical research. Driven by the increased demand for…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Apr 28, 2022
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="34" data-categories="dataset,spectroscopy" data-listing-date-sort="1650603600000" data-listing-file-modified-sort="1684548618457" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<a href="./posts/highres-hcl-dcl-ir-spectra/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./posts/highres-hcl-dcl-ir-spectra/hcl-dcl-irSpectra.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+HCl and DCl IR absorption spectra
+</h5>
+<div class="card-text listing-description">
+PDF files of peak-labeled, high resolution (&lt;0.17 cm<span class="math inline">\(^{-1}\)</span> ) IR absorption spectra of HCl and DCl. Spectra were collected on a…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Apr 22, 2022
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="35" data-categories="book" data-listing-date-sort="1650603600000" data-listing-file-modified-sort="1684547686506" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<a href="./posts/mathematical-methods-molecular-science/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./posts/mathematical-methods-molecular-science/mathematical-methods-molecular-science.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Mathematical Methods for Molecular Science
+</h5>
+<div class="card-text listing-description">
+Forward: It is widely acknowledged that the traditional calculus sequence required of most molecular science majors, consisting of a year of differential and integral…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Apr 22, 2022
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="36" data-categories="computing,python,jupyter,thermo" data-listing-date-sort="1650517200000" data-listing-file-modified-sort="1684547686482" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<a href="./posts/google-colab-and-virtual-simulations/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./posts/google-colab-and-virtual-simulations/google-colab-and-virtual-simulations.gif" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Google Colab and Virtual Simulations: Practical e-Learning Tools to Support the Teaching of Thermodynamics and to Introduce Coding to Students
+</h5>
+<div class="card-text listing-description">
+Various studies have reported the versatility and great scope of programming tools in all areas of knowledge. Coding is generally of paramount importance to chemistry…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Apr 21, 2022
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="37" data-categories="computing,matlab,kinetics" data-listing-date-sort="1650517200000" data-listing-file-modified-sort="1684547686486" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<a href="./posts/multiphase-kinetic-multilayer/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./posts/multiphase-kinetic-multilayer/multiphase-kinetic-multilayer.gif" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Multiphase Kinetic Multilayer Model Interfaces for Simulating Surface and Bulk Chemistry for Environmental and Atmospheric Chemistry Teaching
+</h5>
+<div class="card-text listing-description">
+This paper presents MATLAB user interfaces for two multiphase kinetic models: the kinetic double-layer model of aerosol surface chemistry and gas–particle interactions…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Apr 21, 2022
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="38" data-categories="computing,computational,article" data-listing-date-sort="1650344400000" data-listing-file-modified-sort="1684547686514" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<a href="./posts/devil-in-details/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./posts/devil-in-details/devil-in-details.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+The Devil in the Details: What Everybody Should Know When Running DFT Calculations
+</h5>
+<div class="card-text listing-description">
+Density functional theory (DFT) has rapidly became the method of choice for the calculation of the electronic structure of atoms and molecules in both the teaching and the…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Apr 19, 2022
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="39" data-categories="website,quantum" data-listing-date-sort="1650344400000" data-listing-file-modified-sort="1684547686514" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<a href="./posts/falstad-applets/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./posts/falstad-applets/falstad-applets2.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Falstad Teaching Applets
+</h5>
+<div class="card-text listing-description">
+These are some educational applets to help visualize various concepts in math, physics…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Apr 19, 2022
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="40" data-categories="computing,python,jupyter" data-listing-date-sort="1649566800000" data-listing-file-modified-sort="1684547686526" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<a href="./posts/intro-machine-learning-for-chemists/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./posts/intro-machine-learning-for-chemists/intro-machine-learning-chemists.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Introduction to Machine Learning for chemists: An undergraduate course using Python notebooks for visualization, data processing, data analysis, and data modeling
+</h5>
+<div class="card-text listing-description">
+Machine Learning, a subdomain of Artificial intelligence, is a pervasive technology that would mold how chemists interact with data. Therefore, it is a relevant skill to…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Apr 10, 2022
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="41" data-categories="article" data-listing-date-sort="1649221200000" data-listing-file-modified-sort="1684547686502" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<a href="./posts/analysis-of-learning-centeredness/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./posts/analysis-of-learning-centeredness/analysis-of-student-centeredness.gif" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Analysis of the Learning-Centeredness of Physical Chemistry Syllabi
+</h5>
+<div class="card-text listing-description">
+Abstract: Students’ negative perceptions of physical chemistry courses are well-known and are likely impacting their learning and performance in this upper-division course…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Apr 6, 2022
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="42" data-categories="article,thermo,classroom" data-listing-date-sort="1648789200000" data-listing-file-modified-sort="1684547686506" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<a href="./posts/conceptual-conservation-of-energy/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./posts/conceptual-conservation-of-energy/conceptual-conservation-of-energy.jpeg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Development of an interdisciplinary conceptual conservation of energy theme for use in undergraduate physics, chemistry, and biology courses
+</h5>
+<div class="card-text listing-description">
+An ongoing need exists for the creation of interdisciplinary working groups in the sciences and development of pedagogical approaches to content themes that tie together…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Apr 1, 2022
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="43" data-categories="lab,computing,spectroscopy,jupyter,python" data-listing-date-sort="1648789200000" data-listing-file-modified-sort="1684547686514" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<a href="./posts/machine-learning-for-functional-group/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="images/image-placeholder.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Machine learning for functional group identification in vibrational spectroscopy: A pedagogical lab for undergraduate chemistry students
+</h5>
+<div class="card-text listing-description">
+Abstract: Techniques from the branch of artificial intelligence known as machine learning (ML) have been applied to a wide range of problems in chemistry. Nonetheless, there…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Apr 1, 2022
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="44" data-categories="article,computational" data-listing-date-sort="1648789200000" data-listing-file-modified-sort="1684547686522" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<a href="./posts/teaching-enzyme-catalysis/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="images/image-placeholder.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Teaching Enzyme Catalysis Using an Open Source Framework for Interactive Molecular Dynamics in Virtual Reality
+</h5>
+<div class="card-text listing-description">
+The reemergence of virtual reality (VR) in the last few years has led to affordable commodity hardware that can offer new ways to teach, communicate and engage with…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Apr 1, 2022
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="45" data-categories="computing,computational,article" data-listing-date-sort="1648616400000" data-listing-file-modified-sort="1684547686502" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<a href="./posts/free-and-open-source-software/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="images/image-placeholder.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Free and Open Source Software for Computational Chemistry Education
+</h5>
+<div class="card-text listing-description">
+Long in the making, computational chemistry for the masses is finally here. Our brief review on free and open source software (FOSS) packages points out the existence of…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Mar 30, 2022
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="46" data-categories="lab,thermo" data-listing-date-sort="1648357200000" data-listing-file-modified-sort="1684547686518" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<a href="./posts/physics-chemistry-heat-pad/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./posts/physics-chemistry-heat-pad/physics-chemistry-heat-pad.jpeg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+The physics and the chemistry of the heat pad
+</h5>
+<div class="card-text listing-description">
+Flexing a metallic disk triggers the crystallization of the supercooled sodium acetate solution contained in commercial heat pads. Many mechanisms have been proposed to…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Mar 27, 2022
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="47" data-categories="computing,python" data-listing-date-sort="1648270800000" data-listing-file-modified-sort="1684553563243" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<a href="./posts/algebra-with-sympy/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./posts/algebra-with-sympy/algebra-with-sympy.svg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Algebra with Sympy
+</h5>
+<div class="card-text listing-description">
+This tool defines relations that all high school and college students would recognize as mathematical equations. They consist of a left hand side (lhs) and a right hand side…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Mar 26, 2022
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="48" data-categories="computing,jupyter,python" data-listing-date-sort="1647925200000" data-listing-file-modified-sort="1684547686482" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<a href="./posts/pandas-gui/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./posts/pandas-gui/pandas-gui.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Pandas GUI
+</h5>
+<div class="card-text listing-description">
+This package provides GUI tools to help the user construct Pandas and Python expressions to create things such as new calculated columns, plots or fits. The…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Mar 22, 2022
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="49" data-categories="website" data-listing-date-sort="1647925200000" data-listing-file-modified-sort="1684547686506" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<a href="./posts/viper-virtual-inorganic/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./posts/viper-virtual-inorganic/viper.svg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+VIPEr Virtual Inorganic Pedagogical Electronic Resource: A community for teachers and students of inorganic chemistry
+</h5>
+<div class="card-text listing-description">
+A Community of Practice for Improving Inorganic Chemical Education
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Mar 22, 2022
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="50" data-categories="computing,computational,python,article" data-listing-date-sort="1647752400000" data-listing-file-modified-sort="1684547686526" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<a href="./posts/a-first-encounter-hartree-fock/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./posts/a-first-encounter-hartree-fock/a-first-encounter.jpeg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+A first encounter with the Hartree-Fock self-consistent-field method
+</h5>
+<div class="card-text listing-description">
+This paper is intended to serve as a bridge between introductory textbooks on quantum mechanics, which typically do not cover the Hartree-Fock self-consistent-field method…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Mar 20, 2022
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="51" data-categories="lab,spectroscopy" data-listing-date-sort="1646287200000" data-listing-file-modified-sort="1684547686514" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<a href="./posts/experimental-determination-of-boltzmann/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./posts/experimental-determination-of-boltzmann/experimental-determination-of-boltzmann.jpeg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Experimental determination of the Boltzmann constant: An undergraduate laboratory exercise for molecular physics or physical chemistry
+</h5>
+<div class="card-text listing-description">
+This article describes an undergraduate laboratory exercise that uses optical spectroscopy to determine the magnitude and the uncertainty of the Boltzmann constant kb. The…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Mar 3, 2022
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="52" data-categories="computing,article,stat-mech" data-listing-date-sort="1646028000000" data-listing-file-modified-sort="1687441042418" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<a href="./posts/tale-of-two-molecules/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./posts/tale-of-two-molecules/tale-of-two-molecules.gif" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+A Tale of Two Molecules: How the Heat Capacities of N<span class="math inline">\(_2\)</span>(g) and F<span class="math inline">\(_2\)</span>(g) Differ At High Temperature and Why Naïve Expectations Fail to Explain These Differences: A Spreadsheet Exercise for Physical Chemistry Students
+</h5>
+<div class="card-text listing-description">
+A…<span class="math inline"></span><span class="math inline"></span><span class="math inline"></span><span class="math inline"></span><span class="math inline"></span><span class="math inline"></span><span class="math inline"></span><span class="math inline"></span>
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Feb 28, 2022
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="53" data-categories="computing,thermo,jupyter,python" data-listing-date-sort="1644645600000" data-listing-file-modified-sort="1684553464082" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<a href="./posts/pytherm-applied-thermo/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./posts/pytherm-applied-thermo/pytherm-applied-thermo.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+PyTherm applied thermodynamics
+</h5>
+<div class="card-text listing-description">
+This is our project of open source computational resources for students of Applied Thermodynamics. Our…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Feb 12, 2022
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="54" data-categories="lab,spectroscopy,thermo" data-listing-date-sort="1644213600000" data-listing-file-modified-sort="1684547686514" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<a href="./posts/kitchen-pchem-lab/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./posts/kitchen-pchem-lab/kitchen-pchem-lab.gif" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+When the Kitchen Turns into a Physical Chemistry Lab
+</h5>
+<div class="card-text listing-description">
+We present our experience with transferring a four-day photometry and dye-adsorption laboratory experiment to the kitchens of students of Applied Thermodynamics from our…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Feb 7, 2022
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="55" data-categories="lab,thermo" data-listing-date-sort="1644127200000" data-listing-file-modified-sort="1684547686502" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<a href="./posts/caffeine-partitioning-thermodynamics/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./posts/caffeine-partitioning-thermodynamics/caffeine-thermodynamics.gif" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Project-Based Experiment in a Physical Chemistry Teaching Laboratory: Ion Effects on Caffeine Partitioning Thermodynamics
+</h5>
+<div class="card-text listing-description">
+The Hofmeister series is a recurring trend that ranks ions’ abilities to influence various aqueous processes in solution. Herein, a set of project-based experiments was…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Feb 6, 2022
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="56" data-categories="computing,article,quantum" data-listing-date-sort="1644040800000" data-listing-file-modified-sort="1684547686514" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<a href="./posts/open-access-quantum-dynamics/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./posts/open-access-quantum-dynamics/open-access-quantum-dynamics.gif" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Interactive Explorations for Teaching and Learning Quantum Dynamics
+</h5>
+<div class="card-text listing-description">
+While the research field of quantum dynamics (QD) benefits from advances in modern computational power, the educational field of QD paradoxically does not. We have developed…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Feb 5, 2022
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="57" data-categories="computational,nmr,lab" data-listing-date-sort="1644040800000" data-listing-file-modified-sort="1684547686510" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<a href="./posts/regiochemistry-eas/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./posts/regiochemistry-eas/regiochemistry-eas.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+An Upper Level Laboratory Exercise to Explore Computational Predictions of Regiochemistry in Electrophilic Aromatic Substitution
+</h5>
+<div class="card-text listing-description">
+Electrophilic aromatic substitution (EAS) represents an important class of reactions taught in the undergraduate organic chemistry curriculum. The EAS reaction of benzene…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Feb 5, 2022
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="58" data-categories="website,quantum" data-listing-date-sort="1643608800000" data-listing-file-modified-sort="1684547686518" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<a href="./posts/quvis/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./posts/quvis/quvis-shot.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+QuVis: The Quantum Mechanics Visualisation Project
+</h5>
+<div class="card-text listing-description">
+QuVis is a collection of research-based interactive simulations for the learning and teaching of quantum mechanics concepts ranging from the advanced high school level to…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Jan 31, 2022
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="59" data-categories="website,demos" data-listing-date-sort="1642572000000" data-listing-file-modified-sort="1684547686510" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<a href="./posts/phet-interactive-simulations/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./posts/phet-interactive-simulations/phet-interative-simulations.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+PhET Interactive Simulations
+</h5>
+<div class="card-text listing-description">
+From the Wikipedia description: PhET Interactive Simulations, a project at the University of Colorado Boulder, is a non-profit open educational resource project that creates…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Jan 19, 2022
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="60" data-categories="book,python,computing,jupyter" data-listing-date-sort="1642572000000" data-listing-file-modified-sort="1684547686494" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<a href="./posts/teaching-programming-across-chemistry/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./posts/teaching-programming-across-chemistry/teaching-programming-across-chemistry.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Teaching Programming across the Chemistry Curriculum
+</h5>
+<div class="card-text listing-description">
+Incorporating Necessary Skills for Research and Career Success. Programming and computational science is an essential part of chemistry, yet some curricula still do not…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Jan 19, 2022
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="61" data-categories="website,classroom,video,thermo,quantum,kinetics" data-listing-date-sort="1642312800000" data-listing-file-modified-sort="1684547686526" data-listing-date-modified-sort="1642312800000" data-listing-reading-time-sort="1">
+<a href="./posts/kolasinskis-physical-chemistry-youtube-channel/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="images/image-placeholder.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Kolasinski’s Physical Chemistry YouTube Channel
+</h5>
+<div class="card-text listing-description">
+Channel description:
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Jan 16, 2022
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="62" data-categories="website,video,quantum,thermo,kinetics,computational" data-listing-date-sort="1642226400000" data-listing-file-modified-sort="1684547686518" data-listing-date-modified-sort="1642312800000" data-listing-reading-time-sort="1">
+<a href="./posts/tmp-chem-youtube/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="images/image-placeholder.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+TMP Chem YouTube Channel
+</h5>
+<div class="card-text listing-description">
+The goal of TMP Chem is to provide free, high-quality physical chemistry study resources to anyone, anywhere.
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Jan 15, 2022
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="63" data-categories="computing,nuclear" data-listing-date-sort="1638511200000" data-listing-file-modified-sort="1684547686510" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<a href="./posts/computational-templates-nuclear-science/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./posts/computational-templates-nuclear-science/computational-templates-nuclear-science.gif" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Computational templates for introductory nuclear science using MathCad
+</h5>
+<div class="card-text listing-description">
+Computational templates used…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Dec 3, 2021
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="64" data-categories="website,python,computing" data-listing-date-sort="1635829200000" data-listing-file-modified-sort="1684547686522" data-listing-date-modified-sort="1635829200000" data-listing-reading-time-sort="1">
+<a href="./posts/an-introduction-to-python-for-chemistry/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="images/image-placeholder.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+An Introduction to Python for Chemistry
+</h5>
+<div class="card-text listing-description">
+An open-source project to develop an introductory textbook covering all aspects of Python programming for chemistry students (at all career positions).
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Nov 2, 2021
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="65" data-categories="computing,python,mol dynamics,computational" data-listing-date-sort="1635829200000" data-listing-file-modified-sort="1684547686526" data-listing-date-modified-sort="1635829200000" data-listing-reading-time-sort="1">
+<a href="./posts/pylj/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./posts/pylj/pylj_logo.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+pylj: python library for atomistic simulations
+</h5>
+<div class="card-text listing-description">
+From the website:
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Nov 2, 2021
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="66" data-categories="website,python,computing" data-listing-date-sort="1635829200000" data-listing-file-modified-sort="1684555422193" data-listing-date-modified-sort="1635829200000" data-listing-reading-time-sort="1">
+<a href="./posts/python-in-chemistry/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./posts/python-in-chemistry/pythoninchemistry.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Python in Chemistry
+</h5>
+<div class="card-text listing-description">
+The pythoninchemistry pages are a series of resources for students and educators alike. They aim to combine an introduction to the Python programming language with an understanding of chemistry.…<em></em><em></em>
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Nov 2, 2021
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="67" data-categories="article" data-listing-date-sort="1635051600000" data-listing-file-modified-sort="1684547686506" data-listing-date-modified-sort="1635656400000" data-listing-reading-time-sort="1">
+<a href="./posts/conversations-among-physical-chemists/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="images/image-placeholder.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Conversations among Physical Chemists: Strategies and Resources for Remote Teaching and Learning Catalyzed by a Global Pandemic
+</h5>
+<div class="card-text listing-description">
+Abstract
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Oct 24, 2021
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="68" data-categories="article" data-listing-date-sort="1635051600000" data-listing-file-modified-sort="1684547686486" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<a href="./posts/using-familiar-and-new-assessment-tools/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="images/image-placeholder.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Using Familiar and New Assessment Tools in Physical Chemistry Courses During COVID-19
+</h5>
+<div class="card-text listing-description">
+A fast track into online teaching in response to the COVID-19 crisis resulted in the author learning to use online platforms and tools to teach thermodynamics and quantum…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Oct 24, 2021
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="69" data-categories="website,stat-mech" data-listing-date-sort="1623474000000" data-listing-file-modified-sort="1684547686506" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<a href="./posts/che-420_chemical_thermodynamics/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./posts/che-420_chemical_thermodynamics/che-450_chemical_thermodynamics.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+CHE-420 Chemical Thermodynamics
+</h5>
+<div class="card-text listing-description">
+A LibreText Open Educational Resource to accompany the POGIL thermodynamics activities Thermodynamics, Statistical Mechanics &amp; Kinetics: A Guided Inquiry.
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Jun 12, 2021
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="70" data-categories="computing,jupyter,classroom" data-listing-date-sort="1623474000000" data-listing-file-modified-sort="1684547686494" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<a href="./posts/chem-1000-mathematics-for-chemistry/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="images/image-placeholder.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Chem 1000: Mathematics for Chemistry
+</h5>
+<div class="card-text listing-description">
+[These materials support a] course intended for sophomore and junior chemistry majors with a background of some calculus to prepare for physical and analytical chemistry…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Jun 12, 2021
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="71" data-categories="computing" data-listing-date-sort="1623474000000" data-listing-file-modified-sort="1684547686502" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<a href="./posts/data-driven-exercises/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="images/image-placeholder.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Data Driven Exercises
+</h5>
+<div class="card-text listing-description">
+The exercises are designed to provide supplemental exposure to select topics that are encountered in the chemistry curriculum. An attempt has been made to keep the exercises…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Jun 12, 2021
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="72" data-categories="computing,jupyter" data-listing-date-sort="1623474000000" data-listing-file-modified-sort="1684547686506" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<a href="./posts/escip/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./posts/escip/ESCIP_logo.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+ESCIP: Enhancing Science Courses by Integrating Python
+</h5>
+<div class="card-text listing-description">
+ESCIP is a collaborative dedicated to providing easy access to Jupyter Notebooks for chemistry, physics and astronomy education. We aim to build…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Jun 12, 2021
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="73" data-categories="book,thermo,kinetics,stat-mech" data-listing-date-sort="1623474000000" data-listing-file-modified-sort="1684547686478" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<a href="./posts/thermo_statmech_kinetics_guided_inquiry/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./posts/thermo_statmech_kinetics_guided_inquiry/thermo-statmech-guided-inquiry.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Thermodynamics, Statistical Mechanics &amp; Kinetics: A Guided Inquiry
+</h5>
+<div class="card-text listing-description">
+The activities presented guide students through a wide variety of topics found in a typical undergraduate treatment of Thermodynamics, Statistical Mechanics, and Kinetics.…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Jun 12, 2021
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="74" data-categories="computing,spectroscopy,article" data-listing-date-sort="1612504800000" data-listing-file-modified-sort="1684547686522" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<a href="./posts/spreadsheet-simulating-emission-spectra/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./posts/spreadsheet-simulating-emission-spectra/spreadsheet-atomic-emission-simulation.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Spreadsheet-Based Program for Simulating Atomic Emission Spectra
+</h5>
+<div class="card-text listing-description">
+A simple Excel spreadsheet-based program for simulating atomic emission spectra from the properties of neutral atoms (e.g., energies and statistical weights of the…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Feb 5, 2021
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="75" data-categories="website,spectroscopy,symmetry" data-listing-date-sort="1611813600000" data-listing-file-modified-sort="1684547686502" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<a href="./posts/chemtube3d/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="images/image-placeholder.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Chemtube3d
+</h5>
+<div class="card-text listing-description">
+From the website:
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Jan 28, 2021
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="76" data-categories="computing,computational,lab,quantum,jupyter,bonding,spectroscopy,symmetry" data-listing-date-sort="1607898180000" data-listing-file-modified-sort="1684547686498" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<a href="./posts/psi4-education-2/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./posts/psi4-education-2/psi4banner_education.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+PSI4 Education
+</h5>
+<div class="card-text listing-description">
+From the Psi4Education website:
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Dec 13, 2020
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="77" data-categories="computing,jupyter,climate,thermo" data-listing-date-sort="1607898180000" data-listing-file-modified-sort="1684547686494" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<a href="./posts/visualizing-thermodynamic-surfaces/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="images/image-placeholder.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Visualizing thermodynamic surfaces
+</h5>
+<div class="card-text listing-description">
+“Computer Guided Inquiry” activities in the form of jupyter notebooks have students develop visualization of thermodynamic surfaces. Theoretical introductions for properties…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Dec 13, 2020
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="78" data-categories="computing,kinetics,jupyter" data-listing-date-sort="1607640240000" data-listing-file-modified-sort="1684547686522" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<a href="./posts/beer-foam/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./posts/beer-foam/beer-1669295_960_720.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Beer foam kinetics
+</h5>
+<div class="card-text listing-description">
+Surely an important application of kinetic models is to understand the fate of the beer head on a pint. An effective model can be developed for a fermentation process (a…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Dec 10, 2020
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="79" data-categories="lab,spectroscopy" data-listing-date-sort="1606238520000" data-listing-file-modified-sort="1684547686510" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<a href="./posts/virtual-hendi-spectrometer/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./posts/virtual-hendi-spectrometer/virtual-hendi-spectrometer.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Virtual HeNDI Spectrometer
+</h5>
+<div class="card-text listing-description">
+This virtual Helium NanoDroplet Isolation (HeNDI) spectrometer simulates the infrared spectra of OCS molecules in liquid helium droplets. The low temperature of the…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Nov 24, 2020
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="80" data-categories="book,jupyter,python,computing" data-listing-date-sort="1597986000000" data-listing-file-modified-sort="1684555278841" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<a href="./posts/scientific-computing-for-chemists/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./posts/scientific-computing-for-chemists/scientific-computing-chemists.svg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Scientific Computing for Chemists
+</h5>
+<div class="card-text listing-description">
+An online text used for a Scientific Computing chemistry course[1] intended to teach undergraduate chemistry students basic coding in Python and Jupyter Notebooks and…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Aug 21, 2020
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="81" data-categories="website,classroom,demos,video" data-listing-date-sort="1595274180000" data-listing-file-modified-sort="1684547686514" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="11">
+<a href="./posts/pchem-demo-videos-selco/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="images/image-placeholder.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Chemistry demonstration videos
+</h5>
+<div class="card-text listing-description">
+Introductory contexts for an online physical chemistry course.
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Jul 20, 2020
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="82" data-categories="dataset,nmr,spectroscopy" data-listing-date-sort="1595268540000" data-listing-file-modified-sort="1684547686510" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<a href="./posts/nmr-keto-enol-spectra/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="images/image-placeholder.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+NMR spectra of 2,4-pentanedione keto-enol
+</h5>
+<div class="card-text listing-description">
+NMR spectra…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Jul 20, 2020
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="83" data-categories="article,lab" data-listing-date-sort="1594327320000" data-listing-file-modified-sort="1684547686514" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4">
+<a href="./posts/articles-on-remote-lab-instruction/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="images/image-placeholder.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Articles related to virtual/remote laboratory instruction
+</h5>
+<div class="card-text listing-description">
+Compiled by Mary Emenike, submitted by Mark Muñiz, Rutgers University.
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Jul 9, 2020
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="84" data-categories="lab,thermo,spectroscopy" data-listing-date-sort="1594323120000" data-listing-file-modified-sort="1684547686506" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<a href="./posts/fluorescence-of-excimer-thermodynamics/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./posts/fluorescence-of-excimer-thermodynamics/pyrene-spectrum.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+What Does the Fluorescence Spectrum of an Excimer Tell You About Its Thermodynamics?
+</h5>
+<div class="card-text listing-description">
+Timing: This experiment takes two or three lab periods, each at least three hours long.
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Jul 9, 2020
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="85" data-categories="lab,kinetics" data-listing-date-sort="1594323120000" data-listing-file-modified-sort="1684547686518" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<a href="./posts/kinetic-parameters-heterogeneous-rxn/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="images/image-placeholder.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+What Are the Kinetic Parameters of a Heterogeneous Reaction?
+</h5>
+<div class="card-text listing-description">
+Heterogeneous reactions are examples of the economically important corrosion process. The reaction studied in…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Jul 9, 2020
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="86" data-categories="lab,mol dynamics,computational,computing" data-listing-date-sort="1594323060000" data-listing-file-modified-sort="1684547686510" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<a href="./posts/escapability-of-molecule/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./posts/escapability-of-molecule/md-conformation.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+What Factors Govern the Escapability of a Molecule from a Liquid?
+</h5>
+<div class="card-text listing-description">
+Many chemical experiments give us a macroscopic view of a chemical system, but we still have to develop an interpretation of what we observe in terms of the interaction…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Jul 9, 2020
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="87" data-categories="lab,spectroscopy" data-listing-date-sort="1594323060000" data-listing-file-modified-sort="1684547686490" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<a href="./posts/how-electronic-state-affects-acidity/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./posts/how-electronic-state-affects-acidity/forster-diagram.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+How Does A Molecule’s Electronic State Affect Its Acidity?
+</h5>
+<div class="card-text listing-description">
+Photochemistry is the study of the effects of light on chemistry. The fading of a dye is due to photochemistry, and photosynthesis is one of the most important examples of…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Jul 9, 2020
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="88" data-categories="lab,phase change" data-listing-date-sort="1594323060000" data-listing-file-modified-sort="1684547686494" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<a href="./posts/melting-point-binary-mixture/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./posts/melting-point-binary-mixture/eutectic.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+How Is The Freezing Point Of A Binary Mixture Of Solids Related To The Composition Of The Mixture?
+</h5>
+<div class="card-text listing-description">
+Solid mixtures have important “real-world” applications. Mixtures of lead and tin are used as solder to make jewelry, to connect copper pipes for plumbing, or to connect…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Jul 9, 2020
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="89" data-categories="lab,quantum,computational" data-listing-date-sort="1594323060000" data-listing-file-modified-sort="1687300628661" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<a href="./posts/valence-electron/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="images/image-placeholder.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+What makes an electron a valence electron?
+</h5>
+<div class="card-text listing-description">
+This experiment…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Jul 9, 2020
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="90" data-categories="website,classroom,climate" data-listing-date-sort="1594235880000" data-listing-file-modified-sort="1684547686506" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<a href="./posts/clean-network/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./posts/clean-network/CLEANbanner.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Climate Literacy and Energy Awareness Network (CLEAN)
+</h5>
+<div class="card-text listing-description">
+The CLEAN Collection of Climate and Energy Educational…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Jul 8, 2020
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="91" data-categories="computing,python,bonding,classroom,jupyter" data-listing-date-sort="1594151640000" data-listing-file-modified-sort="1684547686494" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<a href="./posts/comparing-morse-potentials-diatomics/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./posts/comparing-morse-potentials-diatomics/morse-multiple-bonds.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Comparing the Morse potentials of several diatomics
+</h5>
+<div class="card-text listing-description">
+This Jupyter notebook has been used in a classroom setting to
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Jul 7, 2020
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="92" data-categories="dataset" data-listing-date-sort="1593966420000" data-listing-file-modified-sort="1684547686482" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<a href="./posts/co2-spectrum-data/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="images/image-placeholder.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+CO₂ IR absorption spectra
+</h5>
+<div class="card-text listing-description">
+Spreadsheets with IR absorption spectra of ν1 and ν2 of CO₂. Supplemental…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Jul 5, 2020
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="93" data-categories="dataset,spectroscopy" data-listing-date-sort="1593793380000" data-listing-file-modified-sort="1684547686506" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<a href="./posts/dichloroethene-raman-data/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="images/image-placeholder.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Raman spectra of cis- and trans-1,2-dichloroethene
+</h5>
+<div class="card-text listing-description">
+Raman spectra of cis- and trans-1,2-dichloroethene. Neat liquid, through glass vial with JASCO NRS3100 confocal Raman spectrometer. Excitation wavelength 785nm.
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Jul 3, 2020
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="94" data-categories="lab,spectroscopy" data-listing-date-sort="1593789840000" data-listing-file-modified-sort="1684547686506" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<a href="./posts/molecules-red-big-small/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./posts/molecules-red-big-small/dye-vs-concentration.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Are the molecules that make a solution red big or small?
+</h5>
+<div class="card-text listing-description">
+This experiment investigates the UV-Vis absorption spectra of a series of the conjugated cyanine dyes. Spectra contain useful information about both the number of molecules…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Jul 3, 2020
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="95" data-categories="lab,kinetics" data-listing-date-sort="1593788520000" data-listing-file-modified-sort="1684547686502" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3">
+<a href="./posts/chickpea-lab/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./posts/chickpea-lab/chickpea-visualize.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Can we make stew with these beans?
+</h5>
+<div class="card-text listing-description">
+You are making a meal and the recipe you are using calls for canned chickpea, but you do not have a can of chickpeas. While searching your kitchen, you find a bag of dried…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Jul 3, 2020
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="96" data-categories="website" data-listing-date-sort="1593752400000" data-listing-file-modified-sort="1684547686494" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<a href="./posts/pogil-pcl-site/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./posts/pogil-pcl-site/pogil-pcl-cycle.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+POGIL-PCL
+</h5>
+<div class="card-text listing-description">
+We want the student goal in the Physical Chemistry…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Jul 3, 2020
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="97" data-categories="dataset" data-listing-date-sort="1593717780000" data-listing-file-modified-sort="1684547686498" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<a href="./posts/carbonMonoxide-ir-data/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./posts/carbonMonoxide-ir-data/Vib_rot_CO.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Carbon monoxide IR absorption spectra
+</h5>
+<div class="card-text listing-description">
+CSV and xlsx data files of CO carbon monoxide IR absorption spectra at several resolutions. Recorded at a POGIL-PCL workshop hosted by UT-Austin.
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Jul 2, 2020
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="98" data-categories="computing,jupyter,quantum,python" data-listing-date-sort="1593631560000" data-listing-file-modified-sort="1684547686510" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<a href="./posts/quantum-calcs-sympy/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./posts/quantum-calcs-sympy/sympy-conjugate.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Solving Common Introductory Quantum Mechanics Problems using Sympy
+</h5>
+<div class="card-text listing-description">
+This Jupyter notebook show basic examples for quantum calculations encountered in undergraduate…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Jul 1, 2020
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="99" data-categories="computing,python" data-listing-date-sort="1593630960000" data-listing-file-modified-sort="1684547686522" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<a href="./posts/molssi-education-resources/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./posts/molssi-education-resources/molssi_main_horizontal.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+MolSSI Education Resources
+</h5>
+<div class="card-text listing-description">
+MolSSI offers 1-2 day workshops as well as online tutorial materials. All…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Jul 1, 2020
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="100" data-categories="website" data-listing-date-sort="1593579600000" data-listing-file-modified-sort="1684547686522" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<a href="./posts/pogil-site/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./posts/pogil-site/pogil-logo.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+POGIL
+</h5>
+<div class="card-text listing-description">
+POGIL is an acronym for Process Oriented Guided Inquiry Learning.
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Jul 1, 2020
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="101" data-categories="book" data-listing-date-sort="1593320400000" data-listing-file-modified-sort="1684547686498" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3">
+<a href="./posts/acs-symposium-series-2019-1312/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./posts/acs-symposium-series-2019-1312/bk-2019-1312.largecover.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Using Computational Methods To Teach Chemical Principles
+</h5>
+<div class="card-text listing-description">
+While computational chemistry methods are usually a research topic of their own, even in the undergraduate curriculum, many methods are becoming mainstream and can be used…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Jun 28, 2020
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="102" data-categories="book" data-listing-date-sort="1593320400000" data-listing-file-modified-sort="1684547686502" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<a href="./posts/acs-symposium-series-2020-1343/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./posts/acs-symposium-series-2020-1343/bk-2020-1343.largecover.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Chemistry Student Success: A Field-Tested, Evidence-Based Guide
+</h5>
+<div class="card-text listing-description">
+ACS Symposium Series
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Jun 28, 2020
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="103" data-categories="article" data-listing-date-sort="1593302700000" data-listing-file-modified-sort="1684547686526" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<a href="./posts/resources-for-teaching-online-ACS/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="images/image-placeholder.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Resources for Teaching Your Chemistry Class Online: ACS JChemEd
+</h5>
+<div class="card-text listing-description">
+In support of the dedicated educators who are meeting the challenge of keeping their students’…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Jun 27, 2020
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="104" data-categories="book,quantum,classroom" data-listing-date-sort="1593234000000" data-listing-file-modified-sort="1684547686486" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<a href="./posts/quantum-chemistry-and-spectroscopy/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="images/image-placeholder.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Quantum Chemistry &amp; Spectroscopy: A Guided Inquiry
+</h5>
+<div class="card-text listing-description">
+<em>Quantum Chemistry &amp; Spectroscopy: A Guided Inquiry</em> was developed to facilitate more student-centered classroom instruction of physical chemistry. Based on principles developed through years of research on how students…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Jun 27, 2020
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="105" data-categories="website" data-listing-date-sort="1593147600000" data-listing-file-modified-sort="1684547686490" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<a href="./posts/royal-soc-CHER/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="images/image-placeholder.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Royal Society of Chemistry Higher Education Resources
+</h5>
+<div class="card-text listing-description">
+RSC repository of teaching materials. The following categories are represented:
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Jun 26, 2020
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="106" data-categories="dataset,website,spectroscopy" data-listing-date-sort="1593015780000" data-listing-file-modified-sort="1684547686478" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<a href="./posts/photochemcad-database/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="images/image-placeholder.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+PhotoChemCAD Database of Absorption and Fluorescence Spectra of &gt;300 Common Compounds
+</h5>
+<div class="card-text listing-description">
+Search spectra by compound name or structure. Absorption and emission spectra downloadable in text format. Fluorescence quantum yields available for many compounds.
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Jun 24, 2020
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="107" data-categories="article" data-listing-date-sort="1592456400000" data-listing-file-modified-sort="1684554234919" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<a href="./posts/principles-tomorrows-university/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="images/image-placeholder.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+The principles of tomorrow’s university
+</h5>
+<div class="card-text listing-description">
+In the 21st Century, research is increasingly data- and computation-driven. Researchers, funders, and the larger community today emphasize the traits of openness and…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Jun 18, 2020
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="108" data-categories="book,jupyter" data-listing-date-sort="1541048400000" data-listing-file-modified-sort="1684548847207" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<a href="./posts/teaching-and-learning-with-jupyter/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="images/image-placeholder.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Teaching and Learning with Jupyter
+</h5>
+<div class="card-text listing-description">
+This handbook is for any educator teaching a topic that includes data analysis or computation in order to support learning. It is not just for educators teaching courses in…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Nov 1, 2018
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="109" data-categories="book" data-listing-date-sort="1533099600000" data-listing-file-modified-sort="1684548505592" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3">
+<a href="./posts/acs-symposium-series-2019-1279/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./posts/acs-symposium-series-2019-1279/bk-2018-1279.largecover.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Engaging Students in Physical Chemistry
+</h5>
+<div class="card-text listing-description">
+ACS Symposium Series
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Aug 1, 2018
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="110" data-categories="computing,jupyter" data-listing-date-sort="1498678200000" data-listing-file-modified-sort="1684547686518" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<a href="./posts/python-explore-morse-potential/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./posts/python-explore-morse-potential/600px-Morse-potential.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Using Python to Explore the Morse Potential
+</h5>
+<div class="card-text listing-description">
+Inspired by <em>Exploring the Morse Potential</em>, T. Zielenski, J. Chem. Ed., 1998, <em>75</em> (9), 1191 DOI: 10.1021/ed075p1191.1
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Jun 28, 2017
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="111" data-categories="article" data-listing-date-sort="1412830800000" data-listing-file-modified-sort="1684548735158" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<a href="./posts/pogil-pcl-model/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./posts/pogil-pcl-model/pogil-pcl-cycle.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Guided-Inquiry Experiments for Physical Chemistry: The POGIL-PCL Model
+</h5>
+<div class="card-text listing-description">
+The POGIL-PCL project implements the principles of process-oriented, guided-inquiry learning (POGIL) in order to improve student learning in the physical chemistry…
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Oct 9, 2014
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+<nav id="listing-pagination" class="listing-pagination" aria-label="Page Navigation">
+  <ul class="pagination"></ul>
+</nav>
+</div></main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const disableStylesheet = (stylesheets) => {
+    for (let i=0; i < stylesheets.length; i++) {
+      const stylesheet = stylesheets[i];
+      stylesheet.rel = 'prefetch';
+    }
+  }
+  const enableStylesheet = (stylesheets) => {
+    for (let i=0; i < stylesheets.length; i++) {
+      const stylesheet = stylesheets[i];
+      stylesheet.rel = 'stylesheet';
+    }
+  }
+  const manageTransitions = (selector, allowTransitions) => {
+    const els = window.document.querySelectorAll(selector);
+    for (let i=0; i < els.length; i++) {
+      const el = els[i];
+      if (allowTransitions) {
+        el.classList.remove('notransition');
+      } else {
+        el.classList.add('notransition');
+      }
+    }
+  }
+  const toggleColorMode = (alternate) => {
+    // Switch the stylesheets
+    const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
+    manageTransitions('#quarto-margin-sidebar .nav-link', false);
+    if (alternate) {
+      enableStylesheet(alternateStylesheets);
+      for (const sheetNode of alternateStylesheets) {
+        if (sheetNode.id === "quarto-bootstrap") {
+          toggleBodyColorMode(sheetNode);
+        }
+      }
+    } else {
+      disableStylesheet(alternateStylesheets);
+      toggleBodyColorPrimary();
+    }
+    manageTransitions('#quarto-margin-sidebar .nav-link', true);
+    // Switch the toggles
+    const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
+    for (let i=0; i < toggles.length; i++) {
+      const toggle = toggles[i];
+      if (toggle) {
+        if (alternate) {
+          toggle.classList.add("alternate");     
+        } else {
+          toggle.classList.remove("alternate");
+        }
+      }
+    }
+    // Hack to workaround the fact that safari doesn't
+    // properly recolor the scrollbar when toggling (#1455)
+    if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
+      manageTransitions("body", false);
+      window.scrollTo(0, 1);
+      setTimeout(() => {
+        window.scrollTo(0, 0);
+        manageTransitions("body", true);
+      }, 40);  
+    }
+  }
+  const isFileUrl = () => { 
+    return window.location.protocol === 'file:';
+  }
+  const hasAlternateSentinel = () => {  
+    let styleSentinel = getColorSchemeSentinel();
+    if (styleSentinel !== null) {
+      return styleSentinel === "alternate";
+    } else {
+      return false;
+    }
+  }
+  const setStyleSentinel = (alternate) => {
+    const value = alternate ? "alternate" : "default";
+    if (!isFileUrl()) {
+      window.localStorage.setItem("quarto-color-scheme", value);
+    } else {
+      localAlternateSentinel = value;
+    }
+  }
+  const getColorSchemeSentinel = () => {
+    if (!isFileUrl()) {
+      const storageValue = window.localStorage.getItem("quarto-color-scheme");
+      return storageValue != null ? storageValue : localAlternateSentinel;
+    } else {
+      return localAlternateSentinel;
+    }
+  }
+  let localAlternateSentinel = 'default';
+  // Dark / light mode switch
+  window.quartoToggleColorScheme = () => {
+    // Read the current dark / light value 
+    let toAlternate = !hasAlternateSentinel();
+    toggleColorMode(toAlternate);
+    setStyleSentinel(toAlternate);
+  };
+  // Ensure there is a toggle, if there isn't float one in the top right
+  if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
+    const a = window.document.createElement('a');
+    a.classList.add('top-right');
+    a.classList.add('quarto-color-scheme-toggle');
+    a.href = "";
+    a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
+    const i = window.document.createElement("i");
+    i.classList.add('bi');
+    a.appendChild(i);
+    window.document.body.appendChild(a);
+  }
+  // Switch to dark mode if need be
+  if (hasAlternateSentinel()) {
+    toggleColorMode(true);
+  } else {
+    toggleColorMode(false);
+  }
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+</body></html>

@@ -1,0 +1,29 @@
+---
+title: "Climate Literacy and Energy Awareness Network (CLEAN)"
+#author: "ssinglet"
+date: "2020-07-08T14:18:00-05:00"
+categories: ["website", "classroom", "climate"]
+image: CLEANbanner.png
+---
+
+![](CLEANbanner.png){}
+
+The CLEAN Collection of Climate and Energy Educational Resources A collection of 700+ free, ready-to-use learning resources rigorously reviewed by educators and scientists suitable for secondary through higher education classrooms.
+
+About the CLEAN Project
+
+The Climate Literacy and Energy Awareness Network (CLEAN) Portal was launched in 2010 as a National Science Digital Library (NSDL) Pathways project. It is led by the science education expertise of the Cooperative Institute for Research in Environmental Science (CIRES) at the University of Colorado Boulder and the Science Education Resource Center (SERC) at Carleton College. As of 2012, CLEAN has been syndicated to NOAA's climate.gov portal.
+
+CLEAN's primary effort is to steward the collection of climate and energy science educational resources and to support a community of professionals committed to improving climate and energy literacy.
+
+
+## Location {#location}
+
+<http://cleanet.org/index.html>
+
+Accessed 2022-02-10
+
+
+## Status {#status}
+
+Reviewed

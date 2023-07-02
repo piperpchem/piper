@@ -1,0 +1,64 @@
+---
+title: "PyTherm applied thermodynamics"
+#author: "ssinglet"
+date: "2022-02-12T00:00:00-06:00"
+categories: ["computing", "thermo", "jupyter", "python"]
+image: pytherm-applied-thermo.png
+---
+
+![](pytherm-applied-thermo.png){width="100%"}
+
+
+
+This is our project of open source computational resources for students of Applied Thermodynamics. Our target audience are students that may not yet know what Python is, so we will present brief introductions and point to some tutorial material on that and other tools that we require.
+
+The content you will see here is curated by members of UFRJ&gt;ATOMS research group, and either developed by ourselves or adapted from cited sources. We are always accepting indirect suggestions as well as direct contributions. We are developing our material in the Python programming language, through the Jupyter notebook interface. If you are not familiar with these tools, Python is a programming language that can work with some useful libraries for numerical methods (numpy), symbolic algebra (sympy) and graphical plots (matplotlib) comparable to Matlab. Jupyter notebook, on the other hand, is a browser based interface for developing Python codes, with intercalating blocks of descriptive documentation and graphical results for easy exposition of the code and underlying ideas in an educational material. Finally, GitHub is the website that provides hosting of open source projects from developers (students, researchers, engineers) from all around the world, including ours.
+Goals
+
+We have divided our goals in three categories
+
+-   Accessible interactive lectures and courseware content
+-   Models &amp; algorithms laboratory
+-   Software incubator
+
+Current topics:
+
+Classical thermodynamics fundamentals
+
+-   Mass balance, energy balance and the 1st law
+-   Entropy and the 2nd law
+-   Chemical reaction
+-   Combustion engines
+-   PxH diagrams
+-   Pure substance L-V saturation curve
+-   Cycles
+-   Critical points
+
+Molecular models
+
+-   Volumetric Equations of state
+-   Excess Gibbs energy models
+-   Pure solid and solid solution phases properties models
+
+Phase and reaction equilibria algorithms
+
+-   Stability analysis
+-   Bubble point and dew point calculations
+-   Flash calculations
+
+
+## Location {#location}
+
+<https://iurisegtovich.github.io/PyTherm-applied-thermodynamics/>
+
+
+## Creators {#creators}
+
+Fernando de Azevedo Medeiros
+
+Iuri Soter Viana Segtovich
+
+
+## License {#license}
+
+{{< figure src="https://img.shields.io/badge/License-GPL%20v3-red.svg" link="http://www.gnu.org/licenses/gpl-3.0" >}}

@@ -1,0 +1,19 @@
+---
+title: "Using Familiar and New Assessment Tools in Physical Chemistry Courses During COVID-19"
+#author: "ssinglet"
+date: "2021-10-24T00:00:00-05:00"
+categories: ["article"]
+---
+
+A fast track into online teaching in response to the COVID-19 crisis resulted in the author learning to use online platforms and tools to teach thermodynamics and quantum mechanics courses. These resources were used effectively to teach highly mathematical and challenging concepts, as presented in this communication. Student assessment using traditional (exams) and novel (projects) approaches are highlighted, especially the use of projects that examined students’ ability to apply their knowledge to solve real world problems. A survey of students’ responses to online learning revealed that they felt supported during the COVID-19 crisis and the teaching tools described in this work were successful in helping them learn. These students who completed parts of the two courses in face-to-face classes in previous quarters overwhelmingly preferred in-person instruction. The pedagogical approaches described in the communication were shared informally with fellow science faculty at the college. They may be successful in teaching other chemistry courses and STEM fields. The author feels better prepared for teaching online in the future as a result of this teaching experience.
+
+
+## Citation {#citation}
+
+A. M. R. P. Bopegedera, _Journal of Chemical Education_, 2020 97(9), 3260-3264
+DOI: 10.1021/acs.jchemed.0c00789
+
+
+## License {#license}
+
+Copyright 2020 American Chemical Society and Division of Chemical Education, Inc.

@@ -1,0 +1,45 @@
+---
+title: "Machine learning for functional group identification in vibrational spectroscopy: A pedagogical lab for undergraduate chemistry students"
+#author: "ssinglet"
+date: "2022-04-01T00:00:00-05:00"
+categories: ["lab", "computing", "spectroscopy", "jupyter", "python"]
+---
+
+Abstract: Techniques from the branch of artificial intelligence known as machine
+learning (ML) have been applied to a wide range of problems in
+chemistry. Nonetheless, there are very few examples of pedagogical
+activities to introduce ML to chemistry students in the chemistry
+education literature. Here we report a computational activity that
+introduces undergraduate physical chemistry students to ML in the
+context of vibrational spectroscopy. In the first part of the
+activity, students use ML binary classification algorithms to
+distinguish between carbonyl-containing and non-carbonyl-containing
+molecules on the basis of their infrared absorption spectra. In the
+second part of the activity, students test modifications to this basic
+analysis, including different analysis parameters, different ML
+algorithms, and different test datasets. In a final extension of the
+activity, students implement a multiclass classification to predict
+whether carbonyl-containing molecules contain a ketone, a carboxylic
+acid, or another carbonyl group. This activity is designed to
+introduce students both to the basic workflow of a ML classification
+analysis and to some of the ways in which machine learning analyses
+can fail. We provide a comprehensive handout for the activity,
+including theoretical background and a detailed protocol, as well as
+datasets and code to implement the exercise in Python or
+Mathematica. This activity is designed as a standalone exercise for
+physical chemistry lab classes but can also be integrated with courses
+or modules on vibrational spectroscopy and computational chemistry. On
+the basis of student surveys, we conclude that this activity was
+successful in introducing students to applications of ML in chemistry.
+
+
+## Citation {#citation}
+
+Thrall E, Lee SE, Schrier J, Zhao Y. Machine learning for functional group identification in vibrational spectroscopy: A pedagogical lab for undergraduate chemistry students. ChemRxiv. Cambridge: Cambridge Open Engage; 2021;  This content is a preprint and has not been peer-reviewed.
+
+https://doi.org/10.26434/chemrxiv-2021-db11k
+
+
+## License {#license}
+
+CC BY NC ND 4.0 License [CreativeCommons.org](https://creativecommons.org/licenses/by-nc-nd/4.0/)

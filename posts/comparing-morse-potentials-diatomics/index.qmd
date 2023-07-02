@@ -1,0 +1,31 @@
+---
+title: "Comparing the Morse potentials of several diatomics"
+#author: "ssinglet"
+date: "2020-07-07T14:54:00-05:00"
+categories: ["computing", "python", "bonding", "classroom", "jupyter"]
+image: morse-multiple-bonds.png
+---
+
+This Jupyter notebook has been used in a classroom setting to
+
+-   introduce the functional form of the Morse potential;
+-   show the shape of Morse potential;
+-   illustrate connections between Morse parameters and molecular parameters
+    (equilibrium bond length, bond strength)
+-   demonstrate how to use python for computations and visualization.
+
+Instructors may distribute the notebook (with or without code cells), enabling students to see how changes in molecular constants affect the potential.
+
+![](morse-multiple-bonds.png){}
+
+
+## Author {#author}
+
+Steve Singleton, Coe College
+
+
+## Location {#location}
+
+Preview [Jupyter notebook](https://nbviewer.jupyter.org/github/singletS/clueopen/blob/master/morse_potential/morse_potentials_diatomics_org.ipynb)
+
+Download notebook file (click Save As): <https://raw.githubusercontent.com/singletS/clueopen/master/morse_potential/morse_potentials_diatomics_org.ipynb>

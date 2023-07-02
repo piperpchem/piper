@@ -1,0 +1,78 @@
+---
+title: "Are the molecules that make a solution red big or small?"
+#author: "ssinglet"
+date: "2020-07-03T10:24:00-05:00"
+categories: ["lab", "spectroscopy"]
+image: dye-vs-concentration.png
+---
+
+This experiment investigates the UV-Vis absorption spectra of a series of the
+conjugated cyanine dyes. Spectra contain useful information about both the
+number of molecules present and the structure of the molecules. We often use
+data from the y-axis of the spectrum to monitor the concentration of some
+molecule as a function of time. In this experiment we will use both y-axis and
+x-axis spectral data for the UV-Vis spectrum in a study of a series of cyanine
+dyes.
+
+Focus questions
+
+Part 1: How does changing the concentration of a solution change its UV-Vis spectrum? How can Beer’s law be used to determine the concentration of the dye solution?
+
+Part 2: How does mixing two dyes affect the UV-Vis
+spectrum?
+
+Part 3: How does molecular structure affect the UV-Vis spectrum?
+
+![](dye-vs-concentration.png){width="70%"}
+
+
+## Learning objectives {#learning-objectives}
+
+
+### Content Objectives {#content-objectives}
+
+Students will
+
+-   correctly describe that a spectrum’s y-axis relates to molecular concentration and x-axis relates to structure
+-   determine molar absorptivity graphically and determine the concentration of an unknown using spectroscopy
+-   apply Beer’s Law to a mixture of absorbing molecules to understand their
+    independent behavior in a dilute solution
+-   relate particle-in-a-box theory to spectroscopy
+
+
+### Process objectives {#process-objectives}
+
+Students will
+
+-   model data with a linear relation
+-   make solutions, including serial dilutions, using volumetric glassware and micropipettes
+-   describe and interpret the data obtained from a UV-Vis spectrophotometer
+
+
+## Timing {#timing}
+
+In most cases, the full lab can be completed in two four-hour or three
+three-hour lab periods.
+
+
+## Location {#location}
+
+<https://drive.google.com/file/d/1VGya7HRKaA3DbHj82ZL1VTg4v5KmprsL/view?usp=sharing>
+
+An instructor's handbook is available.
+
+
+## Author {#author}
+
+Robert Whitnell, Guilford College
+
+
+## License {#license}
+
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+License <http://creativecommons.org/licenses/by-nc-sa/4.0/>
+
+
+## Status {#status}
+
+Reviewed

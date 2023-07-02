@@ -1,0 +1,51 @@
+---
+title: "Using Python to Explore the Morse Potential"
+#author: "ssinglet"
+date: "2017-06-28T14:30:00-05:00"
+categories: ["computing", "jupyter"]
+image: 600px-Morse-potential.png
+---
+
+Inspired by _Exploring the Morse Potential_, T. Zielenski, J. Chem. Ed., 1998, _75_ (9), 1191 DOI: 10.1021/ed075p1191.1
+
+The Morse potential can provide a useful approximation of a molecular bond. HCl is modeled in this notebook.
+
+This Wikipedia image depicts the geometry of a vibrating HCl molecule and compares the Morse potential to the simple harmonic oscillator (SHO). Notice the SHO model does not allow for the bond to break at large distances, whereas the Morse potential does.
+
+![](600px-Morse-potential.png){width="50%"}
+
+Source: Wikipedia
+
+
+## Learning Objectives {#learning-objectives}
+
+Students will be able to
+
+-   plot the Morse potential for a bond using the bond energy and vibrational constants,
+-   explain the significance of each term in the Morse function,
+-   discuss the effects of vibrational constants on the shape of the Morse potential curve,
+-   identify the limits of the Morse model for bonding.
+
+
+## Prerequisites {#prerequisites}
+
+-   moderate skill with python for calculations and plotting
+-   familiarity with the Morse function
+-   knowledge of the general behavior of potential energy as a function of internuclear distance
+
+
+## Author {#author}
+
+Steve Singleton, Coe College ssinglet@coe.edu
+
+
+## Location {#location}
+
+Preview  [Jupyter notebook](https://nbviewer.jupyter.org/github/singletS/clueopen/blob/master/morse_potential/morse_numeric.ipynb)
+
+Download notebook file:  <https://github.com/singletS/clueopen/tree/master/morse_potential>
+
+
+## License {#license}
+
+Derivative work is Creative Commons ShareAlike.

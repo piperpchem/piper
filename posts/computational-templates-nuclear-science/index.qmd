@@ -1,0 +1,25 @@
+---
+title: "Computational templates for introductory nuclear science using MathCad"
+#author: "ssinglet"
+date: "2021-12-03T00:00:00-06:00"
+categories: ["computing", "nuclear"]
+image: computational-templates-nuclear-science.gif
+---
+
+![](computational-templates-nuclear-science.gif){width="40%"}
+
+Computational templates used to teach an introductory course in nuclear chemistry and physics at Washington University in St. Louis are presented in brief. The templates cover both basic and applied topics.
+
+Approximately 20 templates and examples cover topics including nuclear radii, liquid-drop model, Rutherford scattering, stopping power, Bremsstrahlung, dosimetry, fluorescence, decay, fusion, fissility, neutron-star profile, reactor poisoning, and more.
+
+
+## Authors {#authors}
+
+D. G. Sarantites and L. G. Sobotka
+
+Departments of Chemistry and Physics, Washington University, St. Louis, Missouri 63130
+
+
+## Citation {#citation}
+
+American Journal of Physics 81, 44 (2013); <https://doi.org/10.1119/1.4764079>

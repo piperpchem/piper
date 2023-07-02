@@ -1,0 +1,60 @@
+---
+title: "What Does the Fluorescence Spectrum of an Excimer Tell You About Its Thermodynamics?"
+#author: "ssinglet"
+date: "2020-07-09T14:32:00-05:00"
+categories: ["lab", "thermo", "spectroscopy"]
+image: pyrene-spectrum.png
+---
+
+![](pyrene-spectrum.png){width="70%"}
+
+Timing: This experiment takes two or three lab periods, each at least three hours long.
+
+
+## Learning objectives {#learning-objectives}
+
+
+### Content Objectives {#content-objectives}
+
+Students will be able to:
+
+-   identify the components of a monomer and excimer energy diagram; relate energy
+    diagram lines, minima and spacing to experimental spectra and thermodynamic
+    quantities
+-   use spectroscopic methods to quantitatively determine thermodynamic parameters
+    and predict changes in spectra based on mathematical relationships
+-   become familiar with the operation of a fluorometer and temperature control
+    apparatus.
+
+
+### Process Objectives {#process-objectives}
+
+Students will be able to:
+
+-   explain the relationship between emission and excitation energies in fluorimetry.
+-   choose experimental parameters that allow determination of thermodynamic parameters from spectroscopic data.
+-   explain the relationship between spectral peaks, a pyrene monomer, and the formation of an excimer.
+-   apply mathematical models to data; use graphical methods to determine values for ΔS0 and ΔH0 by identifying the dependent and independent variables in a linear relation and relate these variables to measurable quantities in the lab.
+-   locating the desired properties from a linearized, graphed relationship using the slope and intercept.
+
+
+## Author {#author}
+
+Alison Noble, Messiah College
+
+
+## Location {#location}
+
+<https://drive.google.com/file/d/1jKKGwUqmw2_DBXfNO2kVv-oZw_hIIfEe/view?usp=sharing>
+
+An instructor's manual is available.
+
+
+## License {#license}
+
+This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+
+## Status <span class="tag"><span class="Reviewed">Reviewed</span></span> {#status}
+
+Reviewed

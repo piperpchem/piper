@@ -1,0 +1,25 @@
+---
+title: "An Upper Level Laboratory Exercise to Explore Computational Predictions of Regiochemistry in Electrophilic Aromatic Substitution"
+#author: "ssinglet"
+date: "2022-02-05T00:00:00-06:00"
+categories: ["computational", "nmr", "lab"]
+image: regiochemistry-eas.png
+---
+
+![](regiochemistry-eas.png){width="70%"}
+
+Electrophilic aromatic substitution (EAS) represents an important class of reactions taught in the undergraduate organic chemistry curriculum. The EAS reaction of benzene and its substituted derivatives is generally described as proceeding through a carbocation (arenium cation) intermediate, and the regiochemistry of the product is heavily influenced by the nature of the substituents. Molecular properties such as frontier molecular orbitals, Hirshfeld charges, and 13C and 1H NMR shifts can predict the directing nature of the substituents. In this upper level laboratory experiment, students calculate these molecular properties to predict the regiochemistry of various aromatic systems. Mono- and disubstituted benzene systems are used to introduce the computational workflow, as these systems are typically covered in an introductory organic chemistry course and their properties yield unambiguous predictions.  Then students apply this methodology to unfamiliar systems by predicting the regiochemistry of heteroaromatic molecules including poly substituted and fused-ring systems. The molecular properties for some of these systems yield multiple reasonable predictions, so students must weigh the data to argue where substitution will occur, incorporating additional concepts such as steric effects. By the end of this experiment, students should understand the ways in which several molecular properties aid in predicting regiochemistry for EAS reactions and gain a greater appreciation for the possibilities of using computational chemistry to study reactivity.
+
+
+## Citation {#citation}
+
+<https://doi.org/10.1021/acs.jchemed.1c00678>
+
+William Adams and Matthew D. Sonntag
+Journal of Chemical Education 2022, _99_ (2), 957-963
+DOI: 10.1021/acs.jchemed.1c00678
+
+
+## License {#license}
+
+Copyright American Chemical Society and Division of Chemical Education, Inc.

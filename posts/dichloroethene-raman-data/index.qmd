@@ -1,0 +1,23 @@
+---
+title: "Raman spectra of cis- and trans-1,2-dichloroethene"
+#author: "ssinglet"
+date: "2020-07-03T11:23:00-05:00"
+categories: ["dataset", "spectroscopy"]
+---
+
+Raman spectra of cis- and trans-1,2-dichloroethene. Neat liquid, through glass vial with JASCO NRS3100 confocal Raman spectrometer. Excitation wavelength 785nm.
+
+
+## Location {#location}
+
+<https://github.com/singletS/datasets-gh/tree/master/dichloroethene_raman-IR>
+
+
+## Author {#author}
+
+Steve Singleton, Coe College
+
+
+## License {#license}
+
+Creative Commons ShareAlike

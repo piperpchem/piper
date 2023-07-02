@@ -1,0 +1,20 @@
+---
+title: "Teaching Enzyme Catalysis Using an Open Source Framework for Interactive Molecular Dynamics in Virtual Reality"
+#author: "ssinglet"
+date: "2022-04-01T00:00:00-05:00"
+categories: ["article", "computational"]
+---
+
+The reemergence of virtual reality (VR) in the last few years has led to affordable commodity hardware that can offer new ways to teach, communicate and engage with difficult concepts, especially those which involve complicated 3D motion and spatial manipulation. In a higher education context, these immersive technologies make it possible to teach complex molecular topics in a way that may aid or even supersede traditional approaches such as molecular models, textbook images, and traditional screen-based computational environments. In this work we describe a study involving 24 third-year UK undergraduate chemistry students who undertook a traditional computational chemistry class complemented with an additional component utilising real-time interactive molecular dynamics simulations in VR (iMD-VR). Exploiting the flexibility of an open-source iMD-VR framework which we recently described,(1) and building on recent work where we demonstrated the ability to use this framework to run ‘on-the-fly’ density functional theory in VR at interactive speeds,2 we designed three tasks for students to complete in iMD-VR: (1) interactive rearrangement of the chorismate molecule to prephenate using forces obtained from ‘on-the-fly’ density functional theory calculations; (2) unbinding of chorismate from the active site chorismate mutase enzyme using molecular-mechanics forces calculated in real-time; and (3) docking of chorismate with chorismate mutase using real-time molecular mechanics forces. A survey indicated that most students found the iMD-VR component more engaging than the traditional approach, and also that it improved their perceived educational outcomes and their interest in continuing on in the field of computational sciences.
+
+
+## Citation {#citation}
+
+Bennie S, Ranaghan K, Deeks H, Goldsmith H, O'Connor M, Mulholland A, et al. Teaching Enzyme Catalysis Using an Open Source Framework for Interactive Molecular Dynamics in Virtual Reality. ChemRxiv. Cambridge: Cambridge Open Engage; 2019; This content is a preprint and has not been peer-reviewed.
+
+<https://doi.org/10.26434/chemrxiv.7819982.v1>
+
+
+## License {#license}
+
+The content is available under CC BY 4.0 License

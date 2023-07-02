@@ -1,0 +1,33 @@
+---
+title: "Data Driven Exercises"
+#author: "ssinglet"
+date: "2021-06-12"
+categories: ["computing"]
+---
+
+The exercises are designed to provide supplemental exposure to select topics that are encountered in the chemistry curriculum. An attempt has been made to keep the exercises relatively short. The theoretical background descriptions are brief and include only those concepts and equations that are central to the assignment. Students should only attempt certain assignments after receiving a more thorough exposure to the prerequisite topics in class or through independent study. Students will need access to some type of quantitative analysis software to carry out most of the assignments. In designing these exercises, no attempt has been made to instruct students in the use of any particular software environment or computer platform, or how to otherwise accomplish common numerical methods. Consequently, students will need some prior training in an appropriate software environment before attempting most exercises.
+
+Examples of exercises:
+
+-   Adsorption Isotherms - Methylene Blue on Activated Carbon
+-   Analysis of the IR Spectrum of Carbon Monoxide
+-   Bartender's Conundrum - Partial Molar Volume in Water-Ethanol Mixtures
+-   Determination of Virial Coefficients for Argon Gas at 323 K
+-   Fluorescence Lifetimes and Dynamic Quenching
+-   Osmotic Pressure and Polymer Molecular Weight Determination
+-   Strain Energy in Organic Compounds - Bomb Calorimetry
+
+
+## Location {#location}
+
+[Data Driven Exercises](https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Exercises%3A_Physical_and_Theoretical_Chemistry/Data-Driven_Exercises)
+
+
+## Author {#author}
+
+Tandy Grubbs, Professor, Chemistry and Biochemistry, Stetson University
+
+
+## License {#license}
+
+[CC BY-NC-SA 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/us/)

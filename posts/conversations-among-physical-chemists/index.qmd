@@ -1,0 +1,23 @@
+---
+title: "Conversations among Physical Chemists: Strategies and Resources for Remote Teaching and Learning Catalyzed by a Global Pandemic"
+#author: "ssinglet"
+date: "2021-10-24T00:00:00-05:00"
+date-modified: "2021-10-31T00:00:00-05:00"
+categories: ["article"]
+---
+
+Abstract
+
+In the midst of a global pandemic in spring 2020, physical chemistry faculty gathered to share strategies and resources for teaching remotely. During this conversation, instructors created a shared document compiling the challenges they faced in spring 2020 and ways to improve teaching and learning in the physical chemistry classroom and laboratory when institutions reopened in the fall. We present a content analysis of the shared document that provides a snapshot of physical chemists’ thoughts at that moment in June 2020. The themes that emerged from our analysis are assessment, choice of learning objectives, course management, opportunities, resources, student motivation, and wellbeing. We have summarized the numerous strategies, resources, and implementation ideas that were shared by participants, many of which we believe will remain in use when traditional in-person instruction resumes. Finally, the conversation connected physical chemists, strengthening our community. Continued community engagement has occurred through further synchronous conversations, asynchronous conversations on our Slack workspace, and the creation of the repository PChem Inspired Pedagogical Electronic Resource (PIPER).
+
+
+## Authors {#authors}
+
+Andrea N. Giordano, David Gardner, William W. Kennerly, and Chrystal D. Bruce
+
+
+## Citation {#citation}
+
+J. Chem. Educ. 2021, 98, 7, 2228–2235
+
+<https://pubs.acs.org/doi/full/10.1021/acs.jchemed.1c00031>

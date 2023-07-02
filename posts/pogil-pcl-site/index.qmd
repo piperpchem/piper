@@ -1,0 +1,49 @@
+---
+title: "POGIL-PCL"
+#author: "ssinglet"
+date: "2020-07-03T00:00:00-05:00"
+categories: ["website"]
+image: pogil-pcl-cycle.jpg
+---
+
+## The framework for a POGIL-PCL Experiment {#the-framework-for-a-pogil-pcl-experiment}
+
+We want the student goal in the Physical Chemistry lab to be learning how physical chemistry is done. Unfortunately, most students experience a laboratory where their goal is to replicate previously determined physical constants.
+
+We have developed this cycle to describe the process of student activity in a POGIL-PCL experiment.
+
+![](pogil-pcl-cycle.jpg){width="80%"}
+
+Basic Principles of a POGIL-PCL Experiment include the following:
+
+
+### Pre-experiment: students work in teams to {#pre-experiment-students-work-in-teams-to}
+
+-   explore background information
+-   consider experimental design
+-   predict an outcome
+
+
+### Experimental Protocols that {#experimental-protocols-that}
+
+-   provide broad instructions: e.g., exact masses or volumes omitted
+-   are repeated, often with minor variations: e.g., change the temperature, pH, concentration, or species
+-   may require use of shared data: e.g., use different form of magnesium
+
+
+### Thinking about the data: students work in teams to {#thinking-about-the-data-students-work-in-teams-to}
+
+-   pool data to discern trends
+-   examine and apply models
+-   repeat procedure based on discussion
+-   develop concepts outlined in experiment objectives
+
+
+## Location {#location}
+
+<https://www.pogilpcl.org/>
+
+
+## License {#license}
+
+The material that has been developed by the participants of the POGIL-PCL group has produced under the assumption that others are free to use and modify these materials provided that they give appropriate attribution to both the original authors and the POGIL-PCL group. Each completed experiment has a [Creative Commons](https://creativecommons.org/licenses/by-nc/4.0/) license on it and the authors of these materials have agreed that we may post these materials under this licensing structure. The authors still retain the copyright even though the materials have been posted on a shared Google Folder.

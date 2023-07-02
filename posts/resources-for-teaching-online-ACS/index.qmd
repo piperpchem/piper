@@ -1,0 +1,15 @@
+---
+title: "Resources for Teaching Your Chemistry Class Online: ACS JChemEd"
+#author: "ssinglet"
+date: "2020-06-27T19:05:00-05:00"
+categories: ["article"]
+---
+
+In support of the dedicated educators who are meeting the challenge of keeping their students’ chemistry education going, while schools are closed to slow the spread of the novel coronavirus (2019–nCoV), ACS Publications and the ACS Division of Chemical Education are sharing [this collection](https://pubs.acs.org/page/jceda8/vi/teaching-chemistry-online) of resources, including free to read articles from the Journal of Chemical Education.
+
+Over the past several years, articles about distance learning of chemistry and teaching and learning chemistry online have appeared occasionally in the Journal of Chemical Education. This Virtual Issue includes many of these articles, along with a few additional resources, to provide guidance to chemistry instructors who are now finding themselves learning on the job an instructional format that is new, probably less-than-ideal, and presenting new challenges on a regular basis.
+
+
+## Location {#location}
+
+<https://pubs.acs.org/page/jceda8/vi/teaching-chemistry-online>

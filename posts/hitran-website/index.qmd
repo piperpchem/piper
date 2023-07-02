@@ -1,0 +1,36 @@
+---
+title: "HITRAN"
+#author: "ssinglet"
+date: "2022-12-07T00:00:00-06:00"
+categories: ["website", "dataset", "spectroscopy"]
+image: hitran.png
+---
+
+![](hitran.png)
+
+HITRAN is an acronym for high-resolution transmission molecular
+absorption database. HITRAN is a compilation of spectroscopic parameters that a variety of
+computer codes use to predict and simulate the transmission and
+emission of light in the atmosphere. The database is a long-running
+project started by the Air Force Cambridge Research Laboratories
+(AFCRL) in the late 1960s in response to the need for detailed
+knowledge of the infrared properties of the atmosphere. A history of
+the HITRAN database has recently been summarized in the following
+article:
+
+The HITRAN compilation, and its associated database HITEMP
+(high-temperature spectroscopic absorption parameters), are developed
+and maintained at the Atomic and Molecular Physics Division,
+Harvard-Smithsonian Center for Astrophysics.
+
+HITRANonline provides access to the latest version of the HITRAN molecular spectroscopic database.
+
+## Location {#location}
+
+<https://hitran.org/>
+
+## Citation {#citation}
+
+L.S. Rothman, History of the HITRAN database, Nature Review Physics 3, 302-304 (2021)
+
+<https://doi.org/10.1038/s42254-021-00309-2>

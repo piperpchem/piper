@@ -1,0 +1,20 @@
+---
+title: "Practical Computational Chemistry Course for a Comprehensive Understanding of Organic, Inorganic, and Physical Chemistry: From Molecular Interactions to Chemical Reactions"
+#author: "ssinglet"
+date: "2023-01-15T00:00:00-06:00"
+categories: ["computing", "computational", "article"]
+image: practical-computational-chemistry-course.png
+---
+
+![](practical-computational-chemistry-course.png){width="80%"}
+
+Abstract:
+
+In all fields of chemistry, it has become essential to use quantum chemical calculations and machine learning for explaining and predicting chemical phenomena. However, it is challenging to apply textbook knowledge to practical research. In this study, we developed teaching material based on computational chemistry to promote the integration of knowledge from all fields of chemistry, including organic, inorganic, and physical chemistry, to bridge the gap between classroom learning and chemistry research. This experimental material, which comprehensively covers weak intermolecular interactions and chemical reactions, is expected to help students conduct purposeful research activities after being assigned to a laboratory.
+
+
+## Citation {#citation}
+
+J. Chem. Ed., 2023, https://doi.org///doi.org/10.1021/acs.jchemed.2c00837
+
+© 2023 The Authors. Published by American Chemical Society and Division of Chemical Education, Inc.

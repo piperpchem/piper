@@ -1,0 +1,24 @@
+---
+title: "Royal Society of Chemistry Higher Education Resources"
+#author: "ssinglet"
+date: "2020-06-26T00:00:00-05:00"
+categories: ["website"]
+---
+
+RSC repository of teaching materials. The following categories are represented:
+
+-   Chemistry vignettes: Lecture recordings highlighting key chemical topics at undergraduate level
+-   Context and problem based learning: Use real life scenarios in  advanced level chemistry problems. This application of chemistry is also demonstrated with industrial chemistry career profiles.
+-   Analytical chemistry introductions: Explain the principles behind a range of analytical methods, including spectroscopic techniques, chromatography and mass spectrometry. Each resource has clear explanations and descriptions supported by animations to aid learning.
+-   Introductory maths for higher education: Learn about the fundamental principles behind mathematical concepts important for higher education chemistry courses
+-   Commercial skills for chemists: Transferable skills desired by large chemical employers such as innovation, problem solving and communication
+
+
+## Location {#location}
+
+<https://edu.rsc.org/resources/higher-education>
+
+
+## Status {#status}
+
+Unknown

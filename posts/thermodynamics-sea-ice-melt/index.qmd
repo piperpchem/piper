@@ -1,0 +1,37 @@
+---
+title: "Thermodynamics: Sea ice melt"
+#author: "ssinglet"
+date: "2023-03-25T00:00:00-05:00"
+categories: ["computing", "python", "jupyter", "thermo", "phase change"]
+image: "sea-ice.png"
+---
+
+
+Students learn about thermodynamics topics through calculation of the amount of heat required to melt Arctic sea ice. They start by watching an online animation of changing polar ice with time. They next download data of Arctic ice extent and volume. Working in a Jupyter Notebook, they use thermodynamic principles and equations to plot the phase diagram of water, find the freezing point depression of Arctic sea ice in equilibrium with sea water, and compute the change in the enthalpy of fusion of water resulting from that temperature depression.
+
+
+## Learning objectives {#learning-objectives}
+
+1.  Learn about datasets available for Arctic sea ice volume and extent, and how Arctic sea ice is changing.
+2.  Be familiar with calculating sea ice thickness from extent and volume.
+3.  Develop skills in acquiring and plotting data using Python.
+4.  Be able to construct a phase diagram of water and integrate the Clapeyron equation to get the Clausius-Clapeyron and Thomson Equations.  1.Learn how to compute the heat required for seasonal melt of Arctic sea ice.
+5.  Practice finding the freezing point of Arctic sea ice in equilibrium with sea water using Raoults' Law.
+6.  Have experience correcting the change in the enthalpy of fusion of ice when it is in equilibrium with seawater, using Kirchoff's Equation.
+
+
+## Source {#source}
+
+<https://serc.carleton.edu/penguin/modules/thermodyn_icemelt.html>
+
+<https://github.com/penguin-code/modules>
+
+
+## Authors {#authors}
+
+Steven Neshyba, Penny Rowe, and Aedin Wright.
+
+
+## License {#license}
+
+Copyright 2017 by Steven Neshyba, Penny M. Rowe, and NorthWest Research Associates. All rights reserved. Created with funding from NSF, including NSF 1712282, Computational Guided Inquiry for Incorporating Polar Research into Undergraduate Curricula.

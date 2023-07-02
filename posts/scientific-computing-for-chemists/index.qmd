@@ -1,0 +1,47 @@
+---
+title: "Scientific Computing for Chemists"
+#author: "ssinglet"
+date: "2020-08-21T00:00:00-05:00"
+categories: ["book", "jupyter", "python", "computing"]
+image: scientific-computing-chemists.svg
+---
+
+![](scientific-computing-chemists.svg)
+
+An online text used for a Scientific Computing chemistry course[1] intended to teach undergraduate chemistry students basic coding in Python and Jupyter Notebooks and advanced tools for processing, visualization, and analysis of digital data. This text assumes that the students have no prior programming experience and have at least one year of undergraduate chemistry background and some very basic spectroscopy/spectrometry (i.e., NMR, IR, UV-vis, and GC/MS) background. All software used (e.g., Python, NumPy, SciPy, etc...) is free and open source software.
+
+[1] J. Chem. Educ. 2017, 94, 592-597 DOI: 10.1021/acs.jchemed.7b00078 and J. Chem. Educ. 2017, 94, 1904-1910 DOI: 10.1021/acs.jchemed.7b00395
+
+Contents
+
+-   Chapter 0: Python &amp; Jupyter Notebooks
+-   Chapter 1: Basic Python
+-   Chapter 2: Intermediate Python
+-   Chapter 3: Plotting with Matplotlib
+-   Chapter 4: NumPy
+-   Chapter 5: Pandas
+-   Chapter 6: Signal &amp; Noise
+-   Chapter 7: Image Processing &amp; Analysis
+-   Chapter 8: Mathematics
+-   Chapter 9: Simulations
+-   Chapter 10: Plotting with Seaborn
+-   Chapter 11: Nuclear Magnetic Resonance with NMRglue
+-   Chapter 12: Machine Learning using Scikit-Learn
+-   Chapter 13: Command Line &amp; Spyder
+
+
+## Location {#location}
+
+<https://weisscharlesj.github.io/SciCompforChemists/intro.html>
+
+<https://github.com/weisscharlesj/SciCompforChemists>
+
+
+## Author {#author}
+
+Charles J. Weiss, Augustana University
+
+
+## License {#license}
+
+CC-BY-NC-SA 4.0

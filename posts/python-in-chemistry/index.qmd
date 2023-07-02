@@ -1,0 +1,40 @@
+---
+title: "Python in Chemistry"
+#author: "ssinglet"
+date: "2021-11-02"
+date-modified: "2021-11-02"
+categories: ["website", "python", "computing"]
+image: pythoninchemistry.png
+---
+
+
+![](pythoninchemistry.png)
+
+
+
+The [pythoninchemistry](https://pythoninchemistry.org) pages are a series of resources for students and educators alike. They aim to combine an introduction to the Python programming language with an understanding of chemistry. This site will introduce a range of resources, covering how to get started with Python and how to make use of Jupyter notebooks. While allowing students to consolidate chemistry knowledge learnt in lectures and tutorials. The website includes _Applications_ which demonstrate the use of python for solving problems in chemistry and _Teaching_ blog posts explaining the use of an application in the classroom.
+
+Topics include:
+
+-   Reproducible analysis
+-   Advanced practical chemistry
+-   pylj launch
+-   Errors and debugging, plotting, importing, loops
+-   Introduction to molecular dynamics for neutron scatters
+-   Blackbody radiation
+
+
+## Location {#location}
+
+<https://pythoninchemistry.org>
+
+
+## Contributors {#contributors}
+
+This open-source project is run from the University of Bath by:
+
+Dr. Fiona Dickinson
+
+Dr. Ben Morgan
+
+Dr. Andrew McCluskey

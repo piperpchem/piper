@@ -1,0 +1,23 @@
+---
+title: "From Integrated Rate Laws to Integrating Rate Laws: Computation as a Conceptual Catalyst"
+#author: "ssinglet"
+date: "2023-05-06T00:00:00-05:00"
+categories: ["article"]
+image: from-integrated-rate-laws.png
+---
+
+![](from-integrated-rate-laws.png){width="75%"}
+
+When learning chemistry, students must learn to extract chemical information from mathematical expressions. However, chemistry students’ exposure to mathematics often comes primarily from pure mathematics courses, which can lead to knowledge fragmentation and potentially hinder their ability to use mathematics in chemistry. This study examines how computation can affect students’ blending of cognitive resources and their framing of mathematics in a chemical context. How students analytically and numerically interpret mathematical expressions in chemistry are examined through 14 individual clinical interviews with undergraduate chemistry students. The analysis was done by performing a thematic analysis of the interviews through a theoretical lens provided by the blended processing framework. This analysis reveals that computation and iterative thinking might serve as a catalyst for conceptual understanding and blending of cognitive resources. These findings suggest that we should evaluate how computational approaches could be leveraged to give students a better understanding of both mathematical models and the chemical concepts illustrated through these models.
+
+
+## Citation {#citation}
+
+Andreas Haraldsrud and Tor Ole B. Odden,
+Journal of Chemical Education Article ASAP,
+https://doi.org/10.1021/acs.jchemed.2c00881
+
+
+## License {#license}
+
+© 2023 The Authors. Published by American Chemical Society and Division of Chemical Education, Inc.
