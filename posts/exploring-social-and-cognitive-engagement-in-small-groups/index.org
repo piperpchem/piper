@@ -1,0 +1,40 @@
+#+options: ':t *:t -:t ::t <:nil H:3 \n:nil ^:t arch:headline
+#+options: author:nil broken-links:nil c:nil creator:nil
+#+options: d:(not "LOGBOOK") date:t e:t email:nil f:t inline:t
+#+options: num:nil p:nil pri:nil prop:nil stat:t tags:t tasks:t tex:t
+#+options: timestamp:t title:t toc:nil todo:t |:t
+#+title: index
+#+date: <2023-07-04 Tue>
+#+author: s
+#+email: ssinglet@g3
+#+language: en
+#+select_tags: export
+#+exclude_tags: noexport
+#+creator: Emacs 29.0.92 (Org mode 9.6.6)
+#+cite_export:
+#+export_file_name: index.qmd
+
+# source: https://pubs.rsc.org/en/Content/ArticleLanding/2023/RP/D3RP00071K
+
+#+BEGIN_SRC html
+---
+title: Exploring social and cognitive engagement in small groups through a community of learners (CoL) lens
+#author: "ssinglet"
+date: "2023-07-04"
+date-modified: "2023-07-04"
+categories: ["article"]
+draft: true
+image: exploring-social.png
+---
+#+END_SRC
+
+# #+attr_html: :width 75%
+#+attr_export: :width 75%
+[[file:exploring-social.png]]
+
+# [[file:exploring-social.png][Example orbital filling task completed by Shakespeare, Lewis, Evans, and Dahl]]
+
+
+A variety of research studies reveal the advantages of actively engaging students in the learning process through collaborative work in the classroom. However, the complex nature of the learning environment in large college general chemistry courses makes it challenging to identify the different factors that affect students’ cognitive and social engagement while working on in-class tasks. To provide insights into this area, we took a closer look at students’ conversations during in-class activities to characterize typical discourse patterns and expressed chemical thinking in representative student groups in samples collected in five different learning environments across four universities. For this purpose, we adapted and applied a ‘Community of Learners’ (CoL) theoretical perspective to characterize group activity through the analysis of student discourse. Within a CoL perspective, the extent to which a group functions as a community of learners is analyzed along five dimensions including Community of Discourse (CoD), Legitimization of Differences (LoD), Building on Ideas (BoI), Reflective Learning (RL), and Community of Practice (CoP). Our findings make explicit the complexity of analyzing student engagement in large active learning environments where a multitude of variables can affect group work. These include, among others, group size and composition, the cognitive level of the tasks, the types of cognitive processes used to complete tasks, and the motivation and willingness of students to substantively engage in disciplinary reasoning. Our results point to important considerations in the design and implementation of active learning environments that engage more students with chemical ideas at higher levels of reasoning.
+
+** Citation
