@@ -1,0 +1,23 @@
+---
+title: A Small Program to Extend the Conjugated Dyes Particle in a Box Experiment
+# author:
+date: 2023-07-10
+categories: [lab, computing]
+image: a-small-program.png
+---
+
+![](a-small-program.png){width="75%"}
+
+The UV–vis absorption of cyanine dyes is a common experiment in many physical chemistry teaching laboratories. As part of the analysis, students are often asked to hypothesize why the predicted absorption differs from the measured values and why dyes which are predicted to have the same absorption have measured values which differ from each other. For practical reasons, it is often difficult to have students test their proposed explanation with additional measurements. To meet this need, we have written a small program which generates a sample absorption spectrum of 40 (at the time of writing) different cyanine dyes, giving students an opportunity to evaluate their hypotheses. 
+
+Windows executable only.
+
+## Reference
+Adam Mansell
+
+[https://github.com/AMansell/Conjugated-Dyes](https://doi.org/10.1021/acs.jchemed.3c00171)
+
+J. Chem. Educ. 2023, 100, 7, 2776–2781
+
+<https://doi.org/10.1021/acs.jchemed.3c00171>
+

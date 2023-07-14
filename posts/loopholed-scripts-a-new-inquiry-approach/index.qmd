@@ -1,0 +1,19 @@
+---
+title: "Loopholed Scripts: A New Inquiry Approach for the Undergraduate Laboratory"
+# author:
+date: 2023-07-13
+categories: ["article", "lab"]
+image: loopholed-scripts.png
+draft: false
+---
+
+![](loopholed-scripts.png)
+
+This study’s general theme revolves around practical work in chemical education, and its scope is the employment of a novel inquiry strategy combined with a new openness level. We investigate how the controlled positive error, a new device for inquiry activities developed by us, affects undergraduate students’ experience of an experiment and develops their scientific mind after they attend a laboratory class. Qualitative research of the case study type was carried out. The subjects were first-year students enrolled in a general chemistry course. We employed textual documents and focus groups for data gathering and found that significantly changing the pattern of a laboratory activity, despite being a challenging and effortful task, had many benefits for the student’s development, such as increasing their connection to and proactivity toward the experiment.
+
+## Reference
+Matheus Almeida Bauer Zytkuewisz, Denis Ricardo Martins de Godoi, Amadeu Moura Bego
+
+*J. Chem. Educ.*, 2023, 100, 2539−2547
+
+<https://doi.org/10.1021/acs.jchemed.2c01197>
