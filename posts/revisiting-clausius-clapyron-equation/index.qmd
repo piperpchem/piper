@@ -1,0 +1,38 @@
+---
+title: "Revisiting the Clausius/Clapeyron Equation and the Cause of Linearity"
+date: "2023-07-13"
+#author: ssinglet
+categories: ["article", "thermo", "matlab"]
+image: "revisiting-clausius-clapeyron.png"
+---
+
+![](revisiting-clausius-clapeyron.png){width=75%}
+
+In general, for an organic compound a plot of the log vapor pressure
+versus inverse temperature is linear over a wide temperature
+range. This however can lead to a point of confusion in an
+undergraduate thermodynamics course. This linear behavior is typically
+explained using the Clausius/Clapeyron equation. That is, starting
+with the Clapeyron equation one first assumes (1) that change in
+compressibility upon vaporization is approximately 1, or equivalently
+that the vapor phase may be treated as an ideal gas where the molar
+volume of the vapor is much greater than that of the liquid, which may
+be assumed negligible. And second (2), that the enthalpy of
+vaporization is constant. While the resulting linear behavior is
+captured, the underlying assumptions are not applicable over the wide
+range of temperature of interest. Here we discuss the shortcomings of
+the conventional explanation of the Clausius/Clapeyron equation. We
+further demonstrate that a simple solution is to instead assume that
+the enthalpy of vaporization relative to the change in compressibility
+upon vaporization is constant. We provide a series of examples and
+MATLAB code that can be used in an undergraduate thermodynamics
+course.
+
+## Reference
+
+Thompson J, Paluch A. Revisiting the Clausius/Clapeyron Equation and the Cause of Linearity. ChemRxiv. Cambridge: Cambridge Open Engage; 2023;  This content is a preprint and has not been peer-reviewed.
+
+[doi:10.26434/chemrxiv-2023-b4hwx](https://doi.org/10.26434/chemrxiv-2023-b4hwx)
+
+## License
+The content is available under [CC BY 4.0 CreativeCommons.org](https://creativecommons.org/licenses/by/4.0/)

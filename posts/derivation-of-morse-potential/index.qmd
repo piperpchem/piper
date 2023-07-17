@@ -1,0 +1,36 @@
+---
+title: "Derivation of Morse Potential Function"
+# author:ssinglet
+date: 2023-07-13
+categories: ["article", "classroom"]
+image: derivation-of-morse-potential.png
+---
+
+![](derivation-of-morse-potential.png){width=75%}
+
+The Morse potential is widely used in chemistry to describe
+interatomic interactions. However, there is no explicit derivation for
+this empirical potential from physically meaningful atomic
+quantities. We show that the Morse potential can be derived from a
+simple atomic screened charge model, which accounts for the shielded
+nuclear charge by the electron density and exponentially de- cays with
+distance. The bond dissociation energy of a diatomic molecule is
+obtained by combining the quantum mechanical covalent and classical
+electrostatic interactions. The revealed connections between the
+parameters of the Morse potential, the Pauling bond order and
+electronegativity bridge the gap between the classical and quantum
+mechanical descriptions of chemical bonds. The proposed derivation and
+interpretation of the Morse potential in terms of atomic quantities
+such as electron-nuclear attraction energy and orbital exponents will
+be valuable in helping students to form a simple picture of chemical
+bond.
+
+## Reference
+Mirzanejad A, Varganov S. Derivation of Morse Potential
+Function. ChemRxiv. Cambridge: Cambridge Open Engage; 2023; This
+content is a preprint and has not been peer-reviewed.
+
+[doi:10.26434/chemrxiv-2023-7mzkw](https://doi.org/10.26434/chemrxiv-2023-7mzkw)
+
+## License
+The content is available under [CC BY NC ND 4.0 CreativeCommons.org](https://creativecommons.org/licenses/by-nc-nd/4.0/)
