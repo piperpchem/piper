@@ -10,7 +10,7 @@ project:
 website:
   favicon: images/profile.png
   title: "PIPER: Resources for Teaching Physical Chemistry"
-  site-url: https://chemistry.coe.edu/piper2
+  site-url: https://chemistry.coe.edu/piper
   description: 'PIPER resources for teaching and learning physical chemistry'
 
   #repo-url: https://github.com/mine-cetinkaya-rundel/quarto-tip-a-day
