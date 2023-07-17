@@ -1,0 +1,23 @@
+---
+title: "Physical Chemistry Supplement from ACS Committee on Professional Training"
+# author:
+date: "2023-07-17"
+categories: ["classroom", "article"]
+image: "acs-logo.jpg"
+---
+
+![](acs-logo.jpg){width=75%}
+
+The ACS Committee on Professional Training (CPT) establishes
+guidelines for the approval of bachelor degree programs in
+chemistry. The requirements for program approval and student
+certification are described in the newly approved 2023 ACS Guidelines
+and Evaluation Procedures for Bachelor’s Degree Programs (PDF).
+
+
+
+The Committee on Professional Training publishes supplements to the
+ACS Guidelines that provide advice to institutions that wish to
+develop specific aspects of their chemistry program.
+
+[ACS Physical Chemistry Supplement PDF](https://www.acs.org/content/dam/acsorg/about/governance/committees/training/acsapproved/degreeprogram/physical-chemistry-supplement.pdf)
