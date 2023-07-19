@@ -1,0 +1,31 @@
+---
+title: "LABSIP: Lowering Activation Barriers to Success in Physical Chemistry"
+# author: ssinglet
+date: 2023-07-18
+categories: ["classroom", "website"]
+image: labsip.png
+---
+
+![](labsip.png){width="75%"}
+
+# About
+
+LABSIP (Lowering Access Barriers to Success in Physical Chemistry) is
+a collaborative project led by eleven physical chemistry instructors
+and funded initially by Research Corporation for Science
+Advancement. Our short-term goal is community engagement around new
+directions in Physical Chemistry instruction, with a longer-term goal
+of providing guidelines and resources towards a more inclusive,
+dynamic, and current physical chemistry curriculum.
+
+# LABSIP-created resources
+
+- Discord server (community discussion space)
+- Youtube channel
+- Allourideas polls on PChem content items: provided anecdotal evidence of some
+  clear community preferences on the importance (or not) of specific
+  topics in PChem courses.
+
+# Reference
+
+<https://labsip.org>

@@ -1,0 +1,40 @@
+---
+title: Nationwide Survey of the Undergraduate Physical Chemistry Course
+# author: ssinglet
+date: 2023-07-15
+categories: ["article", "classroom"]
+image: survey-undergrad-pchem-course.png
+---
+
+![](survey-undergrad-pchem-course.png){width="75%"}
+
+A nationwide survey of the undergraduate physical chemistry course was
+conducted to investigate the depth and breadth of content that is
+covered, how content is delivered, how student understanding is
+assessed, and the experiences and beliefs of instructors. The survey
+was administered to instructors of physical chemistry (N = 331) at
+American Chemical Society certified colleges and universities in the
+United States. The majority of instructors (N = 187) provided contact
+information, allowing responses to be associated with their
+institution. The goal of this preliminary study is to provide an
+awareness of the current state of physical chemistry courses across
+the United States. Several relationships regarding the course
+curriculum were investigated such as depth versus breadth of course
+content, and goal for understanding versus types of assessment
+questions. Also, several relationships regarding instructor beliefs
+and experiences were investigated such as degree of teacher
+preparation experience versus course delivery, and instructor beliefs
+about the challenging nature of physical chemistry education versus
+proposed strategies to overcome those challenges. Information gained
+from this study may inform the development of new teaching practices,
+curriculum, assessments, and resources for physical chemistry
+education, as well as encourage instructors of physical chemistry and
+researches of chemical education to work together to improve student
+understanding of physical chemistry.
+
+## Reference
+Laura J. Fox and Gillian H. Roehrig, Journal of Chemical Education 2015 92 (9), 1456-1465
+[https://doi.org/10.1021/acs.jchemed.5b00070](https://doi.org/10.1021/acs.jchemed.5b00070)
+
+## License
+Copyright 2015 The American Chemical Society and Division of Chemical Education, Inc.
