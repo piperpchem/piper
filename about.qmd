@@ -19,3 +19,4 @@ PIPER (PChem Inspired Pedagogical Electronic Resource) is an online collection o
 
 Contact Steve Singleton ssinglet@coe.edu with submissions (help us build the site!), suggestions, or questions.
 
+[To the resources...](https://chemistry.coe.edu/piper)
