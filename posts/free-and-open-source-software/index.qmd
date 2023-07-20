@@ -3,12 +3,43 @@ title: "Free and Open Source Software for Computational Chemistry Education"
 #author: "ssinglet"
 date: "2022-03-30T00:00:00-05:00"
 categories: ["computing", "computational", "article"]
+image: free-and-open.png
 ---
 
-Long in the making, computational chemistry for the masses is finally here. Our brief review on free and open source software (FOSS) packages points out the existence of software offering a wide range of functionality, all the way from approximate semiempirical calculations with tight-binding density functional theory to sophisticated ab initio wave function methods such as coupled-cluster theory, covering both molecular and solid-state systems. Combined with the remarkable increase in the computing power of personal devices, which now rivals that of the fastest supercomputers in the world in the 1990s, we demonstrate that a decentralized model for teaching computational chemistry is now possible thanks to FOSS packages, enabling students to perform reasonable modeling on their own computing devices in the bring your own device (BYOD) scheme. FOSS software can be made trivially simple to install and keep up to date, eliminating the need for departmental support, and also enables comprehensive teaching strategies, as various algorithms' actual implementations can be used in teaching. We exemplify what kinds of calculations are feasible with four FOSS electronic structure programs, assuming only extremely modest computational resources, to illustrate how FOSS packages enable decentralized approaches to computational chemistry education within the BYOD scheme. FOSS also has further benefits driving its adoption: the open access to the source code of FOSS packages democratizes the science of computational chemistry, and FOSS packages can be used without limitation also beyond education, in academic and industrial applications, for example.
+![](free-and-open.png){width=80%}
 
+Long in the making, computational chemistry for the masses is finally
+here. Our brief review on free and open source software (FOSS)
+packages points out the existence of software offering a wide range of
+functionality, all the way from approximate semiempirical calculations
+with tight-binding density functional theory to sophisticated ab
+initio wave function methods such as coupled-cluster theory, covering
+both molecular and solid-state systems. Combined with the remarkable
+increase in the computing power of personal devices, which now rivals
+that of the fastest supercomputers in the world in the 1990s, we
+demonstrate that a decentralized model for teaching computational
+chemistry is now possible thanks to FOSS packages, enabling students
+to perform reasonable modeling on their own computing devices in the
+bring your own device (BYOD) scheme. FOSS software can be made
+trivially simple to install and keep up to date, eliminating the need
+for departmental support, and also enables comprehensive teaching
+strategies, as various algorithms' actual implementations can be used
+in teaching. We exemplify what kinds of calculations are feasible with
+four FOSS electronic structure programs, assuming only extremely
+modest computational resources, to illustrate how FOSS packages enable
+decentralized approaches to computational chemistry education within
+the BYOD scheme. FOSS also has further benefits driving its adoption:
+the open access to the source code of FOSS packages democratizes the
+science of computational chemistry, and FOSS packages can be used
+without limitation also beyond education, in academic and industrial
+applications, for example.
 
-## Citation {#citation}
+The repository contains the practical examples of combining the Bring
+Your Own Device approach with Free and Open Source Software to run
+quantum chemical calculations (BYOD-FOSS). The examples can be found
+inside the folders xtb, NWChem, Psi4, and QE.
+
+## Reference
 
 Lehtola S, Karttunen A. Free and Open Source Software for Computational Chemistry Education. ChemRxiv. Cambridge: Cambridge Open Engage; 2022; This content is a preprint and has not been peer-reviewed.
 

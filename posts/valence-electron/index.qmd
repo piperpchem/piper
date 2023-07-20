@@ -13,6 +13,7 @@ Students identify and count valence electrons in their first chemistry courses. 
 
 # What do students do?
 Students predict how characteristics of valence electrons differ from core electrons and then calculate and examine atomic orbital energies for the first and second row atoms, refining their list of characteristics. Students turn to a diatomic molecule and examine how its molecular electronic energy varies with internuclear distance, developing their understanding of chemical bonding. They then perform calculations on first and second row homonuclear diatomic molecules, building molecular orbital diagrams. This experiment develops refined concepts of valence electrons and chemical bonding, built from student data. The full experiment typically requires two three-hour lab periods to complete. 
+
 # What equipment and supplies will you need?
 
 Calculations can be done on Chem Compute (https://chemcompute.org/), the WebMO demo server (https://www.webmo.net/demoserver/cgi-bin/webmo/login.cgi), or a package of the instructor’s choice. Microsoft Excel and Google Sheet templates are available in which students can build atomic and molecular orbital energy diagrams from their data.

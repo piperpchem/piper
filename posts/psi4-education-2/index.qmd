@@ -8,8 +8,6 @@ image: psi4banner_education.png
 
 ![](psi4banner_education.png){width="70%"}
 
-From the Psi4Education website:
-
 Psi4Education is the education and outreach program of Psi4, the free, open-source quantum chemistry software package. We offer a suite of free, open-source lab activities, suitable for use in classes across the chemistry curriculum, which use Psi4, the Psi4Numpy Python API, and WebMO, a graphical front end to help build molecules and set up calculations for Psi4. Psi4Education aims to increase students exposure to scientific programming and computational chemistry and help students learn chemistry through computation.
 
 Many of the lab activities use Psi4Numpy, the Psi4 Python API. Psi4Numpy allows you to import and use Psi4 functions directly in Jupyter notebooks. These labs assume some prerequisite knowledge of python.

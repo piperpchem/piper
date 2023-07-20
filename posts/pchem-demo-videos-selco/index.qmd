@@ -3,7 +3,10 @@ title: "Chemistry demonstration videos"
 #author: "ssinglet"
 date: "2020-07-20T14:43:00-05:00"
 categories: ["website", "classroom", "demos", "video"]
+image: selco.png
 ---
+
+<img src="selco.png" width="80%">
 
 Introductory contexts for an online physical chemistry course.
 

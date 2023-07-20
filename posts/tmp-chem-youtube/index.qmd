@@ -4,9 +4,13 @@ title: "TMP Chem YouTube Channel"
 date: "2022-01-15T00:00:00-06:00"
 date-modified: "2022-01-16T00:00:00-06:00"
 categories: ["website", "video", "quantum", "thermo", "kinetics", "computational"]
+image: tmpchem.jpg
 ---
 
-The goal of TMP Chem is to provide free, high-quality physical chemistry study resources to anyone, anywhere.
+![](tmpchem.jpg)
+
+The goal of TMP Chem is to provide free, high-quality physical
+chemistry study resources to anyone, anywhere.
 
 Quantum Chemistry and Spectroscopy and Chemical Thermodynamics and Kinetics are both complete. Theoretical and Computational Chemistry in progress.
 
@@ -16,11 +20,6 @@ Physical chemistry is the use of physics to develop descriptive mathematical mod
 ## Location {#location}
 
 <https://www.youtube.com/c/TMPChem>
-
-
-## Review status {#review-status}
-
-Unknown
 
 
 ## License {#license}

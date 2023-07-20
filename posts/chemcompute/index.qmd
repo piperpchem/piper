@@ -7,9 +7,7 @@ image: chemcompute.png
 ---
 ![](chemcompute.png)
 
-The Chem Compute website allows students to easily access state-of-the-art computational software for free. Our hope is that this will enable faculty to incorporate computational chemistry into their undergraduate teaching and research curriculum without the hassle of compiling, installing, and maintaining software and hardware.
-
-Instructors are encouraged to use this site in their classes. The service is completely free and you don't need to ask permission.
+The Chem Compute website allows students to easily access state-of-the-art computational software for free. Our hope is that this will enable faculty to incorporate computational chemistry into their undergraduate teaching and research curriculum without the hassle of compiling, installing, and maintaining software and hardware. Instructors are encouraged to use this site in their classes. The service is completely free and you don't need to ask permission.
 
 Prepared experiments:
 

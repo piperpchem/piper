@@ -6,11 +6,7 @@ categories: ["book"]
 image: bk-2020-1343.largecover.jpg
 ---
 
-ACS Symposium Series
-
 ![](bk-2020-1343.largecover.jpg){width="50%"}
-
-From the preface:
 
 We have organized the book into four related sections around the main theme of pedagogical practices to support student success in chemistry. In "Section 1: Enhancing Student Success in General Chemistry,” Fischer, Montes, Thomas, Odeleye, Teague, and Jensen share their individual experiences with various instructional techniques in the general chemistry classroom. Section 2 contains chapters from Williams and Koralegedara focusing on "Enhancing Student Success in Upper-Level Courses.” In Section 3 you will find accounts from Dipinto and Tournis, Fish and Cole, and Emmert on "Enhancing Student Success Via Outreach Experiences." The book concludes with chapters from Flokstra and Hill, Eichler, and Rosenthal in "Section 4: Case Studies of Specific Strategies to Enhance Student Success."
 
@@ -40,7 +36,7 @@ Amy Flanagan Johnson,Eastern Michigan University
 Oluwatobi O. Odeleye, Norman, Oklahoma
 
 
-## Location {#location}
+## Reference
 
 <https://pubs.acs.org/doi/10.1021/bk-2020-1343>
 

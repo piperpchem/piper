@@ -2,11 +2,12 @@
 title: "Kolasinski's Physical Chemistry YouTube Channel"
 #author: "ssinglet"
 date: "2022-01-16"
-date-modified: "2022-01-16"
+# date-modified: "2022-01-16"
 categories: ["website", "classroom", "video", "thermo", "quantum", "kinetics"]
+image: channels4_banner.jpg
 ---
 
-Channel description:
+![](channels4_banner.jpg)
 
 This channel contains video tutorials to support students who are studying physical chemistry. They are based on the book Physical Chemistry: How Chemistry Works (ISBN 978-1-118-75112-1), by Kurt W Kolasinski. These tutorials cover statistical mechanics, thermodynamics, electrochemistry, chemical kinetics, reaction mechanisms, surface science, and quantum mechanics.
 

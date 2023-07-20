@@ -6,9 +6,7 @@ categories: ["book"]
 image: bk-2018-1279.largecover.jpg
 ---
 
-ACS Symposium Series
-
-![](bk-2018-1279.largecover.jpg){width="50%" link="https://pubs.acs.org/doi/book/10.1021/bk-2018-1279"}
+![](bk-2018-1279.largecover.jpg){width="50%"}
 
 This book reflects the diversity of physical chemistry experiences of the authors themselves. Some chapters provide suggestions to increase engagement by providing new, intriguing contexts such as protein interactions and surface chemistry through which to teach traditional physical chemistry concepts. Other chapters focus on pedagogy, presenting ideas on how to increase the active involvement of students in their own learning or how to help students memorize difficult thermodynamic equations. Still other chapters challenge traditional instructional notions with ideas such as using flipped classrooms and incorporating a graphic novel. In general, we organized the chapters according to these broad categories, although some chapters bridge categories.
 
@@ -40,7 +38,7 @@ Craig M. Teague, Cornell College
 David E. Gardner, Lander University
 
 
-## Citation {#citation}
+## Reference
 
 _Engaging Students in Physical Chemistry_ Teague and Gardner, American Chemical Society, 2018, DOI: 10.1021/bk-2018-1279
 

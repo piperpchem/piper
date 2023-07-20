@@ -3,7 +3,9 @@ title: "Teaching and Learning with Jupyter"
 #author: "ssinglet"
 date: 2018-11-01
 categories: ["book", "jupyter"]
+image: teaching-jupyter.png
 ---
+<img src="teaching-jupyter.png" width="80%">
 
 This handbook is for any educator teaching a topic that includes data analysis or computation in order to support learning. It is not just for educators teaching courses in engineering or science, but also data journalism, business and quantitative economics, data-based decision sciences and policy, quantitative health sciences, and digital humanities. It aims to provide an entry point, and a broad overview of Jupyter in education. Whether you are already using Jupyter to teach, you have found learning materials built on Jupyter that piqued your curiosity, or have never heard of Jupyter, the material in this open book can empower you to use this technology in your teaching.
 
