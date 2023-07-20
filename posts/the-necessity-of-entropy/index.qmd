@@ -1,0 +1,22 @@
+---
+title: "The Necessity of Entropy: the Macroscopic Argument, the Microscopic Response, and Some Practical Consequences"
+# author: 
+date: 2023-7-11
+categories: [thermo]
+image: necessity.png
+---
+
+![](necessity){width="75%"}
+
+Students often find thermodynamics baffling. This should not be surprising because it took many years for some of the best scientific minds to work it out. Nor should that arduous history be surprising because thermodynamics links visible phenomena with molecular phenomena, two realms that are more often considered separately. However, the grand ambition of this linkage has been elegantly established and there is nothing convoluted about it. 
+
+
+The short primer offered here lays out the foundational logic of thermodynamics in crisp, linear fashion, sidestepping the historical detours and the technical digressions generally included in textbooks. The hope is that this straightforward presentation will provide students with a sturdy scaffold for further exploration of the richness of these ideas and their applications. 
+
+# Reference
+Judith Herzfeld, Brandeis University, Department of Chemistry
+
+[https://doi.org/10.48617/1029 ](https://doi.org/10.48617/1029)
+
+# License
+Copyright Judith Herzfeld
