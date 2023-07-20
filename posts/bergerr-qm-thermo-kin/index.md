@@ -1,0 +1,50 @@
+---
+title: "Berger quantum chemistry and statistical mechanics/kinetics course materials"
+#author: 
+date: 2023-07-20
+categories: ["classroom", "quantum", "stat thermo", "kinetics", "video"]
+image: bergerr.png
+---
+
+<img src="bergerr.png" width="80%">
+
+These course materials were designed by [Rob Berger](mailto:bergerr@wwu.edu) for flipped-classroom implementation of undergraduate quantum chemistry course at Western Washington University.
+
+
+# Implementation
+
+Rob covers quantum for ~11 weeks and stat/mech thermo for ~9 weeks, combining for two 10-week quarters. Students take quantum first, so the stat mech coverage assumes some familiarity with quantum models. (There is also a third quarter of p-chem at WWU that mainly covers equilibrium and kinetics, but Rob’s materials for that course are not yet as extensive.)
+
+Typically, Rob assigns students to watch about two videos per week, depending how content-rich the videos are. In class, there is usually a brief recap of key points in each video with opportunities for students to ask questions, followed by in-class group problem-solving activities or the above computer simulation activities. The in-class problem sets are not included here, but Rob would be happy to discuss and/or share those, too.
+
+
+# Quantum resources
+
+[Learning progressions for Quantum Mechanics](Rob Berger Quantum learning progressions.pdf)
+
+<https://youtube.com/playlist?list=PLQBZe6QwlRssHCxYHI5xFIOCk_TGktZVk>
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLQBZe6QwlRssHCxYHI5xFIOCk_TGktZVk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+# Thermodynamics/stat mech/kinetics resources
+
+[Learning progressions for thermo, stat mech, and kinetics](Rob Berger Thermo learning progressions.pdf)
+
+
+## Big Ideas for Statistical Mechanics and Kinetics
+
+
+## YouTube Playlists
+
+
+# Other teaching materials
+
+
+# Author
+
+Rob Berger, bergerr@wwu.edu,  <https://wp.wwu.edu/bergerr/teaching/>
+
+
+# License
+
