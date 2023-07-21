@@ -1,0 +1,41 @@
+
+#+export_file_name: index
+
+#+begin_export md
+---
+title: Introduction to Biomolecular Visualization
+#format:
+#  html:
+#    toc: true
+#    toc-expand: 3
+#    toc-location: right
+#    toc-depth: 2
+#    number-sections: false
+#author: Rob Whitnell
+date: 2023-07-21
+categories: ["computational", "classroom", "lab"]
+image: "intro-biomolecular-visualization.png"
+---
+<img src="intro-biomolecular-visualization.png" width="40%">
+#+end_export
+
+These two activities provide similar introductions to biomolecular visualization using the Protein Data Bank (PDB, https://www.rcsb.org) and the VMD molecular visualization application (https://www.ks.uiuc.edu/Research/vmd/) They were developed for a biochemistry class, but they should also be useful for students interested in biophysical applications, perhaps as part of a physical chemistry or computational chemistry course.
+
+/"When do we call a peptide a protein?"/ addresses specific properties of proteins and whether relatively small peptides, as small as 10 amino acids, can be said to have those properties. The activity sets a foundation in using visualization in biophysical applications. Physical chemistry students will also see how difficult it can be to provide a single, rigorous definition for a commonly-used and very significant concept. That's a recurring theme in physical chemistry. Students also examine the characteristics of protein and peptide structures determined using NMR experiments as compared to X-ray crystallography.
+
+/"What are the characteristics of a folded protein?"/ is a revision of the first activity that can be done on its own or in conjunction with an experiment examining the unfolding of bovine serum albumin in the presence of a fluorophore (Carlson, T. M., et al. "Naked-Eye Detection of Reversible Protein Folding and Unfolding in Aqueous Solution", J. Chem. Educ. 2017, https://doi.org/10.1021/acs.jchemed.6b00507). In this activity, students examine the albumin structure in the absence of any binding molecules and bound with naproxen. Students then explore the ability of albumin to bind an incredibly wide variety of small molecules, examining specifically how the fluorophore might bind to albumin based on existing albumin structures in the PDB that include a bound molecule.
+
+While written for VMD, activities can be modified to use different molecular visualization programs.
+
+The author welcomes feedback on these activities and is interested in collaboration on improving them as well as improving an activity under development in which students visualize and explore the catalytic triad in proteases. 
+
+** Activities
+[[file:./Intro to biomolecular visualization When do we call a peptide a protein.pdf][Intro to biomolecular visualization: When do we call a peptide a protein]]
+
+[[file:Intro to biomolecular visualization What are the characteristics of a folded protein.pdf][Intro to biomolecular visualization: What are the characteristics of a folded protein]]
+** Author
+Rob Whitnell, Guilford College, Greensboro, NC, USA
+
+** License
+This work is licensed under a Creative Commons Attribution-ShareAlike
+4.0 International License https://creativecommons.org/licenses/by-sa/4.0/ 
