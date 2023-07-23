@@ -2,11 +2,11 @@
 title: "Quantum Chemistry & Spectroscopy: A Guided Inquiry"
 #author: "ssinglet"
 date: "2020-06-27T00:00:00-05:00"
-categories: ["book", "quantum", "classroom"]
+categories: ["book", "quantum", "course design"]
 image: "quantumChemSpec.png"
 ---
 
-<img src="quantumChemSpec.png" height="40%">
+<img src="quantumChemSpec.png" width="50%">
 
 _Quantum Chemistry &amp; Spectroscopy: A Guided Inquiry_ was developed to facilitate more student-centered classroom instruction of physical chemistry. Based on principles developed through years of research on how students learn, these materials follow the POGIL methodology and have been endorsed by The POGIL Project.  This approach implements modern cognitive learning principles by having students learn how to create kowledge and how to test that knowledge.  These materials are designed for use in any physical chemistry course as the primary classroom materials,  and should be supplemented with a traditional physical chemistry book.
 

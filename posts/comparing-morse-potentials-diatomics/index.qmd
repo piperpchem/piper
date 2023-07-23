@@ -2,7 +2,7 @@
 title: "Comparing the Morse potentials of several diatomics"
 #author: "ssinglet"
 date: "2020-07-07T14:54:00-05:00"
-categories: ["computing", "python", "bonding", "classroom", "jupyter"]
+categories: ["activity", "computing", "python", "bonding", "jupyter"]
 image: morse-multiple-bonds.png
 ---
 

@@ -2,7 +2,7 @@
 title: "POGIL-PCL"
 #author: "ssinglet"
 date: "2020-07-03T00:00:00-05:00"
-categories: ["website"]
+categories: ["website", "course design", "lab"]
 image: pogil-pcl-cycle.jpg
 ---
 

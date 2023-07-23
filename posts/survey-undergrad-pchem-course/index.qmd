@@ -2,7 +2,7 @@
 title: Nationwide Survey of the Undergraduate Physical Chemistry Course
 # author: ssinglet
 date: 2023-07-15
-categories: ["article", "classroom"]
+categories: ["course design","article"]
 image: survey-undergrad-pchem-course.png
 ---
 

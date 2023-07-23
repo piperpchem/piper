@@ -46,6 +46,6 @@ Download [ipynb file](https://raw.githubusercontent.com/singletS/clueopen/master
 
 ## License {#license}
 
-Original work © Journal of Chemical Education
+Original work copyright Journal of Chemical Education
 
-Derivative work is Creative Commons ShareAlike.
+Derivative work is CC-BY-SA Creative Commons ShareAlike.

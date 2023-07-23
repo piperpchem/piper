@@ -2,7 +2,7 @@
 title: "Using Python to Explore the Morse Potential"
 #author: "ssinglet"
 date: "2017-06-28T14:30:00-05:00"
-categories: ["computing", "jupyter"]
+categories: ["computing", "jupyter", "bonding"]
 image: 600px-Morse-potential.png
 ---
 

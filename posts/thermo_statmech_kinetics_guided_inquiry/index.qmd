@@ -2,7 +2,7 @@
 title: "Thermodynamics, Statistical Mechanics & Kinetics: A Guided Inquiry"
 #author: "ssinglet"
 date: "2021-06-12"
-categories: ["book", "thermo", "kinetics", "stat-mech"]
+categories: ["book", "thermo", "kinetics", "stat-mech", "course design"]
 image: thermo-statmech-guided-inquiry.png
 ---
 

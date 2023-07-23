@@ -2,7 +2,7 @@
 title: "Physical Chemistry Supplement from ACS Committee on Professional Training"
 # author:
 date: "2023-07-17"
-categories: ["classroom", "article"]
+categories: ["course design", "article"]
 image: "acs-logo.jpg"
 ---
 

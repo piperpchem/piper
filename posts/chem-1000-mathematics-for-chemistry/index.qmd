@@ -2,17 +2,29 @@
 title: "Chem 1000: Mathematics for Chemistry"
 #author: "ssinglet"
 date: "2021-06-12"
-categories: ["computing", "jupyter", "classroom"]
+categories: ["mathematics", "computing", "jupyter"]
+image: biphenyl-dihedral.png
 ---
 
-[These materials support a] course intended for sophomore and junior chemistry majors with a background of some calculus to prepare for physical and analytical chemistry courses. It presents mathematical topics and some minimal programming in Python / Jupyter relevant to chemists with chemical applications. In particular, these notebooks are intended to foster skills in computational mathematics and computational thinking.
+![](biphenyl-dihedral.png){width=60%}
+
+This course is intended for sophomore and junior chemistry majors with a background of some calculus to prepare for physical and analytical chemistry courses. It presents mathematical topics and some minimal programming in Python / Jupyter relevant to chemists with chemical applications. 
+
+In particular, these notebooks are intended to foster skills in computational mathematics and computational thinking.
+
+The lecture materials, homework, and notebooks are intended as a supplement to Mathematical Methods for Molecular Science by Prof. John Straub, Boston University: <http://sites.bu.edu/straub/mathematical-methods-for-molecular-science/>
+
+Note that the tone presented in the notebooks is often informal. If you use for your classes, you may wish to alter to taste.
+
+## Overview:
+  - How does one calculate the concentration of chemical reactants and products as a function of time?
+  - How does Fourier transform spectroscopy work?
+  - How do molecular orbitals get their shapes?
 
 Mathematical tools are essential across chemistry. In this class, we will survey the most important mathematical methods for chemists and illustrate applications to problems from across the chemical field.
 
-
-### Learning Objectives {#learning-objectives}
-
-After finishing the course, students should be able to apply mathematical tools to common problems in physical and analytical chemistry, including solving ordinary and partial differential equations, performing Fourier transforms, calculating differentials, solving integrals, optimizing functions, working with complex numbers, vectors, matrices, and eigenvalues.  Students should be able to solve basic chemistry-related mathematical problems using the Python programming language and use Jupyter notebooks.
+## Learning Objectives 
+After finishing the course, students should be able to apply mathematical tools to common problems in physical and analytical chemistry, including solving ordinary and partial differential equations, performing Fourier transforms, calculating differentials, solving integrals, optimizing functions, working with complex numbers, vectors, matrices, and eigenvalues. Phew, that’s a lot. Students should be able to solve basic chemistry-related mathematical problems using the Python programming language and use Jupyter notebooks.
 
 
 ## Location {#location}

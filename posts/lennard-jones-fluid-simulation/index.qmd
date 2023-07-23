@@ -2,7 +2,7 @@
 title: "Foregrounding the code: Computational chemistry instructional activities using a highly readable fluid simulation code"
 #author: "ssinglet"
 date: "2022-09-03T00:00:00-05:00"
-categories: ["computing", "jupyter", "python"]
+categories: ["computing", "jupyter", "python", "activity"]
 image: lennard-jones-fluid.png
 ---
 

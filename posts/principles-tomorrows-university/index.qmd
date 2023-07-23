@@ -2,7 +2,7 @@
 title: "The principles of tomorrow's university"
 #author: "ssinglet"
 date: "2020-06-18T00:00:00-05:00"
-categories: ["article"]
+categories: ["article", "course design"]
 ---
 
 In the 21st Century, research is increasingly data- and computation-driven. Researchers, funders, and the larger community today emphasize the traits of openness and reproducibility. In March 2017, 13 mostly early-career research leaders who are building their careers around these traits came together with ten university leaders (presidents, vice presidents, and vice provosts), representatives from four funding agencies, and eleven organizers and other stakeholders in an NIH- and NSF-funded one-day, invitation-only workshop titled "Imagining Tomorrow's University." Workshop attendees were charged with launching a new dialog around open research – the current status, opportunities for advancement, and challenges that limit sharing.

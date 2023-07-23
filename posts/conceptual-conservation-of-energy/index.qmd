@@ -2,7 +2,7 @@
 title: "Development of an interdisciplinary conceptual conservation of energy theme for use in undergraduate physics, chemistry, and biology courses"
 #author: "ssinglet"
 date: "2022-04-01T00:00:00-05:00"
-categories: ["article", "thermo", "classroom"]
+categories: ["course design", "article", "thermo"]
 image: conceptual-conservation-of-energy.jpeg
 ---
 

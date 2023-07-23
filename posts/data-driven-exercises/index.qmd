@@ -2,8 +2,11 @@
 title: "Data Driven Exercises"
 #author: "ssinglet"
 date: "2021-06-12"
-categories: ["computing"]
+categories: ["computing", "activity"]
+image: "structures.gif"
 ---
+
+![](structures.gif)
 
 The exercises are designed to provide supplemental exposure to select topics that are encountered in the chemistry curriculum. An attempt has been made to keep the exercises relatively short. The theoretical background descriptions are brief and include only those concepts and equations that are central to the assignment. Students should only attempt certain assignments after receiving a more thorough exposure to the prerequisite topics in class or through independent study. Students will need access to some type of quantitative analysis software to carry out most of the assignments. In designing these exercises, no attempt has been made to instruct students in the use of any particular software environment or computer platform, or how to otherwise accomplish common numerical methods. Consequently, students will need some prior training in an appropriate software environment before attempting most exercises.
 

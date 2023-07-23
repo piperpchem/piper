@@ -2,7 +2,7 @@
 title: "LABSIP: Lowering Activation Barriers to Success in Physical Chemistry"
 # author: ssinglet
 date: 2023-07-18
-categories: ["classroom", "website"]
+categories: ["course design", "website"]
 image: labsip.png
 ---
 

@@ -2,7 +2,7 @@
 title: "The Challenges and Value of Undergraduate Oral Exams in the Physical Chemistry Classroom: A Useful Tool in the Assessment Toolbox"
 #author: "ssinglet"
 date: "2023-05-06T00:00:00-05:00"
-categories: ["article", "classroom"]
+categories: ["article", "course design"]
 image: challenges-and-value-oral-exams.png
 ---
 

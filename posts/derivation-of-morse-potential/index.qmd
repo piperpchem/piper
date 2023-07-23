@@ -2,7 +2,7 @@
 title: "Derivation of Morse Potential Function"
 # author:ssinglet
 date: 2023-07-13
-categories: ["article", "classroom"]
+categories: ["article", "bonding"]
 image: derivation-of-morse-potential.png
 ---
 

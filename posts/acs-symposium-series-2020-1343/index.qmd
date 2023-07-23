@@ -2,7 +2,7 @@
 title: "Chemistry Student Success: A Field-Tested, Evidence-Based Guide"
 #author: "ssinglet"
 date: "2020-06-28T00:00:00-05:00"
-categories: ["book"]
+categories: ["book", "course design"]
 image: bk-2020-1343.largecover.jpg
 ---
 

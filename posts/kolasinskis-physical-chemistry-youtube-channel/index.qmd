@@ -3,7 +3,7 @@ title: "Kolasinski's Physical Chemistry YouTube Channel"
 #author: "ssinglet"
 date: "2022-01-16"
 # date-modified: "2022-01-16"
-categories: ["website", "classroom", "video", "thermo", "quantum", "kinetics"]
+categories: ["website", "video", "thermo", "quantum", "kinetics"]
 image: channels4_banner.jpg
 ---
 
