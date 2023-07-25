@@ -1,0 +1,57 @@
+
+#+export_file_name: index
+
+#+begin_export md
+---
+title: "What Is the Structure of a Polymer in Solution?"
+#format:
+#  html:
+#    toc: true
+#    toc-expand: 3
+#    toc-location: right
+#    toc-depth: 2
+#    number-sections: false
+#author: 
+date: 2023-07-25
+categories: ["lab", "computing" ]
+image: what-is-structure2.png
+---
+<img src="what-is-structure2.png" width="60%">
+#+end_export
+
+We have developed a guided-inquiry laboratory exercise in which students perform viscosity measurements to infer the structure of poly(vinyl alcohol) (PVA) in aqueous solution. The activity combines both experiments and modeling. In the experimental portion of the exercise, students measure the viscosity of several solutions of PVA with differing molar masses. They discover that the size of molecules does not increase with the cube root of molar mass, as expected for objects with uniform density, but rather with the square root of molar mass. In the modeling part of the experiment, students use random numbers to create two-dimensional “random walk” objects on paper or on a computer. They discovered that the size of a random-walk object increases with the square root of the walk length. Combining what they discovered through the random walk models with what they learned from the viscosity measurement, they conclude that the structure of PVA dissolved in water (a theta solvent for PVA) is consistent with a random walk structure.
+
+* What is this experiment about?
+Using viscosity measurements and a simple modeling exercise, students discover that a random walk is a good model for polyvinyl alcohol in water.
+
+* What do students do?
+Students measure the viscosity of polyvinyl alcohol (several different molecular weights) in water.  They use their data to determine the radius of particles in solution, and discover that the radius scales as the square root of the chain length rather than the expected cube root.  Students then perform a random walk, first on paper and then (optionally) with a computer, to discover that the size of a random walk scales as the square root of the number of steps taken.  Students then conclude that a random walk is a reasonable model for polyvinyl alcohol dissolved  in water.
+
+* What equipment and supplies will you need?
+About a gram of each of four different molecular weights of PVA.  A way to measure viscosity, e.g. Cannon-Fenske viscometers.  (Temperature control is not necessary.)  A balance and standard volumetric glassware.  Graph paper.  Spreadsheet software.  Four-sided dice are optional.
+
+* What makes this experiment a physical chemistry experiment?
+Students think deeply about more than one physical model for macromolecules.  Students are also prompted to consider how solute-solute, solute-solvent, and solvent-solvent interactions affect the structure of a dissolved polymer.
+
+* And what makes it a POGIL-PCL experiment?
+- Students make predictions and develop hypotheses
+- Students are surprised that the data do not conform to their expectations
+- Students share data and interact with other students
+- There is a very modest amount of student input  into experimental design
+- Students use graphical representations and mathematical models to test hypotheses
+
+  
+** Reference
+Michael A. Everest and Abigail J. Toves, Westmont College, Santa Barbara, CA;  Melissa S. Reeves, Tuskegee University, Tuskegee, AL
+
+Student handout and Instructor's Handbook are available through the POGIL-PCL project: https://www.pogilpcl.org/get-connected
+
+Journal of Chemical Education, 2023, 100 (7), 2719-2723 [[https://doi.org/10.1021/acs.jchemed.2c01155][doi:10.1021/acs.jchemed.2c01155]]
+
+** License
+Creative Commons [[http://creativecommons.org/licenses/by-nc-sa/4.0/][CC-BY-NC-SA]]
+
+<span hidden>KEYWORDS: POGIL-PCL, Upper-Division Undergraduate, Laboratory
+Instruction, Physical Chemistry, Polymer Chemistry, Collaborative
+Learning, Inquiry-Based Learning, Molecular Structure, Physical
+Properties (Viscosity)</span>
