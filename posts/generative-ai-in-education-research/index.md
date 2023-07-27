@@ -1,0 +1,31 @@
+---
+title: "Generative AI in Education and Research: Opportunities, Concerns, and Solutions"
+#format:
+#  html:
+#    toc: true
+#    toc-expand: 3
+#    toc-location: right
+#    toc-depth: 2
+#    number-sections: false
+#author: 
+date: 2023-07-27
+categories: [article]
+image: gen-ai-ed.webp
+---
+<img src="gen-ai-ed.webp" width="70%">
+
+The integration of AI in education has sparked a paradigm shift in teaching and learning, presenting both unparalleled opportunities and complex challenges. This paper explores critical aspects of implementing AI in education to advance educational goals, ethical considerations in scientific publications, and the attribution of credit for AI-driven discoveries. We also examine the implications of using AI-generated content in professional activities and describe equity and accessibility concerns. By weaving these key questions into a comprehensive discussion, this article aims to provide a balanced perspective on the responsible and effective use of these technologies in education, highlighting the need for a thoughtful, ethical, and inclusive approach to their integration.
+
+
+# Reference
+
+Eman A. Alasadi and Carlos R. Baiz  
+Journal of Chemical Education Article ASAP  
+DOI: [10.1021/acs.jchemed.3c00323](https://doi.org/10.1021/acs.jchemed.3c00323)
+<span hidden>KEYWORDS: Generative AI, Education, ChatGPT, AI Opinions, Use of AI, GPT-4, AI Integration, Tools, Technology </span>
+
+
+# License
+
+© 2023 American Chemical Society and Division of Chemical Education, Inc.
+
