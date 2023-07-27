@@ -1,0 +1,25 @@
+---
+title: "Chemical Thermodynamics (supplement to Shepherd, et al)"
+#author: "ssinglet"
+date: "2022-06-12"
+categories: ["website", "thermo", "stat-mech"]
+image: che-450_chemical_thermodynamics.jpg
+---
+![](che-450_chemical_thermodynamics.jpg){width="70%"}
+
+<h3>[LibreText: Chemical Thermodynamics](https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Chemical_Thermodynamics_(Supplement_to_Shepherd%2C_et_al.)#)</h3>
+
+A LibreText Open Educational Resource to accompany the POGIL thermodynamics activities in the book [Thermodynamics, Statistical Mechanics &amp; Kinetics: A Guided Inquiry](<https://pogil.org/curricular-materials/chemistry/thermodynamics-statistical-mechanics-and-kinetics-a-guided-inquiry>).
+
+I pulled relevant material and even went through and modified the notation in the various pages to match what is used in the POGIL book. If you do use it, please let me know!  And if you see anything that you think needs to be fixed or could be improved, I would love that feedback as well!
+
+
+# Author
+
+Andrea Allgood Carter, Assistant Professor of Chemistry, Department of Chemistry, Physics, and Geoscience, Meredith College
+
+
+# License
+
+[CC BY-NC-SA 3.0](<http://creativecommons.org/licenses/by-nc-sa/3.0/us/>)
+
