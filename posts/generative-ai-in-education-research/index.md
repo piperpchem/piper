@@ -8,7 +8,7 @@ title: "Generative AI in Education and Research: Opportunities, Concerns, and So
 #    toc-depth: 2
 #    number-sections: false
 #author: 
-date: 2023-07-27
+date: 2023-07-27 10:00
 categories: [article]
 image: gen-ai-ed.webp
 ---
