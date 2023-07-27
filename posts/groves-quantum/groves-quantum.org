@@ -1,0 +1,39 @@
+
+#+export_file_name: index
+
+#+begin_export md
+---
+title: "Intro to PChem Lecture Videos: Quantum Mechanics"
+# author:
+#  - name: Michael Groves
+#    affiliations:
+#     - name: California State University, Fullerton
+date: 2023-07-27 09:00
+categories: ["video", "quantum"]
+keywords:
+  - flipped classroom
+  - video lectures
+  - quantum mechanics
+  - spectroscopy
+description: "This is the playlist of lecture videos for CHEM 361B at the California State University, Fullerton (CSUF). CHEM361B is a flipped, semester-long physical chemistry course which covers quantum mechanics, spectroscopy, and bonding."
+image: groves-quantum.jpg
+---
+<img src="groves-quantum.jpg" width="50%">
+#+end_export
+
+Course Objectives:
+ - Develop an understanding of the nature of quantum systems and apply these principles to solve the Schrödinger Equation and determine physical observables.
+ - Understand what it means for a system to be quantized and use the quantized nature of energy to predict spectroscopic phenomena in electronic, vibrational, NMR, and rotational spectroscopies
+ - Use the solutions to the Schrödinger Equation to describe how chemical bonds are formed between atoms.
+
+** Location
+
+https://www.youtube.com/playlist?list=PL_j40xIfCA33gFKog0uQ3Zii1O2eEiA3E
+
+** Author
+Michael Groves, California State University, Fullerton
+
+** License
+Unknown
+
+<span hidden>KEYWORDS: flipped classroom, video lectures, quantum mechanics, spectroscopy</span>

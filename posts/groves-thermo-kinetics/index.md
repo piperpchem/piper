@@ -1,0 +1,49 @@
+---
+title: "Intro to PChem Lecture Videos: Thermodynamics, Statistical Mechanics, Kinetics"
+# author:
+#  - name: Michael Groves
+#    affiliations:
+#     - name: California State University, Fullerton
+date: 2023-07-27 09:10
+categories: ["video", "thermo", "stat-mech", "kinetics"]
+keywords:
+  - video lectures
+  - flipped classroom
+  - thermodynamics
+  - statistical mechanics
+  - kinetics
+image: groves-thermo.jpg
+description: "This is the playlist of lecture videos for CHEM 361A at the California
+State University, Fullerton (CSUF). CHEM361A is a flipped,
+semester-long physical chemistry course which covers thermodynamics,
+statistical mechanics, and kinetics."
+---
+<img src="groves-thermo.jpg" width="50%">
+
+Course Themes:
+
+-   Thermodynamics: Foundational Concepts
+-   Equilibrium: The Steady State
+-   Kinetics: How Fast the Steady State is Achieved
+
+Course Goals:
+
+-   Illustrate the connections between math and science
+-   Demonstrate when theories are valid and when they fail
+-   Push you to think of physical systems in the context of foundational concepts and their applications
+
+
+# Location
+
+<https://www.youtube.com/playlist?list=PL_j40xIfCA33azpQKaIefMxae6PhrOoOk>
+
+
+# Author
+
+Michael Groves, California State University, Fullerton
+
+
+# License
+
+Unknown
+
