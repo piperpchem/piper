@@ -9,7 +9,7 @@ title: "PChem Course 316A: Thermodynamics, Statistical Mechanics, Kinetics"
 #    affiliations:
 #     - name: California State University, Fullerton
 date: 2023-07-27 09:10
-categories: ["course design", "video", "thermo", "stat-mech", "kinetics"]
+categories: ["course design", "video", "thermo", "stat-mech", "kinetics", "activity"]
 keywords:
   - video lectures
   - flipped classroom
