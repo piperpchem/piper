@@ -1,0 +1,29 @@
+#+export_file_name: activities
+
+#+begin_export md
+---
+title: "CHEM361A Activities"
+---
+#+end_export
+Instructors may request solutions from the author
+
+1. [[file:activities/CHEM361A_Lecture_1_Activity.pdf][Syllabus and Calculus Review]]
+2. [[file:activities/CHEM361A_Lecture_2_Activity.pdf][Properties of Gases]]
+3. [[file:activities/CHEM361A_Lecture_3_Activity.pdf][Internal Energy]]
+4. [[file:activities/CHEM361A_Lecture_4_Activity.pdf][Enthalpy]]
+5. [[file:activities/CHEM361A_Lecture_5_Activity.pdf][Adiabatic processes and the Carnot Cycle]]
+6. [[file:activities/CHEM361A_Lecture_6_Activity.pdf][Statistical Mechanics]]
+7. [[file:activities/CHEM361A_Lecture_7_Activity.pdf][Entropy]]
+8. [[file:activities/CHEM361A_Lecture_8_Activity.pdf][Free Energies and Phase Diagrams]]
+9. [[file:activities/CHEM361A_Lecture_9_Activity.pdf][Mixtures]]
+10. [[file:activities/CHEM361A_Lecture_10_Activity.pdf][Colligative Properties]]
+11. [[file:activities/CHEM361A_Lecture_11_Activity.pdf][Equilibrium]]
+12. [[file:activities/CHEM361A_Lecture_12_Activity.pdf][Ions in solution]]
+13. [[file:activities/CHEM361A_Lecture_13_Activity.pdf][Acid-Base Equilibrium]]
+14. [[file:activities/CHEM361A_Lecture_14_Activity.pdf][Electrochemistry]]
+15. [[file:activities/CHEM361A_Lecture_15_Activity.pdf][Rate Laws]]
+16. [[file:activities/CHEM361A_Lecture_16_Activity.pdf][Temperature Dependence of Rate Constants]]
+17. [[file:activities/CHEM361A_Lecture_17_Activity.pdf][The Approach to Equilibrium]]
+18. [[file:activities/CHEM361A_Lecture_18_Activity.pdf][Consecutive Chemical Reactions]]
+19. [[file:activities/CHEM361A_Lecture_19_Activity.pdf][Enzyme Kinetics]]
+20. [[file:activities/CHEM361A_Lecture_20_Activity.pdf][Final Exam Review Lecture]]
