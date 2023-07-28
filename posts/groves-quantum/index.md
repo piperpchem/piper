@@ -1,11 +1,11 @@
 ---
-title: "Intro to PChem Lecture Videos: Quantum Mechanics"
+title: "PChem Course 361B: Quantum Mechanics"
 # author:
 #  - name: Michael Groves
 #    affiliations:
 #     - name: California State University, Fullerton
 date: 2023-07-27 09:00
-categories: ["video", "quantum"]
+categories: ["course design", "video", "quantum", "activity"]
 keywords:
   - flipped classroom
   - video lectures
@@ -16,16 +16,28 @@ image: groves-quantum.jpg
 ---
 <img src="groves-quantum.jpg" width="50%">
 
-Course Objectives:
 
--   Develop an understanding of the nature of quantum systems and apply these principles to solve the Schrödinger Equation and determine physical observables.
--   Understand what it means for a system to be quantized and use the quantized nature of energy to predict spectroscopic phenomena in electronic, vibrational, NMR, and rotational spectroscopies
--   Use the solutions to the Schrödinger Equation to describe how chemical bonds are formed between atoms.
+# Course Description
+
+Thermodynamics and kinetics; properties of gases and solutions; molecular structure and energies and application to spectroscopic techniques; liquids, phase equilibria, thermodynamics of multicomponent systems with application to the life sciences. 
 
 
-# Location
+# Course Objectives
 
-<https://www.youtube.com/playlist?list=PL_j40xIfCA33gFKog0uQ3Zii1O2eEiA3E>
+1.  Develop an understanding of the nature of quantum systems and apply these principles to  solve the Schrödinger Equation and determine physical observables.
+2.  Understand what it means for a system to be quantized and relate the quantized nature of  energy from the Schrödinger Equation to predict spectroscopic phenomena including:  electronic, vibrational, NMR, and rotational spectroscopy.
+3.  Use the solutions to the Schrödinger Equation to describe how chemical bonds are formed  between atoms.
+
+
+# Course Materials
+
+[Sample Syllabus](sample_syllabus.pdf)
+
+[Activities](activities.md)
+
+[Lecture Slides](lecture_slides.md) from YouTube video lectures
+
+[Lecture Videos](https://www.youtube.com/playlist?list=PL_j40xIfCA33gFKog0uQ3Zii1O2eEiA3E) YouTube playlist
 
 
 # Author
@@ -35,7 +47,7 @@ Michael Groves, California State University, Fullerton
 
 # License
 
-Unknown
+[CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 <span hidden>KEYWORDS: flipped classroom, video lectures, quantum mechanics, spectroscopy</span>
 
