@@ -3,15 +3,12 @@ title: "Visualizing thermodynamic surfaces"
 #author: "ssinglet"
 date: "2020-12-13T16:23:00-06:00"
 categories: ["computing", "jupyter", "climate", "thermo"]
+image: "Ar-pvt.png"
 ---
 
-"Computer Guided Inquiry" activities in the form of jupyter notebooks have
-students develop visualization of thermodynamic surfaces. Theoretical
-introductions for properties such as internal energy, enthalpy, entropy, and
-Gibbs energy are provided and students then manipulate variables to answer
-guided inquiry questions. Specific learning objectives are provided with each activity, and "Pause for analysis" questions encourage careful examination and reflection of the results. A 3-notebook series has students apply learned
-principles to understand the thermodynamics of Arctic ice melt and sea level
-rise.
+<img src="Ar-pvt.png" width="75%">
+
+Computer Guided Inquiry activities in the form of jupyter notebooks have students develop visualization of thermodynamic surfaces. Theoretical introductions for properties such as internal energy, enthalpy, entropy, and Gibbs energy are provided and students then manipulate variables to answer guided inquiry questions. Specific learning objectives are provided with each activity, and "Pause for analysis" questions encourage careful examination and reflection of the results. A 3-notebook series has students apply learned principles to understand the thermodynamics of Arctic ice melt and sea level rise.
 
 
 ## Authors {#authors}

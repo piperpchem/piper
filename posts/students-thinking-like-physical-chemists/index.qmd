@@ -8,13 +8,31 @@ image: students-thinking-like-physical-chemists.png
 
 ![](students-thinking-like-physical-chemists.png){}
 
-A revised version of a traditional physical chemistry laboratory experiment has been developed to enhance student discussion in the laboratory and to improve students’ connections between physical chemistry concepts and real molecular systems. In this experiment, students explore the keto–enol tautomerization of 2,4-pentanedione. However, unlike in prior versions of this experiment, students follow a line of inquiry about data collection and interpretation. Students are provided many structured opportunities to discuss and collaborate on the analysis of data. A general outline of the experiment is provided that highlights areas of student decision-making and inquiry-based learning about the thermodynamics of this equilibrium system. A description of student activities and outcomes shows that students are afforded a number of opportunities to build their own understanding and make decisions about experimental design.
+<span hidden>KEYWORDS: POGIL-PCL, Upper-Division Undergraduate
+Laboratory Instruction, Physical Chemistry, Inquiry-Based Learning,
+Problem Solving/Decision Making, Constructivism, NMR, Spectroscopy</span>
+
+A revised version of a traditional physical chemistry laboratory
+experiment has been developed to enhance student discussion in the
+laboratory and to improve students’ connections between physical
+chemistry concepts and real molecular systems. In this experiment,
+students explore the keto–enol tautomerization of
+2,4-pentanedione. However, unlike in prior versions of this
+experiment, students follow a line of inquiry about data collection
+and interpretation. Students are provided many structured
+opportunities to discuss and collaborate on the analysis of data. A
+general outline of the experiment is provided that highlights areas of
+student decision-making and inquiry-based learning about the
+thermodynamics of this equilibrium system. A description of student
+activities and outcomes shows that students are afforded a number of
+opportunities to build their own understanding and make decisions
+about experimental design.
 
 
-## Citation {#citation}
+## Reference
 
-Alexander Grushow
+Alexander Grushow,
+Journal of Chemical Education 2022, 99 (12), 4149-4153,
+[DOI: 10.1021/acs.jchemed.2c00589](https://doi.org/10.1021/acs.jchemed.2c00589)
 
-Journal of Chemical Education
-
-https://doi.org/10.1021/acs.jchemed.2c00589
+[POGIL-PCL project](https://www.pogilpcl.org/get-connected)

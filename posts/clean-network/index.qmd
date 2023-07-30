@@ -21,9 +21,6 @@ CLEAN's primary effort is to steward the collection of climate and energy scienc
 
 <http://cleanet.org/index.html>
 
-Accessed 2022-02-10
-
-
 ## Status {#status}
 
 Reviewed

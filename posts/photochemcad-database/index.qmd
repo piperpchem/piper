@@ -16,9 +16,6 @@ PhotochemCAD™ is a program of calculational modules and accompanying database 
 
 <http://www.photochemcad.com/>
 
-Accessed: <span class="timestamp-wrapper"><span class="timestamp">[2022-04-05 Tue]</span></span>
-
-
 ## License {#license}
 
 Unknown

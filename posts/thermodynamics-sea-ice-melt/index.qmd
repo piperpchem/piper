@@ -1,11 +1,15 @@
 ---
 title: "Thermodynamics: Sea ice melt"
-#author: "ssinglet"
+#author:
+#	- Steven Neshyba
+#	- Penny Rowe
+#	- Aedin Wright
 date: "2023-03-25T00:00:00-05:00"
 categories: ["computing", "python", "jupyter", "thermo", "phase change"]
 image: "sea-ice.png"
 ---
 
+<img src="sea-ice.png" width="70%">
 
 Students learn about thermodynamics topics through calculation of the amount of heat required to melt Arctic sea ice. They start by watching an online animation of changing polar ice with time. They next download data of Arctic ice extent and volume. Working in a Jupyter Notebook, they use thermodynamic principles and equations to plot the phase diagram of water, find the freezing point depression of Arctic sea ice in equilibrium with sea water, and compute the change in the enthalpy of fusion of water resulting from that temperature depression.
 
@@ -20,16 +24,13 @@ Students learn about thermodynamics topics through calculation of the amount of 
 6.  Have experience correcting the change in the enthalpy of fusion of ice when it is in equilibrium with seawater, using Kirchoff's Equation.
 
 
-## Source {#source}
+## Reference
+
+Steven Neshyba, Penny Rowe, and Aedin Wright.
 
 <https://serc.carleton.edu/penguin/modules/thermodyn_icemelt.html>
 
 <https://github.com/penguin-code/modules>
-
-
-## Authors {#authors}
-
-Steven Neshyba, Penny Rowe, and Aedin Wright.
 
 
 ## License {#license}

@@ -3,7 +3,9 @@ title: "What Are the Kinetic Parameters of a Heterogeneous Reaction?"
 #author: "ssinglet"
 date: "2020-07-09T14:32:00-05:00"
 categories: ["lab", "kinetics"]
+image: mghcl.png
 ---
+<img src="mghcl.png" width="75%">
 
 Heterogeneous reactions are examples of the economically important corrosion
 process. The reaction studied in this experiment is the oxidation of magnesium
@@ -35,24 +37,17 @@ to determine the form of Mg, and it gives students practice with the apparatus.
 Time is also spent making solutions. The second lab period is used to determine
 the orders of the reaction and the activation energy.
 
+An instructor's handbook with suggested answers to all questions, a
+materials list, and sample student data is available.
 
-## Author {#author}
+## Reference
 
 Sally Hunnicutt, Virginia Commonwealth University
 
-
-## Location {#location}
+[POGIL-PCL project](https://www.pogilpcl.org/get-connected)
 
 <https://drive.google.com/file/d/0B9eKUY5kLiYoY3NObXRZa3FXR0k/view?usp=sharing>
-
-Instructor's version available.
-
 
 ## License {#license}
 
 This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
-
-
-## Status <span class="tag"><span class="Reviewed">Reviewed</span></span> {#status}
-
-Reviewed

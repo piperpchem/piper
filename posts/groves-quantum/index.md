@@ -33,7 +33,7 @@ Thermodynamics and kinetics; properties of gases and solutions; molecular struct
 
 [Sample Syllabus](sample_syllabus.pdf)
 
-[Activities](activities.md)
+[Activities](activities.md) Instructors may request solutions from author
 
 [Lecture Slides](lecture_slides.md) from YouTube video lectures
 

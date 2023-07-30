@@ -8,4 +8,4 @@ listing:
   date-format: iso
 ---
 
-In-class and homework activities. Instructors may request solutions from the author.
+CHEM361B activities. Instructors may request solutions from the author.

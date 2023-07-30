@@ -10,7 +10,7 @@ image: scientific-computing-chemists.svg
 
 An online text used for a Scientific Computing chemistry course[1] intended to teach undergraduate chemistry students basic coding in Python and Jupyter Notebooks and advanced tools for processing, visualization, and analysis of digital data. This text assumes that the students have no prior programming experience and have at least one year of undergraduate chemistry background and some very basic spectroscopy/spectrometry (i.e., NMR, IR, UV-vis, and GC/MS) background. All software used (e.g., Python, NumPy, SciPy, etc...) is free and open source software.
 
-[1] J. Chem. Educ. 2017, 94, 592-597 DOI: 10.1021/acs.jchemed.7b00078 and J. Chem. Educ. 2017, 94, 1904-1910 DOI: 10.1021/acs.jchemed.7b00395
+[1] J. Chem. Educ. 2017, 94, 592-597 [DOI: 10.1021/acs.jchemed.7b00078](https://doi.org/10.1021/acs.jchemed.7b00078) and J. Chem. Educ. 2017, 94, 1904-1910 [DOI: 10.1021/acs.jchemed.7b00395](https://doi.org/10.1021/acs.jchemed.7b00395)
 
 Contents
 
@@ -32,7 +32,7 @@ Contents
 
 ## Location {#location}
 
-<https://weisscharlesj.github.io/SciCompforChemists/intro.html>
+[Scientific Computing for Chemists with Python](https://weisscharlesj.github.io/SciCompforChemists/notebooks/introduction/intro.html)
 
 <https://github.com/weisscharlesj/SciCompforChemists>
 

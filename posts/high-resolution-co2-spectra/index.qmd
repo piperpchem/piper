@@ -11,10 +11,9 @@ image: carbon_dioxide_ir.png
 High resolution CO<sub>2</sub> IR absorption spectra at 330K and 360K acquired with a mid-infrared lead-salt diode laser and InSb detector.
 
 
-## Citation {#citation}
+## Reference
 
 "High-Resolution Vibration–Rotation Spectroscopy of CO<sub>2</sub>: Understanding the Boltzmann Distribution", Karen J. Castle, Journal of Chemical Education, 2007, 84 (3), 459
 
 <https://doi.org/10.1021/ed084p459>
 
-Supporting Information files are available without a subscription to ACS Web Editions.

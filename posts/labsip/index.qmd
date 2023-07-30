@@ -26,6 +26,5 @@ dynamic, and current physical chemistry curriculum.
   clear community preferences on the importance (or not) of specific
   topics in PChem courses.
 
-# Reference
 
-<https://labsip.org>
+<h3><https://labsip.org></h3>
