@@ -3,7 +3,7 @@
 # If a command fails then the deploy stops
 set -e
 
-SITE_DIR=/home/ssinglet/work/quarto/piper
+SITE_DIR=/home/ssinglet/work/piper
 
 pushd $SITE_DIR
 
