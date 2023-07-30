@@ -7,7 +7,7 @@ title: "KinSim: A Research-Grade, User-Friendly, Visual Kinetics Simulator for C
 #draft: true
 date: 2022-07-30
 #date-modified:
-categories: ["kinetics", "environmental", "computing", "article"]
+categories: ["kinetics", "environment", "computing", "article"]
 image: kinsim.gif
 ---
 <img src="kinsim.gif" width="80%">

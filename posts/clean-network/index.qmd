@@ -2,7 +2,7 @@
 title: "Climate Literacy and Energy Awareness Network (CLEAN)"
 #author: "ssinglet"
 date: "2020-07-08T14:18:00-05:00"
-categories: ["website", "climate"]
+categories: ["website", "environment"]
 image: CLEANbanner.png
 ---
 

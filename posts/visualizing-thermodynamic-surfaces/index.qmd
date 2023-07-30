@@ -2,7 +2,7 @@
 title: "Visualizing thermodynamic surfaces"
 #author: "ssinglet"
 date: "2020-12-13T16:23:00-06:00"
-categories: ["computing", "jupyter", "climate", "thermo"]
+categories: ["computing", "jupyter", "environment", "thermo"]
 image: "Ar-pvt.png"
 ---
 
