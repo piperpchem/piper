@@ -1,0 +1,33 @@
+
+#+export_file_name: index
+# (toggle-markdown-export-on-save)
+
+#+begin_export md
+---
+title: "KinSim: A Research-Grade, User-Friendly, Visual Kinetics Simulator for Chemical-Kinetics and Environmental-Chemistry Teaching"
+#author:
+#  - name: ""
+#    affiliations:
+#     - name: ""
+#draft: true
+date: 2022-07-30
+#date-modified:
+categories: ["kinetics", "environmental", "computing", "article"]
+image: kinsim.gif
+---
+<img src="kinsim.gif" width="80%">
+#+end_export
+
+KinSim is a research-grade, interactive, user-friendly, open-source, and visual software for kinetics modeling of environmental chemistry and other applications. Students without any computer-programming background and limited knowledge of environmental chemistry can use KinSim, which also includes multiple features and functionality dedicated to reducing users’ workload and preventing users from creating errors in modeling; thus, KinSim is particularly suitable for in-classroom and homework teaching applications. Students can choose from several preprogrammed mechanisms and initial conditions for important environmental-chemistry problems, and only clicking a few buttons is needed to perform a simulation and obtain graphs with concentrations and chemical fluxes. The mechanism and initial conditions can be edited very easily to study other cases. Feedback from its use in courses shows the effectiveness of KinSim in helping students conduct computer experiments to gain familiarity with environmental chemical systems and helping them gain deeper understanding of the complex emergent behaviors of the systems. KinSim’s accuracy and speed are similar to those of other software packages used in research, and at least 15 published peer-reviewed papers have used it.
+
+KinSim runs on IgorPro.
+
+** Reference
+
+Zhe Peng and Jose L. Jimenez, Journal of Chemical Education, 2019, 96 (4), 806-811,
+[[https://doi.org/10.1021/acs.jchemed.9b00033][DOI: 10.1021/acs.jchemed.9b00033]]
+[[https://scholar.colorado.edu/downloads/bv73c1590]]
+
+https://www.wavemetrics.com/project/KinSim
+
+<span hidden>KEYWORDS: Graduate Education/Research, Upper-Division Undergraduate, Environmental Chemistry, Physical Chemistry, Computer-Based Learning,Atmospheric Chemistry, Kinetics, IgorPro</span>

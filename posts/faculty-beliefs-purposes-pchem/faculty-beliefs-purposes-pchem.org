@@ -1,0 +1,33 @@
+
+#+export_file_name: index
+
+#+begin_export md
+---
+title: "Faculty beliefs about the purposes for teaching undergraduate physical chemistry courses"
+#format:
+#  html:
+#    toc: true
+#    toc-expand: 3
+#    toc-location: right
+#    toc-depth: 2
+#    number-sections: false
+## https://quarto.org/docs/journals/authors.html
+#author:
+#  - name: "Michael R. Mack"
+#  - name: "Marcy H. Towns"
+#    affiliations:
+#     - name: ""
+#draft: true
+date: 2021-07-29
+#date-modified:
+categories: ["article"]
+image: c5rp00148j-f2_hi-res.gif 
+---
+<img src="c5rp00148j-f2_hi-res.gif" width="80%">
+#+end_export
+
+We report the results of a phenomenographic analysis of faculty beliefs about the purposes for teaching upper-division physical chemistry courses in the undergraduate curriculum. A purposeful sampling strategy was used to recruit a diverse group of faculty for interviews. Collectively, the participating faculty regularly teach or have taught physical chemistry courses in 16 different chemistry departments in the United States. While faculty agreed that the goal of teaching physical chemistry was to help students develop robust conceptual knowledge of the subject matter within thermodynamics, statistical mechanics, quantum mechanics, spectroscopy, chemical kinetics, and other major topics, some articulated strong beliefs about epistemic and social learning goals. An understanding of the relations between different ways of thinking about teaching upper-division physical chemistry courses offers practitioners with alternative perspectives that may help them expand their awareness of the purposes for teaching physical chemistry in the undergraduate curriculum. Furthermore, knowledge of faculty beliefs about their teaching provides educational researchers and curriculum developers with an understanding about the potential opportunities or barriers for helping faculty align their beliefs and goals for teaching with research-based instructional strategies. We discuss our findings with the intention to expand faculty awareness of the discourse on physical chemistry education to include various perspectives of the purpose for teaching upper-division physical chemistry courses.
+
+** Reference
+Michael R. Mack and Marcy H. Towns*, Chem. Educ. Res. Pract., 2016, 17, 80-99, <https://doi.org/10.1039/C5RP00148J>
+
