@@ -12,12 +12,11 @@ website:
   favicon: images/profile.png
   title: "PIPER: Resources for Teaching Physical Chemistry"
   site-url: https://chemistry.coe.edu/piper
-  description: 'PIPER resources for teaching and learning physical chemistry'
-
+  description: 'PIPER teaching resources for physical chemistry'
   #repo-url: https://github.com/mine-cetinkaya-rundel/quarto-tip-a-day
   #repo-actions: [edit, issue]
 
-  #opengraph: false
+  opengraph: true
   #twitter-card:
     #creator: "@quarto_pub"
     #image: "/images/twitter-card.png"

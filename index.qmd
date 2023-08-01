@@ -1,4 +1,13 @@
 ---
+keywords:
+  - Physical chemistry
+  - Physical chemistry teaching
+  - Teaching
+  - Learning
+  - Resources
+  - Quantum mechanics
+  - Thermodynamics
+  - Physical chemistry labs
 listing:
   contents: "posts/*/index.*md"
   feed: true
