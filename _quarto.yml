@@ -16,7 +16,7 @@ website:
   #repo-url: https://github.com/mine-cetinkaya-rundel/quarto-tip-a-day
   #repo-actions: [edit, issue]
 
-  opengraph: true
+  open-graph: true
   #twitter-card:
     #creator: "@quarto_pub"
     #image: "/images/twitter-card.png"
