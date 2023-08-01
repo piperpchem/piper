@@ -1,5 +1,5 @@
 ---
-title: "PChem Course 316A: Thermodynamics, Statistical Mechanics, Kinetics"
+title: "PChem Course 361A: Thermodynamics, Statistical Mechanics, Kinetics"
 # author:
 #  - name: Michael Groves
 #    affiliations:
