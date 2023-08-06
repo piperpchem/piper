@@ -1,0 +1,31 @@
+
+#+export_file_name: index
+# (toggle-markdown-export-on-save)
+
+#+begin_export md
+---
+title: "Computational Investigation of Isotopic Labeling: A Pandemic
+Inspired Activity"
+#author:
+#  - name: "Michael Pelter"
+#    affiliations:
+#     - name: ""
+#draft: true
+date: 2023-08-06
+#date-modified:
+categories: ["computational", "spectroscopy", "article"]
+image: isotopic-labeling.png
+---
+<img src="isotopic-labeling.png" width="100%">
+#+end_export
+A cornerstone activity in undergraduate organic laboratories revolves around students running instrumental analysis on their products and interpreting their spectra. They are left to link the theory they have learned in lecture to practical spectral interpretation. Students often memorize benchmark interpretations of peaks, such as the broad alcohol absorbance in infrared spectroscopy (IR). However, students often do not correlate the absorbance frequency to the actual vibrational mode.  Given more nuanced spectra to interpret, like the difference between a hydrogen and a deuterium on an alcohol, students often miss the differences between the spectra. The GAMESS computational software package accessed through the Web interface ChemCompute is successfully used by students here to generate IR spectra of different isotopically labeled alcohols. This Web-based portal provides multiple benefits to the students: (1) The computational software is accessible through any browser on most common operating systems (including Chromebooks), (2) generating IR spectra for multiple products allows students to predict differences in spectra to compare to their actual IR data reinforcing prediction in the scientific method, and (3) the software links the differences in isotopes to structural vibrational modes visualized in the software allowing students to link theory to practice in spectral interpretation.
+
+<span hidden>KEYWORDS: Second-Year Undergraduate, Upper-Division Undergraduate, Organic Chemistry, Inquiry-Based, Discovery Learning, Computational Chemistry, IR Spectroscopy, Isotopes</span>
+
+The learning outcomes for students are the following:
+  1. Connect the vibrational modes of a molecule to the vibrational frequencies observed in experimentally derived spectra.
+  2. Use the computational derived spectra to predict experimentally derived spectra.
+  3. Articulate how IR spectroscopy can be used to determine the position of deuterium in a labeled compound by observation of the change in vibrational frequencies
+
+** Reference
+Michael W. Pelter, Libbie S. W. Pelter, Phillip I. Dinga, Nicholas E. Ernst, and Madison L. Schultz, J. Chem. Educ. Article ASAP, [[https://doi.org/10.1021/acs.jchemed.3c00115][DOI: 10.1021/acs.jchemed.3c00115]]

@@ -1,0 +1,33 @@
+---
+title: "A Primer on Lattice Planes, Crystal Facets, and Nanoparticle Shape
+Control"
+#author:
+#  - name: ""
+#    affiliations:
+#     - name: ""
+#draft: true
+date: 2023-08-06
+#date-modified:
+categories: ["article","solid state"]
+image: a-primer.png
+---
+<img src="a-primer.png" width="100%">
+
+An exciting recent development in chemistry has been the ability to control nanoparticle crystal morphology or shape. Nanoparticles of different shapes present different crystal surfaces (or facets) with respect to the surrounding environment.  Synthetic control over nanoparticle morphology has enabled the study of the influence of surface facets on the catalytic properties of nanoparticles. Here, these recent advances are leveraged as a theme to introduce and review the use of Miller indices to describe crystal planes, facets, and directions of growth of metal nanoparticles.  Inexpensive paper and 3D printed models of metal nanoparticle cubes, rhombic dodecahedra, and octahedra bound by the low-index lattice planes of the face-centered cubic crystal structure are included. Nanoparticle shape control provides an accessible introduction to materials chemistry topics for students at all levels.
+
+Topics:
+
+-   Crystal lattices and their planes
+-   Defining and indexing lattice planes and crystal facets (Miller indices)
+-   Face centered cubic nanoparticles
+-   Shape control of nanoparticle growth
+-   Applications of nanoparticle shape control
+-   Implications for teaching
+
+
+# Reference
+
+Anne K. Bentley and Sara E. Skrabalakm Journal of Chemical Education Article ASAP, [DOI: 10.1021/acs.jchemed.3c00371](https://doi.org/10.1021/acs.jchemed.3c00371)
+
+<span hidden>KEYWORDS: Upper-Division Undergraduate, Graduate Education/Research, Inorganic Chemistry, Physical Chemistry, Interdisciplinary/Multidisciplinary, Hands-On Learning/Manipulatives, Solid State Chemistry</span>
+
