@@ -2,11 +2,12 @@
 keywords:
   - Physical chemistry
   - Physical chemistry teaching
-  - Teaching
-  - Learning
-  - Resources
+  - Teaching physical chemistry
+  - Learning physical chemistry
+  - Resources physical chemistry
   - Quantum mechanics
   - Thermodynamics
+  - Kinetics
   - Physical chemistry labs
 listing:
   contents: "posts/*/index.*md"
@@ -15,7 +16,7 @@ listing:
   type: grid
   categories: true
   sort-ui: true
-  filter-ui: true
+  filter-ui: false
   image-placeholder: images/image-placeholder.png
   fields: [image, title, description]
 page-layout: full
