@@ -8,7 +8,7 @@ Inspired Activity"
 #draft: true
 date: 2023-08-06
 #date-modified:
-categories: ["computational", "spectroscopy", "article"]
+categories: ["activity", "computational", "spectroscopy", "article"]
 image: isotopic-labeling.png
 ---
 <img src="isotopic-labeling.png" width="100%">

@@ -5,6 +5,7 @@ date: "2020-07-07T14:54:00-05:00"
 categories: ["activity", "computing", "python", "bonding", "jupyter"]
 image: morse-multiple-bonds.png
 ---
+![](morse-multiple-bonds.png){}
 
 This Jupyter notebook has been used in a classroom setting to
 
@@ -15,8 +16,6 @@ This Jupyter notebook has been used in a classroom setting to
 -   demonstrate how to use python for computations and visualization.
 
 Instructors may distribute the notebook (with or without code cells), enabling students to see how changes in molecular constants affect the potential.
-
-![](morse-multiple-bonds.png){}
 
 
 ## Author {#author}
