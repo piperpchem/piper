@@ -8,9 +8,7 @@ image: pogil-logo.png
 
 ![](pogil-logo.png){}
 
-POGIL is an acronym for Process Oriented Guided Inquiry Learning.
-
-The POGIL approach has two broad aims: to develop content mastery through student construction of their own understanding, and to develop and improve important learning skills such as information processing, communication, critical thinking, problem solving and metacognition and assessment.
+POGIL is an acronym for Process Oriented Guided Inquiry Learning. The POGIL approach has two broad aims: to develop content mastery through student construction of their own understanding, and to develop and improve important learning skills such as information processing, communication, critical thinking, problem solving and metacognition and assessment.
 
 Because POGIL is a student-centered instructional approach, in a typical POGIL classroom or laboratory, students work in small teams with the instructor acting as a facilitator. The student teams use specially designed activities that generally follow a learning cycle paradigm.
 

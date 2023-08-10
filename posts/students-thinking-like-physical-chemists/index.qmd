@@ -8,10 +8,6 @@ image: students-thinking-like-physical-chemists.png
 
 ![](students-thinking-like-physical-chemists.png){}
 
-<span hidden>KEYWORDS: POGIL-PCL, Upper-Division Undergraduate
-Laboratory Instruction, Physical Chemistry, Inquiry-Based Learning,
-Problem Solving/Decision Making, Constructivism, NMR, Spectroscopy</span>
-
 A revised version of a traditional physical chemistry laboratory
 experiment has been developed to enhance student discussion in the
 laboratory and to improve students’ connections between physical
@@ -36,3 +32,8 @@ Journal of Chemical Education 2022, 99 (12), 4149-4153,
 [DOI: 10.1021/acs.jchemed.2c00589](https://doi.org/10.1021/acs.jchemed.2c00589)
 
 [POGIL-PCL project](https://www.pogilpcl.org/get-connected)
+
+<span hidden>KEYWORDS: POGIL-PCL, Upper-Division Undergraduate
+Laboratory Instruction, Physical Chemistry, Inquiry-Based Learning,
+Problem Solving/Decision Making, Constructivism, NMR, Spectroscopy</span>
+
