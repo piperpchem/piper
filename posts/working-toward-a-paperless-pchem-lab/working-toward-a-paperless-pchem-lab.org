@@ -1,0 +1,33 @@
+#+export_file_name: index
+# (ss-toggle-markdown-export-on-save)
+
+#+begin_export md
+---
+title: "Working toward a Paperless Undergraduate Physical Chemistry Teaching Laboratory"
+## https://quarto.org/docs/journals/authors.html
+#author:
+#  - name: ""
+#    affiliations:
+#     - name: ""
+#draft: true
+#date-modified:
+date: 2022-08-10
+categories: ["article", "lab", "course design"]
+keywords: Upper-Division Undergraduate, Laboratory Instruction, Physical Chemistry, Computer-Based Learning, Hands-On Learning/Manipulatives, Laboratory Computing/Interfacing
+image: working-toward.png
+license: "© 2016 American Chemical Society and Division of Chemical Education, Inc."
+---
+<img src="working-toward.png" width="90%" class="center">
+#+end_export
+
+The use of electronic formats for obtaining, recording, analyzing, and disseminating data is becoming ubiquitous in classrooms, teaching laboratories, research laboratories, and industry. The undergraduate physical chemistry teaching laboratory provides an excellent opportunity to ensure that upper-division chemistry students gain experience in using electronic means of recording and presenting the results of their experiments. To facilitate this action, computers are used in as many aspects of the course as possible: obtaining introductory material, preparing pre-lab reports, recording data in a simulated electronic lab notebook, and submitting final lab reports. Since the physical chemistry laboratory is an advanced undergraduate course, the students are also given increased responsibility for the experiment, creating their own procedure from papers, textbooks, and other additional information.
+
+** Reference
+
+Jason D. Weibel, J. Chem. Educ. 2016, 93, 781−784, [[https://doi.org/10.1021/acs.jchemed.5b00585][doi: 10.1021/acs.jchemed.5b00585]]
+
+<span hidden>KEYWORDS: Upper-Division Undergraduate, Laboratory Instruction, Physical Chemistry, Computer-Based Learning, Hands-On Learning/Manipulatives, Laboratory Computing/Interfacing </span>
+
+# Local Variables:
+# eval: (ss-markdown-export-on-save)
+# End:
