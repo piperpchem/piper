@@ -1,0 +1,45 @@
+
+#+export_file_name: index
+# (ss-toggle-markdown-export-on-save)
+
+#+begin_export md
+---
+title: "MoleCVue"
+## https://quarto.org/docs/journals/authors.html
+#author:
+#  - name: ""
+#    affiliations:
+#     - name: ""
+#draft: true
+#date-modified:
+date: 2022-08-13
+categories: ["computational", "website"]
+keywords: physical chemistry teaching, computational chemistry, piper pchem
+image: molecvue.png
+---
+<img src="molecvue.gif">
+#+end_export
+
+The MoleCVUE consortium is an association of faculty at Primarily Undergraduate Institutions (PUIs) who share the common purpose expressed by our name: Molecular Computation and Visualization in Undergraduate Education. Participants at recent meetings have come from a variety of academic institutions. Our areas of interest include not only chemistry and biochemistry, but also material science, molecular biology, and other areas where the ruling paradigm is "molecules." 
+
+Our objectives are to enhance our own undergraduate instruction by developing and employing modern computational and visualization tools and to provide the methods, techniques, and tools we develop freely  to other science instructors.
+
+The MoleCVUE consortium provides:
+
+- A forum for expressing one's own ideas and receiving criticism and suggestions;
+- A channel for awareness of and instruction in computer tools and techniques;
+- Extended meetings with like-minded colleagues from which collaborative projects and products may emerge.
+- Activities that introduce undergraduate students to computational chemistry and allow them to present the results of their work.
+
+
+The website includes links to collections of activities/exercises, course materials (syllabi, lecture notes, videos), online texts, and software.
+
+https://sites.google.com/view/molecvue/resources
+
+ 
+<span hidden>KEYWORDS: physical chemistry teaching, computational chemistry
+</span>
+
+# Local Variables:
+# eval: (ss-markdown-export-on-save)
+# End:
