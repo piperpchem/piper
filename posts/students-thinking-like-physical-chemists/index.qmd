@@ -4,6 +4,7 @@ title: "Students Thinking Like Physical Chemists Using an Inquiry-Based NMR Expe
 date: 2022-09-28
 categories: ["lab", "nmr"]
 image: students-thinking-like-physical-chemists.png
+keywords: POGIL-PCL, Upper-Division Undergraduate Laboratory Instruction, Physical Chemistry, Inquiry-Based Learning, Problem Solving/Decision Making, Constructivism, NMR, Spectroscopy
 ---
 
 ![](students-thinking-like-physical-chemists.png){}
