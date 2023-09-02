@@ -6,15 +6,14 @@ categories: ["dataset", "spectroscopy"]
 image: hcl-dcl-irSpectra.png
 ---
 
-PDF files of peak-labeled, high resolution (<0.17 cm$^{-1}$ ) IR absorption spectra of HCl and DCl. Spectra were collected on a Nicolet Nexus 670 FR-IR in a 10-cm gas cell at a pressure of 20 Torr. The chlorine isotope peaks are resolved to baseline.
+PDF, jcamp jdx, and csv files of peak-labeled, high resolution (<0.17 cm$^{-1}$ ) IR absorption spectra of HCl and DCl. Spectra were collected on a Nicolet Nexus 670 FR-IR in a 10-cm gas cell at a pressure of 20 Torr. The chlorine isotope peaks are resolved to baseline.
 
 ![](hcl-dcl-irSpectra.png){width="80%"}
 
 
 ## Location {#location}
 
-<https://github.com/singletS/datasets-gh/tree/master/IR_hcl-dcl>
-
+<https://github.com/singletS/datasets-gh/tree/master/hcl-dcl-IR>
 
 ## Author {#author}
 
