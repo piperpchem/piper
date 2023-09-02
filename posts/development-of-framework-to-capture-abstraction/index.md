@@ -1,5 +1,5 @@
 ---
-title: "Development of a framework to capture abstraction in physical chemistry problem solving"
+title: "Development of a Framework to Capture Abstraction in Physical Chemistry Problem Solving"
 ## https://quarto.org/docs/journals/authors.html
 #author:
 #  - name: ""
