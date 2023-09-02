@@ -1,0 +1,29 @@
+---
+title: "Development of a framework to capture abstraction in physical chemistry problem solving"
+## https://quarto.org/docs/journals/authors.html
+#author:
+#  - name: ""
+#    affiliations:
+#     - name: ""
+#draft: true
+#date-modified:
+date: 2023-08-27
+categories: ["article"]
+keywords: physical chemistry teaching learning problem solving
+image: d1rp00119a-f3.gif
+license: "© Royal Society of Chemistry"
+---
+<img src="d1rp00119a-f3.gif" width="80%">
+
+Productive problem solving, concept construction, and sense making occur through the core process of abstraction. Although the capacity for domain-general abstraction is developed at a young age, the role of abstraction in increasingly complex and disciplinary environments, such as those encountered in undergraduate STEM education, is not well understood. Undergraduate physical chemistry relies particularly heavily on abstraction because it uses many overlapping and imperfect mathematical models to represent and interpret phenomena occurring on multiple scales; however, studying and identifying abstraction in-the-moment in physical chemistry is challenging, because current conceptions of abstraction neglect the domain-specific features. This work uses an approach guided by informed grounded theory to develop a conceptual framework that makes abstraction in physical chemistry problem solving visible. Problem solving teaching interviews with individuals and pairs (n = 18) on thermodynamics and kinetics topics are analyzed using an abductive approach. The resulting Epistemic Actions of Abstraction framework characterizes eight epistemic actions along two dimensions: increasing abstractness relative to the context (concretizing, manipulating, restructuring, and generalizing) and nature of the object the action operates on (conceptual or symbolic). These actions are used to identify two types of abstraction: horizontal and vertical abstraction. We discuss how abstraction in problem solving is contextually dependent and implications this work has for problem solving in physical chemistry, as well as implications for physical chemistry instruction.
+
+
+# Reference
+
+Jessica M. Karch and Hannah Sevian, Chem. Educ. Res. Pract., 2022, 23, 55-77
+
+[DOI: 10.1039/D1RP00119A](https://doi.org/10.1039/D1RP00119A)
+
+<span hidden>KEYWORDS:
+</span>
+
