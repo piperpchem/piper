@@ -43,4 +43,5 @@ The activities focused on (1) blackbody radiation and the greenhouse effect, (2)
 
 ## Citation {#citation}
 
-W. Paige Hall and Lily Gunning, Journal of Chemical Education, 2023, 100(3), 1333-1342, https://doi.org/10.1021/acs.jchemed.2c00550
+W. Paige Hall and Lily Gunning, Journal of Chemical Education, 2023, 100(3), 1333-1342, 
+[doi.org/10.1021/acs.jchemed.2c00550](https://doi.org/10.1021/acs.jchemed.2c00550)
