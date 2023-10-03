@@ -1,0 +1,32 @@
+---
+title: "Spectroscopy Data for Undergraduate Teaching"
+## https://quarto.org/docs/journals/authors.html
+#author:
+#  - name: ""
+#    affiliations:
+#     - name: ""
+#copyright: "ACS"
+license: "CC BY"
+#draft: true
+#date-modified:
+date: 2023-09-12
+categories: ["article", "dataset", "spectroscopy", "nmr"]
+keywords: NMR, IR, Mass Spectrometry, Database, 2D NMR, Spectra
+image: spectroscopy-data.webp
+---
+<img src="spectroscopy-data.webp" width="80%">
+
+This paper describes a data set of IR, MS, H-1 NMR, C-13 NMR, DEPT, and 2D NMR spectra designed for undergraduate teaching. The data files are provided as MestReNova documents containing all the available spectra for each of the 251 different compounds in the data set. The spectral data in these files can be processed, manipulated, copied, and pasted as needed by faculty to support teaching organic chemistry and instrumental analysis and for specialized courses in spectroscopy and organic synthesis. The compounds in the database were selected to provide examples for interpreting spectra and unknowns for teaching interpretation and to support teaching synthesis mechanisms. Additional MestReNova documents are provided to demonstrate how the data can be used for a variety of common undergraduate course topics─introducing IR, MS interpretation, NMR interpretation, data processing, and spectroscopy unknowns for students.
+
+
+# Reference
+
+Scott E. Van Bramer and Loyd D. Bastin, J. Chem. Ed., Article ASAP
+
+<https://doi.org/10.1021/acs.jchemed.3c00046>
+
+[Supplemental Information](https://pubs.acs.org/doi/10.1021/acs.jchemed.3c00046?goto=supporting-info) (data files)
+
+<span hidden>KEYWORDS: NMR, IR, Mass Spectrometry, Database, 2D NMR, Spectra
+</span>
+

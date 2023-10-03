@@ -1,0 +1,43 @@
+---
+title: "A Quantum Chemistry Concept Inventory for Physical Chemistry Classes"
+## https://quarto.org/docs/journals/authors.html
+#author:
+#  - name: ""
+#    affiliations:
+#     - name: ""
+copyright: "2016 American Chemical Society and Division of Chemical Education, Inc."
+#license: "CC BY-NC-ND"
+#draft: true
+#date-modified:
+date: 2023-09-30
+categories: [article, quantum]
+keywords: Upper-Division Undergraduate, Physical Chemistry, Misconceptions/Discrepant Events, Testing/Assessment
+
+image: concept-inventory.gif
+---
+<img src="concept-inventory.gif" width="80%">
+
+A 14-item, multiple-choice diagnostic assessment tool, the quantum
+chemistry concept inventory or QCCI, is presented. Items were
+developed based on published student misconceptions and content
+coverage and then piloted and used in advanced physical chemistry
+undergraduate courses. In addition to the instrument itself, data from
+both a pretest, prior to a semester of instruction, and a post-test,
+after a semester of instruction, are provided. These data suggest that
+the QCCI is capable of measuring the variation of student conceptual
+understanding of quantum mechanics in the context of a physical
+chemistry course and that the instrument is sensitive to gains in
+student understanding that result from direct instruction in the
+topic, even when that instruction has a significant mathematical
+component as is common for this course.
+
+
+# Reference
+
+Marilú Pérez García, Cynthia J. Luxford, Theresa L. Windus, and Thomas
+Holme, J. Chem. Educ. 2016, 93, 4, 605–612
+[DOI 10.1021/acs.jchemed.5b00781](https://doi.org/10.1021/acs.jchemed.5b00781)
+
+<span hidden>KEYWORDS: Upper-Division Undergraduate, Physical Chemistry, Misconceptions/Discrepant Events, Testing/Assessment
+</span>
+
