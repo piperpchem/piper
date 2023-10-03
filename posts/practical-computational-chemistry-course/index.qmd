@@ -3,6 +3,8 @@ title: "Practical Computational Chemistry Course for a Comprehensive Understandi
 #author: "ssinglet"
 date: "2023-01-15T00:00:00-06:00"
 categories: ["computing", "computational", "article"]
+license: "CC BY-NC-ND"
+copyright: "2023 The Authors. Published by American Chemical Society and Division of Chemical Education, Inc."
 image: practical-computational-chemistry-course.png
 ---
 
@@ -13,6 +15,5 @@ Abstract: In all fields of chemistry, it has become essential to use quantum che
 
 ## Citation {#citation}
 
-J. Chem. Ed., 2023, https://doi.org///doi.org/10.1021/acs.jchemed.2c00837
+J. Chem. Ed., 2023, <https://doi.org/10.1021/acs.jchemed.2c00837>
 
-© 2023 The Authors. Published by American Chemical Society and Division of Chemical Education, Inc.

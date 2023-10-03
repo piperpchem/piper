@@ -2,7 +2,7 @@
 title: "Introduction to Machine Learning for chemists: An undergraduate course using Python notebooks for visualization, data processing, data analysis, and data modeling"
 #author: "ssinglet"
 date: "2022-04-10T00:00:00-05:00"
-categories: ["computing", "python", "jupyter"]
+categories: ["ai-ml", "computing", "python", "jupyter"]
 image: intro-machine-learning-chemists.jpg
 ---
 

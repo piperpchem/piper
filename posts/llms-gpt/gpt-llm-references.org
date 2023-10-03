@@ -1,11 +1,6 @@
 
 #+export_file_name: index
-#+begin_src elisp :exports none
-(ss-toggle-markdown-export-on-save)
-#+end_src
-
-#+RESULTS:
-: Enabled org markdown export on save
+# (ss-toggle-markdown-export-on-save)
 
 #+begin_export md
 ---
@@ -17,14 +12,24 @@ title: "Large Language Model (LLM) and Generative Pre-trained Transformer (GPT) 
 #     - name: ""
 #draft: true
 #date-modified:
-description: "Some references related to Large Language Model (LLM) and Generative Pre-trained Transformer (GPT) resources such as ChatGPT, and their use in the chemistry classroom. Please send additions to ssinglet@coe.edu and I will include them in this list."
-date: 2023-08-14
-categories: ["article"]
+# description: 
+date: 2023-09-1
+categories: ["article", "ai-ml"]
 keywords: PIPER teaching physical chemistry, GPT, ChatGPT, LLM, teaching, chemistry
-image: llm-gpt.png
+# image: llm-gpt.png
 ---
-# <img src="llm-gpt.png" width="100%">
+
 #+end_export
+Some references related to Large Language Model (LLM) and Generative Pre-trained Transformer (GPT) resources such as ChatGPT, and their use in the chemistry classroom. Please send additions to ssinglet@coe.edu and I will include them in this list.
+
+*** "Using generative artificial intelligence in chemistry education research: prioritizing ethical use and accessibility"
+Deng JM, Lalani Z, McDermaid LA, Szozda AR, https://doi.org/10.26434/chemrxiv-2023-24zfl (unreviewed preprint)
+
+Generative artificial intelligence (GenAI) has the potential to drastically alter how we teach and conduct research in chemistry education. There have been many reports on the potential uses, limitations, and considerations for GenAI tools in teaching and learning, but there have been fewer discussions of how such tools could be leveraged in educational research, including in chemistry education research. GenAI tools can be used to facilitate and support researchers in every stage of traditional educational research projects (e.g. conducting literature reviews, designing research questions and methods, communicating results). However, these tools also have existing limitations that researchers must be aware of prior to and during use. In this research commentary, we share insights on how chemistry education researchers can use GenAI tools in their work ethically. We also share how GenAI tools can be leveraged to improve accessibility and equity in research.
+*** "ChatGPT Needs a Chemistry Tutor, Too"
+Alfredo J. Leon and Dinesh Vidhani, Journal of Chemical Education, https://doi.org/10.1021/acs.jchemed.3c00288
+
+Artificial intelligence (AI) technology has the potential to revolutionize the education sector. This study sought to determine the efficacy of ChatGPT to correctly answer questions a learner would use and to elucidate how the AI was processing potential prompts. Our goal was to evaluate the role of prompt formats, response consistency, and reliability of ChatGPT responses. Analyzing prompt format, we see that the data do not demonstrate a statistically significant difference between multiple-choice and free-response questions. Neither format achieved scores higher than 37%, and testing at different locations did not improve scores. Interestingly, ChatGPT’s free version provides accurate responses to discipline-specific questions that contain information from unrelated topics as distractors, improving its accuracy over the free-response questions. It is important to consider, while ChatGPT can identify the correct answer within a given context, it may not be able to determine if the answer it selects is correct computationally or through analysis. The results of this study can guide future AI and ChatGPT training practices and implementations to ensure they are used to their fullest potential.
 
 *** "SciBench: Evaluating College-Level Scientific Problem-Solving Abilities of Large Language Models"
 

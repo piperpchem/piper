@@ -2,7 +2,7 @@
 title: "Machine learning for functional group identification in vibrational spectroscopy: A pedagogical lab for undergraduate chemistry students"
 #author: "ssinglet"
 date: "2022-04-01T00:00:00-05:00"
-categories: ["lab", "computing", "spectroscopy", "jupyter", "python"]
+categories: ["ai-ml", "lab", "computing", "spectroscopy", "jupyter", "python"]
 image: machine-learning.png
 ---
 
