@@ -12,7 +12,7 @@ license: "CC BY-NC-ND"
 #draft: true
 #date-modified:
 date: 2023-10-03
-categories: [article, lab, computing, spectroscopy]
+categories: [article, ai-ml, lab, computing, spectroscopy]
 keywords: Upper-Division Undergraduate, Physical Chemistry, Computer-Based Learning, Computational Chemistry, Machine Learning, Spectroscopy, Cyanine
 
 image: rediscover.png

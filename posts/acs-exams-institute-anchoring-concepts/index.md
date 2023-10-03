@@ -15,7 +15,7 @@ keywords: Upper-Division Undergraduate Physical Chemistry Testing/Assessment Cur
 
 image: acs-exams-anchoring.gif
 ---
-<img src="acs-exams-anchoring.gif" width="80%">
+<img src="acs-exams-anchoring.gif" width="40%" align="right"/>
 
 The ACS Examinations Institute has been developing Anchoring Concepts
 Content Maps to provide an organizational template for the four-year

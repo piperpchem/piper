@@ -15,7 +15,7 @@ keywords: Upper-Division Undergraduate, Physical Chemistry, Inquiry-Based/Discov
 
 image: analysis-nmr.webp
 ---
-<img src="analysis-nmr.webp" width="60%">
+<img src="analysis-nmr.webp" width="30%" align="right"/>
 
 We describe an update to an experiment demonstrating low-field NMR
 spectroscopy in the undergraduate physical chemistry laboratory. A
