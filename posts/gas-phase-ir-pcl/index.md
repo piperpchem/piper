@@ -2,7 +2,7 @@
 title: "Encouraging Student Engagement by Using a POGIL Framework for a Gas-Phase IR Physical Chemistry Laboratory Experiment"
 #author: "ssinglet"
 date: "2022-11-19"
-categories: ["lab", "spectroscopy"]
+categories: ["lab", "spectroscopy", "pogil-pcl"]
 image: gas-phase-ir-pcl.png
 keywords:
   - HCl

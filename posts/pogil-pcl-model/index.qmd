@@ -1,8 +1,8 @@
 ---
 title: "Guided-Inquiry Experiments for Physical Chemistry: The POGIL-PCL Model"
 #author: "ssinglet"
-date: "2014-10-09"
-categories: ["article"]
+date: "2023-10-09"
+categories: ["article", "pogil-pcl"]
 image: pogil-pcl-cycle.jpg
 ---
 

@@ -2,7 +2,7 @@
 title: "POGIL"
 #author: "ssinglet"
 date: "2020-07-01T00:00:00-05:00"
-categories: ["website", "course design"]
+categories: ["website", "course design", "pogil-pcl"]
 image: pogil-logo.png
 ---
 

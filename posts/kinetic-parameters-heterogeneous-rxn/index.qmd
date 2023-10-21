@@ -2,7 +2,7 @@
 title: "What Are the Kinetic Parameters of a Heterogeneous Reaction?"
 #author: "ssinglet"
 date: "2020-07-09T14:32:00-05:00"
-categories: ["lab", "kinetics"]
+categories: ["lab", "kinetics", "pogil-pcl"]
 image: mghcl.png
 ---
 <img src="mghcl.png" width="75%">

@@ -4,7 +4,7 @@
 title: "Encouraging Student Engagement by Using a POGIL Framework for a Gas-Phase IR Physical Chemistry Laboratory Experiment"
 #author: "ssinglet"
 date: "2022-11-19"
-categories: ["lab", "spectroscopy"]
+categories: ["lab", "spectroscopy", "pogil-pcl"]
 image: gas-phase-ir-pcl.png
 keywords:
   - HCl
@@ -46,3 +46,7 @@ J. Chem. Educ. 2022, 99, 12, 4079–4084 https://doi.org/10.1021/acs.jchemed.2c0
 Creative Commons Attribution 4.0
 
 <span hidden>KEYWORDS: FTIR, FT-IR, POGIL-PCL, Upper-Division Undergraduate Laboratory Instruction, Physical Chemistry, Inquiry-Based/Discovery Learning, IR Spectroscopy</span>
+
+# Local Variables:
+# eval: (ss-markdown-export-on-save)
+# End:

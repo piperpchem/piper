@@ -13,10 +13,10 @@ title: "What Is the Structure of a Polymer in Solution?"
 #    number-sections: false
 #author: 
 date: 2023-07-25
-categories: ["lab", "computing" ]
+categories: ["lab", "computing", "pogil-pcl"]
 image: what-is-structure2.png
 ---
-<img src="what-is-structure2.png" width="60%">
+<img src="what-is-structure2.png" width="33%" align="right">
 #+end_export
 
 We have developed a guided-inquiry laboratory exercise in which students perform viscosity measurements to infer the structure of poly(vinyl alcohol) (PVA) in aqueous solution. The activity combines both experiments and modeling. In the experimental portion of the exercise, students measure the viscosity of several solutions of PVA with differing molar masses. They discover that the size of molecules does not increase with the cube root of molar mass, as expected for objects with uniform density, but rather with the square root of molar mass. In the modeling part of the experiment, students use random numbers to create two-dimensional “random walk” objects on paper or on a computer. They discovered that the size of a random-walk object increases with the square root of the walk length. Combining what they discovered through the random walk models with what they learned from the viscosity measurement, they conclude that the structure of PVA dissolved in water (a theta solvent for PVA) is consistent with a random walk structure.
@@ -55,3 +55,8 @@ Creative Commons [[http://creativecommons.org/licenses/by-nc-sa/4.0/][CC-BY-NC-S
 Instruction, Physical Chemistry, Polymer Chemistry, Collaborative
 Learning, Inquiry-Based Learning, Molecular Structure, Physical
 Properties (Viscosity)</span>
+
+* local variables :noexport:
+# Local Variables:
+# eval: (ss-markdown-export-on-save)
+# End:
