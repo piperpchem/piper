@@ -9,7 +9,7 @@ title: "How Should Apples be Prepared for a Fruit Salad?"
 license: "CC BY-NC-SA"
 #draft: true
 #date-modified:
-date: 2023-10-28 
+date: 2023-10-27T09:00:00 
 categories: ["lab", "pogil-pcl", "kinetics"]
 keywords: physical chemistry teaching, physical chemistry education, teaching resources, physical chemistry lab, pogil-pcl, kinetics experiment
 

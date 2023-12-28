@@ -2,11 +2,12 @@
 title: "What makes an electron a valence electron?"
 #author: "Melissa Reeves"
 date: "2023-07-09"
-categories: ["lab", "quantum", "computational", "bonding"]
+categories: ["lab", "quantum", "computational", "bonding", "pogil-pcl"]
+license: "CC BY-NC-SA"
 image: valence-electron.png
 ---
 
-![](valence-electron.png){width="75%"}
+![](valence-electron.png){width="65%" align="right"}
 
 # What is this experiment about?
 Students identify and count valence electrons in their first chemistry courses. Experimental data, such as ionization energies, supports the concept of valence electrons, but quantum mechanical calculations provide a richer context for the distinction between valence and core electrons. Through guided calculations on atoms and diatomic molecules, students develop the valence electron concept for atoms, build a potential energy curve for a diatomic molecule, and show how valence molecular orbitals arise from their calculated atomic orbitals. Students should be familiar with atomic orbitals at the general chemistry level.
@@ -24,21 +25,7 @@ Students connect their general chemistry concepts of atomic and molecular electr
 Students develop a hypothesis about the distinction between core and valence electrons. They engage in decision-making and experimental design: The class assigns calculations to student teams for reproducibility and to refine results. They bring the results together as the teams interact with each other to build conclusions. Students use graphical models with the numerical data and atomic and molecular orbital visualizations to process information and demonstrate their understanding of the developed concepts. 
 
 # Reference 
+Author: Melissa Reeves, Tuskeegee University
 
-[https://drive.google.com/file/d/0B9eKUY5kLiYoQmlKSUxnTU5nZW8/view?usp=sharing](https://drive.google.com/file/d/0B9eKUY5kLiYoQmlKSUxnTU5nZW8/view?usp=sharing)
+Access student and instructor handbooks: <https://www.pogilpcl.org/get-connected>
 
-Instructor's handbook available by request.
-
-[POGIL PCL](https://www.pogilpcl.org/get-connected)
-
-## Author {#author}
-
-Melissa Reeves, Tuskeegee University
-
-
-## License {#license}
-
-This work is licensed under the Creative Commons
-Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy
-of this license, visit <http://creativecommons.org/licenses/by-nc-sa/4.0/> or send
-a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.

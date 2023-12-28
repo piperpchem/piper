@@ -10,11 +10,11 @@ title: "The Quantum Mechanical Particle-in-a-Box Experiment–A Revisit Using NM
 #  - name: ""
 #    affiliations:
 #     - name: ""
-#copyright: "2016 American Chemical Society and Division of Chemical Education, Inc."
+copyright: "2023 American Chemical Society and Division of Chemical Education, Inc."
 #license: "CC BY-NC-ND"
 #draft: true
 #date-modified:
-date:
+date: 2023-10-16
 categories: []
 keywords: 
 

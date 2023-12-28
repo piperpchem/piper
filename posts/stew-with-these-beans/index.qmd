@@ -2,7 +2,7 @@
 title: "Can we make stew with these beans?"
 #author: "ssinglet"
 date: "2020-07-03T10:02:00-05:00"
-categories: ["lab", "kinetics"]
+categories: ["lab", "pogil-pcl", "kinetics"]
 image: chickpea-visualize.png
 ---
 
@@ -51,9 +51,7 @@ Students will be able to
 
 ## Location {#location}
 
-<https://drive.google.com/file/d/0B9eKUY5kLiYobGx2VmN1WHFvd3c/view?usp=sharing>
-
-An instructor's handbook is available.
+Student handout and Instructor’s Handbook are available through the POGIL-PCL project: https://www.pogilpcl.org/get-connected
 
 
 ## Author {#author}

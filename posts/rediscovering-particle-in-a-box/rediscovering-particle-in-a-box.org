@@ -41,9 +41,13 @@ lab. ChemRxiv. Cambridge: Cambridge Open Engage; 2023,
 [[https://doi.org/10.26434/chemrxiv-2023-9gkk4-v2][DOI
 10.26434/chemrxiv-2023-9gkk4-v2]]
 
-This content is a preprint and has not been peer-reviewed.
 
 Github repository: https://github.com/elizabeththrall/MLforPChem/tree/main/MLcyaninedye
+
+Elizabeth S. Thrall, Fernando Martinez Lopez, Thomas J. Egg, Seung Eun Lee, Joshua Schrier, and Yijun Zhao,
+Journal of Chemical Education Article ASAP,
+[[https://doi.org/10.1021/acs.jchemed.3c00765][DOI: 10.1021/acs.jchemed.3c00765]]
+
 
 <span hidden>KEYWORDS: Upper-Division Undergraduate, Physical Chemistry, Computer-Based Learning, Computational
 Chemistry, Machine Learning, Spectroscopy, Cyanine

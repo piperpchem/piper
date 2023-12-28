@@ -7,14 +7,28 @@ title: "Large Language Model (LLM) and Generative Pre-trained Transformer (GPT) 
 #     - name: ""
 #draft: true
 #date-modified:
-# description: 
-date: 2023-09-1
+# description:
+date: 2023-11-21
 categories: ["article", "ai-ml"]
 keywords: PIPER teaching physical chemistry, GPT, ChatGPT, LLM, teaching, chemistry
 # image: llm-gpt.png
 ---
 
 Some references related to Large Language Model (LLM) and Generative Pre-trained Transformer (GPT) resources such as ChatGPT, and their use in the chemistry classroom. Please send additions to ssinglet@coe.edu and I will include them in this list.
+
+
+# &ldquo;Leveraging ChatGPT for Enhancing Critical Thinking Skills&rdquo;
+
+Ying Guo, Daniel Lee [doi.org/10.1021/acs.jchemed.3c00505](https://doi.org/10.1021/acs.jchemed.3c00505)
+
+This article presents a study conducted at Georgia Gwinnett College (GGC) to explore the use of ChatGPT, a large language model, for fostering critical thinking skills in higher education. The study implemented a ChatGPT-based activity in introductory chemistry courses, where students engaged with ChatGPT in three stages: account setup and orientation, essay creation, and output revision and validation. The results showed significant improvements in students’ confidence to ask insightful questions, analyze information, and comprehend complex concepts. Students reported that ChatGPT provided diverse perspectives and challenged their current ways of thinking. They also expressed an increased utilization of ChatGPT to enhance critical thinking skills and a willingness to recommend it to others. However, challenges included low-quality student comments and difficulties in validating information sources. The study highlights the importance of comprehensive training for educators and access to reliable resources. Future research should focus on training educators in integrating ChatGPT effectively and ensuring student awareness of privacy and security considerations. In conclusion, this study provides valuable insights for leveraging AI technologies like ChatGPT to foster critical thinking skills in higher education.
+
+
+# &ldquo;An Analysis of AI-Generated Laboratory Reports across the Chemistry Curriculum and Student Perceptions of ChatGPT&rdquo;
+
+Joseph K. West, Jeanne L. Franz, Sara M. Hein, Hannah R. Leverentz-Culp, Jonathon F. Mauser, Emily F. Ruff, and Jennifer M. Zemke [doi.org/10.1021/acs.jchemed.3c00581](https://doi.org/10.1021/acs.jchemed.3c00581)
+
+AI technologies are rapidly pervading many areas of our world. AI-driven text generators such as ChatGPT are at the forefront of this due to their simplicity and accessibility. Their influence on higher education is already being observed, and perceptions among faculty and students vary widely. We have undertaken a cross-curriculum study of ChatGPT’s ability to generate laboratory reports. AI-generated reports from general, organic, analytical, physical, inorganic, and biochemistry courses were graded as if they were student reports and analyzed for grade distributions and common strengths and weaknesses. To further gauge ChatGPT’s current impact, we surveyed all students in our Spring 2023 laboratory courses regarding their awareness and use of ChatGPT. We have also laid out suggestions, guidance, and considerations for instructors who wish to prohibit ChatGPT use by their students as well as for those who wish to begin incorporating this new, powerful tool into their teaching.
 
 
 # &ldquo;Using generative artificial intelligence in chemistry education research: prioritizing ethical use and accessibility&rdquo;

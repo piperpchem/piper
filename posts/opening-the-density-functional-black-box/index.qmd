@@ -6,8 +6,7 @@ categories: ["computing", "python", "jupyter"]
 image: opening-black-box.png
 ---
 
-![](opening-black-box.png){width="50%"}
-
+<img src="opening-black-box.png" width=30% align="right" />
 Density-Functional Theory (DFT) is indubitably the most popular and among the most successful approaches for approximately solving the many-electron Schrödinger equation. The level of understanding on the part of both researchers and students using DFT, however, is lacking given the availability of black box software. The present work addresses this knowledge gap by providing three Jupyter notebooks, easily accessible through the Google Colaboratory (GitHub repository that provide a short skirmish with the fundamentals of DFT through a particle in a box-type model system. These notebooks were tested in conjunction with a problem worksheet in a graduate-level quantum chemistry course; pre- and post-activity survey results reveal largely positive reactions to this implementation and sustained enthusiasm for the subject.
 
 Notebook 1: Particle in a 3D box
