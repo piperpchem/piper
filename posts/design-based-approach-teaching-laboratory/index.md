@@ -1,0 +1,31 @@
+---
+title: "A design-based research approach to improving
+pedagogy in the teaching laboratory"
+## https://quarto.org/docs/journals/authors.html
+#author:
+#  - name: ""
+#    affiliations:
+#     - name: ""
+#license:
+#  text: "©2023 American Chemical Society and Division of Chemical Education, Inc."
+license: "CC BY-NC"
+#draft: true
+#date-modified:
+date: 2023-11-21
+categories: [article, course design, lab]
+keywords: physical chemistry teaching, physical chemistry education, teaching resources
+
+image: d3rp00134b-f1.gif
+---
+<img src="d3rp00134b-f1.gif" width="40%" align="right"/>
+
+The laboratory is a complex environment where the three levels of the chemistry triplet coincide. As the laboratory environment places a large demand on the working memory of students, cognitive load theory can address overload which causes barriers to learning. Breaking down barriers requires iterative phases of analysis/exploration, design/construction and evaluation/reflection over multiple cycles which are the hallmarks of design-based research. In a complex setting, managing change and redressing teaching approaches can be difficult to navigate. Design-based research incorporates iterative phases in which theory informs decision making. This paper uses the context of a laboratory exercise of emission spectra to illustrate how the cognitive load theory can be used in tandem with design-based research to support student learning in the exercise. Using this approach, it was possible to show how barriers to student understanding, including task demands and conceptual demands were supported through proposed approaches focusing on extraneous, intrinsic and ultimately germane cognitive load.
+
+
+# Reference
+
+Mundy, Christine E. and Potgieter, Marietjie and Seery, Michael K., *Chem. Educ. Res. Pract.*, 2024, [doi:10.1039/D3RP00134B](http://dx.doi.org/10.1039/D3RP00134B)
+
+<span hidden>KEYWORDS:
+</span>
+

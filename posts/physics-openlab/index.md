@@ -1,0 +1,27 @@
+---
+title: "Physics Openlab: DIY Laboratory for Science Enthusiasts"
+## https://quarto.org/docs/journals/authors.html
+#author:
+#  - name: ""
+#    affiliations:
+#     - name: ""
+#license:
+#  text: "©2023 American Chemical Society and Division of Chemical Education, Inc."
+#license: "CC BY-NC-SA"
+#draft: true
+#date-modified:
+date: 2023-12-06
+categories: [website, lab]
+keywords: physical chemistry teaching, physical chemistry education, teaching resources, laboratory
+
+image: physics-openlab.png
+---
+<a href="https://physicsopenlab.org/"> <img src="physics-openlab.png" width="100%"/></a>
+
+This project’s objective is to share technologies, materials, documentation and experiences realized by a group of science enthusiasts “makers”. Physics open lab is a “laboratory open house” where scientific experiments, especially physics experiments, are described, in order to give you, first-hand, the sense of the key concepts of modern physics, like the radioactivity, the quantization, the wave-particle duality, the cosmic rays and even the strange phenomenon of entanglement.
+
+[https://physicsopenlab.org/](https://physicsopenlab.org/)
+
+<span hidden>KEYWORDS:
+</span>
+

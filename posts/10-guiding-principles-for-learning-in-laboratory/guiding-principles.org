@@ -1,0 +1,38 @@
+#+export_file_name: index
+# (ss-toggle-markdown-export-on-save)
+# date-added:
+
+#+begin_export md
+---
+title: "10 Guiding principles for learning in the laboratory"
+## https://quarto.org/docs/journals/authors.html
+#author:
+#  - name: ""
+#    affiliations:
+#     - name: ""
+#license:
+#  text: "©2023 American Chemical Society and Division of Chemical Education, Inc."
+license: "CC BY 3.0"
+#draft: true
+#date-modified:
+date: 2023-12-01
+categories: [article, lab, course design]
+keywords: physical chemistry teaching, physical chemistry education, teaching resources
+
+image: 10-guiding.png
+---
+<img src="10-guiding.png" width="40%" align="right"/>
+#+end_export
+
+Laboratory work in chemistry has been extensively researched in the last decade but the gap between research and practice is still broad. This Perspective shares 10 guiding principles relating to university laboratory education, drawing on research over the last decade. Written with an audience of practitioners in mind, the Perspective aligns with Hounsell and Hounsell's congruence framework, so that the 10 principles consider all aspects of the laboratory curriculum: design, teaching approaches, and assessment approaches as suggested by Biggs, but additional contextual factors relating to teaching context: backgrounds of students and their support, and overall laboratory organisation and management. After discussing the rationale for each guiding principle, examples of approaches are given from recent literature along with prompts to help enact the guiding principle in practice.
+
+** Reference
+
+Seery, Michael K. and Agustian, Hendra Y. and Christiansen, Frederik V. and Gammelgaard, Bente and Malm, Rie H., Chem. Educ. Res. Pract., 2024.
+
+[[https://dx.doi.org/10.1039/D3RP00245D][dx.doi.org/10.1039/D3RP00245D]]
+
+* Local variables :noexport:
+# Local Variables:
+# eval: (ss-markdown-export-on-save)
+# End:

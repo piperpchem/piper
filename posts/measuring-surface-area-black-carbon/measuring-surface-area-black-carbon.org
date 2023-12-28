@@ -1,0 +1,37 @@
+#+export_file_name: index
+# (ss-toggle-markdown-export-on-save)
+# date-added:
+
+#+begin_export md
+---
+title: "Measuring the Surface Area of Carbon Black Using BET Isotherms: An Experiment in Physical Chemistry"
+## https://quarto.org/docs/journals/authors.html
+#author:
+#  - name: ""
+#    affiliations:
+#     - name: ""
+license:
+  text: "©2023 American Chemical Society and Division of Chemical Education, Inc."
+#license: "CC BY-NC-SA"
+#draft: true
+#date-modified:
+date: 2023-12-07
+categories: [lab, thermo]
+keywords: physical chemistry teaching, physical chemistry education, teaching resources
+
+image: surface-area.png
+---
+<img src="surface-area.png" width="40%" align="right"/>
+#+end_export
+
+We describe an experiment in which students use research-grade instrumentation to collect gas adsorption data in triplicate in a single 3 h laboratory period. The experiment reinforces the thermodynamic concepts taught in upper level physical chemistry courses and hands-on experience with instrumentation used in research laboratories. The speed of the experiment compared to most adsorption studies makes this experiment well-suited to large physical chemistry laboratory programs. Students collect partial nitrogen adsorption isotherms from three samples of commercial carbon black N660 and apply their knowledge of BET adsorption theory to calculate the surface area of their samples. Students then compare their results to values published in literature or by manufacturers. In the course of teaching this experiment, the BET surface areas of 30 carbon black N660 samples were obtained in separate experiments in a recent semester, giving a mean surface area of 33.2 ± 0.6 m2/g (95% C.I.), versus a literature value of 33.0 m2/g. Carbon black N660 was chosen as the adsorbent in this study because it is common, has wide availability, and has relatively low surface area which allows samples to be prepared, degassed, and analyzed in a single 3 h lab period. The student learning objectives of this experiment include, as part of a written lab report, to demonstrate an understanding of the adsorption process and of BET theory, present data in tables and figures, use statistical techniques (confidence intervals) for comparison to literature, and follow and properly describe a complicated operating procedure.
+
+** Reference
+Joshua H. Williams, Musbau Gbadomosi, Andrew B. Greytak, and Michael L. Myrick
+Journal of Chemical Education Article ASAP, [[https://doi.org/10.1021/acs.jchemed.3c00764][doi.org/10.1021/acs.jchemed.3c00764]]
+
+
+* Local variables :noexport:
+# Local Variables:
+# eval: (ss-markdown-export-on-save)
+# End:

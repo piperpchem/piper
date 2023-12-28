@@ -1,0 +1,18 @@
+---
+title: "RAW HTML CONTENT"
+format: html
+css: bootstrap.min.css
+---
+
+```{=html}
+<form 
+  method="POST" 
+  action="https://script.google.com/macros/s/AKfycbxuVp5UBRYW8LsvJaMq6mQDX5zIzyyD7_IggPAIhJ_SMfTHbeond8U2CzH56BtmWeFU/exec"
+>
+  <input name="Email" type="email" placeholder="Email" required>
+  <input name="Name" type="text" placeholder="Name" required>
+  <button type="submit">Send</button>
+</form>
+```
+
+
