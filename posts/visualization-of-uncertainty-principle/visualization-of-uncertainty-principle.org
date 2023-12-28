@@ -1,0 +1,40 @@
+#+export_file_name: index
+# (ss-toggle-markdown-export-on-save)
+# date-added:
+
+#+begin_export md
+---
+title: "Visualization of the Uncertainty Principle from the Particle-Centric View: Pre-Wave Function and Post-Wave Function"
+## https://quarto.org/docs/journals/authors.html
+#author:
+#  - name: ""
+#    affiliations:
+#     - name: ""
+license:
+  text: "©2023 American Chemical Society and Division of Chemical Education, Inc."
+#license: "CC BY-NC-SA"
+#draft: true
+#date-modified:
+date: 2023-12-28
+categories: [article, quantum]
+keywords: physical chemistry teaching, physical chemistry education, teaching resources, Upper-Division Undergraduate Computer-Based Learning, Spectroscopy, Theoretical Chemistry, Quantum Chemistry
+
+image: uncertainty.png
+---
+<img src="uncertainty.png" width="100%"/>
+#+end_export
+
+The Uncertainty Principle is usually discussed twice in a Quantum Chemistry course. The first discussion is a “pre-wave function” explanation that occurs before students know about wave functions, but do know the de Broglie hypothesis. The second description of the Uncertainty Principle is “post-wave function”, i.e., after students have learned about wave functions, operators, and expectation values. The more common pre-wave function explanations of the Uncertainty Principle can lead students to believe that the Uncertainty Principle sets limits upon what can be measured in the lab. This is the “measurement view” of the Uncertainty Principle. The Uncertainty Principle says something much deeper than this; particles do not possess some properties solely because of their wave nature. This is the “particle-centric view” of the Uncertainty Principle. We show that the Uncertainty Principle can be explained from the preferred particle-centric view when students only know about the de Broglie wavelength and basic statistics. To accompany this pre-wave function discussion of the Uncertainty Principle, we have designed an interactive Module that students can use to visualize the Uncertainty Principle from the particle viewpoint. We also describe a way to explain the Uncertainty Principle, which is complementary to the pre-wave function discussion, after the students know about wave functions, using the same elementary statistical analysis used in the pre-wave function presentation. We have designed a second interactive Module that students can use to visualize the Uncertainty Principle when particles are described by complex wave functions.
+
+** Reference
+
+Clara Snow and Michael Messina, Journal of Chemical Education Article ASAP,
+[[https://doi.org/10.1021/acs.jchemed.3c00583][DOI: 10.1021/acs.jchemed.3c00583]]
+
+<span hidden>KEYWORDS:
+</span>
+
+* Local variables :noexport:
+# Local Variables:
+# eval: (ss-markdown-export-on-save)
+# End:
