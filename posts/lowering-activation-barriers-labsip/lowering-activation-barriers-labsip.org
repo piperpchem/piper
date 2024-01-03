@@ -1,0 +1,37 @@
+#+export_file_name: index
+# (ss-toggle-markdown-export-on-save)
+# date-added:
+
+#+begin_export md
+---
+title: "Lowering Activation Barriers to Success in Physical Chemistry (LABSIP): A Community Project"
+## https://quarto.org/docs/journals/authors.html
+#author:
+#  - name: ""
+#    affiliations:
+#     - name: ""
+license:
+   text: "©2023 The Authors"
+#license: "CC BY-NC-SA"
+#draft: true
+#date-modified:
+date: 2024-01-02
+categories: [article]
+keywords: physical chemistry teaching, physical chemistry education, teaching resources
+
+image: labsip-project.png
+---
+<img src="labsip-project.png" width="40%" align="right"/>
+#+end_export
+
+A group of physical chemistry instructors convened to form LABSIP, or Lowering Activation Barriers to Success in PChem. The overarching goal of the LABSIP Collaborative is to promote systemic change that will enable more students and instructors to have successful experiences learning and teaching physical chemistry. We aim to achieve this goal by generating public resources and creating a vibrant and diverse community of practice. As described in the following, we have found substantial interest within the physical chemistry instructor community to propel this project forward by addressing a common set of challenges. We next will describe the activities that LABSIP has initiated during its first year, and then report what we have learned from these initiatives regarding an emerging community-wide consensus on challenges. We will also report innovative strategies and resources that can address those common challenges. In addition to serving as LABSIP’s first-year activity report and description of its future goals, this Viewpoint doubles as an open invitation to all physical chemistry instructors to become members of and contributors to LABSIP.
+
+** Reference
+
+Carlos R. Baiz, Robert F. Berger, Kelling J. Donald, Julio C. de Paula, Stephen D. Fried, Brenda Rubenstein, Grace Y. Stokes, Kana Takematsu, and Casey Londergan,
+The Journal of Physical Chemistry A
+[[https://doi.org/10.1021/acs.jpca.3c07015][DOI:10.1021/acs.jpca.3c07015]] 
+* Local variables :noexport:
+# Local Variables:
+# eval: (ss-markdown-export-on-save)
+# End:
