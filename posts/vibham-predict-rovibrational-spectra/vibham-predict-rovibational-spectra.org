@@ -1,0 +1,41 @@
+#+export_file_name: index
+# (ss-toggle-markdown-export-on-save)
+# date-added:
+
+#+begin_export md
+---
+title: "VibHam: A Classroom Tool for Predicting the Rovibrational Spectra of Diatomic Molecule Beyond the Harmonic Oscillator Approximation"
+## https://quarto.org/docs/journals/authors.html
+#author:
+#  - name: ""
+#    affiliations:
+#     - name: ""
+#license:
+#  text: "©2023 American Chemical Society and Division of Chemical Education, Inc."
+license: "CC BY-NC-ND"
+#draft: true
+#date-modified:
+date: 2024-01-03
+categories: [article, activity, computational, python, spectroscopy]
+keywords: physical chemistry teaching, physical chemistry education, teaching resources
+
+image: vibham.png
+---
+<img src="vibham.png" width="40%" align="right"/>
+#+end_export
+
+VibHam is an adaptable and user-friendly program designed for advanced diatomic molecule spectroscopy beyond the harmonic oscillator approximation. It employs numerical solutions to the rovibrational Schrodinger equation, accurately reproducing spectroscopic constants and offering insights into rovibrational wavefunctions, energy levels, and simulated spectra generation. Using user-defined potential energy curves, VibHam fits a power series to ξ = R − Re. The resulting power series fitting parameters are used to populate vibrational Hamiltonian matrices, enabling the determination of rovibrational wavefunctions and energy levels. The program provides comprehensive data on rovibrational characteristics, including spectroscopic constants, rovibrational excitations, and classical turning points. With an intuitive graphical user interface, VibHam is an invaluable tool for students and researchers seeking a deeper understanding of diatomic molecule spectroscopy. Additionally, it facilitates visualization of rovibrational wavefunctions and allows modeling of excitations at different temperatures, aiding the simulation of emission and absorption spectra. Demonstrated through CO and HF examples, VibHam showcases exceptional performance, supported by its utilization in tailored classroom activities that underscore its educational value.
+
+** Reference
+
+McCarver G, Hinde R. VibHam: A Classroom Tool for Predicting the Rovibrational Spectra of Diatomic Molecule Beyond the Harmonic Oscillator Approximation. ChemRxiv. 2024; [[https://doi.org/10.26434/chemrxiv-2024-c2545][doi:10.26434/chemrxiv-2024-c2545]]  This content is a preprint and has not been peer-reviewed.
+
+[[https://github.com/gmccarve/VibHam][https://github.com/gmccarve/VibHam]]
+
+<span hidden>KEYWORDS:
+</span>
+
+* Local variables :noexport:
+# Local Variables:
+# eval: (ss-markdown-export-on-save)
+# End:
