@@ -13,8 +13,8 @@ title: "What feedstock produces the best biodiesel fuel?"
 #copyright: "2016 American Chemical Society and Division of Chemical Education, Inc."
 license: "CC BY-NC-SA"
 #draft: true
-#date-modified:
-date: 2023-10-28
+#date-modified:2023-10-28
+date: 2023-1-1
 categories: ["lab", "pogil-pcl", "thermo"]
 keywords:  physical chemistry teaching, physical chemistry education, teaching resources, physical chemistry laboratory, pogil, pogil-pcl
 
@@ -43,13 +43,12 @@ This experiment focuses the concepts of heat of combustion and viscosity, relati
 ** And what makes it a POGIL-PCL experiment?
 Each group uses a different biodiesel sample (made from a different feedstock), and the class shares data. Based on a consideration of the FAME composition of the feedstock and FAME structure, students predict the heat of combustion of various biodiesel samples and FAMES. Students also predict FAME viscosity. Students need to think about what data to collect (for viscosity determination) and what units to use for their data. They make several graphs to determine relationships, as well as to fit data to a linear equation and extract parameters. Based on the data collected, students consider which feedstock may make the best biodiesel fuel for a hot climate, and which would be best for a cold climate.
 
-** Reference
+* Reference
 Diane Miller, Seton Hill University
 
-Student handout and Instructor’s Handbook are available through the POGIL-PCL project: [[https://www.pogilpcl.org/get-connected]]
+[[https://chemistry.coe.edu/piper/pclform.html?expt=biodiesel][View the student version]]
 
-<span hidden>KEYWORDS: 
-</span>
+The Instructor’s Handbook with implementation details, sample data, and expected answers is available through the [[https://www.pogilpcl.org/get-connected][POGIL-PCL project]]. 
 
 * Local variables :noexport:
 # Local Variables:

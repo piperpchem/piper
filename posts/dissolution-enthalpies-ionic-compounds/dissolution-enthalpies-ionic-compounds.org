@@ -1,6 +1,7 @@
 #+export_file_name: index
 # (ss-toggle-markdown-export-on-save)
 # date-added:
+#+HTML_HEAD: <base target="_blank">
 
 #+begin_export md
 ---
@@ -43,10 +44,10 @@ Matt Scanlon, Fairmont State University
 
 Rob Whitnell, Guilford College
 
-Student handout and Instructor’s Handbook are available through the POGIL-PCL project: https://www.pogilpcl.org/get-connected
+[[https://chemistry.coe.edu/piper/pclform.html?expt=dissolutionIonic][View student handout]]
 
-<span hidden>KEYWORDS:
-</span>
+The Instructor’s Handbook with implementation details, sample data, and expected answers is available through the [[https://www.pogilpcl.org/get-connected][POGIL-PCL project]]. 
+
 
 * Local variables :noexport:
 # Local Variables:

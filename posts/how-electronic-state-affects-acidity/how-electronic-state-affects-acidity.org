@@ -40,15 +40,14 @@ Physical chemistry uses theory and experiment to provide access to molecular pro
 ** And what makes it a POGIL-PCL experiment?
 Students make predictions about the relative pKa values of the acid and base form of β-naphthol and the spectra of those forms. They share and interact with each other, both in experimental design decisions (for example, which buffers to use) and in sharing data to build conclusions. They apply mathematical models to data, building from the Förster cycle and graphical interpretation of the spectra to obtain pKa values.
 
-** Reference
-Lead author: Sally Hunnicutt, Virginia Commonwealth University
+* Reference
+Lead author: Allison Noble
 
-Access to student and instructor handbooks: https://www.pogilpcl.org/get-connected
+[[https://chemistry.coe.edu/piper/pclform.html?expt=pyreneExcimer][View student handout]]
+
+The Instructor’s Handbook with implementation details, sample data, and expected answers is available through the [[https://www.pogilpcl.org/get-connected][POGIL-PCL project]]. 
 
 Highlights author: Rob Whitnell, Gilford College
-
-<span hidden>KEYWORDS:
-</span>
 
 * Local variables :noexport:
 # Local Variables:

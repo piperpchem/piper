@@ -1,0 +1,41 @@
+---
+title: "What makes an electron a valence electron?"
+#author: "Melissa Reeves"
+date: "2023-07-09"
+categories: ["lab", "quantum", "computational", "bonding", "pogil-pcl"]
+license: "CC BY-NC-SA"
+image: valence-electron.png
+---
+<img src="valence-electron.png" width="30%" align="right">
+
+
+# What is this experiment about?
+
+Students identify and count valence electrons in their first chemistry courses. Experimental data, such as ionization energies, supports the concept of valence electrons, but quantum mechanical calculations provide a richer context for the distinction between valence and core electrons. Through guided calculations on atoms and diatomic molecules, students develop the valence electron concept for atoms, build a potential energy curve for a diatomic molecule, and show how valence molecular orbitals arise from their calculated atomic orbitals. Students should be familiar with atomic orbitals at the general chemistry level.
+
+
+# What do students do?
+
+Students predict how characteristics of valence electrons differ from core electrons and then calculate and examine atomic orbital energies for the first and second row atoms, refining their list of characteristics. Students turn to a diatomic molecule and examine how its molecular electronic energy varies with internuclear distance, developing their understanding of chemical bonding. They then perform calculations on first and second row homonuclear diatomic molecules, building molecular orbital diagrams. This experiment develops refined concepts of valence electrons and chemical bonding, built from student data. The full experiment typically requires two three-hour lab periods to complete. 
+
+
+# What equipment and supplies will you need?
+
+Calculations can be done on Chem Compute (<https://chemcompute.org/>), the WebMO demo server (<https://www.webmo.net/demoserver/cgi-bin/webmo/login.cgi>), or a package of the instructor’s choice. Microsoft Excel and Google Sheet templates are available in which students can build atomic and molecular orbital energy diagrams from their data.
+What makes this experiment a physical chemistry experiment?
+Students connect their general chemistry concepts of atomic and molecular electronic structure to the more rigorous quantum mechanical calculations. They see some of their original concepts confirmed by the calculations and develop a refined description of valence and core electrons. They also explore how to use these types of calculations in determining bond length, providing a more accurate foundation for qualitative descriptions of potential energy curves.
+
+
+# And what makes it a POGIL-PCL experiment?
+
+Students develop a hypothesis about the distinction between core and valence electrons. They engage in decision-making and experimental design: The class assigns calculations to student teams for reproducibility and to refine results. They bring the results together as the teams interact with each other to build conclusions. Students use graphical models with the numerical data and atomic and molecular orbital visualizations to process information and demonstrate their understanding of the developed concepts. 
+
+
+# Reference
+
+Author: Melissa Reeves, Tuskeegee University
+
+[View student handout](https://chemistry.coe.edu/piper/pclform.html?expt=valenceElectron)
+
+The Instructor’s Handbook with implementation details, sample data, and expected answers is available through the [POGIL-PCL project](https://www.pogilpcl.org/get-connected). 
+

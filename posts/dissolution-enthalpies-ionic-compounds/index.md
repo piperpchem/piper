@@ -50,8 +50,7 @@ Matt Scanlon, Fairmont State University
 
 Rob Whitnell, Guilford College
 
-Student handout and Instructor’s Handbook are available through the POGIL-PCL project: <https://www.pogilpcl.org/get-connected>
+[View student handout](https://chemistry.coe.edu/piper/pclform.html?expt=dissolutionIonic)
 
-<span hidden>KEYWORDS:
-</span>
+The Instructor’s Handbook with implementation details, sample data, and expected answers is available through the [POGIL-PCL project](https://www.pogilpcl.org/get-connected). 
 

@@ -37,16 +37,13 @@ This experiment illustrates several tenets of physical chemistry. Students test 
 Students make predictions about the behavior of systems of absorbing molecules, testing those predictions against experimental results they obtain. In doing so, students engage in experimental design and decision-making to determine dye concentrations to use, assign dyes to different teams to ensure reproducible results, and share data among the class to obtain a complete overview of the results. Students use graphical representations to explore the results and apply, modify, and extend mathematical models to obtain a more complete description of π-electron behavior in dyes.
 
 
-** Reference
+* Reference
 
 Lead Author: Rob Whitnell, Guilford College
 
-https://www.pogilpcl.org/get-connected
+[[https://chemistry.coe.edu/piper/pclform.html?expt=conjugatedDyes][View student version]]
 
-Instructor's manual available upon request.
-
-<span hidden>KEYWORDS: physical chemistry teaching learning, physical chemistry laboratory, UV-vis spectroscopy
-</span>
+The Instructor’s Handbook with implementation details, sample data, and expected answers is available through the [[https://www.pogilpcl.org/get-connected][POGIL-PCL project]]. 
 
 * Local variables :noexport:
 # Local Variables:

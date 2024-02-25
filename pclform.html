@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>POGIL-PCL Chemistry Lab Download</title>
+  <meta charset="utf-8">
+<!--    <meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script> -->
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tufte-css/1.8.0/tufte.min.css">  
+</head>
+
+<body>
+<!--  <div class="container-fluid"> -->
+    <h1>POGIL Physical Chemistry Lab Download</h1>
+
+    <p>We want the student goal in the Physical Chemistry Lab (PCL) to be learning how physical chemistry is done. <img src="pcl-cycle.jpg" style="padding: 10px 20px 0px 10px;float: right;" width="30%" alt="POGIL-PCL physical chemistry lab learning cycle"</p>
+
+    <p>We strongly recommend participating in a POGIL-PCL workshop (online or in person) to hear from other instructors how to successfully implement a guided-inquiry laboratory. More information about workshops and additional materials such as Instructors Handbooks for PCL experiments are available at the <a href="https://pogilpcl.org/get-connected">POGIL-PCL website</a>.</p>
+
+    <h3>Principles of a POGIL-PCL Experiment</h3>
+    
+    <p>Pre-experiment Questions: Students work in teams to</p>
+	<ul><li>explore background information</li>
+	  <li>consider experimental design</li>
+	  <li>predict an outcome</li>
+	</ul>
+	<p>Experimental Protocol: Protocols are written to</p>
+	<ul>
+	  <li>provide broad instructions (e.g., allow for student decisions about mass or volume)</li>
+	  <li> are repeated, often with minor variations (e.g., change the pH, concentration, reactant)</li>
+	  <li> may require use of shared data (e.g., results from different temperatures)</li>
+	</ul>
+	<p>Thinking About the Data: students work in teams to</p>
+	<ul>
+	  <li>pool data to discern trends</li>
+	  <li>examine and apply models</li>
+	  <li>repeat procedure based on analysis and discussion</li>
+	  <li>develop concepts outlined in experiment objectives</li>
+	</ul>
+
+    <p>To download the student version of this PCL experiment, please provide the follwing information. No information is shared with any outside parties.</p>
+
+    <!-- <form method="POST" action="https://script.google.com/macros/s/AKfycbzbnzo9o3REsiZVszWKR3UWaD-jfRImBzCXQfRFdPaznCsGkWatIBTA33hw7NVn4IPt_Q/exec"> -->
+      <form method="get" action="pclprocess.php">
+      <input name="fullname" id="fullname" type="text" placeholder="Name" required><br>
+      <input name="email" id="email" type="email" placeholder="Email" required><br>
+      <input name="institution" id="institution" type="text" placeholder="Institution" required><br>
+      <p>Would you like to receive occasional announcements related to POGIL-PCL events, materials, or workshops?</p>
+      <input type="radio" id="yes" name="join" value="yes">
+      <label for="yes">Yes</label><br>
+      <input type="radio" id="no" name="join" value="no">
+      <label for="no">No</label><br>
+      <input name="experiment" id="experiment" type="hidden"><br>
+      <button type="submit">View Student Version</button>
+    </form>
+    <!-- </div> -->
+
+<script>
+  console.log(new URL(window.location.href));
+  (new URL(window.location.href)).searchParams.forEach((x, y) =>
+      document.getElementById(y).value = x);
+</script>
+
+</body>
+</html>

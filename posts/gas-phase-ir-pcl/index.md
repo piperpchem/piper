@@ -1,6 +1,7 @@
 ---
 title: "Encouraging Student Engagement by Using a POGIL Framework for a Gas-Phase IR Physical Chemistry Laboratory Experiment"
 #author: "ssinglet"
+license: "CC BY-NC-SA"
 date: "2022-11-19"
 categories: ["lab", "spectroscopy", "pogil-pcl"]
 image: gas-phase-ir-pcl.png
@@ -43,18 +44,13 @@ Students use mathematical models to generate ro-vibrational energy diagrams and 
 Students sketch a predicted IR spectrum and then go on to predict the effect of resolution on the spectrum. Students work in groups to collect spectra at different resolutions and then pool their data as a class. In groups and as a class, students are prompted to work through the process of refining model equations used to fit the spectra, using residuals to evaluate the fit. Students can then use the model to determine molecular parameters like the rotational constant and bond length, learning what information can be extracted from an IR spectrum.
 
 
-## Reference
+# Reference
 
-Jordan P. Beck, Concordia University Wisconsin, Mequon, WI and Diane M. Miller, Seton Hall University, Greensburg, PA
-
-Student handout and Instructor&rsquo;s Handbook available through POGIL-PCL <https://www.pogilpcl.org/get-connected>
+Jordan P. Beck and Diane M. Miller
 
 J. Chem. Educ. 2022, 99, 12, 4079–4084 <https://doi.org/10.1021/acs.jchemed.2c00314>
 
+[View student handout](https://chemistry.coe.edu/piper/pclform.html?expt=gasPhaseIR)
 
-## License
-
-Creative Commons Attribution 4.0
-
-<span hidden>KEYWORDS: FTIR, FT-IR, POGIL-PCL, Upper-Division Undergraduate Laboratory Instruction, Physical Chemistry, Inquiry-Based/Discovery Learning, IR Spectroscopy</span>
+The Instructor’s Handbook with implementation details, sample data, and expected answers is available through the [POGIL-PCL project](https://www.pogilpcl.org/get-connected). 
 

@@ -48,7 +48,5 @@ Students make predictions, share and interact with other students, model their d
 
 John Hagan, California Polytechnic State University
 
-Student handout and Instructor’s Handbook are available through the POGIL-PCL project: <https://www.pogilpcl.org/get-connected>
-<span hidden>KEYWORDS:
-</span>
+The Student Handout and Instructor’s Handbook with implementation details, sample data, and expected answers is available through the [POGIL-PCL project](https://www.pogilpcl.org/get-connected). 
 

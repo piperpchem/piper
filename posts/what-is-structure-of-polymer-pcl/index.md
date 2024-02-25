@@ -46,13 +46,15 @@ Students think deeply about more than one physical model for macromolecules.  St
 -   Students use graphical representations and mathematical models to test hypotheses
 
 
-## Reference
+# Reference
 
 Michael A. Everest and Abigail J. Toves, Westmont College, Santa Barbara, CA;  Melissa S. Reeves, Tuskegee University, Tuskegee, AL
 
-Student handout and Instructor&rsquo;s Handbook are available through the POGIL-PCL project: <https://www.pogilpcl.org/get-connected>
-
 Journal of Chemical Education, 2023, 100 (7), 2719-2723 [doi:10.1021/acs.jchemed.2c01155](https://doi.org/10.1021/acs.jchemed.2c01155)
+
+[View student handout](https://chemistry.coe.edu/piper/pclform.html?expt=polymerViscosity)
+
+The Instructor’s Handbook with implementation details, sample data, and expected answers is available through the [POGIL-PCL project](https://www.pogilpcl.org/get-connected). 
 
 
 ## License

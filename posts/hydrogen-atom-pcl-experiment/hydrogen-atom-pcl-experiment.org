@@ -21,11 +21,11 @@ keywords: Undergraduate Physical Chemistry Laboratory, Atomic Structure, Guided 
 
 image: hatom-elevel-diagram.png
 ---
-<img src="hatom-pcl-experiment.gif" width="30%" align="right"/>
+
 #+end_export
 
 ** What is this experiment about?
-This experiment reformulates a well-known experiment in the physical chemistry laboratory, hydrogen atom emission spectroscopy, into a guided inquiry experiment.  The experiment’s key feature is iterative model building, where students develop an initial model of energy levels and keep revising their model upon presentation of additional experimental information.  Students should know about the general concept of energy levels and the electromagnetic spectrum.  This experiment can (and perhaps should) be done before any discussion of hydrogen energy levels in physical chemistry.
+ @@html: <img src="hatom-pcl-experiment.gif" width="40%" align="right"/>@@ This experiment reformulates a well-known experiment in the physical chemistry laboratory, hydrogen atom emission spectroscopy, into a guided inquiry experiment. The experiment’s key feature is iterative model building, where students develop an initial model of energy levels and keep revising their model upon presentation of additional experimental information.  Students should know about the general concept of energy levels and the electromagnetic spectrum.  This experiment can (and perhaps should) be done before any discussion of hydrogen energy levels in physical chemistry.
 
 ** What do students do?
 The full experiment consists of three cycles. Students first perform low-resolution observations using a handheld diffraction grating or similar and, in teams, build an energy level diagram consistent with their observations.  Next, students perform high-resolution emission spectroscopy, compare their data with others, and use data to refine and expand their model.  Finally, students are provided with additional data (from spectrometers not commonly available) and again in teams refine and expand their model.  Completing all three cycles typically requires two three-hour lab periods.
@@ -42,14 +42,12 @@ Students make predictions about the behavior of emitting atoms, testing those pr
 <span hidden>KEYWORDS: Undergraduate Physical Chemistry Laboratory, Atomic Structure, Guided Inquiry Learning, Hydrogen Emission Spectrum, Constructivist Iterative Model Building
 </span>
 
-** Reference
+* Reference
 Steven M. Singleton, Craig M. Teague, and Carl Salter, Journal of Chemical Education 2022 99 (12), 4143-4148, [[https://doi.org/10.1021/acs.jchemed.2c00348][DOI: /10.1021/acs.jchemed.2c00348]]
 
-[[https://drive.google.com/drive/folders/0BwUsdna_LmGjTlByeTBaQXZTdm8?resourcekey=0-5PO-3jXo2D3LmQC7htuKRg][Google drive folder]]
+[[https://chemistry.coe.edu/piper/pclform.html?expt=hAtom][View student version]]
 
-[[https://drive.google.com/file/d/1EhYn2OQi54VAbDQyMm-qdCPtiC3g4Mle/view?usp=drive_link][Student Handbook]]
-
-Instructor's handbook available by request.
+The Instructor’s Handbook with implementation details, sample data, and expected answers is available through the [[https://www.pogilpcl.org/get-connected][POGIL-PCL project]]. 
 
 * Local variables :noexport:
 # Local Variables:

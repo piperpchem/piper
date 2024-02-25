@@ -48,10 +48,10 @@ At the end of this experiment, students will be able to
 Sally Hunnicutt, Virginia Commonwealth University\\
 Renée Cole, University of Iowa
 
-Student handout and Instructor’s Handbook are available through the POGIL-PCL project: https://www.pogilpcl.org/get-connected
+[[https://chemistry.coe.edu/piper/pclform.html?expt=appleEnzyme][View student handout]]
 
-<span hidden>KEYWORDS:
-</span>
+The Instructor’s Handbook with implementation details, sample data, and expected answers is available through the [[https://www.pogilpcl.org/get-connected][POGIL-PCL project]]. 
+
 
 * Local variables :noexport:
 # Local Variables:
