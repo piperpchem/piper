@@ -14,7 +14,7 @@
 <!--  <div class="container-fluid"> -->
     <h1>POGIL Physical Chemistry Lab Download</h1>
 
-    <p>We want the student goal in the Physical Chemistry Lab (PCL) to be learning how physical chemistry is done. <img src="pcl-cycle.jpg" style="padding: 10px 20px 0px 10px;float: right;" width="30%" alt="POGIL-PCL physical chemistry lab learning cycle"</p>
+    <p>We want the student goal in the Physical Chemistry Lab (PCL) to be learning how physical chemistry is done. <img src="pclcycle.jpg" style="padding: 10px 30px 0px 10px;float: right;" width="30%" alt="POGIL-PCL physical chemistry lab learning cycle"</p>
 
     <p>We strongly recommend participating in a POGIL-PCL workshop (online or in person) to hear from other instructors how to successfully implement a guided-inquiry laboratory. More information about workshops and additional materials such as Instructors Handbooks for PCL experiments are available at the <a href="https://pogilpcl.org/get-connected">POGIL-PCL website</a>.</p>
 
@@ -39,24 +39,25 @@
 	  <li>develop concepts outlined in experiment objectives</li>
 	</ul>
 
-    <p>To download the student version of this PCL experiment, please provide the follwing information. No information is shared with any outside parties.</p>
-
+    <p>To download the student version of this PCL experiment, please provide the following information. No information is shared with any outside parties.</p>
     <!-- <form method="POST" action="https://script.google.com/macros/s/AKfycbzbnzo9o3REsiZVszWKR3UWaD-jfRImBzCXQfRFdPaznCsGkWatIBTA33hw7NVn4IPt_Q/exec"> -->
       <form method="get" action="pclprocess.php">
-      <input name="fullname" id="fullname" type="text" placeholder="Name" required><br>
+      <p><input name="fullname" id="fullname" type="text" placeholder="First and Last Name" required><br>
       <input name="email" id="email" type="email" placeholder="Email" required><br>
-      <input name="institution" id="institution" type="text" placeholder="Institution" required><br>
-      <p>Would you like to receive occasional announcements related to POGIL-PCL events, materials, or workshops?</p>
+      <input name="institution" id="institution" type="text" placeholder="Institution" required></p>
+      <p>Would you like to receive occasional announcements related to
+	POGIL-PCL events, materials, or workshops?<br>
       <input type="radio" id="yes" name="join" value="yes">
       <label for="yes">Yes</label><br>
       <input type="radio" id="no" name="join" value="no">
-      <label for="no">No</label><br>
-      <input name="experiment" id="experiment" type="hidden"><br>
-      <button type="submit">View Student Version</button>
+      <label for="no">No</label></p>
+      <input name="expt" id="expt" type="hidden">
+      <p><button type="submit">View Student Version</button><br><br></p>
     </form>
-    <!-- </div> -->
+      <!-- </div> -->
 
 <script>
+  // replace document elements with URL parameters
   console.log(new URL(window.location.href));
   (new URL(window.location.href)).searchParams.forEach((x, y) =>
       document.getElementById(y).value = x);
