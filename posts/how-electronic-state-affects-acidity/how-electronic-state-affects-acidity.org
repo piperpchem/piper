@@ -41,7 +41,7 @@ Physical chemistry uses theory and experiment to provide access to molecular pro
 Students make predictions about the relative pKa values of the acid and base form of β-naphthol and the spectra of those forms. They share and interact with each other, both in experimental design decisions (for example, which buffers to use) and in sharing data to build conclusions. They apply mathematical models to data, building from the Förster cycle and graphical interpretation of the spectra to obtain pKa values.
 
 * Reference
-Lead author: Allison Noble
+Lead author: Sally Hunnicutt
 
 [[https://chemistry.coe.edu/piper/pclform.html?expt=pyreneExcimer][View student handout]]
 
