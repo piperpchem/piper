@@ -1,0 +1,37 @@
+#+export_file_name: index
+#+options: broken-links:t
+# (ss-toggle-markdown-export-on-save)
+# date-added:
+
+#+begin_export md
+---
+title: "NMR in the Advanced Inorganic Lab. II. Introduction to Quadrupolar Coupling: What to Do When the “n + 1” Rule and Pascal’s Triangle Fail"
+## https://quarto.org/docs/journals/authors.html
+#author:
+#  - name: ""
+#    affiliations:
+#     - name: ""
+license:
+  text: "© American Chemical Society and Division of Chemical Education, Inc."
+#license: "CC BY-NC-SA"
+#draft: true
+#date-modified:
+date: 2024-03-05
+categories: ["article", "nmr", "lab", "spectroscopy"]
+keywords: physical chemistry teaching, physical chemistry education, teaching resources, laboratory instruction, collaborative/cooperative learning
+
+image: nmr.png
+---
+<img src="nmr.png" width="30%" align="right"/>
+#+end_export
+
+As an introduction to quadrupolar effects in NMR spectroscopy, students use low field (\nbsp{}^{1}H, 60 MHz), benchtop \nbsp{}^{13}C NMR spectroscopy to contrast the spin–spin coupling behavior of \nbsp{}^{13}C to the dipolar \nbsp{}^{1}H and quadrupolar 2D in familiar solvents C(H/D)Cl_{3}, C(H/D)_{2}Cl_{2}, and (C(H/D)_{3})_{2}CO. To explain the observations, students are introduced to the spin magnetic quantum number, I, and its use in predicting first order coupling patterns. To explain the multiplets, both the number of lines and the relative intensities, students must expand their understanding of coupling beyond the mnemonics “n + 1” and Pascal’s triangle for binomial expansion and instead utilize the nuclear spin magnetic quantum number, I, for the quadrupolar nucleus 2D. The exercise is a useful prelude to the introduction of NMR spectroscopy involving quadrupolar nuclei (e.g., \nbsp{}^{14}N (I = 1); \nbsp{}^{11}B (I = 3/2)) in upper-level inorganic chemistry courses or as a fundamental description of coupling in physical chemistry courses. An advantage of the low field spectrum (\nbsp{}^{13}C, 15 MHz) is the observation of magnetic nonequivalence of the two methyl groups in (CH_{3})_{2}CO in which the  \nbsp{}^{13}C resonance for the methyl group is readily observed as a quartet of quartets.
+
+* Reference
+T. Leon Venable, Journal of Chemical Education,
+[[https://doi.org/10.1021/acs.jchemed.3c01291][DOI: 10.1021/acs.jchemed.3c01291]]
+
+* Local variables :noexport:
+# Local Variables:
+# eval: (ss-markdown-export-on-save)
+# End:
