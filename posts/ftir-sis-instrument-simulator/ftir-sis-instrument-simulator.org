@@ -1,0 +1,38 @@
+#+export_file_name: index
+#+options: broken-links:t
+# (ss-toggle-markdown-export-on-save)
+# date-added:
+
+#+begin_export md
+---
+title: "FTIR-SIS: A Fourier Transform Infrared Scientific Instrument Simulator"
+## https://quarto.org/docs/journals/authors.html
+#author:
+#  - name: ""
+#    affiliations:
+#     - name: ""
+#license:
+#  text: "©2023 American Chemical Society and Division of Chemical Education, Inc."
+#license: "CC BY-NC-SA"
+#draft: true
+#date-modified:
+date: 2024-03-08
+categories: [article, computing, spectroscopy]
+keywords: physical chemistry teaching, physical chemistry education, teaching resources, spectroscopy, simulation
+
+image: ftir-sis.png
+---
+<img src="ftir-sis.png" width="40%" align="right"/>
+#+end_export
+We developed a gas-phase Fourier Transform InfraRed Scientific Instrument Simulator (FTIR-SIS, https://ftir.rastonlab.org/) in response to the unavailability of one during the COVID-19 pandemic lockdown of 2020. It features an interactive interface that encourages students to explore different components of a typical FTIR, and it allows them to set up and collect realistic synthetic spectra for a wide variety of atmospherically relevant molecules (CO, HCl, O_3, HCN, etc.). This is facilitated by utilizing the HITRAN (HIgh-resolution TRANsmission molecular absorption) database and a radiative solver (RADIS, RADIative Solver for infrared spectra of molecules). Students from around the world will be able to access this SIS on any device (laptop, smartphone, etc.) and perform simulated gas-phase FTIR experiments that mimic real ones.
+* Reference
+Brenna Sermania, Nicholas VanFossen, Ray Steen, Michael Stewart, and Paul L. Raston,
+Journal of Chemical Education ASAP,
+[[https://doi.org/10.1021/acs.jchemed.3c01161][DOI: 10.1021/acs.jchemed.3c01161]]
+
+[[https://ftir.rastonlab.org/][FTIR-SIS]]
+
+* Local variables :noexport:
+# Local Variables:
+# eval: (ss-markdown-export-on-save)
+# End:

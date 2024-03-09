@@ -13,7 +13,7 @@ title: "A Simple and Fast Method for Investigating the Liquid–Vapor Equilibriu
 #    affiliations:
 #     - name: ""
 license:
-   text: "©American Chemical Society and Division of Chemical Education, Inc."
+   text: "© American Chemical Society and Division of Chemical Education, Inc."
 #license: "CC BY-NC-SA"
 #draft: true
 #date-modified:

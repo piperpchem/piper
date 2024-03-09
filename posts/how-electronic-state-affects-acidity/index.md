@@ -47,7 +47,7 @@ Students make predictions about the relative pKa values of the acid and base for
 
 # Reference
 
-Lead author: Allison Noble
+Lead author: Sally Hunnicutt
 
 [View student handout](https://chemistry.coe.edu/piper/pclform.html?expt=pyreneExcimer)
 

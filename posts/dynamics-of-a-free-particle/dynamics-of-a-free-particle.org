@@ -1,0 +1,38 @@
+#+export_file_name: index
+#+options: broken-links:t
+# (ss-toggle-markdown-export-on-save)
+# date-added:
+
+#+begin_export md
+---
+title: "Dynamics of a Free Particle Using Classical Computing and Quantum Computing: Introducing Quantum Computing to Chemistry Students"
+## https://quarto.org/docs/journals/authors.html
+#author:
+#  - name: ""
+#    affiliations:
+#     - name: ""
+license:
+  text: "©2024 American Chemical Society and Division of Chemical Education, Inc."
+#license: "CC BY-NC-SA"
+#draft: true
+#date-modified:
+date: 2024-03-09
+categories: [article, quantum, computing]
+keywords: physical chemistry teaching, physical chemistry education, teaching resources, quantum computing
+
+image: free-particle.png
+---
+<img src="free-particle.png" width="40%" align="right"/>
+#+end_export
+
+We present a computational chemistry project that demonstrates the quantum dynamics of a free particle, using both classical and quantum computing algorithms. This project can be used in a computational quantum chemistry course in which the instructor introduces quantum computing. Students write their own programs to simulate the simplest example of quantum dynamics by using both classical and quantum computing algorithms. Through this article, it is expected that students of chemistry will get a good introduction to the emerging field of quantum chemistry on a quantum computer.
+
+
+* Reference
+Atanu Bhattacharya, Kalyan Dasgupta, and Binoy Paine, Journal of Chemical Education
+[[https://doi.org/10.1021/acs.jchemed.3c01215][DOI: 10.1021/acs.jchemed.3c01215]] 
+
+* Local variables :noexport:
+# Local Variables:
+# eval: (ss-markdown-export-on-save)
+# End:
