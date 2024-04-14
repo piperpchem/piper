@@ -23,6 +23,4 @@ Forward: It is widely acknowledged that the traditional calculus sequence requir
 John E. Straub, Boston University
 
 
-## License {#license}
 
-[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)

@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Can we make stew with these beans?"
 ## https://quarto.org/docs/journals/authors.html
 #author:
 #  - name: ""
@@ -11,7 +11,7 @@ license: "CC BY-NC-SA"
 #date-modified:
 date: 2020-07-03
 categories: ["lab", "pogil-pcl", "kinetics"]
-keywords: physical chemistry teaching, physical chemistry education, teaching resources
+keywords: physical chemistry teaching, physical chemistry education, teaching resources, physical chemistry laboratory
 
 image: chickpea-visualize.png
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Guided-Inquiry Experiments for Physical Chemistry: The POGIL-PCL Model"
-date: "2022-10-09"
+date: "2023-12-09"
 categories: ["article", "pogil-pcl"]
 #license: "CC BY-NC-SA"
 keywords: physical chemistry teaching, physical chemistry education, teaching resources
