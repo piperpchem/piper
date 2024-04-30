@@ -25,10 +25,10 @@ image: mm.webp
 <img src="mm.webp" width="40%" align="right"/>
 #+end_export
 
-A collection of [[https://aschoef.wixsite.com/schoefflerlab/teaching][tutorials and coding assignments]] for physical chemistry and biochemistry.
+A collection of [[https://aschoef.wixsite.com/schoefflerlab/teaching][tutorials and coding assignments]] for teaching physical chemistry and biochemistry.
 
 ** Python for Chemists
-This tutorial uses examples from chemistry to teach basic concepts in coding in python. The imbedded activities are implemented in trinket, a web-based coding platform. 
+This tutorial uses examples from chemistry to teach basic concepts in coding in python. The embedded activities are implemented in trinket, a web-based coding platform. 
 ** Visualizing Perfect and Real Gas Laws in Python
 Visualizing gas laws is a simple "first" coding assignment, but can yield large learning gains by giving students the ability to "play" with conditions and coefficients and build intuition. The prompts walk students through building simple scripts to display isotherms based on the Perfect gas Law and the van der Waals Gas Law. It is assumed that students has already completed a python tutorial (such as Python for Chemists). The assignments are implemented in [[https://trinket.io][trinket]]. They can be easily adapted for a Jupyter Notebook format and edited to encompass integration to determine expansion work.
 ** Modeling the Maxwell-Boltzmann Distribution

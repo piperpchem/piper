@@ -18,12 +18,12 @@ image: mm.webp
 ---
 <img src="mm.webp" width="40%" align="right"/>
 
-A collection of [tutorials and coding assignments](https://aschoef.wixsite.com/schoefflerlab/teaching) for physical chemistry and biochemistry.
+A collection of [tutorials and coding assignments](https://aschoef.wixsite.com/schoefflerlab/teaching) for teaching physical chemistry and biochemistry.
 
 
 ## Python for Chemists
 
-This tutorial uses examples from chemistry to teach basic concepts in coding in python. The imbedded activities are implemented in trinket, a web-based coding platform. 
+This tutorial uses examples from chemistry to teach basic concepts in coding in python. The embedded activities are implemented in trinket, a web-based coding platform. 
 
 
 ## Visualizing Perfect and Real Gas Laws in Python

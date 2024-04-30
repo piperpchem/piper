@@ -18,6 +18,7 @@ license: "CC BY-NC"
 date: 2024-02-07
 categories: [article, course design]
 keywords: physical chemistry teaching, physical chemistry education, teaching resources
+image: /images/image-placeholder.png
 ---
 
 #+end_export
