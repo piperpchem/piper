@@ -52,7 +52,7 @@ Prof. C. David Sherrill, Georgia Tech
 Dr. Dominic Sirianni, University of Richmond
 
 
-## Location {#location}
+## Reference
 
 <https://psicode.netlify.app/posts/psi4education/>
 
@@ -61,7 +61,3 @@ Dr. Dominic Sirianni, University of Richmond
 
 [BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)
 
-
-## Review status {#review-status}
-
-Reviewed

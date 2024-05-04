@@ -1,0 +1,29 @@
+---
+title: "Python and Plotly Dash, A Quick and Convenient Way to Develop Web Apps for Teaching Physical Chemistry Models"
+## https://quarto.org/docs/journals/authors.html
+#author:
+#  - name: ""
+#    affiliations:
+#     - name: ""
+license: "Software: GNU Affero General Public License v3.0; Article: ©2024 ACS and Division of Chemical Education, Inc."
+#license: "CC BY-NC-SA"
+#draft: true
+#date-modified:
+date: 2024-05-01
+categories: [article, python, computing]
+keywords: physical chemistry teaching, physical chemistry education, teaching resources, python, modeling 
+
+image: plotly.webp
+---
+<img src="plotly.webp" width="40%" align="right"/>
+
+Mathematical models and their corresponding graphs play a crucial role in chemistry, other scientific disciplines, and engineering by allowing for a quantitative and precise description and prediction of system behavior. However, their understanding requires a complex set of skills that go beyond simple memorization, and therefore, models and graphs can often be a difficulty for students. Interactive applications, such as dashboards, can be very useful, as they allow complex data to be displayed in a simple and understandable way, promoting a deeper understanding and improving critical thinking and problem-solving skills. The study aims to show that the python language can be used to develop such dashboards. Python is very suitable for use by nonprofessional programmers and is an excellent choice for developing educational applications. In particular, Plotly Dash is a convenient and effective tool for creating custom dashboards. Preliminary findings show that students find these interactive dashboards easy to use and beneficial for understanding complex mathematical representations, indicating their potential as valuable educational tools. Beyond this specific case, the broader impact lies in the potential of such interactive tools to support various teaching methodologies and enhance educational outcomes across diverse disciplines.
+
+
+# Reference
+
+Renato Lombardo, J. Chem. Ed., 2024,
+[doi:10.1021/acs.jchemed.3c01167](https://doi.org/10.1021/acs.jchemed.3c01167) 
+
+The software illustrated in this article is available on GitHub, under the GNU Affero General Public License v3.0: Project name, PhysChem Dashboards; Project home page, <https://github.com/renato-lombardo/physchem-dashboards>; Archived version, [10.5281/zenodo.7970978](https://doi.org/10.5281/zenodo.7970978)
+

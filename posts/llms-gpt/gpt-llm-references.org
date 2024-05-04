@@ -11,9 +11,9 @@ title: "Large Language Model (LLM) and Generative Pre-trained Transformer (GPT) 
 #    affiliations:
 #     - name: ""
 #draft: true
-#date-modified:
 # description:
-date: 2023-11-21
+# date added 2023-11-21
+date: 2024-04-02
 categories: ["article", "ai-ml"]
 keywords: PIPER teaching physical chemistry, GPT, ChatGPT, LLM, teaching, chemistry
 # image: llm-gpt.png
@@ -21,70 +21,76 @@ keywords: PIPER teaching physical chemistry, GPT, ChatGPT, LLM, teaching, chemis
 
 #+end_export
 Some references related to Large Language Model (LLM) and Generative Pre-trained Transformer (GPT) resources such as ChatGPT, and their use in the chemistry classroom. Please send additions to ssinglet@coe.edu and I will include them in this list.
-*** "Leveraging ChatGPT for Enhancing Critical Thinking Skills"
+*** Using ChatGPT to Support Lesson Planning for the Historical Experiments of Thomson, Millikan, and Rutherford
+Ted M. Clark, Matthew Fhaner, Matthew Stoltzfus, and Matt Scott Queen, J. Chem. Ed., 2024, 
+[[https://doi.org/10.1021/acs.jchemed.4c00200][doi.org/10.1021/acs.jchemed.4c00200]]
+
+Four General Chemistry instructors investigated the use of ChatGPT-4 to improve their lessons plans for the historical experiments of Thomson, Millikan, and Rutherford. The instructors varied in their prior knowledge for these experiments and their initial lessons addressed somewhat different learning objectives. This led to different conversations with the chatbot as the instructors used the resource in different ways and discussed topics they each found relevant. The output from ChatGPT-4 was robust and each instructor identified ways it could be used to improve their instruction. The chatbot was able to accomplish instructional tasks these instructors found useful, such as outlining a lesson plan, recommending resources, discussing instructional strategies, describing calculations, offering explanations for different levels of leaners, and generating assessments. A limitation was its ability create images or visual aids the instructors found useful. Overall, these instructors found the chatbot could support, but not replace, an instructor in a course like General Chemistry.
+
+*** Leveraging ChatGPT for Enhancing Critical Thinking Skills
 Ying Guo, Daniel Lee [[https://doi.org/10.1021/acs.jchemed.3c00505][doi.org/10.1021/acs.jchemed.3c00505]]
 
 This article presents a study conducted at Georgia Gwinnett College (GGC) to explore the use of ChatGPT, a large language model, for fostering critical thinking skills in higher education. The study implemented a ChatGPT-based activity in introductory chemistry courses, where students engaged with ChatGPT in three stages: account setup and orientation, essay creation, and output revision and validation. The results showed significant improvements in students’ confidence to ask insightful questions, analyze information, and comprehend complex concepts. Students reported that ChatGPT provided diverse perspectives and challenged their current ways of thinking. They also expressed an increased utilization of ChatGPT to enhance critical thinking skills and a willingness to recommend it to others. However, challenges included low-quality student comments and difficulties in validating information sources. The study highlights the importance of comprehensive training for educators and access to reliable resources. Future research should focus on training educators in integrating ChatGPT effectively and ensuring student awareness of privacy and security considerations. In conclusion, this study provides valuable insights for leveraging AI technologies like ChatGPT to foster critical thinking skills in higher education.
 
-*** "An Analysis of AI-Generated Laboratory Reports across the Chemistry Curriculum and Student Perceptions of ChatGPT"
+*** An Analysis of AI-Generated Laboratory Reports across the Chemistry Curriculum and Student Perceptions of ChatGPT
 
     Joseph K. West, Jeanne L. Franz, Sara M. Hein, Hannah R. Leverentz-Culp, Jonathon F. Mauser, Emily F. Ruff, and Jennifer M. Zemke [[https://doi.org/10.1021/acs.jchemed.3c00581][doi.org/10.1021/acs.jchemed.3c00581]]
 
     AI technologies are rapidly pervading many areas of our world. AI-driven text generators such as ChatGPT are at the forefront of this due to their simplicity and accessibility. Their influence on higher education is already being observed, and perceptions among faculty and students vary widely. We have undertaken a cross-curriculum study of ChatGPT’s ability to generate laboratory reports. AI-generated reports from general, organic, analytical, physical, inorganic, and biochemistry courses were graded as if they were student reports and analyzed for grade distributions and common strengths and weaknesses. To further gauge ChatGPT’s current impact, we surveyed all students in our Spring 2023 laboratory courses regarding their awareness and use of ChatGPT. We have also laid out suggestions, guidance, and considerations for instructors who wish to prohibit ChatGPT use by their students as well as for those who wish to begin incorporating this new, powerful tool into their teaching.
     
-*** "Using generative artificial intelligence in chemistry education research: prioritizing ethical use and accessibility"
+*** Using generative artificial intelligence in chemistry education research: prioritizing ethical use and accessibility
 Deng JM, Lalani Z, McDermaid LA, Szozda AR, https://doi.org/10.26434/chemrxiv-2023-24zfl (unreviewed preprint)
 
 Generative artificial intelligence (GenAI) has the potential to drastically alter how we teach and conduct research in chemistry education. There have been many reports on the potential uses, limitations, and considerations for GenAI tools in teaching and learning, but there have been fewer discussions of how such tools could be leveraged in educational research, including in chemistry education research. GenAI tools can be used to facilitate and support researchers in every stage of traditional educational research projects (e.g. conducting literature reviews, designing research questions and methods, communicating results). However, these tools also have existing limitations that researchers must be aware of prior to and during use. In this research commentary, we share insights on how chemistry education researchers can use GenAI tools in their work ethically. We also share how GenAI tools can be leveraged to improve accessibility and equity in research.
-*** "ChatGPT Needs a Chemistry Tutor, Too"
+*** ChatGPT Needs a Chemistry Tutor, Too
 Alfredo J. Leon and Dinesh Vidhani, Journal of Chemical Education, https://doi.org/10.1021/acs.jchemed.3c00288
 
 Artificial intelligence (AI) technology has the potential to revolutionize the education sector. This study sought to determine the efficacy of ChatGPT to correctly answer questions a learner would use and to elucidate how the AI was processing potential prompts. Our goal was to evaluate the role of prompt formats, response consistency, and reliability of ChatGPT responses. Analyzing prompt format, we see that the data do not demonstrate a statistically significant difference between multiple-choice and free-response questions. Neither format achieved scores higher than 37%, and testing at different locations did not improve scores. Interestingly, ChatGPT’s free version provides accurate responses to discipline-specific questions that contain information from unrelated topics as distractors, improving its accuracy over the free-response questions. It is important to consider, while ChatGPT can identify the correct answer within a given context, it may not be able to determine if the answer it selects is correct computationally or through analysis. The results of this study can guide future AI and ChatGPT training practices and implementations to ensure they are used to their fullest potential.
 
-*** "SciBench: Evaluating College-Level Scientific Problem-Solving Abilities of Large Language Models"
+*** SciBench: Evaluating College-Level Scientific Problem-Solving Abilities of Large Language Models
 
 Xiaoxuan Wang, et al, arXiv Computer Science, https://arxiv.org/abs/2307.10635
 
 Abstract: Recent advances in large language models (LLMs) have demonstrated notable progress on many mathematical benchmarks. However, most of these benchmarks only feature problems grounded in junior and senior high school subjects, contain only multiple-choice questions, and are confined to a limited scope of elementary arithmetic operations. To address these issues, this paper introduces an expansive benchmark suite SciBench that aims to systematically examine the reasoning capabilities required for complex scientific problem solving. SciBench contains two carefully curated datasets: an open set featuring a range of collegiate-level scientific problems drawn from mathematics, chemistry, and physics textbooks, and a closed set comprising problems from undergraduate-level exams in computer science and mathematics. Based on the two datasets, we conduct an in-depth benchmark study of two representative LLMs with various prompting strategies. The results reveal that current LLMs fall short of delivering satisfactory performance, with an overall score of merely 35.80%. Furthermore, through a detailed user study, we categorize the errors made by LLMs into ten problem-solving abilities. Our analysis indicates that no single prompting strategy significantly outperforms others and some strategies that demonstrate improvements in certain problem-solving skills result in declines in other skills. We envision that SciBench will catalyze further developments in the reasoning abilities of LLMs, thereby ultimately contributing to scientific research and discovery.
 
-*** "Challenging ChatGPT with Chemistry-Related Subjects"
+*** Challenging ChatGPT with Chemistry-Related Subjects
 Pimentel, et al https://doi.org/10.26434/chemrxiv-2023-xl6w3 (unreviewed)
 
 Abstract: Tools based on large language models such as ChatGPT may revolutionize information retrieval and knowledge discovery, particularly with the vast amount of electronic material available. In this communication we evaluate how two versions of ChatGPT can answer complex questions on chemistry-related subjects in six topics. The tools are still insufficient to deal with subtleties of complex topics, especially as they do not have access to the whole of the scientific literature. However, the progress from ChatGPT-3 to ChatGPT-4 is an indicator that we shall soon have tools to assist scientists in surveys, reviews of the literature, and for teaching.
   
-*** "Do Large Language Models Understand Chemistry? A Conversation with ChatGPT"
+*** Do Large Language Models Understand Chemistry? A Conversation with ChatGPT
 
 Pimentel, et al,Journal of Chemical Information and Modeling 2023 63 (6), 1649-1655,  https://doi.org/10.1021/acs.jcim.3c00285
 
   Abstract: Large language models (LLMs) have promised a revolution in answering complex questions using the ChatGPT model. Its application in chemistry is still in its infancy. This viewpoint addresses the question of how well ChatGPT understands chemistry by posing five simple tasks in different subareas of chemistry.
 
-*** "Generative AI in Education and Research: Opportunities, Concerns, and Solutions"
+*** Generative AI in Education and Research: Opportunities, Concerns, and Solutions
 
 Alasadi & Baiz, J. Chem. Educ. 2023, 100, 8, 2965–2971, https://doi.org/10.1021/acs.jchemed.3c00323
   
   Abstract: In this article, we discuss the role of generative artificial intelligence (AI) in education. The integration of AI in education has sparked a paradigm shift in teaching and learning, presenting both unparalleled opportunities and complex challenges. This paper explores critical aspects of implementing AI in education to advance educational goals, ethical considerations in scientific publications, and the attribution of credit for AI-driven discoveries. We also examine the implications of using AI-generated content in professional activities and describe equity and accessibility concerns. By weaving these key questions into a comprehensive discussion, this article aims to provide a balanced perspective on the responsible and effective use of these technologies in education, highlighting the need for a thoughtful, ethical, and inclusive approach to their integration.
   
-*** "Exploring the use of large language models (LLMs) in chemical engineering education: Building core course problem models with Chat-GPT"
+*** Exploring the use of large language models (LLMs) in chemical engineering education: Building core course problem models with Chat-GPT
 Meng-Lin Tsai, et al, Education for Chemical Engineers,  https://doi.org/10.1016/j.ece.2023.05.001
 
 Abstract: This study highlights the potential benefits of integrating Large Language Models (LLMs) into chemical engineering education. In this study, Chat-GPT, a user-friendly LLM, is used as a problem-solving tool. Chemical engineering education has traditionally focused on fundamental knowledge in the classroom with limited opportunities for hands-on problem-solving. To address this issue, our study proposes an LLMs-assisted problem-solving procedure. This approach promotes critical thinking, enhances problem-solving abilities, and facilitates a deeper understanding of core subjects. Furthermore, incorporating programming into chemical engineering education prepares students with vital Industry 4.0 skills for contemporary industrial practices. During our experimental lecture, we introduced a simple example of building a model to calculate steam turbine cycle efficiency, and assigned projects to students for exploring the possible use of LLMs in solving various aspect of chemical engineering problems. Although it received mixed feedback from students, it was found to be an accessible and practical tool for improving problem-solving efficiency. Analyzing the student projects, we identified five common difficulties and misconceptions and provided helpful suggestions for overcoming them. Our course has limitations regarding using advanced tools and addressing complex problems. We further provide two additional examples to better demonstrate how to integrate LLMs into core courses. We emphasize the importance of universities, professors, and students actively embracing and utilizing LLMs as tools for chemical engineering education. Students must develop critical thinking skills and a thorough understanding of the principles behind LLMs, taking responsibility for their use and creations. This study provides valuable insights for enhancing chemical engineering education's learning experience and outcomes by integrating LLMs.
   
-*** "ChatGPT in physics education: A pilot study on easy-to-implement activities"
+*** ChatGPT in physics education: A pilot study on easy-to-implement activities
 Bitzenbauer, Cont. Ed. Tech., 15, 3, https://doi.org/10.30935/cedtech/13176
 
 Abstract: Large language models, such as ChatGPT, have great potential to enhance learning and support teachers, but they must be used with care to tackle limitations and biases. This paper presents two easy-to-implement examples of how ChatGPT can be used in physics classrooms to foster critical thinking skills at the secondary school level. A pilot study (n=53) examining the implementation of these examples found that the intervention had a positive impact on students’ perceptions of ChatGPT, with an increase in agreement with statements related to its benefits and incorporation into their daily lives.
     
-*** "Assessment of chemistry knowledge in large language models that generate code"
+*** Assessment of chemistry knowledge in large language models that generate code
 White, et al, Digital Discovery, 2023,2, 368-376,  https://doi.org/10.1039/D2DD00087C, unreviewed preprint: https://doi.org/10.26434/chemrxiv-2022-3md3n-v2
 
 Abstract: In this work, we investigate the question: do code-generating large language models know chemistry? Our results indicate, mostly yes. To evaluate this, we introduce an expandable framework for evaluating chemistry knowledge in these models, through prompting models to solve chemistry problems posed as coding tasks. To do so, we produce a benchmark set of problems, and evaluate these models based on correctness of code by automated testing and evaluation by experts. We find that recent LLMs are able to write correct code across a variety of topics in chemistry and their accuracy can be increased by 30 percentage points via prompt engineering strategies, like putting copyright notices at the top of files. Our dataset and evaluation tools are open source which can be contributed to or built upon by future researchers, and will serve as a community resource for evaluating the performance of new models as they emerge. We also describe some good practices for employing LLMs in chemistry. The general success of these models demonstrates that their impact on chemistry teaching and research is poised to be enormous.
 
-*** "Natural language processing models that automate programming will transform chemistry research and teaching"
+*** Natural language processing models that automate programming will transform chemistry research and teaching
 Hocky and White, Digital Discovery, 2022, 1, 79-83, https://doi.org/10.1039/D1DD00009H
 
 Abstract: Natural language processing models have emerged that can generate useable software and automate a number of programming tasks with high fidelity. These tools have yet to have an impact on the chemistry community. Yet, our initial testing demonstrates that this form of artificial intelligence is poised to transform chemistry and chemical engineering research. Here, we review developments that brought us to this point, examine applications in chemistry, and give our perspective on how this may fundamentally alter research and teaching.
   
-*** "What is ChatGPT doing...and why does it work?"
+*** What is ChatGPT doing...and why does it work?
 Stephen Wolfram Writings: https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/
 
 YouTube video: https://youtu.be/flXrLGPY3SU?t=575
