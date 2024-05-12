@@ -54,6 +54,8 @@ Dr. Dominic Sirianni, University of Richmond
 
 ## Reference
 
+<https://github.com/Psi4Education/psi4education/tree/master>
+
 <https://psicode.netlify.app/posts/psi4education/>
 
 
