@@ -1,0 +1,41 @@
+#+export_file_name: index
+#+options: broken-links:t
+# (ss-toggle-markdown-export-on-save)
+# date-added:
+
+#+begin_export md
+---
+title: "Deep Learning for Molecules & Materials"
+## https://quarto.org/docs/journals/authors.html
+#author:
+#  - name: ""
+#    affiliations:
+#     - name: ""
+#license: "©2024 American Chemical Society and Division of Chemical Education, Inc."
+license: "CC BY-NC 3.0"
+#draft: true
+#date-modified:
+date: 2023-05-11
+categories: [book, ai-ml]
+keywords: physical chemistry teaching, physical chemistry education, teaching resources, machine learning molecules materials
+
+image: gnn_11.png
+---
+<img src="gnn_11.png" width="40%" align="right"/>
+#+end_export
+
+Deep learning is becoming a standard tool in chemistry and materials science. Deep learning is specifically about connecting some input data (features) and output data (labels) with a neural network function. In this book, we will view deep learning as a set of tools that allows us to create models that were previously infeasible with classical machine learning. What sets deep learning apart from classic machine learning is feature engineering. Much of the data-driven work in the past required decisions about what features are important and how to compute them from molecules. These are called descriptors. Deep learning is typically trained end-to-end, meaning decisions about which features are important are no longer relevant and we can work directly with molecular structures. Deep learning is not a new paradigm of science or a replacement for a chemist. It’s a tool that is mature and now ready for application in molecules and materials.
+
+
+* Reference
+
+Living Journal of Computational Molecular Science, White, Andrew, 3(1), 2021, [[https://doi.org/10.33011/livecoms.3.1.1499][doi:10.33011/livecoms.3.1.1499]]
+
+https://dmol.pub/
+
+https://github.com/whitead/dmol-book
+
+* Local variables :noexport:
+# Local Variables:
+# eval: (ss-markdown-export-on-save)
+# End:
