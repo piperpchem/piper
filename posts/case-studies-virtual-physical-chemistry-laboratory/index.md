@@ -9,7 +9,7 @@ title: "Case Studies in the Virtual Physical Chemistry Laboratory"
 license: ©The Editor(s) (if applicable) and The Author(s), under exclusive license to Springer Nature Switzerland AG 2024
 #draft: true
 #date-modified:
-date: 2024-05-13
+date: 2024-05-1
 categories: [book, lab]
 keywords: physical chemistry teaching, physical chemistry education, teaching resources, physical chemistry laboratory, physical chemistry calculations
 

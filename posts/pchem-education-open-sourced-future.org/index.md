@@ -6,8 +6,7 @@ title: "Physical Chemistry Education and Research in an Open-Sourced Future"
 #    affiliations:
 #     - name: ""
 #license: "©2024 American Chemical Society and Division of Chemical Education, Inc."
-license:
-     text: "CC BY-NC-SA 4.0, ©2024 American Chemical Society and Division of Chemical Education, Inc."
+license: "CC BY-NC-SA 4.0"
 #draft: true
 #date-modified:
 date: 2024-05-03
