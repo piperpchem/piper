@@ -1,13 +1,13 @@
 ---
 title: "Applying Density Functional Theory to Common Organic Mechanisms: A Computational Exercise"
 #author: "ssinglet"
+license: © 2022 American Chemical Society and Division of Chemical Education, Inc.
 date: "2023-01-02T00:00:00-07:00"
-categories: ["computing", "computational"]
+categories: ["computational", "activity"]
 image: applying-density-functional-theory-to-common-organic.png
 ---
 
-![](applying-density-functional-theory-to-common-organic.png){width="80%"}
-
+<img src="applying-density-functional-theory-to-common-organic.png" width="50%" align="right"/>
 A computational experiment investigating common organic chemistry mechanisms has been developed and implemented in a junior/senior-level physical chemistry laboratory course at two institutions. Students investigated various reactions that proceed via SN1, SN2, E1, and E2 mechanisms using hybrid Density Functional Theory (DFT). Our pre/post-assessments indicate that students at both institutions were able to better visualize and interpret the 3D representation of transition states, stepwise reaction mechanisms, and reaction coordinate diagrams of the aforementioned reactions.
 
 
@@ -23,13 +23,9 @@ The learning objectives of the experiment are as follows:
 -   Explain how thermochemical data was obtained using first-principles molecular software.
 
 
-## Citation {#citation}
+## Reference
 
-Jonathan P. Antle, Masashi W. Kimura, Stefano Racioppi, Corey Damon, Meredith Lang, Caitlyn Gatley-Montross, Laura S. Sánchez B., Daniel P. Miller, Eva Zurek, Adam M. Brown, Kellie Gast, and Scott M. Simpson
-
-<https://doi.org/10.1021/acs.jchemed.2c00935>
+Jonathan P. Antle, Masashi W. Kimura, Stefano Racioppi, Corey Damon, Meredith Lang, Caitlyn Gatley-Montross, Laura S. Sánchez B., Daniel P. Miller, Eva Zurek, Adam M. Brown, Kellie Gast, and Scott M. Simpson, Journal of Chemical Education, 2023, 100 (1), 355-360, <https://doi.org/10.1021/acs.jchemed.2c00935>
 
 
-## License {#license}
 
-© 2022 American Chemical Society and Division of Chemical Education, Inc.
