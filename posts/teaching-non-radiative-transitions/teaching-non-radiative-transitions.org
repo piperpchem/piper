@@ -1,0 +1,35 @@
+#+export_file_name: index
+#+options: broken-links:t
+# (ss-toggle-markdown-export-on-save)
+# date-added:
+
+#+begin_export md
+---
+title: "Teaching Nonradiative Transitions with MATLAB and Python"
+## https://quarto.org/docs/journals/authors.html
+#author:
+#  - name: ""
+#    affiliations:
+#     - name: ""
+#license: "©2024 American Chemical Society and Division of Chemical Education, Inc."
+license: "CC BY-NC-ND"
+#draft: true
+#date-modified:
+date: 2024-05-21
+categories: [article, python, matlab]
+keywords: physical chemistry teaching, physical chemistry education, teaching resources, computing, python, matlab, non-radiative transitions, frank-condon factor
+
+image: non-rad.png
+---
+<img src="non-rad.png" width="50%" align="right" style="padding-left: 10px;"/>
+#+end_export
+
+Nonradiative transitions are changes in energy states in atoms, ions or molecules that do not involve the emission or absorption of photons. Despite their importance in understanding luminescent properties and photochemical reaction mechanisms, nonradiative transitions are rarely given more than a qualitative overview in undergraduate and even graduate physical chemistry curricula. To supplement the coverage of nonradiative transition topics, we provide here a set of active learning exercises to help students develop an intuitive understanding of the factors that determine the rate of nonradiative transitions. We start by outlining the theoretical background through the formulation of the Franck-Condon factor and its relation to the rate of nonradiative transition. We then introduce three teaching modules, with associated MATLAB and Python codes, to explore how 1) the excited state nuclear displacement, 2) the electronic energy gap between excited and ground state, and 3) the excited/ground state vibrational mode frequencies affect the magnitude of the Franck-Condon factor and thereby the rate of nonradiative transitions. The wavefunction overlap plots that accompany all teaching modules provide direct visualization of the effect of input parameters on the magnitude of Franck-Condon overlap integral.
+
+* Reference
+Zheng X, Drummer MC, Russell TA, Gozem S, Glusac KD.  ChemRxiv. 2024; [[https://doi.org/10.26434/chemrxiv-2024-8kqxc][doi:10.26434/chemrxiv-2024-8kqxc]]  This content is a preprint and has not been peer-reviewed.
+
+* Local variables :noexport:
+# Local Variables:
+# eval: (ss-markdown-export-on-save)
+# End:
