@@ -25,3 +25,6 @@ Thermodynamics forms an important part of the chemistry and chemical engineering
 
 Govind Rajan A.  ChemRxiv. 2024; [doi:10.26434/chemrxiv-2021-3kmnc-v2](https://doi.org/10.26434/chemrxiv-2021-3kmnc-v2)  This content is a preprint and has not been peer-reviewed.
 
+Journal of Chemical Education Article ASAP,
+[doi: 10.1021/acs.jchemed.4c00109](https://doi.org/10.1021/acs.jchemed.4c00109)
+

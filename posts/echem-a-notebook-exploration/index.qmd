@@ -4,6 +4,7 @@ title: "echem: A notebook exploration of quantum chemistry from laptop to HPC"
 date: "2022-11-11T00:00:00-06:00"
 categories: ["computing", "jupyter", "quantum", "computational", "python"]
 image: echem-a-notebook.png
+license: "CC-BY-NC-ND 4.0"
 ---
 
 ![](echem-a-notebook.png){width="80%"}
@@ -19,17 +20,9 @@ Chapters include:
 -   Visualization
 
 
-## Location {#location}
+## Reference
 
 <https://doi.org/10.30746/978-91-988114-0-7>
 
-
-## Citation {#citation}
-
 Fransson T, Delcey M, Brumboiu I, Hodecker M, Li X, Rinkevicius Z, et al. eChem: A notebook exploration of quantum chemistry. ChemRxiv. Cambridge: Cambridge Open Engage; 2022;  This content is a preprint and has not been peer-reviewed.
 <https://doi.org/10.26434/chemrxiv-2022-98wmf-v2>
-
-
-## License {#license}
-
-The content is available under [CC BY NC ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) License CreativeCommons.org
