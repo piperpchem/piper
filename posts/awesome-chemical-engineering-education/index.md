@@ -1,0 +1,26 @@
+---
+# title: "Awesome Chemical Engineering Education"
+## https://quarto.org/docs/journals/authors.html
+#author:
+#  - name: ""
+#    affiliations:
+#     - name: ""
+#license: "©2024 American Chemical Society and Division of Chemical Education, Inc."
+license: "CC0 1"
+#draft: true
+#date-modified:
+date: 2024-06-17
+categories: [website, computing, course design, python, matlab]
+keywords: physical chemistry teaching, physical chemistry education, teaching resources, chemical engineering teaching
+
+image: awesome-che-edu.png
+---
+<img src="awesome-che-edu.png"/>
+
+A curated list of online chemical engineering education resources, with an emphasis on materials that are free and open source and that include a significant computational component (e.g., Python, MATLAB, etc.)
+
+
+# Reference
+
+[https://github.com/kevingreenman/awesome-chemical-engineering-education](https://github.com/kevingreenman/awesome-chemical-engineering-education)
+

@@ -23,10 +23,12 @@ website:
 
   navbar:
     right:
-      # - text: Community
-      #   href: community.md
-      # - text: Events
-      #  href: events.md
+      - text: Resources
+        href: index.qmd
+      - text: Events
+        href: events.md
+      - text: Communities
+        href: community.md
       - text: About
         href: about.qmd
       - icon: rss-fill

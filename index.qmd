@@ -6,9 +6,12 @@ keywords:
   - Learning physical chemistry
   - Resources physical chemistry
   - Quantum mechanics
-  - Thermodynamics
+  - Thermodynamics 
   - Kinetics
   - Physical chemistry labs
+  - Teaching
+  - Learning
+  - Laboratory
 listing:
   contents: "posts/*/index.*md"
   feed: true
