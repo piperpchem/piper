@@ -13,7 +13,7 @@ title: "Large Language Model (LLM) and Generative Pre-trained Transformer (GPT) 
 #draft: true
 # description:
 # date added 2023-11-21
-date: 2024-04-02
+date: 2024-06-22
 categories: ["article", "ai-ml"]
 keywords: PIPER teaching physical chemistry, GPT, ChatGPT, LLM, teaching, chemistry
 # image: llm-gpt.png
@@ -21,6 +21,12 @@ keywords: PIPER teaching physical chemistry, GPT, ChatGPT, LLM, teaching, chemis
 
 #+end_export
 Some references related to Large Language Model (LLM) and Generative Pre-trained Transformer (GPT) resources such as ChatGPT, and their use in the chemistry classroom. Please send additions to ssinglet@coe.edu and I will include them in this list.
+*** Large Language Models are Catalyzing Chemistry Education
+Du Y, Duan C, Bran A, Sotnikova A, Qu Y, Kulik H, et al., ChemRxiv. 2024; [[https://doi.org/10.26434/chemrxiv-2024-h722v][doi:10.26434/chemrxiv-2024-h722v]]
+
+Large language models (LLMs) have demonstrated outstanding capabilities in general problem-solving and been shown to improve productivity in certain domains. Thanks to their flexibility, recent work has leveraged them for diverse scientific applications, ranging from predictive modeling, scientific Q&A, and even as autonomous agents towards automation in chemistry. The democratization of high-quality chemistry education faces several challenges, including heterogeneity among sub-fields, limited access to personalized guidance, and an uneven distribution of resources. Additionally, hands-on laboratory experiments, a crucial component of chemistry education, are difficult to scale due to inherent safety risks that necessitate close supervision. We propose that LLMs can help overcome these obstacles by providing scalable solutions that tailor educational content to individual needs, enhancing the overall learning experience. In this perspective, we discuss how LLMs can catalyze chemistry education across multiple dimensions, from preparing and delivering lectures and tackling guidance in both wet lab and computational experiments, to re-thinking evaluation methodologies in the classroom. We also discuss some potential risks of this technology, such as the possibility of generating inaccurate or biased content, and emphasize the need for further development to ensure the successful integration of LLMs in the chemistry classroom.
+
+
 *** Using ChatGPT to Support Lesson Planning for the Historical Experiments of Thomson, Millikan, and Rutherford
 Ted M. Clark, Matthew Fhaner, Matthew Stoltzfus, and Matt Scott Queen, J. Chem. Ed., 2024, 
 [[https://doi.org/10.1021/acs.jchemed.4c00200][doi.org/10.1021/acs.jchemed.4c00200]]
