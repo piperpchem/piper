@@ -50,6 +50,17 @@ August 13, 2-3 pm Eastern time
 The POGIL-PCL Journal Group will discuss two versions of the &ldquo;classic temperature dependence of vapor pressure&rdquo; experiment alongside a recent paper describing a simple, [inexpensive isoteniscope](https://pubs.acs.org/doi/10.1021/acs.jchemed.3c01138). Please use this form to indicate your interest in this discussion, which will be led by Brian Gilbert and Michael Everest: [https://forms.gle/Ppj9AoGsC7a798Yy5](https://forms.gle/Ppj9AoGsC7a798Yy5)
 
 
+## LABSIP and ACS PHYS Innovative Teaching in Physical and Computational Chemistry
+
+ACS New Orleans, March 18, 2025, 7:30-9:30 pm
+
+The organizers of LABSIP and the ACS PHYS Innovative Teaching in Physical and Computational Chemistry: Making Stronger Connections to Students and Faculty symposium are excited to announce an opportunity for community building among physical chemistry educators at the upcoming ACS meeting in New Orleans. With generous support from Research Corporation for Science Advancement, Cottrell Collaborative, and Schrodinger Online Learning, we will be holding an evening reception on Monday, March 18, 2025, 7:30-9:30 pm at Annunciation (1016 Annunciation St., New Orleans) to welcome everyone to the ACS meeting.
+
+If you are planning to attend the evening reception, please RSVP using the following link: <https://forms.gle/TDNAVbEmcvi3Sx7WA>
+
+LABSIP [Discord community](https://discord.gg/RqVcn6meja)
+
+
 # Past events
 
 

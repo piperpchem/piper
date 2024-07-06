@@ -13,7 +13,7 @@ about:
 ---
 
 
-# About this site
+# About
 
 PIPER (PChem Inspired Pedagogical Electronic Resource) is an online collection of educational materials that may be useful for teaching and learning physical chemistry.
 
