@@ -2,7 +2,7 @@
 title: "From Integrated Rate Laws to Integrating Rate Laws: Computation as a Conceptual Catalyst"
 #author: "ssinglet"
 date: "2023-05-06T00:00:00-05:00"
-categories: ["article", "mathematics"]
+categories: ["article", "mathematics", "kinetics"]
 image: from-integrated-rate-laws.png
 ---
 

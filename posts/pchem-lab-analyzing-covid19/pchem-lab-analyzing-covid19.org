@@ -1,0 +1,33 @@
+#+export_file_name: index
+#+options: broken-links:t
+# (ss-toggle-markdown-export-on-save)
+# date-added:
+
+#+begin_export md
+---
+title: "Physical Chemistry Lab for Data Analysis of COVID-19 Spreading Kinetics in Different Countries"
+## https://quarto.org/docs/journals/authors.html
+#author:
+#  - name: ""
+#    affiliations:
+#     - name: ""
+license: "©2024 American Chemical Society and Division of Chemical Education, Inc."
+#license: "CC BY-NC-SA"
+#draft: true
+#date-modified:
+date: 2024-06-21
+categories: [lab, computing, kinetics]
+keywords: physical chemistry teaching, physical chemistry education, teaching resources, kinetics, computing, physical chemistry laboratory
+
+image: covid19.webp
+---
+<img src="covid19.webp" width="40%" align="right" style="padding-left: 10px;"/>
+#+end_export
+The COVID-19 pandemic has passed. It gives us a real-world example of kinetic data analysis practice for our undergraduate physical chemistry laboratory class. It is a great example to connect this seemingly very different problem to the kinetic theories for chemical reactions that the students have learned in the lecture class. At the beginning of the spring 2023 semester, we obtained COVID-19 kinetic data from the “Our World in Data” database, which summarizes the World Health Organization (WHO) data reported from different countries. We analyzed the effective spreading kinetics based on the susceptible-infectious-recovered-vaccinated (SIR-V) model. We then compared the effective rate constants represented by the real-time reproduction numbers (Rt) underlining the reported data for these countries and discussed the results and the limitations of the model with the students.
+
+* Reference
+Deepani V. Athapaththu, Tharushi D. Ambagaspitiya, Andrew Chamberlain, Darrion Demase, Emily Harasin, Robby Hicks, David McIntosh, Gwen Minute, Sarah Petzold, Lauren Tefft, and Jixin Chen, Journal of Chemical Education Article ASAP, [[https://doi.org/10.1021/acs.jchemed.4c00015]]
+* Local variables :noexport:
+# Local Variables:
+# eval: (ss-markdown-export-on-save)
+# End:

@@ -1,0 +1,37 @@
+#+export_file_name: index
+#+options: broken-links:t
+# (ss-toggle-markdown-export-on-save)
+# date-added:
+
+#+begin_export md
+---
+title: "Calculating Thermodynamic Stabilities of Keto–Enol Tautomers of Aldehydes, Ketones, Esters, and Amides"
+## https://quarto.org/docs/journals/authors.html
+#author:
+#  - name: ""
+#    affiliations:
+#     - name: ""
+license: "©2024 American Chemical Society and Division of Chemical Education, Inc."
+#license: "CC BY-NC-SA"
+#draft: true
+#date-modified:
+date: 2024-06-24
+categories: [article, computational, thermo, nmr]
+keywords: physical chemistry teaching, physical chemistry education, teaching resources, nmr, thermodynamics, computational chemistry
+
+image: keto-enol.webp
+---
+<img src="keto-enol.webp" width="40%" align="right" style="padding-left: 10px;"/>
+#+end_export
+
+Keto–enol tautomerization is paramount to understanding the mechanisms involved in many organic reactions and biochemical transformations. Isomerization of an enol to a carbonyl compound is typically introduced during the discussion of the acid-catalyzed electrophilic addition of water to alkynes. The tautomerization of carbonyl compounds to enol isomers is discussed in much greater detail when the reactions of carbonyl compounds are examined. This activity highlights the large differences in energies between the isomeric enol and carbonyl forms of simple aldehydes, ketones, esters, and amides. The computed energy values are used to calculate equilibrium constants for keto–enol tautomerization to further underscore the thermodynamic preference for the carbonyl forms. The results from student data support the thermodynamic enol produced by asymmetric ketones and reinforce the reactivity trends for aldehydes, ketones, esters, and amides.
+
+* Reference
+Nanette M. Wachter, Evan H. Kreth, and Ronald P. D’Amelia, 
+Journal of Chemical Education,
+[[https://doi.org/10.1021/acs.jchemed.4c00234]]
+
+* Local variables :noexport:
+# Local Variables:
+# eval: (ss-markdown-export-on-save)
+# End:

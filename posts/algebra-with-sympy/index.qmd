@@ -1,7 +1,8 @@
 ---
 title: "Algebra with Sympy"
 #author: "ssinglet"
-date: "2022-03-26T00:00:00-05:00"
+# date added: "2022-03-26T00:00:00-05:00"
+date: 2024-06-29
 categories: ["computing", "python", "mathematics"]
 image: algebra-with-sympy.svg
 ---

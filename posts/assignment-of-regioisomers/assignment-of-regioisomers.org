@@ -1,0 +1,35 @@
+#+export_file_name: index
+#+options: broken-links:t
+# (ss-toggle-markdown-export-on-save)
+# date-added:
+
+#+begin_export md
+---
+title: "Assignment of Regioisomers Using Infrared Spectroscopy: A Python Coding Exercise in Data Processing and Machine Learning"
+## https://quarto.org/docs/journals/authors.html
+#author:
+#  - name: ""
+#    affiliations:
+#     - name: ""
+#license: "©2024 American Chemical Society and Division of Chemical Education, Inc."
+license: "CC BY 4.0"
+#draft: true
+#date-modified:
+date: 2024-06-24 
+categories: [activity, computing, ai-ml, python]
+keywords: physical chemistry teaching, physical chemistry education, teaching resources, chemometrics, python, computing, machine learning
+
+image: regioisomers.webp
+---
+<img src="regioisomers.webp" width="40%" align="right" style="padding-left: 10px;"/>
+#+end_export
+
+Machine learning is a set of tools that are increasingly used in the field of chemistry. The introduction of potential uses of machine learning to undergraduate chemistry students should help to increase their comprehension of and interest in machine learning processes and can help support them in their transition into graduate research and industrial environments that use such tools. Herein we present an exercise aimed at introducing machine learning alongside improving students’ general Python coding abilities. The exercise aims to identify the regioisomerism of disubstituted benzene systems solely from infrared spectra, a simple and ubiquitous undergraduate technique. The exercise culminates in students collecting their own spectra of compounds with unknown regioisomerism and predicting the results, allowing them to take ownership of their results and creating a larger database of information to draw upon for machine learning in the future.
+
+* Reference
+Samuel T. Cahill, Joseph E. B. Young, Max Howe, Ryan Clark, Andrew F. Worrall, and Malcolm I. Stewart, Journal of Chemical Education Article ASAP, [[https://doi.org/10.1021/acs.jchemed.4c00295]]
+
+* Local variables :noexport:
+# Local Variables:
+# eval: (ss-markdown-export-on-save)
+# End:

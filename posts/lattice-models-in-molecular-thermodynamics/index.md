@@ -1,0 +1,26 @@
+---
+title: "Lattice Models in Molecular Thermodynamics"
+## https://quarto.org/docs/journals/authors.html
+#author:
+#  - name: ""
+#    affiliations:
+#     - name: ""
+#license: "©2024 American Chemical Society and Division of Chemical Education, Inc."
+license: "CC BY-NC-ND"
+#draft: true
+#date-added 2024-06-28
+date: 2024-06-28 
+categories: [article, thermodynamics, stat-mech]
+keywords: physical chemistry teaching, physical chemistry education, teaching resources
+
+image: lattice.png
+---
+<img src="lattice.png" width="25%" align="right" style="padding: 10px 0px 0px 10px;"/>
+
+Lattice models are a central idea in statistical thermodynamics, as they allow for the introduction of a configurational entropy by counting the multiplicity of placing indistinguishable particles on a lattice. In this work we use a lattice model to show that the configurational entropy needs to be merged with the molecular translational entropy in order to have a consistent model. This is achieved by replacing the volume of a lattice site with a quantum volume (i.e., the cube of the thermal wavelength). This modified lattice model allows us to derive a new equation of state, referred to as the Bragg-Williams equation state, from which we may also derive a generalized version of the van der Waals equation of state. In contrast to the standard van der Waals equation of state, the heat capacity of the new models has temperature dependence.
+
+
+# Reference
+
+Åstrand P-O, de Miguel R., ChemRxiv. 2024; [10.26434/chemrxiv-2024-3wlrd-v3](https://doi.org/10.26434/chemrxiv-2024-3wlrd-v3)  This content is a preprint and has not been peer-reviewed.
+

@@ -1,0 +1,36 @@
+#+export_file_name: index
+#+options: broken-links:t
+# (ss-toggle-markdown-export-on-save)
+# date-added:
+
+#+begin_export md
+---
+title: "Do we Know the Chemical Bond?"
+## https://quarto.org/docs/journals/authors.html
+#author:
+#  - name: ""
+#    affiliations:
+#     - name: ""
+#license: "©2024 American Chemical Society and Division of Chemical Education, Inc."
+license: "CC BY"
+#draft: true
+#date-modified:
+date: 2024-07-06
+categories: [article, quantum]
+keywords: physical chemistry teaching, physical chemistry education, teaching resources, quantum, theoretical chemistry, molecular orbitals, molecular structure
+
+image: chemical-bond.png
+---
+<img src="chemical-bond.png" width="40%" align="right" style="padding: 10px 0px 0px 10px;"/>
+#+end_export
+The chemical bond is the biggest paradigm in chemistry. But at the same it is notoriously complex to define it. Under the assumption that knowing what we do not know makes better students and lecturers, we succinctly describe three approaches to define the bond (energetic, structural, and orbital), their advantages and especially their failures. We propose that these definitions, including their theoretical, practical and even philosophical issues, should be taught to advanced undergraduate chemistry students as an essential introduction to the chemical bond module of quantum chemistry courses. This is a controversial topic due to the lack of consensus in the chemical bond community over this heavily disputed topic and the conflicting pedagogical approach; however, and maybe because of this controversy, the teaching of the definitions of the chemical bond including their open questions and challenges can be positively instructive.
+
+* Reference
+
+Kozuch S.  ChemRxiv. 2024; [[https://doi.org/10.26434/chemrxiv-2024-jq0dj][10.26434/chemrxiv-2024-jq0dj]]
+
+    This content is a preprint and has not been peer-reviewed.
+* Local variables :noexport:
+# Local Variables:
+# eval: (ss-markdown-export-on-save)
+# End:

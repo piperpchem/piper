@@ -1,0 +1,28 @@
+---
+title: "Quantitative Analysis of Atom Economy Using Reaction SMILES: A Computational Approach"
+## https://quarto.org/docs/journals/authors.html
+#author:
+#  - name: ""
+#    affiliations:
+#     - name: ""
+#license: "©2024 American Chemical Society and Division of Chemical Education, Inc."
+license: "CC BY-NC-ND"
+#draft: true
+#date-modified:
+date: 2024-07-06
+categories: [ai-ml, computing, python]
+keywords: physical chemistry teaching, physical chemistry education, teaching resources, computational chemistry, SMILES, python, ai, machine learning
+
+image: fig6.png
+---
+<img src="fig6.png" width="40%" align="right" style="padding: 10px 0px 0px 10px;"/>
+
+We present an implementation of an algorithm for calculating the atom economy of chemical reactions using reaction SMILES. Python programming is used to interface the RDKit library to parse and interpret chemical structures, providing accurate and efficient chemical sustainability computations. By implementing a robust algorithm to handle stoichiometric coefficients and multiple reactions, the approach provides a comprehensive analysis of atom economy, a metric essential for green chemistry practices. Additionally, this calculation approach can be easily integrated into AI applications that generate a large amount of chemical reactions, as a screening and optimization step, further enhancing the potential for sustainable chemical process design. We demonstrate its application through several case studies, highlighting its potential to aid in the design of more sustainable chemical processes. We demonstrate this approach using aspirin and its multiple synthetic routes.
+
+
+# Reference
+
+Baffelli S, Giani S., ChemRxiv. 2024; [doi:10.26434/chemrxiv-2024-rxx1g-v2](https://doi.org/10.26434/chemrxiv-2024-rxx1g-v2)
+
+This content is a preprint and has not been peer-reviewed.
+

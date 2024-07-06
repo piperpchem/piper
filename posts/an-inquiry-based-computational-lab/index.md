@@ -1,0 +1,28 @@
+---
+title: "An Inquiry-Based Computational Chemistry Activity for the Undergraduate Physical Chemistry Laboratory"
+## https://quarto.org/docs/journals/authors.html
+#author:
+#  - name: ""
+#    affiliations:
+#     - name: ""
+license: "©2024 American Chemical Society and Division of Chemical Education, Inc."
+#license: "CC BY-NC-SA"
+#draft: true
+#date-modified:
+#date-added: [2024-06-24 Mon]
+date: 2024-06-24
+categories: [lab, computational]
+keywords: physical chemistry teaching, physical chemistry education, teaching resources
+
+image: computational-lab.webp
+---
+<img src="computational-lab.webp" width="40%" align="right" style="padding-left: 10px;"/>
+
+An undergraduate-level Computational Chemistry project was incorporated initially into a Physical Chemistry course and then into the laboratory curriculum in the subsequent application. Before the introduction of the project, the lectures covered quantum chemistry, spectroscopy, and kinetics while simultaneously including computational chemistry and introductory experiments utilizing Avogadro and ORCA software as the laboratory part of the course. The scientific goals for the project were (1) to benchmark different computational methods regarding accuracy and efficiency in reproducing experimental data (structure and IR spectra) for cytosine and flucytosine molecules and (2) to estimate the energy difference between products and reactants and obtain the transition state. Additionally, we aimed to foster students’ independent thinking and application of previously learned methods to a new problem. The work was initially divided evenly among students, and 2 weeks of class time or laboratory periods were solely dedicated to the project, in which students worked independently with the professor’s presence as a facilitator. Students uploaded data to a shared Google Folder and made group presentations at the end. The project proved beneficial in several ways, including promoting collaborative work and problem-solving skills while sparking students’ interest in further research.
+
+
+# Reference
+
+Monsurat M. Lawal and Tugba G. Kucukkal, Journal of Chemical Education Article ASAP,
+ <https://doi.org/10.1021/acs.jchemed.3c01352>
+
