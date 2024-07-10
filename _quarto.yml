@@ -24,7 +24,7 @@ website:
   navbar:
     right:
       - text: Resources
-        href: index.qmd
+        href: resources.md
       - text: Events
         href: events.md
       - text: Communities

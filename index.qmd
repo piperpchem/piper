@@ -12,10 +12,11 @@ keywords:
   - Teaching
   - Learning
   - Laboratory
+  - Jupyter Python
 # page-layout: full
 # title-block-banner: false
 ---
-#  Welcome to PIPER, the PChem Inspired Pedagogical Electronic Resource
+#  Welcome to PIPER, the PChem-Inspired Pedagogical Electronic Resource
 
 ----
 

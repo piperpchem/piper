@@ -12,7 +12,7 @@ POGIL-Physical Chemistry Laboratory is a group of several dozen physical chemist
 
 # LABSIP
 
-<img src="https://chlresearchgroup.sites.haverford.edu/labsip.org/wp-content/uploads/2023/03/Screen-Shot-2023-01-05-at-10.29.46-1.png" width="35%" align="right" style="margin:20px 0px;"/>
+<img src="https://chlresearchgroup.sites.haverford.edu/labsip.org/wp-content/uploads/2023/03/Screen-Shot-2023-01-05-at-10.29.46-1.png" width="30%" align="right" style="margin:20px 0px;"/>
 
 LABSIP (Lowering Access Barriers to Success in Physical Chemistry) is a collaborative
 project led by eleven physical chemistry instructors and funded initially by Research Corporation for Science Advancement.Our short-term goal is community engagement around new directions in Physical Chemistry instruction, with a longer-term goal of providing guidelines and resources towards a more inclusive, dynamic, and current physical chemistry curriculum.
