@@ -12,16 +12,43 @@ keywords:
   - Teaching
   - Learning
   - Laboratory
-listing:
-  contents: "posts/*/index.*md"
-  feed: true
-  sort: "date desc"
-  type: grid
-  categories: true
-  sort-ui: true
-  filter-ui: false
-  image-placeholder: images/image-placeholder.png
-  fields: [image, title, description]
-page-layout: full
-title-block-banner: false
+# page-layout: full
+# title-block-banner: false
 ---
+#  Welcome to PIPER, the PChem Inspired Pedagogical Electronic Resource
+
+----
+
+:::: {.columns}
+::: {.column width="30%"}
+![](Tool_box_icon-01.svg){width="40%" fig-alt="Wikimedia Commons https://commons.wikimedia.org/wiki/File:Tool_box_icon-01.svg"}
+:::
+
+::: {.column width="70%"}
+# [Teaching Resources](resources.md) 
+Browse by category or search text
+:::
+::::
+
+
+:::: {.columns}
+::: {.column width="30%"}
+![](calendar-icon.svg){width="40%" fig-alt="Wikimedia commons https://commons.wikimedia.org/wiki/File:Simpleicons_Business_calendar-check.svg"}
+:::
+::: {.column width="70%"}
+# [Events](events.md)
+Upcoming events and opportunities to engage with other Pchem instructors
+:::
+::::
+
+
+:::: {.columns}
+::: {.column width="30%"}
+![](community-icon.png){width="40%" fig-alt="Wikimedia Commons https://commons.wikimedia.org/wiki/File:Noun_project_community_icon_986427_cc.svg"}
+:::
+
+::: {.column width="70%"}
+# [Communities](community.md)
+Communities for new and experienced instructors
+:::
+::::

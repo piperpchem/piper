@@ -1,0 +1,27 @@
+---
+keywords:
+  - Physical chemistry
+  - Physical chemistry teaching
+  - Teaching physical chemistry
+  - Learning physical chemistry
+  - Resources physical chemistry
+  - Quantum mechanics
+  - Thermodynamics 
+  - Kinetics
+  - Physical chemistry labs
+  - Teaching
+  - Learning
+  - Laboratory
+listing:
+  contents: "posts/*/index.*md"
+  feed: true
+  sort: "date desc"
+  type: grid
+  categories: true
+  sort-ui: true
+  filter-ui: false
+  image-placeholder: images/image-placeholder.png
+  fields: [image, title, description]
+page-layout: full
+title-block-banner: false
+---

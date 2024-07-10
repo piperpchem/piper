@@ -17,6 +17,5 @@ about:
 
 PIPER (PChem Inspired Pedagogical Electronic Resource) is an online collection of educational materials that may be useful for teaching and learning physical chemistry.
 
-Contact Steve Singleton ssinglet@coe.edu with submissions (help us build the site!), suggestions, or questions.
+Help us build the site! Contact Steve Singleton ssinglet@coe.edu with submissions, suggestions, or questions.
 
-[To the resources...](https://chemistry.coe.edu/piper)
