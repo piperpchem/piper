@@ -16,7 +16,7 @@ license: "CC BY-NC-ND"
 #draft: true
 #date-added 2024-06-28
 date: 2024-06-28 
-categories: [article, thermodynamics, stat-mech]
+categories: [article, thermo, stat-mech]
 keywords: physical chemistry teaching, physical chemistry education, teaching resources
 
 image: lattice.png
