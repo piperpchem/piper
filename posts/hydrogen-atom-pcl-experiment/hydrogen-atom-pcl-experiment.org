@@ -24,16 +24,21 @@ image: hatom-elevel-diagram.png
 
 #+end_export
 
-** What is this experiment about?
- @@html: <img src="hatom-pcl-experiment.gif" width="40%" align="right"/>@@ This experiment reformulates a well-known experiment in the physical chemistry laboratory, hydrogen atom emission spectroscopy, into a guided inquiry experiment. The experiment’s key feature is iterative model building, where students develop an initial model of energy levels and keep revising their model upon presentation of additional experimental information.  Students should know about the general concept of energy levels and the electromagnetic spectrum.  This experiment can (and perhaps should) be done before any discussion of hydrogen energy levels in physical chemistry.
+* What is this experiment about?
 
-** What do students do?
+#+begin_export md
+ <img src="hatom-pcl-experiment.gif" width="40%" align="right" style="padding: 10px 0px 10px 10px;"/>
+ #+end_export
+ This experiment reformulates a well-known experiment in the physical chemistry laboratory, hydrogen atom emission spectroscopy, into a guided inquiry experiment. The experiment’s key feature is iterative model building, where students develop an initial model of energy levels and keep revising their model upon presentation of additional experimental information.  Students should know about the general concept of energy levels and the electromagnetic spectrum.  This experiment can (and perhaps should) be done before any discussion of hydrogen energy levels in physical chemistry.
+
+* What do students do?
 The full experiment consists of three cycles. Students first perform low-resolution observations using a handheld diffraction grating or similar and, in teams, build an energy level diagram consistent with their observations.  Next, students perform high-resolution emission spectroscopy, compare their data with others, and use data to refine and expand their model.  Finally, students are provided with additional data (from spectrometers not commonly available) and again in teams refine and expand their model.  Completing all three cycles typically requires two three-hour lab periods.
 
-** What equipment and supplies will you need?
-Hydrogen discharge tubes; handheld diffraction gratings or similar devices
-Small emission spectrometers (several possibilities described in Instructor Handbook)
-What makes this experiment a physical chemistry experiment?
+* What equipment and supplies will you need?
+- hydrogen discharge (Geissler) tube
+- handheld diffraction gratings or similar devices
+- emission spectrometer (several possibilities described in Instructor Handbook)
+* What makes this experiment a physical chemistry experiment?
 This experiment highlights key features of atomic spectroscopy and atomic energy levels.  While students have likely seen a diagram of hydrogen atom energy levels in introductory chemistry, they are much less likely to have built the model themselves directly from data - some of which they obtain themselves in this experiment.  Students make use of both frequency and intensity information from spectra as they construct increasingly detailed models of hydrogen energy levels.
 
 ** And what makes it a POGIL-PCL experiment?
@@ -43,12 +48,13 @@ Students make predictions about the behavior of emitting atoms, testing those pr
 </span>
 
 * Reference
-Steven M. Singleton, Craig M. Teague, and Carl Salter, Journal of Chemical Education 2022 99 (12), 4143-4148, [[https://doi.org/10.1021/acs.jchemed.2c00348][DOI: /10.1021/acs.jchemed.2c00348]]
+Singleton, S. M.; Teague, C. M.; Salter, C. The Hydrogen Atom Spectrum: Experimental Analysis Using Iterative Model Building. /J. Chem. Educ./ 2022, 99 (12), 4143–4148. [[https://doi.org/10.1021/acs.jchemed.2c00348][DOI: /10.1021/acs.jchemed.2c00348]]
 
 [[https://chemistry.coe.edu/piper/pclform.html?expt=hAtom][View student version]]
 
 The Instructor’s Handbook with implementation details, sample data, and expected answers is available through the [[https://www.pogilpcl.org/get-connected][POGIL-PCL project]]. 
 
+Highlight author: Craig Teague, Cornell College
 * Local variables :noexport:
 # Local Variables:
 # eval: (ss-markdown-export-on-save)

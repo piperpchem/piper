@@ -1,0 +1,62 @@
+#+export_file_name: index
+#+options: broken-links:t
+# (ss-toggle-markdown-export-on-save)
+# date-added:
+
+#+begin_export md
+---
+title: "How Is The Freezing Point Of A Binary Mixture Of Solids Related To The Composition Of The Mixture?"
+## https://quarto.org/docs/journals/authors.html
+#author:
+#  - name: ""
+#    affiliations:
+#     - name: ""
+#license: "©2024 American Chemical Society and Division of Chemical Education, Inc."
+license: "CC BY-NC-SA"
+#draft: true
+#date-modified:
+date: 2021-07-11
+categories: [lab, "phase change", thermo, pogil-pcl]
+keywords: physical chemistry teaching, physical chemistry education, teaching resources, phase change, binary mixture
+
+image: eutectic.png
+---
+<img src="eutectic.png" width="40%" align="right" style="padding: 10px 0px 0px 10px;"/>
+#+end_export
+
+Solid mixtures have important "real-world" applications. Mixtures of lead and
+tin are used as solder to make jewelry, to connect copper pipes for plumbing,
+or to connect electronics components to circuit boards. Solid mixtures have
+interesting properties that were studied by early physical chemists, who then
+developed equations and theories that describe and predict the behavior of
+mixtures. In this experiment we will probe mixtures of fatty acids, which are
+non-toxic and commonly found in soaps.
+
+** Learning objectives {#learning-objectives}
+*** Process Objectives
+Develop the ability to convert a relationship into a linear form and apply that relationship, demonstrating the ability to
+ - linearize a relationship.
+ - identify the dependent and independent variables in a linear relation and relate these variables to measurable quantities in the lab.
+ - locate the desired properties from a linearized, graphed relationship
+    using the slope and intercept.
+
+*** Content Objectives
+Choose experimental parameters that allow determination of the phase diagram of a mixture of solids demonstrating the ability to
+- predict the freezing point of a mixture
+- connect the freezing points of mixtures of solid A with solid B added as the solute to mixtures of solid B with solid A added as the solute
+- define and label the components of a solid-liquid phase diagram, including the eutectic point.
+
+
+
+
+* Reference
+Lead author: Sally Hunnicutt, Virginia Commonwealth University sshunnic@vcu.edu
+
+[[https://chemistry.coe.edu/piper/pclform.html?expt=binarySolidMixtures][View student version]]
+
+The Instructor’s Handbook with implementation details, sample data, and expected answers is available through the [[https://www.pogilpcl.org/get-connected][POGIL-PCL project]]. 
+
+* Local variables :noexport:
+# Local Variables:
+# eval: (ss-markdown-export-on-save)
+# End:

@@ -1,5 +1,5 @@
 ---
-title: "Can we make stew with these beans?"
+title: ""
 ## https://quarto.org/docs/journals/authors.html
 #author:
 #  - name: ""
@@ -10,59 +10,49 @@ license: "CC BY-NC-SA"
 #draft: true
 #date-modified:
 date: 2020-07-03
-categories: ["lab", "pogil-pcl", "kinetics"]
-keywords: physical chemistry teaching, physical chemistry education, teaching resources, physical chemistry laboratory
+categories: ["lab", "kinetics", "pogil-pcl"]
+keywords: physical chemistry teaching, physical chemistry education, teaching resources, curve fitting
 
 image: chickpea-visualize.png
 ---
-<img src="chickpea-visualize.png" width="30%" align="right"/>
-
-You are making a meal and the recipe you are using calls for canned chickpea, but you do not have a can of chickpeas. While searching your kitchen, you find a bag of dried chickpeas. Can you use the dried chickpeas instead of the canned chickpeas? Should you go back to the store just to buy a can of chickpeas, or can you soak the chickpeas you already have? Will the meal be ready in time?
-
-The first phase (Experiment Part One) is an exploratory phase in which students become accustomed to the system of hydrating chickpeas by conducting some initial investigations. Experiment Part One can be completed in a single three-hour lab session if the students are given the salt solutions already made. If students have to prepare the solutions the instructor might need some additional class time to discuss the final results of the first session.
-
-The second phase (Experiment Part Two) focuses on modeling hydration and should begin towards the end of the first session of activity. The data for this long term soaking will be collected during session two. Analysis of the suitability of Peleg’s equation can be done using EXCEL or other spreadsheet programs (plot.ly is available for free).
-
-A third phase (which is optional, but highly encouraged) involves students selecting some aspect of bean hydration and developing their own investigations on it. For these additional investigations, the class may decide to all focus on the same topic. Alternately, each group of students may decide to pursue unique projects.
-
-The basic version of this experiment is expected to take two three-hour lab periods. A more complete version would require three periods.
 
 
-## Learning objectives
+# What is this experiment about?
+
+<img src="chickpea-visualize.png" width="40%" align="right" style="padding: 10px 10px 0px 10px;"/>
+
+Experiments for physical chemistry lab courses often address concepts and systems that students can rely on applying what they’ve seen previously instead of learning how to address an unfamiliar system. In this experiment, students study the rate at which chickpeas absorb water, a system that is familiar to to any cook, but new from the perspective of how a physical chemist would study the process. Equipped with chickpeas, salt water, and a balance, students observe the regularity of the absorption rate and the effect of varying salt concentration. To model the data, students use non-linear fitting techniques that can be done in Jupyter notebooks or Excel. The experiment is an excellent and procedurally simple introduction to how physical chemists approach new phenomena.
 
 
-### Content Objectives
+# What do students do?
 
-Students will be able to:
-
--   determine the initial rate for a process given raw data (mass of
-    chickpeas) as a function of time.
--   recognize that the rate is not constant and can provide explanations
-    as to why the rate of hydration must slow down and provide an
-    estimate of what the rate will be at very long times.
--   explain, using the concept of osmosis, how the concentration of salt
-    in the water affects the rate of hydration (optional).
--   select additional factors that might influence the rate of hydration
-    for further study during the final part of the experiment.
+The experiment consists of three cycles that can be completed in two three-hour lab periods. Students first use a basic experimental protocol and decide several aspects of the experimental design: data collection frequency, salt concentrations, reproducibility, reliable mass measurement. Through data plotting and initial rate calculation, students draw conclusions about time dependence and salt concentration effects.  They then analyze the Peleg equation that describes a wide range of food absorption processes. Students revise their experiment design and perform longer runs, constructing qualitative and quantitative comparisons to the Peleg equation. In the third cycle, students connect their results to osmosis concepts, extending their understanding of the underlying models in the post-experiment questions.
 
 
-### Process Objectives
+# What equipment and supplies will you need?
 
-Students will be able to
+-   Chickpeas and stock NaCl solution, typically 3M
+-   Balances–even inexpensive ±0.1g pocket balances are sufficient to get good data
+-   Glassware, funnels, and other basic equipment that students can use for their experiment design
 
--   model the rate of hydration of the chickpeas using the Peleg equation.
--   explain how to relate the parameters in the Peleg equation to their data.
--   develop a simple model for the surface of the chickpea as a semipermeable
-    membrane.
--   design an experimental procedure to study other factors affecting
-    the rate of hydration
+
+# What makes this experiment a physical chemistry experiment?
+
+This experiment provides a simple system that illustrates how physical chemists approach new phenomena. They explore qualitatively what the system does before trying to obtain detailed data. When given an equation that is claimed to fit the data, they look at appropriate limits to address its validity before doing more complex fitting. The Peleg equation introduces the common approach of non-linear fitting, allowing students to develop a reasonable interpretation for the underlying molecular processes.
+
+
+# And what makes it a POGIL-PCL experiment?
+
+Students develop hypotheses about the factors that affect water uptake by dry food. They make predictions about the effect of salt concentration, and they test those predictions both qualitatively and quantitatively. They engage in decision-making and experiment design, in running the experiment and data analysis. They share responsibility as a class for the experiment design and share data to provide a wide range of experimental conditions. Students use graphical representations of data to explore qualitative and quantitative aspects and non-linear fitting of a hypothesized mathematical model.
 
 
 # Reference
 
-Lead Author: Maria Pacheco
+Lead author: Maria Pacheco, Buffalo State College
 
 [View student version](https://chemistry.coe.edu/piper/pclform.html?expt=chickpeas)
 
 The Instructor’s Handbook with implementation details, sample data, and expected answers is available through the [POGIL-PCL project](https://www.pogilpcl.org/get-connected). 
+
+Highlight author: Rob Whitnell, Guilford College
 

@@ -13,8 +13,8 @@ title: "How Should Apples be Prepared for a Fruit Salad?"
 #copyright: "2016 American Chemical Society and Division of Chemical Education, Inc."
 license: "CC BY-NC-SA"
 #draft: true
-#date-modified:
-date: 2023-10-27T09:00:00 
+#date-added: 2023-10-27T09:00:00
+date: 2023-10-27
 categories: ["lab", "pogil-pcl", "kinetics"]
 keywords: physical chemistry teaching, physical chemistry education, teaching resources, physical chemistry lab, pogil-pcl, kinetics experiment
 
@@ -23,35 +23,62 @@ image: cycles.png
 <img src="cycles.png" width="80%" />
 #+end_export
 
-Catecholase, also known as catechol oxidase or tyrosinase, is an enzyme found in many plants, animals, and fungi. The general function of catecholase is to accelerate the reaction between oxygen and phenolic compounds to produce quinones and water. Enzyme activity and susceptibility to browning have been shown to have varietal dependence2,6 in addition to differences among different types of fruit.
+* What is this experiment about?
+Students are familiar with the browning of fruit, but they have
+typically not explored the chemistry behind the process. This
+experiment has students explore the kinetics of the oxidation of
+catechol catalyzed by the enzyme catecholase present to different
+degrees in different varieties of apples. Students engage in
+experimental design allowing for parameter variation (type of apple,
+pH) working with this natural system with many possible
+outcomes. Instructors can optionally have students explore enzyme
+inhibition.  What do students do?  Pre-experiment work has students
+consider experiment design, from making solutions to extracting juice
+from apples to making predictions about absorbance changes for the
+catechol solution. In the first cycle, students explore the browning
+reaction with and without enzyme, and in buffered and unbuffered
+solutions, comparing their predictions with experimental results. They
+then design an experiment (with the class) that allows application of
+Michaelis-Menten kinetics and development of a quantitative answer to
+the title question. These cycles can be performed in two lab periods
+of three or four hour length. Instructors can use additional time to
+have students complete an optional third cycle in which they develop
+an enzyme inhibition experiment.
+* What equipment and supplies will you need?
+- Visible spectrophotometer; pH meter (or pH paper)
+- Equipment for pureeing and extracting juice from apples (blender, paring knife, vacuum filtration)
+- Apples! catechol; Na_{2}HPO_{4} and NaH_{2}PO_{4} for making phosphate buffer solutions; inhibitors
+* What makes this experiment a physical chemistry experiment?
+The study of enzyme kinetics links physical chemistry and
+biochemistry. Physical chemistry is represented in both the
+experimental design, particularly the investigation of multiple
+factors that can affect the kinetic behavior, and in the complexity
+and precision of the data analysis with an emphasis on comparing
+equation linearization to non-linear fitting. The investigation of
+enzyme inhibition provides a physical chemistry foundation to a
+significant biochemical concept.
+* And what makes it a POGIL-PCL experiment?
+Students begin their work with both experiment design in considering
+how to obtain the data and making predictions about how the catechol
+oxidation reaction will be reflected in the absorbance data. Students
+share data to see the range of apple browning behavior and interact
+with other teams to do further work in experimental design. Students
+process information in multiple ways in this experiment: working with
+initial rates to see the range of kinetic behavior, then developing
+more substantial mathematical models and graphical representations to
+observe the underlying regularity and draw conclusions. The work on
+inhibition is helpful for students to demonstrate their understanding
+of the enzyme kinetics concepts.
 
-The reaction we will study to address the question in the title of the experiment is the catalyzed oxidation of catechol by molecular oxygen to form 1,2-benzoquinone and water. Quinone is the only species in the reaction mixture that absorbs light in the visible region.
+* Reference
 
-We include timing options for running this experiment, such as four 3-hr lab periods, two 3-hr lab periods.
-
-*** Learning Objectives
-At the end of this experiment, students will be able to
-- Describe the Michaelis-Menten mechanism for enzyme catalysis, including the meaning of the Michaelis-Menten parameters
-- Analyze and manipulate equations and graphical representations to appropriately model experimental data/results.Fit a nonlinear function to data.
-- Convert a nonlinear relationship to a linear form.
--  Choose experimental conditions to obtain appropriate data for analysis.
-
-*** Instrumentation and Materials
-- Visible spectrophotometer such as Ocean Optics or Spectra Vis that monitors visible absorption as a function of time
-- Catechol (Sigma-Aldrich)
-- Different varieties of apples
-- pH meter and/or indicating pH paper
-- Strong acid (HCl) or base (NaOH)
-- Vacuum filtration apparatus
-
-** Reference
-Sally Hunnicutt, Virginia Commonwealth University\\
-Renée Cole, University of Iowa
+Cole, R. S.; Muniz, M.; Harvey, E.; Sweeney, R.; Hunnicutt, S. How Should Apples Be Prepared for a Fruit Salad? A Guided Inquiry Physical Chemistry Experiment. /J. Chem. Educ./ 2020, 97 (12), 4475–4481. https://doi.org/10.1021/acs.jchemed.0c0051
 
 [[https://chemistry.coe.edu/piper/pclform.html?expt=appleEnzyme][View student handout]]
 
-The Instructor’s Handbook with implementation details, sample data, and expected answers is available through the [[https://www.pogilpcl.org/get-connected][POGIL-PCL project]]. 
+The Instructor’s Handbook with implementation details, sample data, and expected answers is available through the [[https://www.pogilpcl.org/get-connected][POGIL-PCL project]].
 
+Highlight author: R. Whitnell
 
 * Local variables :noexport:
 # Local Variables:
