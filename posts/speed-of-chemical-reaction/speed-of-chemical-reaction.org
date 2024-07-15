@@ -1,0 +1,55 @@
+#+export_file_name: index
+#+options: broken-links:t
+# (ss-toggle-markdown-export-on-save)
+# date-added:
+
+#+begin_export md
+---
+title: "How can we quantify the speed of a chemical reaction?"
+## https://quarto.org/docs/journals/authors.html
+#author:
+#  - name: ""
+#    affiliations:
+#     - name: ""
+#license: "©2024 American Chemical Society and Division of Chemical Education, Inc."
+license: "CC BY-NC-SA"
+#draft: true
+#date-modified:
+date: 2024-07-15
+categories: [lab, kinetics, pogil-pcl]
+keywords: physical chemistry teaching, physical chemistry education, teaching resources, kinetics, laboratory experiment, iodine clock reaction
+
+image: clock-rxn.png
+---
+#+end_export
+
+* What is this experiment about?
+#+begin_export md
+<img src="clock-rxn.png" width="25%" align="right" style="padding: 10px 0px 0px 10px;"/>
+#+end_export 
+Students often do kinetics experiments after developing the concepts of rate laws and reaction orders in classroom work. This experiment uses the clock reaction for oxidation of iodide by hydrogen peroxide to have students develop those concepts as they obtain experimental data for this reaction. In doing so, it follows initial POGIL physical chemistry activities on kinetics from the Moog and Farrell  textbook.
+
+* What do students do?
+Pre-experiment questions focus on solution preparation and review of kinetics concepts. In the first experiment cycle, students are provided with solutions and a general experimental protocol. Students then perform the protocol for several volumes of reactants without knowing what they will observe. Using their results, they develop the concepts of rates of production, consumption, and reaction. The second cycle then has students choose how to vary solution volumes so that they can measure the effect of reactant concentration on rate. They are guided to develop the concept of the rate law, applying that to this reaction. In the third cycle, students explore the temperature dependence of the reaction to determine an activation energy. Well-prepared students can complete the three cycles in two lab sessions.
+
+* What equipment and supplies will you need?
+- Solutions of sodium thiosulfate, potassium iodide, hydrogen peroxide, starch indicator, and acetate buffer as described in the instructor handbook
+- Volumetric glassware (graduated cylinders can be sufficient), Erlenmeyer flasks
+- Constant-temperature water baths
+
+* What makes this experiment a physical chemistry experiment?
+Instead of obtaining data that is used to confirm chemical kinetics concepts introduced in class, students construct those concepts as they perform experiments and analyze the data. In doing so, students develop the explanation of a clock reaction based on their observations. They further show that their results conform to equations (rate law and the Arrhenius equation) that are introduced as they obtain their data. Through analysis of their data and other examples provided in the experiment, students see that these equations have broad applicability in describing chemical reaction rates.
+* And what makes it a POGIL-PCL experiment?
+Students participate in several aspects of experimental design, particularly with respect to systematic variation of variables such as reactant concentration and temperature, interacting with each other to reach consensus on how to proceed. They share data to obtain the most complete representation of how reaction rates depend on concentration and temperature. They analyze data graphically in order to determine the rate law and activation energy, applying standard mathematical models. Students make predictions about how reaction rate changes with temperature (and are sometimes surprised how far off they are in those predictions). Post-experiment questions have students demonstrate their understanding of kinetics concepts through consideration of different experimental conditions and reaction systems.
+* Reference
+Lead and highlight author: Rob Whitnell, Guildford College
+
+[[https://chemistry.coe.edu/piper/pclform.html?expt=clockReaction][View student version]]
+
+The Instructor’s Handbook with implementation details, sample data, and expected answers is available through the [[https://www.pogilpcl.org/get-connected][POGIL-PCL project]]. 
+
+
+* Local variables :noexport:
+# Local Variables:
+# eval: (ss-markdown-export-on-save)
+# End:

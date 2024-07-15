@@ -1,0 +1,58 @@
+#+export_file_name: index
+#+options: broken-links:t
+# (ss-toggle-markdown-export-on-save)
+# date-added:
+
+#+begin_export md
+---
+title: "Does Myoglobin Unfold in the Body?"
+## https://quarto.org/docs/journals/authors.html
+#author:
+#  - name: ""
+#    affiliations:
+#     - name: ""
+#license: "©2024 American Chemical Society and Division of Chemical Education, Inc."
+license: "CC BY-NC-SA"
+#draft: true
+#date-modified:
+date: 2024-07-15
+categories: [lab, thermo, spectroscopy, pogil-pcl]
+keywords: physical chemistry teaching, physical chemistry education, teaching resources, myoglobin, UV-vis spectroscopy
+
+image: myoglobin.png
+---
+#+end_export
+
+# this export deals with a top-level heading if there is one (put headin above this comment)
+
+* What is this experiment about?
+#+begin_export md
+<img src="myoglobin.png" width="30%" align="right" style="padding: 10px 0px 0px 10px;"/>
+#+end_export 
+
+Physical chemistry students are often interested in biological applications, and protein denaturation is a system that is readily accessible in the physical chemistry lab. This experiment focuses on the myoglobin-guanidine system where the presence of the strong denaturant guanidine can be seen in the effect on the visible spectrum of myoglobin. Performing these experiments allow students to apply their knowledge of free energy and equilibrium to this biophysical system.
+* What do students do?
+Pre-experiment questions have students research key properties of myoglobin, guanidine, and buffer solutions. In the first experiment cycle, each student team selects three concentrations of guanidine and examines the effect on myoglobin structure as seen in the visible spectrum. The class uses all data to discern patterns in myoglobin behavior that motivate the second cycle. Each team then performs measurements with multiple guanidine concentrations to elucidate the transition between folded and unfolded myoglobin. Using the relation between K and ∆G, students can show how ∆G depends on guanidine concentration and identify a critical concentration where folded and unfolded myoglobin is present in equal concentrations. In doing so, students use both linear and non-linear fitting methods for data analysis. The experiment can be completed in two lab periods.
+* What equipment and supplies will you need?
+Stock solutions of myoglobin (1 mg/mL) and guanidine hydrochloride (GuHCl, 6M), both in pH 7 phosphate buffer; students can alternately be given myoglobin to make their own solutions.
+Each team typically uses  25-50 mL of myoglobin solution and 50-100 of GuHCl solution.
+Visible spectrometer capable of measuring absorbance values in the range 0-2.
+Volumetric pipettes or flasks for handling small volumes.
+* What makes this experiment a physical chemistry experiment?
+The experiment provides a substantial introduction to the application of physical chemistry concepts to a biochemical system. The approach is one of ∆∆G, where the change in [GuHCl] affects ∆G for the myoglobin denaturation process. Students gain experience in precise solution preparation and spectroscopic measurements and in both linear and non-linear fitting of data. They are introduced to the sigmoid function as a way of modeling the kind of rapid change in equilibrium present in this system.
+* And what makes it a POGIL-PCL experiment?
+Before performing any experiments, students make predictions about how denaturant concentration affects protein structure that they test in the experiment. The experiment requires substantial data sharing and reaching consensus with other students in making decisions about the experimental process so that sufficient data is collected. Students use both graphical representations and linear and non-linear mathematical models to analyze their results and plan further experiments. They demonstrate their understanding of the underlying concepts in post-experiment questions that analyze the system further.
+
+* Reference
+Lead authors: Ruthanne Paradise, University of Massachusetts Amhearst, and Sally Hunnicutt Virginia Commonwealth University.
+
+[[https://chemistry.coe.edu/piper/pclform.html?expt=myoglobinUnfolding][View student version]]
+
+The Instructor’s Handbook with implementation details, sample data, and expected answers is available through the [[https://www.pogilpcl.org/get-connected][POGIL-PCL project]]. 
+
+
+Highlight author: Rob Whitnell
+* Local variables :noexport:
+# Local Variables:
+# eval: (ss-markdown-export-on-save)
+# End:

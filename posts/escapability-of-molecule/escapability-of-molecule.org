@@ -1,0 +1,51 @@
+#+export_file_name: index
+#+options: broken-links:t
+# (ss-toggle-markdown-export-on-save)
+# date-added:
+
+#+begin_export md
+---
+title: "What Factors Govern the Escapability of a Molecule from a Liquid?"
+## https://quarto.org/docs/journals/authors.html
+#author:
+#  - name: ""
+#    affiliations:
+#     - name: ""
+#license: "©2024 American Chemical Society and Division of Chemical Education, Inc."
+license: "CC BY-NC-SA"
+#draft: true
+#date-modified:
+date: 2022-07-15
+categories: [lab, "mol dynamics", computational, pogil-pcl]
+keywords: physical chemistry teaching, physical chemistry education, teaching resources, molecular dynamics, computational chemistry
+
+image: md-conformation.png
+---
+#+end_export
+
+* What is this experiment about?
+# this export deals with a top-level heading if there is one (put it above this comment)
+#+begin_export md
+<img src="md-conformation.png" width="30%" align="right" style="padding: 50px 0px 0px 10px;"/>
+#+end_export 
+
+Students explore intermolecular forces through molecular dynamics simulations, providing access to quantities that are not typically experimentally measurable. Using simulations of pentane isomers in condensed phases, students identify the intramolecular and intermolecular energies present. They analyze enthalpies of vaporization based on the magnitudes of the intermolecular forces for each isomer. Doing so provides a quantitative approach to previously qualitative explanations and motivates the study of identifying the temperature of the vaporization phase transition. An introduction to thermochemistry is sufficient for students to do this experiment.  
+* What do students do?
+Students review intermolecular forces and make predictions about pentane isomer boiling points in the pre-experiment questions. In the first cycle, they run molecular dynamics simulations on pentane isomers in a condensed phase to examine the total and component energies. They calculate enthalpies of vaporization, comparing them to literature results, and use the set of class data to see how the results arise from differences in the component energies. In the second cycle, constant-pressure simulations and varying temperatures are used to examine vaporization dynamics. Through examination of the class results, students can propose further simulations that allow estimation of the neopentane vaporization temperature. Students can complete both cycles in two lab periods.
+* What equipment and supplies will you need?
+Calculations can be done on ChemCompute ([[https://chemcompute.org/]]) or a molecular dynamics package of the instructor’s choice. A supplement to the lab handout describes how to do the calculations and analyze the results using ChemCompute. Instructors may also wish to consider doing the calculations on ChemCompute and using a more fully-featured visualization program such as VMD.
+* What makes this experiment a physical chemistry experiment?
+This experiment shows the utility of molecular dynamics simulations in probing molecular interactions that are not accessible through experiment. Instructors with limited experience using molecular dynamics will have the tools to facilitate the experiment effectively. Students will see how molecular dynamics allow quantitative analysis of microscopic forces that have previously only been addressed qualitatively. 
+* And what makes it a POGIL-PCL experiment?
+Students make predictions about the boiling points of pentane isomers and then show how those can be tested and explained with molecular dynamics simulations. They make experimental design choices such as deciding on simulations to run for estimating the boiling point of a pentane isomer. They use graphical representations to examine the nature of the simulation box and dynamics and mathematical models to in calculating an enthalpy of vaporization. Students continually share data and interact with the entire class to generate sufficient data to draw reliable conclusions. A variety of post-experiment questions have students demonstrate their understanding of the computational methods and results.
+* Reference
+Lead and highlight author: Rob Whitnell
+
+[[https://chemistry.coe.edu/piper/pclform.html?expt=escapabilityMolecule][View student version]]
+
+The Instructor’s Handbook with implementation details, sample data, and expected answers is available through the [[https://www.pogilpcl.org/get-connected][POGIL-PCL project]]. 
+
+* Local variables :noexport:
+# Local Variables:
+# eval: (ss-markdown-export-on-save)
+# End:
