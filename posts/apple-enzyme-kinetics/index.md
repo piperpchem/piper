@@ -10,36 +10,23 @@ license: "CC BY-NC-SA"
 #draft: true
 #date-added: 2023-10-27T09:00:00
 date: 2023-10-27
-categories: ["lab", "pogil-pcl", "kinetics"]
+categories: ["lab", "kinetics", "pogil-pcl"]
 keywords: physical chemistry teaching, physical chemistry education, teaching resources, physical chemistry lab, pogil-pcl, kinetics experiment
 
 image: cycles.png
 ---
-<img src="cycles.png" width="80%" />
 
 
 # What is this experiment about?
 
-Students are familiar with the browning of fruit, but they have
-typically not explored the chemistry behind the process. This
-experiment has students explore the kinetics of the oxidation of
-catechol catalyzed by the enzyme catecholase present to different
-degrees in different varieties of apples. Students engage in
-experimental design allowing for parameter variation (type of apple,
-pH) working with this natural system with many possible
-outcomes. Instructors can optionally have students explore enzyme
-inhibition.  What do students do?  Pre-experiment work has students
-consider experiment design, from making solutions to extracting juice
-from apples to making predictions about absorbance changes for the
-catechol solution. In the first cycle, students explore the browning
-reaction with and without enzyme, and in buffered and unbuffered
-solutions, comparing their predictions with experimental results. They
-then design an experiment (with the class) that allows application of
-Michaelis-Menten kinetics and development of a quantitative answer to
-the title question. These cycles can be performed in two lab periods
-of three or four hour length. Instructors can use additional time to
-have students complete an optional third cycle in which they develop
-an enzyme inhibition experiment.
+<img src="mm.png" width="35%" align="right" style="padding: 10px 0px 0px 10px;"/>
+
+Students are familiar with the browning of fruit, but they have typically not explored the chemistry behind the process. This experiment has students explore the kinetics of the oxidation of catechol catalyzed by the enzyme catecholase present to different degrees in different varieties of apples. Students engage in experimental design allowing for parameter variation (type of apple, pH) working with this natural system with many possible outcomes. Instructors can optionally have students explore enzyme inhibition
+
+
+# What do students do?
+
+Pre-experiment work has students consider experiment design, from making solutions to extracting juice from apples to making predictions about absorbance changes for the catechol solution. In the first cycle, students explore the browning reaction with and without enzyme, and in buffered and unbuffered solutions, comparing their predictions with experimental results. They then design an experiment (with the class) that allows application of Michaelis-Menten kinetics and development of a quantitative answer to the title question. These cycles can be performed in two lab periods of three or four hour length. Instructors can use additional time to have students complete an optional third cycle in which they develop an enzyme inhibition experiment.
 
 
 # What equipment and supplies will you need?
