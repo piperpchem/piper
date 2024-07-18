@@ -4,6 +4,7 @@ title: "PyTherm applied thermodynamics"
 date: "2022-02-12T00:00:00-06:00"
 categories: ["computing", "thermo", "jupyter", "python"]
 image: pytherm-applied-thermo.png
+license: "GPL-3"
 ---
 
 ![](pytherm-applied-thermo.png){width="100%"}
@@ -47,18 +48,9 @@ Phase and reaction equilibria algorithms
 -   Flash calculations
 
 
-## Location {#location}
-
-<https://iurisegtovich.github.io/PyTherm-applied-thermodynamics/>
-
-
-## Creators {#creators}
-
+## Reference
 Fernando de Azevedo Medeiros
 
 Iuri Soter Viana Segtovich
 
-
-## License {#license}
-
-{{< figure src="https://img.shields.io/badge/License-GPL%20v3-red.svg" link="http://www.gnu.org/licenses/gpl-3.0" >}}
+<https://iurisegtovich.github.io/PyTherm-applied-thermodynamics/>
