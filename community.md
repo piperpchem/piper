@@ -31,6 +31,16 @@ Education of students, post-docs, and faculty on programming and Best Practices 
 MolSSI’s education techniques and practices are modeled after The Carpentries style to teaching novice software best practices. We engage large portions of the CMS community (and beyond) through demographically and geographically diverse workshops aimed at both novice and intermediate learners.
 
 
+# MERCURY Consortium
+
+<img src="mercury.png" width="15%" align="right" style="padding-left: 0px;"/>
+
+The consortium, known as the Molecular Education and Research Consortium
+in Undergraduate computational chemistRY (MERCURY) was founded with the goal of establishing research collaboration among seven computational chemistry faculty from primarily undergraduate institutions (PUIs). The consortium members share NSF-funded computational facilities and meet at an annual MERCURY conference to network and present their research.
+
+[MERCURY Consortium](https://www.mercuryconsortium.org/)
+
+
 # Engaging Students in Physical Chemistry
 
 The idea for this Google group began in the Engaging Students in Physical Chemistry symposium at the 2014 Biennial Conference on Chemical Education.  This idea was revived at the 2016 BCCE and continues to today.  I&rsquo;d like to make this group useful for you.  Thanks!  &#x2013;Craig Teague, Cornell College, Mount Vernon IA

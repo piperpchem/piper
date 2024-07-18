@@ -34,9 +34,21 @@ The program is designed to discuss the role of chemistry education not only in c
 
 August 13, 2-3 pm Eastern time
 
-<img src="pogil-pcl.png" width="30%" align="right" style="padding-left: 10px;"/>
+<img src="pogil-pcl.png" width="20%" align="right" style="padding-left: 10px;"/>
 
 The POGIL-PCL Journal Group will discuss two versions of the &ldquo;classic temperature dependence of vapor pressure&rdquo; experiment alongside a recent paper describing a simple, [inexpensive isoteniscope](https://pubs.acs.org/doi/10.1021/acs.jchemed.3c01138). Please use this form to indicate your interest in this discussion, which will be led by Brian Gilbert and Michael Everest: [https://forms.gle/Ppj9AoGsC7a798Yy5](https://forms.gle/Ppj9AoGsC7a798Yy5)
+
+
+## MOLSSI Two-Day Workshop on Python Scripting and AI-Assisted Coding
+
+[Workshop on Python Scripting and AI-Assisted Coding](https://molssi.org/two-day-workshop-on-python-scripting-and-ai-assisted-coding/)
+
+August 17-18, 2024
+
+<img src="http://education.molssi.org/python-package-best-practices/_static/molssi_main_logo.png" width="20%" align="right" style="padding-right: 10px;"/>
+
+Join us for an engaging two-day workshop designed to teach programming and data
+handling skills using Python for people working in the molecular sciences and learn how to speed and enhance your learning using artificial intelligence. This event is ideal for students and professionals eager to get started with Python scripting and interested in leveraging AI tools like ChatGPT to learn coding faster and more efficiently. Location: CU Denver campus (0.25 miles from Convention center where ACS convention is being held)
 
 
 # Past events
@@ -58,7 +70,7 @@ Please use this form to indicate your interest in participating in this hybrid w
 
 ## MDAnalysis/MolSSI Workshop at Arizona State University
 
-[https://molssi.org/mdanalysis-molssi-workshop-at-arizona-state-university/](https://molssi.org/mdanalysis-molssi-workshop-at-arizona-state-university/)
+June 24th-25th, 2024
 
 <img src="http://education.molssi.org/python-package-best-practices/_static/molssi_main_logo.png" width="20%" align="left" style="padding-right: 10px;"/>
 
@@ -70,6 +82,8 @@ This two-day workshop is designed to transform attendees from users to developer
 1.  An introduction to using and writing custom analyses in MDAnalysis;
 2.  An overview of software development and maintenance best practices;
 3.  An interactive hackathon session where participants write their own MDAKits.
+
+[MOLSSI Workshop at Arizona State University](https://molssi.org/mdanalysis-molssi-workshop-at-arizona-state-university/)
 
 
 ## POGIL-PCL Journal Discussion

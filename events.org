@@ -34,9 +34,19 @@ The conference provides chemistry educators with opportunities for interacting w
 The program is designed to discuss the role of chemistry education not only in classroom setting but also in societal context. Novel teaching and learning methods in chemistry are still the key topics in this conference. Professional development of educators at all levels (school and university) will be included. Societal context of chemistry education such as sustainability, ethics, diversity, equity, and inclusion will also be emphasized in this conference. ICCE 2024 will also include the 12th International Symposium on Microscale Chemistry.
 ** POGIL-PCL Journal Discussion
 August 13, 2-3 pm Eastern time
-#+html: <img src="pogil-pcl.png" width="30%" align="right" style="padding-left: 10px;"/>
+#+html: <img src="pogil-pcl.png" width="20%" align="right" style="padding-left: 10px;"/>
 
 The POGIL-PCL Journal Group will discuss two versions of the "classic temperature dependence of vapor pressure" experiment alongside a recent paper describing a simple, [[https://pubs.acs.org/doi/10.1021/acs.jchemed.3c01138][inexpensive isoteniscope]]. Please use this form to indicate your interest in this discussion, which will be led by Brian Gilbert and Michael Everest: [[https://forms.gle/Ppj9AoGsC7a798Yy5][https://forms.gle/Ppj9AoGsC7a798Yy5]]
+** MOLSSI Two-Day Workshop on Python Scripting and AI-Assisted Coding
+
+[[https://molssi.org/two-day-workshop-on-python-scripting-and-ai-assisted-coding/][Workshop on Python Scripting and AI-Assisted Coding]]
+
+August 17-18, 2024
+
+#+html: <img src="http://education.molssi.org/python-package-best-practices/_static/molssi_main_logo.png" width="20%" align="right" style="padding-right: 10px;"/>
+Join us for an engaging two-day workshop designed to teach programming and data
+handling skills using Python for people working in the molecular sciences and learn how to speed and enhance your learning using artificial intelligence. This event is ideal for students and professionals eager to get started with Python scripting and interested in leveraging AI tools like ChatGPT to learn coding faster and more efficiently. Location: CU Denver campus (0.25 miles from Convention center where ACS convention is being held)
+
 
 * Past events 
 ** POGIL-PCL Hybrid Workshop
@@ -50,7 +60,7 @@ Please use this form to indicate your interest in participating in this hybrid w
 [[https://forms.gle/gn7d6y6CpLcJv271A][https://forms.gle/gn7d6y6CpLcJv271A]]
 
 ** MDAnalysis/MolSSI Workshop at Arizona State University
-[[https://molssi.org/mdanalysis-molssi-workshop-at-arizona-state-university/][https://molssi.org/mdanalysis-molssi-workshop-at-arizona-state-university/]]
+June 24th-25th, 2024
 
 #+html: <img src="http://education.molssi.org/python-package-best-practices/_static/molssi_main_logo.png" width="20%" align="left" style="padding-right: 10px;"/>
 MDAnalysis, in conjunction with the Molecular Sciences Software Institute(MolSSI) and
@@ -60,6 +70,8 @@ This two-day workshop is designed to transform attendees from users to developer
 1. An introduction to using and writing custom analyses in MDAnalysis;
 2. An overview of software development and maintenance best practices;
 3. An interactive hackathon session where participants write their own MDAKits.
+
+[[https://molssi.org/mdanalysis-molssi-workshop-at-arizona-state-university/][MOLSSI Workshop at Arizona State University]]
 
 ** POGIL-PCL Journal Discussion
 June 11, 2-3pm EDT
