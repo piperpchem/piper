@@ -1,0 +1,28 @@
+---
+title: "Sculpting the Unseen: Exploring Quantum Mechanics Using 3D-Printed Potential Surfaces and Wave Functions"
+## https://quarto.org/docs/journals/authors.html
+#author:
+#  - name: ""
+#    affiliations:
+#     - name: ""
+license: "©2024 American Chemical Society and Division of Chemical Education, Inc."
+#license: "CC BY-NC-SA"
+#draft: true
+#date-modified:
+date: 2024-07-08
+categories: [article, quantum]
+keywords: physical chemistry teaching, physical chemistry education, teaching resources
+
+image: sculpting.webp
+---
+
+<img src="sculpting.webp" width="40%" align="right" style="padding: 10px 0px 0px 10px;"/>
+
+Due to its abstract and counterintuitive nature, quantum mechanics is considered as one of the most challenging subjects in science and technology. This study outlines a general workflow for the fabrication of quantum mechanical wave functions utilizing 3D-printing technology. The novel technique offers a more comprehensive and tangible way to visualize and understand complex quantum phenomena when compared to the standard approach of presenting 2D projections of the associated three-dimensional mathematical objects. By using numerical approaches to solve the Schrödinger equation this approach can be applied to a broad range of potentials relevant to a number of different experimental techniques such as vibrational spectroscopy and quantum tunneling. By modifying the generated 3D models appropriately, without changing their overall descriptive character, further improvements in the representation of the underlying potential surface and the associated wave functions can be achieved. The correct vertical alignment of the potential surface and wave functions was further enhanced via a 3D-printed rack designed specifically for this project, which allowed the models to be displayed in the correct energetic order.
+
+
+# Reference
+
+Felix R. S. Purtscher, Manuel J. Schuler, and Thomas S. Hofer, 
+Journal of Chemical Education Article ASAP, DOI: [10.1021/acs.jchemed.4c00483](https://doi.org/10.1021/acs.jchemed.4c00483)
+

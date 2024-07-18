@@ -16,7 +16,7 @@ title: "How can we measure a reaction enthalpy without going into the laboratory
 #draft: true
 #date-modified:
 date: 2024-07-13
-categories: [thermo, computational, pogil-pcl]
+categories: [lab, thermo, computational, pogil-pcl]
 keywords: physical chemistry teaching, physical chemistry education, teaching resources, thermodynamics, guided-inquiry, physical chemistry laboratory
 
 image: thermo.png
