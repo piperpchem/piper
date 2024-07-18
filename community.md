@@ -1,5 +1,6 @@
 ---
 title: "Physical Chemistry Education Communities"
+title-block-banner: true
 ---
 
 

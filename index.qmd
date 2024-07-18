@@ -27,7 +27,7 @@ keywords:
 
 ::: {.column width="70%"}
 # [Teaching Resources](resources.md) 
-Browse by category or search text
+Browse by category or search for text
 :::
 ::::
 

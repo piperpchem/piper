@@ -1,27 +1,16 @@
 ---
 title: "Events for Physical Chemistry Educators"
+title-block-banner: true
 ---
 
-Please send your event announcement to ssinglet@coe.edu
-
-
-## POGIL-PCL Hybrid Workshop
-
-July 11, 2024
-
-<img src="pogil-pcl.png" width="30%" align="right" style="padding-left: 10px;"/>
-
-The POGIL-PCL team will host a hybrid zoom workshop on July 11, 12-4 pm Eastern time. We will do a new POGIL-PCL experiment, &ldquo;What is the pKa of an Acid-Base Indicator?&rdquo;, developed by Rebecca Michelsen. Each participant will do the experiment in their own laboratory - with discussions happening over zoom in real time.
-
-To participate fully, you should have a computer with audio and video capability as well as access to Google drive. To get the most out of the experience, participants will also complete pre-experiment questions outside of the workshop time. Participants will also need to prepare stock solutions and set up spectrometers to carry out measurements during the four-hour workshop.
-
-Please use this form to indicate your interest in participating in this hybrid workshop:  
-[https://forms.gle/gn7d6y6CpLcJv271A](https://forms.gle/gn7d6y6CpLcJv271A)
+Please send your event announcement to Steve Singleton ssinglet@coe.edu
 
 
 ## Biennial Conference on Chemical Education (BCCE)
 
-Jul 28–Aug 1, 2024  <https://bcce.divched.org/>
+<https://bcce.divched.org/>
+
+Jul 28–Aug 1, 2024 
 
 <img src="https://bcce.divched.org/sites/bcce/files/styles/max_1300x1300/public/2022-07/BCCEhero.jpg" width="70%"/>
 
@@ -51,6 +40,20 @@ The POGIL-PCL Journal Group will discuss two versions of the &ldquo;classic temp
 
 
 # Past events
+
+
+## POGIL-PCL Hybrid Workshop
+
+July 11, 2024
+
+<img src="pogil-pcl.png" width="30%" align="right" style="padding-left: 10px;"/>
+
+The POGIL-PCL team will host a hybrid zoom workshop on July 11, 12-4 pm Eastern time. We will do a new POGIL-PCL experiment, &ldquo;What is the pKa of an Acid-Base Indicator?&rdquo;, developed by Rebecca Michelsen. Each participant will do the experiment in their own laboratory - with discussions happening over zoom in real time.
+
+To participate fully, you should have a computer with audio and video capability as well as access to Google drive. To get the most out of the experience, participants will also complete pre-experiment questions outside of the workshop time. Participants will also need to prepare stock solutions and set up spectrometers to carry out measurements during the four-hour workshop.
+
+Please use this form to indicate your interest in participating in this hybrid workshop:  
+[https://forms.gle/gn7d6y6CpLcJv271A](https://forms.gle/gn7d6y6CpLcJv271A)
 
 
 ## MDAnalysis/MolSSI Workshop at Arizona State University
