@@ -8,13 +8,20 @@ title: "Large Language Model (LLM) and Generative Pre-trained Transformer (GPT) 
 #draft: true
 # description:
 # date added 2023-11-21
-date: 2024-06-22
+date: 2024-07-22
 categories: ["article", "ai-ml"]
 keywords: PIPER teaching physical chemistry, GPT, ChatGPT, LLM, teaching, chemistry
 # image: llm-gpt.png
 ---
 
 Some references related to Large Language Model (LLM) and Generative Pre-trained Transformer (GPT) resources such as ChatGPT, and their use in the chemistry classroom. Please send additions to ssinglet@coe.edu and I will include them in this list.
+
+
+# Student Perceptions of Artificial Intelligence Utility in the Introductory Chemistry Classroom
+
+Mendez, James D., J. Chem. Educ., 2024, <https://doi.org/10.1021/acs.jchemed.4c00075>
+
+This study investigates student perceptions of generative artificial intelligence (AI) in an introductory chemistry course. Students engaged with AI chatbots of their choice to correct missed exam questions, revealing overall positive attitudes toward their usefulness. Despite this positive perception, the study shows a disconnect between the overall media portrayal of AI in academia and how actual students use it. Only a small number of students had used AI before this activity. This study highlights the need for training on responsible AI use to address ongoing ethical concerns over the misuse of these systems and to get ahead of future issues.
 
 
 # Large Language Models are Catalyzing Chemistry Education
