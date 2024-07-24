@@ -6,18 +6,23 @@ title-block-banner: true
 
 # POGIL-PCL
 
+<https://www.pogilpcl.org>
+
 <img src="pogil-pcl.png" width="30%" align="right" style="padding-left: 0px;"/>
 
-POGIL-Physical Chemistry Laboratory is a group of several dozen physical chemists working together to make the physical chemistry lab course and engaging and meaningful learning experience. Through this work an enthusiastic community arose. POGIL-PCL organizes online and in-person workshops, a reading club (with synchronous online discussions), a newsletter, and laboratory development workshops. <https://www.pogilpcl.org/get-connected>
+POGIL-Physical Chemistry Laboratory is a group of several dozen physical chemists working together to make the physical chemistry lab course and engaging and meaningful learning experience. Through this work an enthusiastic community arose. POGIL-PCL organizes online and in-person workshops, a reading club (with synchronous online discussions), a newsletter, and laboratory development workshops. [Get connected.](https://www.pogilpcl.org/get-connected)
+
+Experiment highlights and student versions of lab experiments are available in the PIPER [Teaching Resources](https://chemistry.coe.edu/piper/resources.html#category=pogil-pcl) and in the POGIL-PCL [experiment catalog](https://www.pogilpcl.org/catalog).
 
 
 # LABSIP
 
+<https://labsip.org/>
+
 <img src="https://chlresearchgroup.sites.haverford.edu/labsip.org/wp-content/uploads/2023/03/Screen-Shot-2023-01-05-at-10.29.46-1.png" width="30%" align="right" style="margin:20px 0px;"/>
 
 LABSIP (Lowering Access Barriers to Success in Physical Chemistry) is a collaborative
-project led by eleven physical chemistry instructors and funded initially by Research Corporation for Science Advancement.Our short-term goal is community engagement around new directions in Physical Chemistry instruction, with a longer-term goal of providing guidelines and resources towards a more inclusive, dynamic, and current physical chemistry curriculum.
-<https://labsip.org/>
+project led by eleven physical chemistry instructors and funded initially by Research Corporation for Science Advancement. Our short-term goal is community engagement around new directions in Physical Chemistry instruction, with a longer-term goal of providing guidelines and resources towards a more inclusive, dynamic, and current physical chemistry curriculum.
 
 
 # MoLSSI Education
@@ -33,18 +38,19 @@ MolSSI’s education techniques and practices are modeled after The Carpentries 
 
 # MERCURY Consortium
 
+[https://www.mercuryconsortium.org/](https://www.mercuryconsortium.org/)
+
 <img src="mercury.png" width="15%" align="right" style="padding-left: 0px;"/>
 
 The consortium, known as the Molecular Education and Research Consortium
 in Undergraduate computational chemistRY (MERCURY) was founded with the goal of establishing research collaboration among seven computational chemistry faculty from primarily undergraduate institutions (PUIs). The consortium members share NSF-funded computational facilities and meet at an annual MERCURY conference to network and present their research.
 
-[MERCURY Consortium](https://www.mercuryconsortium.org/)
-
 
 # Engaging Students in Physical Chemistry
 
+<https://groups.google.com/g/engaging-students-in-physical-chemistry>
+
 The idea for this Google group began in the Engaging Students in Physical Chemistry symposium at the 2014 Biennial Conference on Chemical Education.  This idea was revived at the 2016 BCCE and continues to today.  I&rsquo;d like to make this group useful for you.  Thanks!  &#x2013;Craig Teague, Cornell College, Mount Vernon IA
-<https://groups.google.com/g/engaging-students-in-physical-chemistry> (google account required)
 
 
 # POGIL
