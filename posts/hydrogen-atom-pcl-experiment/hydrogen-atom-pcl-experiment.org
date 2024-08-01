@@ -6,7 +6,7 @@
 ---
 title: "What does the emission spectrum of the hydrogen atom reveal about its energy levels?"
 #author: "ssinglet"
-date: "2022-11-19"
+date: "2023-11-19"
 categories: ["lab", "spectroscopy", "quantum", "pogil-pcl"]
 ## https://quarto.org/docs/journals/authors.html
 #author:

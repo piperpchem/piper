@@ -17,7 +17,7 @@ image: case-studies.webp
 ---
 <img src="case-studies.webp" width="40%" align="right" style="padding-left: 10px;"/>
 
-Publisher&rsquo;s description: This textbook provides a unique instructional resource in experimental Physical Chemistry with case studies based on data taken from the scientific literature. Platform-independent software that generates individualized data sets for student practice and assessment is included. Case Studies in the Virtual Physical Laboratory can be used to
+This textbook provides a unique instructional resource in experimental Physical Chemistry with case studies based on data taken from the scientific literature. Platform-independent software that generates individualized data sets for student practice and assessment is included. Case Studies in the Virtual Physical Laboratory can be used to
 
 -   Create online virtual laboratory courses in Physical Chemistry.
 -   Supplement instruction in the lecture hall.

@@ -11,7 +11,7 @@ title: "Large Language Model (LLM) and Generative Pre-trained Transformer (GPT) 
 date: 2024-07-22
 categories: ["article", "ai-ml"]
 keywords: PIPER teaching physical chemistry, GPT, ChatGPT, LLM, teaching, chemistry
-# image: llm-gpt.png
+image: llm-gpt.svg
 ---
 
 Some references related to Large Language Model (LLM) and Generative Pre-trained Transformer (GPT) resources such as ChatGPT, and their use in the chemistry classroom. Please send additions to ssinglet@coe.edu and I will include them in this list.
