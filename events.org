@@ -11,17 +11,6 @@ title-block-banner: true
 #+end_export
 Please send your event announcement to Steve Singleton ssinglet@coe.edu
 
-** Biennial Conference on Chemical Education (BCCE)
-[[https://bcce.divched.org/]]
-
-Jul 28–Aug 1, 2024 
-
-#+html: <img src="https://bcce.divched.org/sites/bcce/files/styles/max_1300x1300/public/2022-07/BCCEhero.jpg" width="70%"/>
-
-The Biennial Conference on Chemical Education (BCCE) is a national meeting sponsored by the Division of Chemical Education (DivCHED) of the American Chemical Society (ACS). The conference is designed for those who teach chemistry at all levels: K-12, secondary school science teachers, undergraduate students, graduate students and post-secondary chemistry faculty.
-
-The conference provides chemistry educators with opportunities for interacting with colleagues at all levels in formal and informal settings. Instructors who are new to chemistry education and those who have years of teaching experience will find this conference to be an excellent source of materials, techniques and chemistry content.
-
 ** POGIL-PCL Journal Discussion
 August 13, 2-3 pm Eastern time
 #+html: <img src="pogil-pcl.png" width="20%" align="right" style="padding-left: 10px;"/>
@@ -45,8 +34,25 @@ August 18-22, 2024
 
 Ways to Attend: The ACS Meetings & Expos are now hybrid with sessions in-person and virtual. You can register for hybrid, with access to both in-person and virtual sessions, or only virtual.
 
+** POGIL-PCL Journal Discussion
+September 23, 2024, 3-4 pm Eastern time
+
+#+html: <img src="pogil-pcl.png" width="20%" align="right" style="padding-left: 10px;"/>
+
+The POGIL-PCL Journal Group will discuss the paper "Recommendations for Improving End-User Programming Education: A Case Study with Undergraduate Chemistry Students", Fuchs, et al. https://doi.org/10.1021/acs.jchemed.4c00219 (Creative Commons). Please use [[https://forms.gle/2L2yrPpxubfV4q1LA][this google form]] to indicate your interest in participating.
 
 * Past events 
+** Biennial Conference on Chemical Education (BCCE)
+[[https://bcce.divched.org/]]
+
+Jul 28–Aug 1, 2024 
+
+#+html: <img src="https://bcce.divched.org/sites/bcce/files/styles/max_1300x1300/public/2022-07/BCCEhero.jpg" width="70%"/>
+
+The Biennial Conference on Chemical Education (BCCE) is a national meeting sponsored by the Division of Chemical Education (DivCHED) of the American Chemical Society (ACS). The conference is designed for those who teach chemistry at all levels: K-12, secondary school science teachers, undergraduate students, graduate students and post-secondary chemistry faculty.
+
+The conference provides chemistry educators with opportunities for interacting with colleagues at all levels in formal and informal settings. Instructors who are new to chemistry education and those who have years of teaching experience will find this conference to be an excellent source of materials, techniques and chemistry content.
+
 ** 27th IUPAC International Conference on Chemistry Education (ICCE2024)
 
 #+html: <img src="https://iupac.org/wp-content/themes/iupac/dist/images/logo.png" width="30%" align="right" style="padding-left: 10px;"/>
