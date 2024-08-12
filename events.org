@@ -27,13 +27,25 @@ Join us for an engaging two-day workshop designed to teach programming and data
 handling skills using Python for people working in the molecular sciences and learn how to speed and enhance your learning using artificial intelligence. This event is ideal for students and professionals eager to get started with Python scripting and interested in leveraging AI tools like ChatGPT to learn coding faster and more efficiently. Location: CU Denver campus (0.25 miles from Convention center where ACS convention is being held)
 
 ** ACS Fall 2024: Elevating Chemistry
+#+html: <img src="images/events-acsfall2024.png" width="80%" align="center"/>
+
 https://www.acs.org/meetings/acs-meetings/fall.html
 
 August 18-22, 2024
 
-
 Ways to Attend: The ACS Meetings & Expos are now hybrid with sessions in-person and virtual. You can register for hybrid, with access to both in-person and virtual sessions, or only virtual.
 
+** ECRICE 2024: European Conference on Research in Chemical Education
+September 5-7, 2024
+
+https://ecrice2024.events.chemistry.pt/
+
+#+html: <img src="images/events-ecrice-2024.png" width="40%" align="right" style="padding-right: 10px;"/>
+It is relevant to examine different learning environments, new educational tools, and new ways in which neuroeducation, technology and artificial intelligence, can be integrated into chemical education, and promote the engagement of students in the learning process.
+
+The ECRICE24 Committees of this International conference invite all chemistry education researchers and teachers to come to the conference and challenge them to showcase presentations, submit abstracts, and present work, regarding new developments in Chemical Education, through the lens of sustainable goals, and participate in the ECRICE 2024 meeting. 
+
+We are looking forward to welcoming you in Lisbon.
 ** POGIL-PCL Journal Discussion
 September 23, 2024, 3-4 pm Eastern time
 
