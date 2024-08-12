@@ -6,19 +6,6 @@ title-block-banner: true
 Please send your event announcement to Steve Singleton ssinglet@coe.edu
 
 
-## Biennial Conference on Chemical Education (BCCE)
-
-<https://bcce.divched.org/>
-
-Jul 28–Aug 1, 2024 
-
-<img src="https://bcce.divched.org/sites/bcce/files/styles/max_1300x1300/public/2022-07/BCCEhero.jpg" width="70%"/>
-
-The Biennial Conference on Chemical Education (BCCE) is a national meeting sponsored by the Division of Chemical Education (DivCHED) of the American Chemical Society (ACS). The conference is designed for those who teach chemistry at all levels: K-12, secondary school science teachers, undergraduate students, graduate students and post-secondary chemistry faculty.
-
-The conference provides chemistry educators with opportunities for interacting with colleagues at all levels in formal and informal settings. Instructors who are new to chemistry education and those who have years of teaching experience will find this conference to be an excellent source of materials, techniques and chemistry content.
-
-
 ## POGIL-PCL Journal Discussion
 
 August 13, 2-3 pm Eastern time
@@ -42,6 +29,8 @@ handling skills using Python for people working in the molecular sciences and le
 
 ## ACS Fall 2024: Elevating Chemistry
 
+<img src="images/events-acsfall2024.png" width="80%" align="center"/>
+
 <https://www.acs.org/meetings/acs-meetings/fall.html>
 
 August 18-22, 2024
@@ -49,7 +38,44 @@ August 18-22, 2024
 Ways to Attend: The ACS Meetings & Expos are now hybrid with sessions in-person and virtual. You can register for hybrid, with access to both in-person and virtual sessions, or only virtual.
 
 
+## ECRICE 2024: European Conference on Research in Chemical Education
+
+September 5-7, 2024
+
+<https://ecrice2024.events.chemistry.pt/>
+
+<img src="images/events-ecrice-2024.png" width="40%" align="right" style="padding-right: 10px;"/>
+
+It is relevant to examine different learning environments, new educational tools, and new ways in which neuroeducation, technology and artificial intelligence, can be integrated into chemical education, and promote the engagement of students in the learning process.
+
+The ECRICE24 Committees of this International conference invite all chemistry education researchers and teachers to come to the conference and challenge them to showcase presentations, submit abstracts, and present work, regarding new developments in Chemical Education, through the lens of sustainable goals, and participate in the ECRICE 2024 meeting. 
+
+We are looking forward to welcoming you in Lisbon.
+
+
+## POGIL-PCL Journal Discussion
+
+September 23, 2024, 3-4 pm Eastern time
+
+<img src="pogil-pcl.png" width="20%" align="right" style="padding-left: 10px;"/>
+
+The POGIL-PCL Journal Group will discuss the paper &ldquo;Recommendations for Improving End-User Programming Education: A Case Study with Undergraduate Chemistry Students&rdquo;, Fuchs, et al. <https://doi.org/10.1021/acs.jchemed.4c00219> (Creative Commons). Please use [this google form](https://forms.gle/2L2yrPpxubfV4q1LA) to indicate your interest in participating.
+
+
 # Past events
+
+
+## Biennial Conference on Chemical Education (BCCE)
+
+<https://bcce.divched.org/>
+
+Jul 28–Aug 1, 2024 
+
+<img src="https://bcce.divched.org/sites/bcce/files/styles/max_1300x1300/public/2022-07/BCCEhero.jpg" width="70%"/>
+
+The Biennial Conference on Chemical Education (BCCE) is a national meeting sponsored by the Division of Chemical Education (DivCHED) of the American Chemical Society (ACS). The conference is designed for those who teach chemistry at all levels: K-12, secondary school science teachers, undergraduate students, graduate students and post-secondary chemistry faculty.
+
+The conference provides chemistry educators with opportunities for interacting with colleagues at all levels in formal and informal settings. Instructors who are new to chemistry education and those who have years of teaching experience will find this conference to be an excellent source of materials, techniques and chemistry content.
 
 
 ## 27th IUPAC International Conference on Chemistry Education (ICCE2024)
