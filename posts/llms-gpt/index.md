@@ -8,13 +8,20 @@ title: "Large Language Model (LLM) and Generative Pre-trained Transformer (GPT) 
 #draft: true
 # description:
 # date added 2023-11-21
-date: 2024-07-22
+date: 2024-07-30
 categories: ["article", "ai-ml"]
 keywords: PIPER teaching physical chemistry, GPT, ChatGPT, LLM, teaching, chemistry
 image: llm-gpt.svg
 ---
 
 Some references related to Large Language Model (LLM) and Generative Pre-trained Transformer (GPT) resources such as ChatGPT, and their use in the chemistry classroom. Please send additions to ssinglet@coe.edu and I will include them in this list.
+
+
+# Exploring the Concept of Valence and the Nature of Science via Generative Artificial Intelligence and General Chemistry Textbooks
+
+Rebecca M. Jones, Eva-Maria Rudler, Conner Preston, J. Chem. Educ., 2024, <https://doi.org/10.1021/acs.jchemed.4c00271>
+
+This paper explores historical and modern perspectives of the concept of valence in the context of collegiate general chemistry and draws comparisons to responses from generative artificial intelligence (genAI) tools such as ChatGPT. A fundamental concept in chemistry, valence in the early and mid-20th century was primarily defined as the “combining capacity” of atoms. Twenty-first century textbooks do not include this historical definition but rather use valence as an adjective to modify other nouns, e.g., valence electron or valence orbital. To explore these different perspectives in other information sources that could be used by students, we used a systematic series of prompts about valence to analyze the responses from ChatGPT, Bard, Liner, and ChatSonic from September and December 2023. Our findings show the historical definition is very common in responses to prompts which use valence or valency as a noun but less common when prompts include valence as an adjective. Regarding this concept, the state-of-the-art genAI tools are more consistent with textbooks from the 1950s than modern collegiate general chemistry textbooks. These findings present an opportunity for chemistry educators to observe and discuss with students the nature of science and how our understanding of chemistry changes. Including implications for educators, we present an example activity that may be deployed in general chemistry classes.
 
 
 # Student Perceptions of Artificial Intelligence Utility in the Introductory Chemistry Classroom

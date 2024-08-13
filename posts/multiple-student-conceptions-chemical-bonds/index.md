@@ -1,0 +1,27 @@
+---
+title: "The Multiple Student Conceptions of the Chemical Bond in a Quantum Chemical Context"
+## https://quarto.org/docs/journals/authors.html
+#author:
+#  - name: ""
+#    affiliations:
+#     - name: ""
+#license: "©2024 American Chemical Society and Division of Chemical Education, Inc."
+license: "CC BY"
+#draft: true
+#date-modified:
+date: 2024-07-30
+categories: [bonding, quantum]
+keywords: physical chemistry teaching, physical chemistry education, teaching resources, Chemical Education Research, First-Year Undergraduate, Chemistry Misconceptions, Valence Bond Theory
+
+image: bonds.webp
+---
+
+<img src="bonds.webp" width="40%" align="right" style="padding: 10px 0px 0px 10px;"/>
+
+The chemical bond is described with various context-sensitive models ranging from two electrons being shared between nuclei to the minimum-energy distance between the atoms. How we visualize these bonds further primes students to select one model over another. Previous research has targeted misconceptions of the chemical bond, but how they interact and evolve remains relatively underexplored. In this work, we examine the diversity of conceptions in bachelor’s chemistry students who have started to learn about quantum chemistry. We present results of a thematic analysis of data produced by bachelor students at different stages in their studies while interacting with a chemical simulation triangulated with a metaphor analysis of interviews with students taking a quantum chemistry lecture. We found that the chemical bond was largely conceptualized either as a rigid entity or in relation to energy in writing and informally metaphorically as community. We argue that while these conceptualizations are valid models, the students struggle to understand the contextual dependency and the plurality of different models.
+
+
+# Reference
+
+C. H. Müller, Reiher, M. Kapur, *J. Chem. Educ.* 2024, Article ASAP, [doi:10.1021/acs.jchemed.4c00024](https://doi.org/10.1021/acs.jchemed.4c00024)
+

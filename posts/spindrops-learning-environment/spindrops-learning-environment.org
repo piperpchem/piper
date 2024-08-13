@@ -1,0 +1,39 @@
+#+export_file_name: index
+#+options: broken-links:t
+# (ss-toggle-markdown-export-on-save)
+# date-added:
+
+#+begin_export md
+---
+title: "A Digital and Interactive Tool to Learn ^{1}H NMR Spectroscopy: The SpinDrops Learning Environment"
+## https://quarto.org/docs/journals/authors.html
+#author:
+#  - name: ""
+#    affiliations:
+#     - name: ""
+#license: "©2024 American Chemical Society and Division of Chemical Education, Inc."
+license: "CC BY"
+#draft: true
+#date-modified:
+date: 2024-07-30
+categories: [nmr, spectroscopy]
+keywords: physical chemistry teaching, physical chemistry education, teaching resources, nmr spectroscopy, nuclear magnetic resonance
+
+image: spindrop.gif
+---
+#+end_export
+
+# this export deals with a top-level heading if there is one (put it above this comment)
+#+begin_export md
+<img src="spindrop.gif" width="40%" align="right" style="padding: 10px 0px 0px 10px;"/>
+#+end_export 
+
+Nuclear magnetic resonance (NMR) spectroscopy is one of the most important spectroscopy methods in modern chemistry, yet students need help learning and understanding its complex nature. Empirical investigations show that simulation and (interactive) visualizations can support students by offering new possibilities for investigating connections and direct effects of parameter changes. Therefore, this article introduces a digital and interactive learning environment that addresses students’ learning difficulties to facilitate the understanding of crucial 1H NMR background knowledge. The SpinDrops Learning Environment (SDLE) covers practically useful, basic concepts for interpreting a 1H NMR spectrum from a theoretical point of view. It includes new interactive visualizations and a dynamic and realistically simulated ppm-spectrum. To evaluate the role and influence of interactivity by parameter control regarding students’ learning processes and conceptual understanding, we designed two SDLE versions differing in the degree of interactivity and dynamics. We then asked N = 50 students to work with the learning environment in a pre-post study with questionnaires on affective constructs and a 1H NMR knowledge test on conceptual understanding. N = 12 students additionally took part in a think-aloud study. The results showed that students benefit from learning with the SDLE as their conceptual understanding and NMR-related interest, self-efficacy, and estimated knowledge increase significantly. Although the SDLE showed significantly positive effects on students’ learning results and processes, the difference in the degree of interactivity and dynamics inside the software only had a small impact, as revealed in the quantitative and qualitative data.
+
+* Reference
+D. Diermann, D. HuberSteffen, J. Glaser, J. Koenen, /J. Chem. Educ./ 2024, Article ASAP, [[https://doi.org/10.1021/acs.jchemed.4c00151][DOI:10.1021/acs.jchemed.4c00151]]
+
+* Local variables :noexport:
+# Local Variables:
+# eval: (ss-markdown-export-on-save)
+# End:
