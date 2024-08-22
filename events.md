@@ -6,36 +6,15 @@ title-block-banner: true
 Please send your event announcement to Steve Singleton ssinglet@coe.edu
 
 
-## POGIL-PCL Journal Discussion
-
-August 13, 2-3 pm Eastern time
-
-<img src="pogil-pcl.png" width="20%" align="right" style="padding-left: 10px;"/>
-
-The POGIL-PCL Journal Group will discuss two versions of the &ldquo;classic temperature dependence of vapor pressure&rdquo; experiment alongside a recent paper describing a simple, [inexpensive isoteniscope](https://pubs.acs.org/doi/10.1021/acs.jchemed.3c01138). Please use this form to indicate your interest in this discussion, which will be led by Brian Gilbert and Michael Everest: [https://forms.gle/Ppj9AoGsC7a798Yy5](https://forms.gle/Ppj9AoGsC7a798Yy5)
-
-
-## MOLSSI Two-Day Workshop on Python Scripting and AI-Assisted Coding
-
-[Workshop on Python Scripting and AI-Assisted Coding](https://molssi.org/two-day-workshop-on-python-scripting-and-ai-assisted-coding/)
-
-August 17-18, 2024
-
-<img src="http://education.molssi.org/python-package-best-practices/_static/molssi_main_logo.png" width="20%" align="right" style="padding-right: 10px;"/>
-
-Join us for an engaging two-day workshop designed to teach programming and data
-handling skills using Python for people working in the molecular sciences and learn how to speed and enhance your learning using artificial intelligence. This event is ideal for students and professionals eager to get started with Python scripting and interested in leveraging AI tools like ChatGPT to learn coding faster and more efficiently. Location: CU Denver campus (0.25 miles from Convention center where ACS convention is being held)
-
-
 ## ACS Fall 2024: Elevating Chemistry
 
 <img src="images/events-acsfall2024.png" width="80%" align="center"/>
 
-<https://www.acs.org/meetings/acs-meetings/fall.html>
-
 August 18-22, 2024
 
-Ways to Attend: The ACS Meetings & Expos are now hybrid with sessions in-person and virtual. You can register for hybrid, with access to both in-person and virtual sessions, or only virtual.
+[ACS Fall 2024 Meeting](https://www.acs.org/meetings/acs-meetings/fall.html)
+
+The American Chemical Society Meetings & Expos are now hybrid with sessions in-person and virtual. You can register for hybrid, with access to both in-person and virtual sessions, or only virtual.
 
 
 ## ECRICE 2024: European Conference on Research in Chemical Education
@@ -63,6 +42,27 @@ The POGIL-PCL Journal Group will discuss the paper &ldquo;Recommendations for Im
 
 
 # Past events
+
+
+## POGIL-PCL Journal Discussion
+
+August 13, 2-3 pm Eastern time
+
+<img src="pogil-pcl.png" width="20%" align="right" style="padding-left: 10px;"/>
+
+The POGIL-PCL Journal Group will discuss two versions of the &ldquo;classic temperature dependence of vapor pressure&rdquo; experiment alongside a recent paper describing a simple, [inexpensive isoteniscope](https://pubs.acs.org/doi/10.1021/acs.jchemed.3c01138). Please use this form to indicate your interest in this discussion, which will be led by Brian Gilbert and Michael Everest: [https://forms.gle/Ppj9AoGsC7a798Yy5](https://forms.gle/Ppj9AoGsC7a798Yy5)
+
+
+## MOLSSI Two-Day Workshop on Python Scripting and AI-Assisted Coding
+
+August 17-18, 2024
+
+[Workshop on Python Scripting and AI-Assisted Coding](https://molssi.org/two-day-workshop-on-python-scripting-and-ai-assisted-coding/)
+
+<img src="http://education.molssi.org/python-package-best-practices/_static/molssi_main_logo.png" width="20%" align="right" style="padding-right: 10px;"/>
+
+Join us for an engaging two-day workshop designed to teach programming and data
+handling skills using Python for people working in the molecular sciences and learn how to speed and enhance your learning using artificial intelligence. This event is ideal for students and professionals eager to get started with Python scripting and interested in leveraging AI tools like ChatGPT to learn coding faster and more efficiently. Location: CU Denver campus (0.25 miles from Convention center where ACS convention is being held)
 
 
 ## Biennial Conference on Chemical Education (BCCE)

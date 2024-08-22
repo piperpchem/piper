@@ -21,6 +21,13 @@ image: llm-gpt.svg
 
 #+end_export
 Some references related to Large Language Model (LLM) and Generative Pre-trained Transformer (GPT) resources such as ChatGPT, and their use in the chemistry classroom. Please send additions to ssinglet@coe.edu and I will include them in this list.
+
+*** ChatGPT as an Instructor’s Assistant for Generating and Scoring Exams
+Alberto A. Fernández, Margarita López-Torres, Jesús J. Fernández, Digna Vázquez-García
+J. Chem. Educ. 2024, https://doi.org/10.1021/acs.jchemed.4c00231, CC-BY
+
+This study assessed ChatGPT’s proficiency in responding to questions from University Entrance Exams typically administered to senior secondary students. Our findings indicate that ChatGPT version 4.0 consistently outperformed students, achieving higher average scores across exams from the past four years. However, it still committed errors in about 20% of its responses. Despite this, ChatGPT 4.0 demonstrated a robust capability to comprehend and produce natural language within a chemical context. Consequently, by applying diverse prompt engineering techniques, this AI was able to create short-answer questions and numerical problems that closely mimic the format and conceptual content of University Entrance Exams. We also confirmed that ChatGPT 4.0 could grade exams, showing a significant correlation with scores given by human evaluators but lower than that among human graders. This discrepancy and other practical considerations limit its application in grading exams.
+
 *** Exploring the Concept of Valence and the Nature of Science via Generative Artificial Intelligence and General Chemistry Textbooks
 Rebecca M. Jones, Eva-Maria Rudler, Conner Preston, J. Chem. Educ., 2024, https://doi.org/10.1021/acs.jchemed.4c00271
 

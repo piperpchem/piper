@@ -5,7 +5,7 @@
 #+begin_export md
 ---
 title: "What is POGIL-PCL? A model for guided-inquiry experiments in physical chemistry"
-date: "2024-7-09"
+date: "2024-3-09"
 categories: ["pogil-pcl", "course design", "article"]
 #license: "CC BY-NC-SA"
 keywords: physical chemistry teaching, physical chemistry education, teaching resources, guided inquiry learning, POGIL, physical chemistry laboratory
