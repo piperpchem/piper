@@ -21,6 +21,15 @@ image: llm-gpt.svg
 
 #+end_export
 Some references related to Large Language Model (LLM) and Generative Pre-trained Transformer (GPT) resources such as ChatGPT, and their use in the chemistry classroom. Please send additions to ssinglet@coe.edu and I will include them in this list.
+*** Using Generative AI Systems for Critical Thinking Engagement in an Advanced Chemistry Course: A Case Study
+Pence, et. al., J. Chem. Educ. 2024, [[https://doi.org/10.1021/acs.jchemed.4c00242][doi: 10.1021/acs.jchemed.4c00242]]
+
+A series of critical thinking assignments was created for students in an advanced chemistry course to interact with and evaluate generative AI (GenAI) systems. Students explored GenAI’s facility with producing summaries of C&EN articles, analyzing titration data, and closely reading literature articles. For each assignment, the students evaluated the output using a critical thinking exercise and presented their results using written reports. The students found GenAI to be effective at summarizing news articles, although it demonstrated inaccuracies in mathematical calculations and produced mixed results in answering technical questions based on specific literature articles. The assignments provided valuable practice for students’ critical thinking skills.
+
+*** Enhancing AI Responses in Chemistry: Integrating Text Generation, Image Creation, and Image Interpretation through Different Levels of Prompts
+Wilton J. D. Nascimento Júnior, Carla Morais, Gildo Girotto Júnior, /J. Chem. Ed./, 2024, [[https://doi.org/10.1021/acs.jchemed.4c00230][doi.org/10.1021/acs.jchemed.4c00230]]
+
+Generative Artificial Intelligence technologies can potentially transform education, benefiting teachers and students. This study evaluated various GAIs, including ChatGPT 3.5, ChatGPT 4.0, Google Bard, Bing Chat, Adobe Firefly, Leonardo.AI, and DALL-E, focusing on textual and imagery content. Utilizing initial, intermediate, and advanced prompts, we aim to simulate GAI responses tailored to users with varying levels of knowledge. We aim to investigate the possibilities of integrating content from Chemistry Teaching. The systems presented responses appropriate to the scientific consensus for textual generation, but they revealed alternative chemical content conceptions. In terms of the interpretation of chemical system representations, only ChatGPT 4.0 accurately identified the content in all of the images. In terms of image production, even with more advanced prompts and subprompts, Generative Artificial Intelligence still presents difficulties in content production. The use of prompts involving the Python language promoted an improvement in the images produced. In general, we can consider content production as support for chemistry teaching, but only with more advanced prompts do the answers tend to present fewer errors. The importance of previously understanding chemistry concepts and systems’ functioning is noted.
 
 *** ChatGPT as an Instructor’s Assistant for Generating and Scoring Exams
 Alberto A. Fernández, Margarita López-Torres, Jesús J. Fernández, Digna Vázquez-García
