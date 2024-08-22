@@ -12,7 +12,7 @@ categories: ["website"]
 keywords: teaching learning physical chemistry, blog
 image: cnr-blog.png
 ---
-<img src="cnr-blog.png" width="80%">
+# 
 
 Rowley offers courses in physical and computational chemistry, and writes about teaching on his blog [Teaching Physical Chemistry](http://teachphyschem.blogspot.com/). Sample blog post titles include
 
