@@ -9,16 +9,68 @@ title: "Events for Physical Chemistry Educators"
 title-block-banner: true
 ---
 #+end_export
-Please send your event announcement to Steve Singleton ssinglet@coe.edu
 
-** ACS Fall 2024: Elevating Chemistry
-#+html: <img src="images/events-acsfall2024.png" width="80%" align="center"/>
+/Please send your event announcement to Steve Singleton ssinglet@coe.edu/
 
-August 18-22, 2024
 
-[[https://www.acs.org/meetings/acs-meetings/fall.html][ACS Fall 2024 Meeting]]
+* Chemistry World Conference :noexport:
+#+html: <img src="images/events-chemWorld-2025.png" width="30%" align="right" style="padding-left: 10px;"/>
 
-The American Chemical Society Meetings & Expos are now hybrid with sessions in-person and virtual. You can register for hybrid, with access to both in-person and virtual sessions, or only virtual.
+June 02-04, 2025 | Rome, Italy
+Chemistry 2025 conference gathers global pioneers in chemistry, showcasing transformative advancements and attended by leading scientists, innovators, and industry professionals driving innovation across diverse sectors.
+
+CALL FOR PAPERS: Participants are invited to submit abstracts on research and findings relevant to the scientific sessions. The sample template is available in the “Abstract submission” page of the conference website. Accepted abstracts will appear in the conference extended abstract book, which will be available, on-line and distributed at the event.
+
+HYBRID EVENT: You can participate in person at Rome, Italy or virtually from your home or work.
+
+https://chemistryworldconference.com/program/scientific-sessions/physical-chemistry-and-theoretical-chemistry
+
+
+* Gordon Research Conference
+
+July 6 - 11, 2025
+
+https://www.grc.org/chemistry-education-research-and-practice-conference/2025/
+
+
+#+html: <img src="images/events-bates.jpg" width="20%" align="right" style="padding-left: 10px;"/>
+As 2025 approaches, we are on the cusp of making some major decisions about our discipline, its future, and our focus in thinking about students’ learning and our teaching. 
+This meeting intends to act as a prompt to draw on the latest research and scholarly activity to help us address the future paths where our discipline is headed. The conference will focus specifically on pertinent themes relating to the above, with invited talks and participant posters aligning to one or more of the following:
+
+- Methodological approaches to exploring student understanding and reasoning
+- Reforming teaching approaches for a new era of chemistry education
+- Refocusing on the role of laboratory teaching
+- Individualized learning experiences and the role of artificial intelligence in supporting student learning
+- Digital affordances in learning and teaching chemistry
+- Epistemology in chemistry
+- Global perspectives in chemistry education: sustainability, accessibility, and interdisciplinarity
+  
+
+* MERCURY Consortium
+
+
+https://www.mercuryconsortium.org/conference-2025/
+
+July 21-25, 2025
+
+#+html: <img src="images/events-mercury.png" width="20%" align="right" style="padding-left: 10px;"/>
+The 2025 MERCURY Conference will be hosted by the Department of Chemistry at the University of Pittsburgh with support from the Pittsburgh Quantum Institute.   The Molecular Sciences Software Institute will host a workshop for students on July 21-22, and the MERCURY Conference will start the evening of July 23 and conclude at lunch on July 25. The conference is an excellent forum for undergraduates to present their work and to learn from experts in the field, allowing them to put their own research into perspective. It is equally valuable as a networking event for faculty working with undergraduates. Undergraduates from all types of institutions are invited to come present their work.
+
+* Past events 
+** POGIL-PCL Journal Discussion
+November 11, 2024, 2-3 pm Eastern time
+#+html: <img src="pogil-pcl.png" width="20%" align="right" style="padding-left: 10px;"/>
+
+The POGIL-PCL team will host an online zoom discussion of the science practices found in the POGIL-PCL experiment, [[https://drive.google.com/file/d/1sD8DllDoa7E1oc6Jnm4AzH8IxR7O8lUX/view?usp=sharing][How does a molecule's state affect its acidity?]] We will analyze the first cycle of this experiment based on the process outlined in the paper by [[https://drive.google.com/file/d/1noREgmFzac4rX7Kxl8-isT3NObg2Dkxw/view?usp=sharing][Lavery et al]].
+
+The discussion will provide you an opportunity to see how science practices are embedded in POGIL-PCL experiments and to learn more about this particular experiment. Please use this [[https://forms.gle/GYPEVBzCpZx7MUAD7][google form]] to let us know if you are interested in participating. A google calendar link will be sent out prior to the discussion.
+
+** POGIL-PCL Journal Discussion
+September 23, 2024, 3-4 pm Eastern time
+
+#+html: <img src="pogil-pcl.png" width="30%" align="right" style="padding-left: 10px;"/>
+
+The POGIL-PCL Journal Group will discuss the paper "Recommendations for Improving End-User Programming Education: A Case Study with Undergraduate Chemistry Students", Fuchs, et al. https://doi.org/10.1021/acs.jchemed.4c00219 (Creative Commons). Please use [[https://forms.gle/2L2yrPpxubfV4q1LA][this google form]] to indicate your interest in participating.
 
 ** ECRICE 2024: European Conference on Research in Chemical Education
 September 5-7, 2024
@@ -31,19 +83,15 @@ It is relevant to examine different learning environments, new educational tools
 The ECRICE24 Committees of this International conference invite all chemistry education researchers and teachers to come to the conference and challenge them to showcase presentations, submit abstracts, and present work, regarding new developments in Chemical Education, through the lens of sustainable goals, and participate in the ECRICE 2024 meeting. 
 
 We are looking forward to welcoming you in Lisbon.
-** POGIL-PCL Journal Discussion
-September 23, 2024, 3-4 pm Eastern time
+** ACS Fall 2024: Elevating Chemistry
+#+html: <img src="images/events-acsfall2024.png" width="80%" align="center"/>
 
-#+html: <img src="pogil-pcl.png" width="20%" align="right" style="padding-left: 10px;"/>
+August 18-22, 2024
 
-The POGIL-PCL Journal Group will discuss the paper "Recommendations for Improving End-User Programming Education: A Case Study with Undergraduate Chemistry Students", Fuchs, et al. https://doi.org/10.1021/acs.jchemed.4c00219 (Creative Commons). Please use [[https://forms.gle/2L2yrPpxubfV4q1LA][this google form]] to indicate your interest in participating.
+[[https://www.acs.org/meetings/acs-meetings/fall.html][ACS Fall 2024 Meeting]]
 
-* Past events 
-** POGIL-PCL Journal Discussion
-August 13, 2-3 pm Eastern time
-#+html: <img src="pogil-pcl.png" width="20%" align="right" style="padding-left: 10px;"/>
+The American Chemical Society Meetings & Expos are now hybrid with sessions in-person and virtual. You can register for hybrid, with access to both in-person and virtual sessions, or only virtual.
 
-The POGIL-PCL Journal Group will discuss two versions of the "classic temperature dependence of vapor pressure" experiment alongside a recent paper describing a simple, [[https://pubs.acs.org/doi/10.1021/acs.jchemed.3c01138][inexpensive isoteniscope]]. Please use this form to indicate your interest in this discussion, which will be led by Brian Gilbert and Michael Everest: [[https://forms.gle/Ppj9AoGsC7a798Yy5][https://forms.gle/Ppj9AoGsC7a798Yy5]]
 ** MOLSSI Two-Day Workshop on Python Scripting and AI-Assisted Coding
 August 17-18, 2024
 
@@ -53,6 +101,11 @@ August 17-18, 2024
 Join us for an engaging two-day workshop designed to teach programming and data
 handling skills using Python for people working in the molecular sciences and learn how to speed and enhance your learning using artificial intelligence. This event is ideal for students and professionals eager to get started with Python scripting and interested in leveraging AI tools like ChatGPT to learn coding faster and more efficiently. Location: CU Denver campus (0.25 miles from Convention center where ACS convention is being held)
 
+** POGIL-PCL Journal Discussion
+August 13, 2-3 pm Eastern time
+#+html: <img src="pogil-pcl.png" width="20%" align="right" style="padding-left: 10px;"/>
+
+The POGIL-PCL Journal Group will discuss two versions of the "classic temperature dependence of vapor pressure" experiment alongside a recent paper describing a simple, [[https://pubs.acs.org/doi/10.1021/acs.jchemed.3c01138][inexpensive isoteniscope]]. Please use this form to indicate your interest in this discussion, which will be led by Brian Gilbert and Michael Everest: [[https://forms.gle/Ppj9AoGsC7a798Yy5][https://forms.gle/Ppj9AoGsC7a798Yy5]]
 ** Biennial Conference on Chemical Education (BCCE)
 [[https://bcce.divched.org/]]
 
@@ -116,6 +169,7 @@ Research Corporation for Science Advancement (RCSA) is sponsoring the event. Fun
 
 Registration to attend is free but you must RSVP to reserve a spot! please fill out the registration form by April 25, 2024
 
+* 2023 :noexport:
 ** POGIL-PCL Zoom Workshop
 The POGIL-PCL team will host a moderated zoom workshop November 2 & 9, 2023, from 7pm-9pm Eastern time. We will work through the experiment, "What can an IR spectrum tell you about a molecule?" More details about the experiment: https://chemistry.coe.edu/piper/posts/gas-phase-ir-pcl/
 
