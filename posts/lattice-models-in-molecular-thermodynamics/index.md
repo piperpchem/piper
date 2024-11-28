@@ -22,7 +22,7 @@ Lattice models are a central idea in statistical thermodynamics, as they allow f
 
 # Reference
 
-Åstrand P-O, de Miguel R., ChemRxiv. 2024; [10.26434/chemrxiv-2024-3wlrd-v4](https://doi.org/10.26434/chemrxiv-2024-3wlrd-v4)
+Åstrand P-O, de Miguel R., ChemRxiv. 2024; [10.26434/chemrxiv-2024-3wlrd-v5](https://doi.org/10.26434/chemrxiv-2024-3wlrd-v4)
 
 This content is a preprint and has not been peer-reviewed.
 

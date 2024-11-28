@@ -1,0 +1,40 @@
+#+export_file_name: index
+#+options: broken-links:t
+# (ss-toggle-markdown-export-on-save)
+# date-added:
+
+#+begin_export md
+---
+title: "Improving the teaching of entropy and the second law of thermodynamics: a systematic review with meta-analysis"
+## https://quarto.org/docs/journals/authors.html
+#author:
+#  - name: ""
+#    affiliations:
+#     - name: ""
+#license: "©2024 American Chemical Society and Division of Chemical Education, Inc."
+#license: "CC BY-NC-SA"
+license: "©Royal Society of Chemistry 2024"
+#draft: true
+#date-modified:
+date: 2024-09-29
+categories: [thermo]
+keywords: physical chemistry teaching, physical chemistry education, teaching resources, thermodynamics, second law of thermodynamics
+
+image: understanding.png
+---
+#+end_export
+
+# this export deals with a top-level heading if there is one (put it above this comment)
+#+begin_export md
+<img src="understanding.png" width="40%" align="right" style="padding: 10px 0px 0px 10px;"/>
+#+end_export 
+
+Entropy and the second law of thermodynamics have long been identified as difficult concepts to teach in the physical chemistry curriculum. Their highly abstract nature, mathematical complexity and emergent nature underscore the necessity to better link classical thermodynamics and statistical thermodynamics. The objectives of this systematic review are thus to scope the solutions suggested by the literature to improve entropy teaching. ERIC and SCOPUS databases were searched for articles aiming primarily at this objective, generating N = 315 results. N = 91 articles were selected, among which N = 9 reported quantitative experimental data and underwent a meta-analysis, following PRISMA guidelines. Risk of bias was assessed by the standards criteria of What Works Clearinghouse. Results from the qualitative selection show diverse solutions to solve the entropy teaching hurdles, such as connection to everyday life, visualization, mathematics management by demonstrations, games and simulations, criticism and replacement of the disorder metaphor and curriculum assessment. The synthetic meta-analysis results show high but uncertain effect sizes. Implications for teachers and researchers are discussed.
+
+* Reference
+Natalis, Vincent and Leyh, Bernard, /Chem. Educ. Res. Pract./, 2024, [[http://dx.doi.org/10.1039/D4RP00158C][DOI: 10.1039/D4RP00158C]]
+
+* Local variables :noexport:
+# Local Variables:
+# eval: (ss-markdown-export-on-save)
+# End:

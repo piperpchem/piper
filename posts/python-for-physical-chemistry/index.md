@@ -1,0 +1,41 @@
+---
+title: "Python for Physical Chemistry"
+## https://quarto.org/docs/journals/authors.html
+#author:
+#  - name: ""
+#    affiliations:
+#     - name: ""
+#license: "©2024 American Chemical Society and Division of Chemical Education, Inc."
+license: Unknown
+#draft: true
+#date-modified:
+date: 2024-11-27
+categories: [jupyter, python]
+keywords: physical chemistry teaching, physical chemistry education, teaching resources, jupyter, python
+
+image: py4pchem.png
+---
+
+<img src="py4pchem.png" width="40%" align="right" style="padding: 10px 0px 0px 10px;"/>
+
+This is a work in progress Jupyter Book with tutorial content for doing data analysis in Python with common experimental data formats, with particular focus towards measurements relevant for physical chemistry. Funded by the CTFP, it is tailored towards providing the appropriate resources to students of CHM223 to be able to complete a virtual lab assignment using Python and Jupyter Notebook.
+
+This book is intended to be a starting point for continuous updates, to expand the usability beyond the course for general use by chemistry students at the University of Toronto.
+
+Topics:
+
+-   Importing Data into Python
+-   Data Manipulation & Analysis
+-   Visualizing Data
+-   Best Fits
+-   Rotational-Vibrational Spectroscopy Theory
+
+
+# Reference
+
+Rees Hughes, Mark Wilson
+
+<https://rees9.github.io/Py4PhysChem/>
+
+<https://github.com/Rees9/Py4PhysChem>
+

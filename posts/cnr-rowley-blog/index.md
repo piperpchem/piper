@@ -8,7 +8,7 @@ title: "Teaching Physical Chemistry Blog"
 #draft: true
 #date-modified:
 date: 2023-09-02
-categories: [website, course-design]
+categories: [website, course design]
 keywords: teaching learning physical chemistry, blog
 image: cnr-blog.png
 ---

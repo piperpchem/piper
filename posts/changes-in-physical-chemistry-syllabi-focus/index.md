@@ -1,0 +1,27 @@
+---
+title: "Changes in Physical Chemistry Syllabi Focus after the Transition to Emergency Remote Teaching"
+## https://quarto.org/docs/journals/authors.html
+#author:
+#  - name: ""
+#    affiliations:
+#     - name: ""
+#license: "©2024 American Chemical Society and Division of Chemical Education, Inc."
+#license: "CC BY-NC-SA"
+#draft: true
+#date-modified:
+date: 2024-10-01
+categories: [course design]
+keywords: physical chemistry teaching, physical chemistry education, teaching resources, syllabus, course design
+
+image: syllabi.webp
+---
+
+<img src="syllabi.webp" width="40%" align="right" style="padding: 10px 0px 0px 10px;"/>
+
+Physical chemistry is often perceived as being difficult, which can impact students’ expectations for success in this fundamental course. The syllabus is often the first interaction students have with a course, and its content can set the tone for their learning experience. Our previous analysis of the learning-centeredness of 92 physical chemistry syllabi revealed that the document is largely content-focused. However, the transition to remote instruction in response to the COVID-19 pandemic led to significant changes in instructional strategies, institutional policies, and practices, and, we hypothesized, syllabi focus. We collected physical chemistry syllabi from 25 of the same institutions and instructors between spring 2021 and spring 2022 and qualitatively analyzed the extent of change in the focus of the documents using the same rubric that we used for our initial analysis. We documented an overall increase in learning focus in the 2021–2022 syllabi. While there were no significant changes to learning goals and objectives, there was evidence of positive change in assessment activities and communication of learning-focused environments. This communication gives a snapshot of changes in physical chemistry syllabi after the transition to remote teaching. Our results reiterate implications from our previous analysis and highlight changes to the landscape of physical chemistry syllabi.
+
+
+# Reference
+
+Julie Donnelly, Kurt Winkelmann, Yara Khallaf, *J. Chem. Educ.* 2024, [doi.org/10.1021/acs.jchemed.4c00505](https://doi.org/10.1021/acs.jchemed.4c00505)
+

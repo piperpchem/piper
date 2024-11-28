@@ -18,17 +18,12 @@ keywords:
  - Theoretical Chemistry
 image: beyond-the-syllabus.png
 ---
-<img src="beyond-the-syllabus.png" width="50%">
+<img src="beyond-the-syllabus.png" width="25%" align="right" style="padding: 10px 0px 0px 10px;"/>
 
 The initial interaction among student, instructor, and content on the first day of class is critical in setting the stage for the remainder of the semester. While many students would like to ease into the semester, experienced faculty realize that the first day of class provides a one-time opportunity to shape the students’ first impression of a subject area. In this paper, a process is outlined for introducing the physical chemistry course in such a way that students expect that much of the course will be about developing models to describe physical and chemical processes and that those models may be macroscopic, molecular-level, or mathematical in nature.
 
 
 # Reference
 
-Chrystal D. Bruce, J. Chem. Educ. 2013, 90, 1180−1185, [doi.org/10.1021/ed3008445](https://doi.org/10.1021/ed3008445)
-
-<span
-hidden>KEYWORDS: Upper-Division Undergraduate, Physical Chemistry,
-Analogies/Transfer, Computer-Based Learning, Theoretical
-Chemistry</span>
+Chrystal D. Bruce, *J. Chem. Educ.* 2013, 90, 1180−1185, [doi.org/10.1021/ed3008445](https://doi.org/10.1021/ed3008445)
 

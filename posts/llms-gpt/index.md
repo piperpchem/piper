@@ -17,6 +17,13 @@ image: llm-gpt.svg
 Some references related to Large Language Model (LLM) and Generative Pre-trained Transformer (GPT) resources such as ChatGPT, and their use in the chemistry classroom. Please send additions to ssinglet@coe.edu and I will include them in this list.
 
 
+# Let Us Not Squander the Affordances of LLMs for the Sake of Expedience: Using Retrieval Augmented Generative AI Chatbots to Support and Evaluate Student Reasoning
+
+Melanie M. Cooper and Michael W. Klymkowsky, J. Chem. Ed., 2024, [doi.org/10.1021/acs.jchemed.4c00765](https://doi.org/10.1021/acs.jchemed.4c00765)
+
+The use of large language model Generative AI (GenAI) systems by students and instructors is increasing rapidly, and there is little choice but to adapt to this new situation. Many, but not all, students are using GenAI for homework and assignments, which means that we need to provide equitable access for all students to AI systems that can support and enhance their learning. At the same time, we need to think carefully about just what we want teaching and learning to look like as GenAI systems become readily available. Here we propose that “business as usual” is not a responsible option. Although chatbots can readily answer questions, produce summaries of content, and make the process of education more efficient, there is scant evidence that such time saving is effective, and indeed, it is important that we not allow the use of GenAI systems to circumvent or undermine the learning process. The availability of so-called Retrieval Augmented Generative (RAG) AI systems allows us to expand what we expect students to know and do, by 1) supporting instructors in the design of more complex tasks (that can, for example, elicit evidence of three-dimensional learning (3DL)), 2) supporting students as they reason through such scaffolded tasks, and 3) by evaluating student responses, individually and in aggregate. We present examples of each of these affordances with the associated training materials and bot personas, along with caveats about their use.
+
+
 # Using Generative AI Systems for Critical Thinking Engagement in an Advanced Chemistry Course: A Case Study
 
 Pence, et. al., J. Chem. Educ. 2024, [doi: 10.1021/acs.jchemed.4c00242](https://doi.org/10.1021/acs.jchemed.4c00242)
