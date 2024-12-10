@@ -1,0 +1,39 @@
+#+export_file_name: index
+#+options: broken-links:t
+# (ss-toggle-markdown-export-on-save)
+# date-added:
+
+#+begin_export md
+---
+title: "Delving Into the Design and Implementation of Specifications Grading Systems in Higher Education: A Systematic Review"
+## https://quarto.org/docs/journals/authors.html
+#author:
+#  - name: ""
+#    affiliations:
+#     - name: ""
+#license: "©2024 American Chemical Society and Division of Chemical Education, Inc."
+license: "CC BY"
+#draft: true
+#date-modified:
+date: 2024-11-28
+categories: [course design]
+keywords: physical chemistry teaching, physical chemistry education, teaching resources, course design, specifications grading, higher education
+
+image: grading.png
+---
+#+end_export
+
+# this export deals with a top-level heading if there is one (put it above this comment)
+#+begin_export md
+<img src="grading.png" width="40%" align="right" style="padding: 10px 0px 0px 10px;"/>
+#+end_export 
+
+Specifications grading is an alternative grading system that has been used with increasing frequency in higher education. Since first introduced by Linda Nilson in 2014, more than 91 publications on the design and implementation of specifications grading systems have been published. This work presents a systematic review of the current literature to analyze the variety of ways specifications grading systems are executed, including the diverse design and implementation considerations, as well as to present and discuss emergent themes. We analyzed 91 publications and present their relevant findings in the results. The following databases were last searched on October 5, 2024, for publications: IEEE Xplore, ACS Publications, ASEE PEER, PER, Scopus, ERIC, ACM, ScienceDirect, and Web of Science. All peer-reviewed journal articles, conference proceedings, and book chapters that implemented at least two structural features of specifications grading in an undergraduate or graduate course were included in this review. Theses, dissertations, conference abstracts, posters, workshops, blogs, opinion pieces, social media exchanges, and content provided on websites were not included. Additionally, reports of specifications grading systems in K-12 courses or those that only presented the design and/or implementation of less than two structural features of the grading system were similarly excluded. Our findings from the literature reveal that the following themes emerge from educators who use specifications grading: time investment, academic performance, and student reactions. This review provides a resource for those interested in exploring this alternative grading system, and the emergent themes indicate that there are ripe opportunities for future study.
+
+* Reference
+Howitz W.J., McKnelly K.J., Link R.D., ChemRxiv, 2024, [[https://doi.org/10.26434/chemrxiv-2024-d0tf6-v2][doi:10.26434/chemrxiv-2024-d0tf6-v2]]. This content is a preprint and has not been peer-reviewed.
+
+* Local variables :noexport:
+# Local Variables:
+# eval: (ss-markdown-export-on-save)
+# End:

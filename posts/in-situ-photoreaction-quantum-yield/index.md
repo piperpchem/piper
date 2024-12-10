@@ -1,0 +1,27 @@
+---
+title: "In-Situ Photoreaction Quantum Yield Measurements and Red-Light Actinometry Using Methylene Blue and Ascorbic Acid: Experiments for Analytical and Physical Chemistry"
+## https://quarto.org/docs/journals/authors.html
+#author:
+#  - name: ""
+#    affiliations:
+#     - name: ""
+license: "©2024 American Chemical Society and Division of Chemical Education, Inc."
+#license: "CC BY-NC-SA"
+#draft: true
+#date-modified:
+date: 2024-11-28
+categories: [kinetics, lab, spectroscopy]
+keywords: physical chemistry teaching, physical chemistry education, teaching resources, kinetics, laboratory, spectroscopy, photochemistry
+
+image: photoreaction.webp
+---
+
+<img src="photoreaction.webp" width="40%" align="right" style="padding: 10px 0px 0px 10px;"/>
+
+In an effort to keep undergraduate chemical education at pace with contemporary interest in photochemical methodologies, we have identified a straightforward system for which steady-state photochemical kinetics may can be tracked via in situ UV–vis spectroscopy: an aqueous solution of methylene blue and ascorbic acid. Under red-light illumination, methylene blue forms a highly oxidizing excited state which is reduced by ascorbic acid, resulting in the colorless leucomethylene blue and the loss of methylene blue spectral features. Using a laser diode of steady output power, the quantum yield of the photoreaction was experimentally determined to be Φ<sub>rxn</sub> = 0.106─indicating that about one in ten absorbed photons results in a productive reaction in this system. Φ<sub>rxn</sub> is a critical metric in developing efficient photochemical reactions. The reaction was then used as a chemical actinometer to measure the power of an inexpensive red laser pointer and LED. These facile experiments can be employed in analytical and physical chemistry courses to expose students to important photochemical concepts through the familiar lens of UV–vis spectroscopy.
+
+
+# Reference
+
+Torrence L. Bryant, Yisreal M.L. Lamb, *J. Chem. Educ.*, 2024, [doi.org/10.1021/acs.jchemed.4c01155](https://doi.org/10.1021/acs.jchemed.4c01155)
+
