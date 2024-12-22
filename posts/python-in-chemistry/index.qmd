@@ -2,7 +2,7 @@
 title: "Python in Chemistry"
 #author: "ssinglet"
 date: "2021-11-02"
-date-modified: "2021-11-02"
+#date-modified: "2021-11-02"
 categories: ["website", "python", "computing"]
 image: pythoninchemistry.png
 ---

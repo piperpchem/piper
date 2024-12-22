@@ -12,7 +12,7 @@ title-block-banner: true
 
 https://www.pogilpcl.org
 
-#+html: <img src="pogil-pcl.png" width="30%" align="right" style="padding-left: 0px;"/>
+#+html: <img src="images/pogil-pcl.png" width="30%" align="right" style="padding-left: 0px;"/>
 POGIL-Physical Chemistry Laboratory is a group of several dozen physical chemists working together to make the physical chemistry lab course and engaging and meaningful learning experience. Through this work an enthusiastic community arose. POGIL-PCL organizes online and in-person workshops, a reading club (with synchronous online discussions), a newsletter, and laboratory development workshops. [[https://www.pogilpcl.org/get-connected][Get connected.]]
 
 Experiment highlights and student versions of lab experiments are available in the PIPER [[https://chemistry.coe.edu/piper/resources.html#category=pogil-pcl][Teaching Resources]] and in the POGIL-PCL [[https://www.pogilpcl.org/catalog][experiment catalog]].
@@ -22,7 +22,6 @@ https://labsip.org/
 #+html: <img src="https://chlresearchgroup.sites.haverford.edu/labsip.org/wp-content/uploads/2023/03/Screen-Shot-2023-01-05-at-10.29.46-1.png" width="30%" align="right" style="margin:20px 0px;"/>
 LABSIP (Lowering Access Barriers to Success in Physical Chemistry) is a collaborative
 project led by eleven physical chemistry instructors and funded initially by Research Corporation for Science Advancement. Our short-term goal is community engagement around new directions in Physical Chemistry instruction, with a longer-term goal of providing guidelines and resources towards a more inclusive, dynamic, and current physical chemistry curriculum.
-
 
 * MoLSSI Education
 [[http://education.molssi.org/]]
@@ -35,10 +34,26 @@ MolSSI’s education techniques and practices are modeled after The Carpentries 
 * MERCURY Consortium
 [[https://www.mercuryconsortium.org/][https://www.mercuryconsortium.org/]]
 
-#+html: <img src="mercury.png" width="15%" align="right" style="padding-left: 0px;"/>
+#+html: <img src="images/mercury.png" width="15%" align="right" style="padding-left: 0px;"/>
 The consortium, known as the Molecular Education and Research Consortium
 in Undergraduate computational chemistRY (MERCURY) was founded with the goal of establishing research collaboration among seven computational chemistry faculty from primarily undergraduate institutions (PUIs). The consortium members share NSF-funded computational facilities and meet at an annual MERCURY conference to network and present their research.
 
+* MoleCVUE
+[[https://sites.google.com/view/molecvue/news][https://sites.google.com/view/molecvue]]
+
+#+html: <img src="images/molecvue.gif" width="15%" align="right" style="padding-left: 0px;"/>
+The MoleCVUE consortium is an association of faculty at Primarily Undergraduate Institutions (PUIs) who share the common purpose expressed by our name: Molecular Computation and Visualization in Undergraduate Education. Participants at recent meetings have come from a variety of academic institutions.
+
+Our areas of interest include not only chemistry and biochemistry, but also material science, molecular biology, and other areas where the ruling paradigm is "molecules." 
+
+Our objectives are to enhance our own undergraduate instruction by developing and employing modern computational and visualization tools and to provide the methods, techniques, and tools we develop freely  to other science instructors.
+
+The MoleCVUE consortium provides:
+
+- A forum for expressing one's own ideas and receiving criticism and suggestions;
+- A channel for awareness of and instruction in computer tools and techniques;
+- Extended meetings with like-minded colleagues from which collaborative projects and products may emerge.
+- Activities that introduce undergraduate students to computational chemistry and allow them to present the results of their work.
 * Engaging Students in Physical Chemistry
 https://groups.google.com/g/engaging-students-in-physical-chemistry
 
@@ -57,6 +72,7 @@ As a member of the POGIL community, you are part of something bigger than yourse
 Mastodon instance for Chemists, Physicists, and everyone in-between. Run by early career scientists: https://physchem.science
 
 * Local variables :noexport:
+
 # Local Variables:
 # eval: (ss-markdown-export-on-save)
 # End:

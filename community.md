@@ -8,7 +8,7 @@ title-block-banner: true
 
 <https://www.pogilpcl.org>
 
-<img src="pogil-pcl.png" width="30%" align="right" style="padding-left: 0px;"/>
+<img src="images/pogil-pcl.png" width="30%" align="right" style="padding-left: 0px;"/>
 
 POGIL-Physical Chemistry Laboratory is a group of several dozen physical chemists working together to make the physical chemistry lab course and engaging and meaningful learning experience. Through this work an enthusiastic community arose. POGIL-PCL organizes online and in-person workshops, a reading club (with synchronous online discussions), a newsletter, and laboratory development workshops. [Get connected.](https://www.pogilpcl.org/get-connected)
 
@@ -40,10 +40,30 @@ MolSSI’s education techniques and practices are modeled after The Carpentries 
 
 [https://www.mercuryconsortium.org/](https://www.mercuryconsortium.org/)
 
-<img src="mercury.png" width="15%" align="right" style="padding-left: 0px;"/>
+<img src="images/mercury.png" width="15%" align="right" style="padding-left: 0px;"/>
 
 The consortium, known as the Molecular Education and Research Consortium
 in Undergraduate computational chemistRY (MERCURY) was founded with the goal of establishing research collaboration among seven computational chemistry faculty from primarily undergraduate institutions (PUIs). The consortium members share NSF-funded computational facilities and meet at an annual MERCURY conference to network and present their research.
+
+
+# MoleCVUE
+
+[https://sites.google.com/view/molecvue](https://sites.google.com/view/molecvue/news)
+
+<img src="images/molecvue.gif" width="15%" align="right" style="padding-left: 0px;"/>
+
+The MoleCVUE consortium is an association of faculty at Primarily Undergraduate Institutions (PUIs) who share the common purpose expressed by our name: Molecular Computation and Visualization in Undergraduate Education. Participants at recent meetings have come from a variety of academic institutions.
+
+Our areas of interest include not only chemistry and biochemistry, but also material science, molecular biology, and other areas where the ruling paradigm is &ldquo;molecules.&rdquo; 
+
+Our objectives are to enhance our own undergraduate instruction by developing and employing modern computational and visualization tools and to provide the methods, techniques, and tools we develop freely  to other science instructors.
+
+The MoleCVUE consortium provides:
+
+-   A forum for expressing one&rsquo;s own ideas and receiving criticism and suggestions;
+-   A channel for awareness of and instruction in computer tools and techniques;
+-   Extended meetings with like-minded colleagues from which collaborative projects and products may emerge.
+-   Activities that introduce undergraduate students to computational chemistry and allow them to present the results of their work.
 
 
 # Engaging Students in Physical Chemistry

@@ -5,8 +5,9 @@ title: "Integrating Python into a Physical Chemistry Lab"
 #  - name: ""
 #    affiliations:
 #     - name: ""
-license: "©2022 American Chemical Society and Division of Chemical Education, Inc."
-#license: "CC BY-NC-SA"
+#license: "©2022 American Chemical Society and Division of Chemical Education, Inc."
+license:
+  text: "CC-BY-NC or ©2022 ACS-ChEd"
 #draft: true
 #date-modified:
 date: 2024-11-27
@@ -22,6 +23,8 @@ This paper shows a method for integrating computer programming into a standard p
 
 
 # Reference
+
+van Staveren M.,  *ChemRxiv* 2022; <https://doi.org/10.26434/chemrxiv-2022-09k30>
 
 Marie van Staveren, *J. Chem. Educ.*, 2022, 99, 7, 2604–2609,
 [doi.org/10.1021/acs.jchemed.2c00193](https://doi.org/10.1021/acs.jchemed.2c00193)
