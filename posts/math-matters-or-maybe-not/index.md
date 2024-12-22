@@ -23,5 +23,6 @@ Research spanning nearly a century has found that math plays an important role i
 
 # Reference
 
-Koedinger KR, Blaser M, McLaughlin EA, Cheng H, Yaron DJ., *ChemRxiv.* 2024, [doi:10.26434/chemrxiv-2024-bms6x](https://doi:10.26434/chemrxiv-2024-bms6x) This content is a preprint and has not been peer-reviewed.
+Koedinger KR, Blaser M, McLaughlin EA, Cheng H, Yaron DJ., *ChemRxiv.* 2024,
+[doi:10.26434/chemrxiv-2024-bms6x](https://doi.org/10.26434/chemrxiv-2024-bms6x) This content is a preprint and has not been peer-reviewed.
 
