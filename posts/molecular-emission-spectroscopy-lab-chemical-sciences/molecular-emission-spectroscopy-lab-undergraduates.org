@@ -1,0 +1,39 @@
+#+export_file_name: index
+#+options: broken-links:t
+# (ss-toggle-markdown-export-on-save)
+# date-added:
+
+#+begin_export md
+---
+title: "Molecular Emission Spectroscopy: A Laboratory Experiment for Undergraduate Students in Chemical Sciences"
+## https://quarto.org/docs/journals/authors.html
+#author:
+#  - name: ""
+#    affiliations:
+#     - name: ""
+license: "©2025 American Chemical Society and Division of Chemical Education, Inc."
+#license: "CC BY-NC-SA"
+#draft: true
+#date-modified:
+date: 2025-01-26
+categories: [lab, spectroscopy]
+keywords: physical chemistry teaching, physical chemistry education, teaching resources, fluorescence spectroscopy, emission spectroscopy
+
+image: molecular.webp
+---
+#+end_export
+
+# this export deals with a top-level heading if there is one (put it above this comment)
+#+begin_export md
+<img src="molecular.webp" width="40%" align="right" style="padding: 10px 0px 0px 10px;"/>
+#+end_export 
+
+A laboratory experiment has been designed for teaching laboratories aimed at training students in the basics of spectroscopy in junior and senior level undergraduate chemistry courses. Despite the ubiquity of light-based tools in modern science, students often find it difficult to comprehend light and light-matter interactions. A portable spectrometer is utilized to record the fluorescence spectra of various lasers and molecular samples in the visible range of the electromagnetic spectrum. Three different wavelength laser sources are utilized to excite the molecular samples. Students record the experimental emission spectra from the lasers as well as from the provided inorganic and organic samples, and analyze the resulting spectra for fluorescence wavelength, spectral peak widths, and intensity. These experimental results help students understand and appreciate the quantum theory of spectroscopy. Several conceptual and reasoning difficulties among students in relating the emission spectra to energy levels of atoms and molecules are reduced by these laboratory activities and exercises. Furthermore, these laboratory exercises may stimulate research interest in students as they look forward in their careers. Although this experiment is designed for typical laboratory settings, it can be utilized in other laboratories or in outdoor environments due to the portable nature of the instrument which contains mini lasers, a mini spectrometer, and a laptop computer.
+
+* Reference
+B. B. Dangi, M. A. Cooper, N. Carnegie, J. Clark, /J. Chem. Educ./, 2025, [[https://doi.org/10.1021/acs.jchemed.4c00861][10.1021/acs.jchemed.4c00861]]
+
+* Local variables :noexport:
+# Local Variables:
+# eval: (ss-markdown-export-on-save)
+# End:
