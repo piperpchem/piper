@@ -1,0 +1,38 @@
+#+export_file_name: index
+#+options: broken-links:t
+# (ss-toggle-markdown-export-on-save)
+# date-added:
+
+#+begin_export md
+---
+title: "Kinetics Experiment on the Reaction of Coumarin-102 with NaOH Using Smartphone Fluorescence Imaging"
+## https://quarto.org/docs/journals/authors.html
+#author:
+#  - name: ""
+#    affiliations:
+#     - name: ""
+license: "©2025 American Chemical Society and Division of Chemical Education, Inc."
+#license: "CC BY-NC-SA"
+#draft: true
+#date-modified:
+date: 2025-02-16
+categories: [lab, kinetics, spectroscopy]
+keywords: physical chemistry teaching, physical chemistry education, teaching resources, kinetics, fluorescence spectroscopy, laboratory
+
+image: coumarin.webp
+---
+#+end_export
+
+# this export deals with a top-level heading if there is one (put it above this comment)
+#+begin_export md
+<img src="coumarin.webp" width="40%" align="right" style="padding: 10px 0px 0px 10px;"/>
+#+end_export
+
+This paper reports a laboratory experiment that determines the kinetics of the reaction of coumarin-102, a fluorescent dye, with sodium hydroxide. The reaction is studied by monitoring the loss of coumarin-102 fluorescence during ring-opening saponification by hydroxide using smartphone cameras and near-UV (“blacklight”) illumination. The order of the reaction in coumarin-102 is determined by examining the time course of fluorescence decay over time and fitting the data to integrated rate law models. The order of the reaction in sodium hydroxide is determined by varying the concentration of NaOH and comparing the impact on the rate of the reaction. This represents an easy-to-implement kinetics experiment that uses an engaging phenomenon (fluorescence), a convenient data-acquisition technology (smartphone cameras), and an important image-processing software program (ImageJ). This gives students the ability to work with the determination of the rate law for both coumarin-102 and sodium hydroxide using complementary methods. This experiment is both informative and enjoyable for students, enabling them to directly observe kinetics─quite literally with open eyes─making scientific concepts more tangible and engaging. The experiment has also been adapted in a manner consistent with the principles of evidence-centered design using the content of kinetics and the scientific practice of mathematical reasoning.
+* Reference
+Donald. J. Wink, Loredana C. Huma, Mustafa Demirbuga, Hongyang Zhang, Gregory Jursich, Ewa Stec, /J. Chem. Educ./, 2025, [[https://doi.org/10.1021/acs.jchemed.4c01052][DOI 10.1021/acs.jchemed.4c01052]]
+
+* Local variables :noexport:
+# Local Variables:
+# eval: (ss-markdown-export-on-save)
+# End:
