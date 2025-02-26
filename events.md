@@ -6,7 +6,18 @@ title-block-banner: true
 *Please send your event announcement to Steve Singleton ssinglet@coe.edu*
 
 
-# Gordon Research Conference
+# POGIL-PCL Online Workshop April 2025
+
+<img src="images/pogil-pcl.png" width="20%" align="right" style="padding-left: 10px;"/>
+
+The POGIL-PCL team, led by Jordan Beck, Andrea Carter, and Diane Miller, will host a zoom workshop on two consecutive Mondays, April 14 & 21, 7-9 pm Eastern time. We will do a new POGIL-PCL experiment, &ldquo;[Why does the fluorescence of cytochrome c change as it unfolds](https://drive.google.com/file/d/1BPzGviu1ponM3kLwqGHPCYOXe2mhnQwD/view?usp=sharing)?&rdquo;
+
+Please complete [this form](https://docs.google.com/forms/d/e/1FAIpQLScywqQ4cCedSmtqS5mMXFdwvkTnNfEyTOD0Toetcllf8f7aRA/viewform?usp=sharing) to indicate your interest in attending this workshop.
+
+To participate fully, you should have a computer with audio and video capability as well as access to Google drive. To get the most out of the experience, participants will also complete pre-experiment questions outside of the workshop time.
+
+
+# Gordon Research Conference July 2025
 
 July 6 - 11, 2025
 
@@ -26,7 +37,7 @@ This meeting intends to act as a prompt to draw on the latest research and schol
 -   Global perspectives in chemistry education: sustainability, accessibility, and interdisciplinarity
 
 
-# MERCURY Consortium
+# MERCURY Consortium July 2025
 
 <https://www.mercuryconsortium.org/conference-2025/>
 
@@ -44,7 +55,7 @@ The 2025 MERCURY Conference will be hosted by the Department of Chemistry at the
 
 November 11, 2024, 2-3 pm Eastern time
 
-<img src="pogil-pcl.png" width="20%" align="right" style="padding-left: 10px;"/>
+<img src="images/pogil-pcl.png" width="20%" align="right" style="padding-left: 10px;"/>
 
 The POGIL-PCL team will host an online zoom discussion of the science practices found in the POGIL-PCL experiment, [How does a molecule&rsquo;s state affect its acidity?](https://drive.google.com/file/d/1sD8DllDoa7E1oc6Jnm4AzH8IxR7O8lUX/view?usp=sharing) We will analyze the first cycle of this experiment based on the process outlined in the paper by [Lavery et al](https://drive.google.com/file/d/1noREgmFzac4rX7Kxl8-isT3NObg2Dkxw/view?usp=sharing).
 
@@ -55,7 +66,7 @@ The discussion will provide you an opportunity to see how science practices are 
 
 September 23, 2024, 3-4 pm Eastern time
 
-<img src="pogil-pcl.png" width="30%" align="right" style="padding-left: 10px;"/>
+<img src="images/pogil-pcl.png" width="20%" align="right" style="padding-left: 10px;"/>
 
 The POGIL-PCL Journal Group will discuss the paper &ldquo;Recommendations for Improving End-User Programming Education: A Case Study with Undergraduate Chemistry Students&rdquo;, Fuchs, et al. <https://doi.org/10.1021/acs.jchemed.4c00219> (Creative Commons). Please use [this google form](https://forms.gle/2L2yrPpxubfV4q1LA) to indicate your interest in participating.
 

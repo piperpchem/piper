@@ -16,7 +16,7 @@ license: MIT, © Martin Mccullagh
 #draft: true
 #date-modified:
 date: 2024-11-27
-categories: [python, jupyter, thermodynamics, quantum, stat-mech]
+categories: [python, jupyter, thermo, quantum, stat-mech]
 keywords: physical chemistry teaching, physical chemistry education, teaching resources, python, jupyter, thermodynamics, quantum, statistical thermodynamics
 
 image: mcc.png
