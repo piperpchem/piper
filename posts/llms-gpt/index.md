@@ -17,14 +17,42 @@ image: llm-gpt.svg
 Some references related to Large Language Model (LLM) and Generative Pre-trained Transformer (GPT) resources such as ChatGPT, and their use in the chemistry classroom. Please send additions to ssinglet@coe.edu and I will include them in this list.
 
 
+# Investigating the Uses and Impacts of Generative Artificial Intelligence in Chemistry Education
+
+[Journal of Chemical Education Virtual Special Issue](https://pubs.acs.org/page/jceda8/vi/genai2024?ref=vi_collection)
+
+Guest Editors: Elizabeth Yuriev, Monash University, Australia;
+Donald J. Wink, University of Illinois at Chicago, USA;
+Thomas A. Holme, Iowa State University, USA
+
+Highlights the emerging applications of generative artificial intelligence (AI) in chemistry education. An accompanying editorial by the Guest Editor Team introduces the VSI.
+
+
 # Large Language Models (LLMs) as Graphing Tools for Advanced Chemistry Education and Research
 
-S. M. Supundrika Subasinghe, Simon G. GersibNeal P. Mankad, [doi.org/10.1021/acs.jchemed.4c01498](https://doi.org/10.1021/acs.jchemed.4c01498)
+S. M. Supundrika Subasinghe, Simon G. GersibNeal P. Mankad, *J. Chem. Educ.*, 2025, [doi.org/10.1021/acs.jchemed.4c01498](https://doi.org/10.1021/acs.jchemed.4c01498)
+
+Large language models (LLMs) are positioned to transform how students interact with data in classroom and laboratory settings, both now and in the future. The integration of LLMs into chemical curricula, if done effectively, may improve student equity and learning outcomes and provide an alternative approach to data analysis alongside traditional methods. One of the key strengths of LLMs is their ability to efficiently summarize large data sets and transform them into understandable forms. Here we focus on use of LLMs to process quantitative data and make high-quality data plots without relying exclusively on spreadsheet skills. Specifically, we tested the ability of OpenAI’s ChatGPT to plot Walsh diagrams relevant to an ongoing laboratory experiment conducted in an undergraduate inorganic chemistry course.
+
+
+# Discussing the Ethics of Professional AI Use in Undergraduate Chemistry Courses
+
+Emily F. Ruff, Jennifer M. O. Zemke, *J. Chem. Educ.*, 2025, [doi.org/10.1021/acs.jchemed.4c01038](https://doi.org/10.1021/acs.jchemed.4c01038)
+
+Teaching resources are needed to inform today’s undergraduate students about emerging uses of AI and help them think critically about corresponding ethical issues. We designed and piloted two exercises using articles from the popular press to introduce students to professional uses of AI in chemistry and related areas.
+Using student writing and follow-up assignments, we find that students are optimistic that AI will advance these fields but are also concerned that human labor and ideas should be protected. We close with suggestions for other instructors designing similar assignments.
+
+
+# Artificial Intelligence in Chemistry Research─Implications for Teaching and Learning
+
+Sandra Berber, Mathea Brückner, Nikolai Maurer, Johannes Huwer, *J. Chem. Educ.*, 2025, [doi.org/10.1021/acs.jchemed.4c01033](https://doi.org/10.1021/acs.jchemed.4c01033)
+
+Despite its growing relevance, the discussion of AI as a tool in research in (secondary) chemistry education remains limited. To address this gap, a review of AI applications in chemical and chemistry-related research was first carried out. Based on this review a workshop for pre- and in-service chemistry teachers was conducted to provide an initial overview of AI applications in scientific research. The workshop introduced key areas such as retrosynthesis, protein structure prediction, image processing, and autonomous laboratories, fostering awareness of AI’s role in scientific innovation. Participating secondary education science teachers reported an increased familiarity with AI applications and expressed intentions to incorporate these topics into their teaching.
 
 
 # Let Us Not Squander the Affordances of LLMs for the Sake of Expedience: Using Retrieval Augmented Generative AI Chatbots to Support and Evaluate Student Reasoning
 
-Melanie M. Cooper and Michael W. Klymkowsky, J. Chem. Ed., 2024, [doi.org/10.1021/acs.jchemed.4c00765](https://doi.org/10.1021/acs.jchemed.4c00765)
+Melanie M. Cooper and Michael W. Klymkowsky, *J. Chem. Educ.*, 2024, [doi.org/10.1021/acs.jchemed.4c00765](https://doi.org/10.1021/acs.jchemed.4c00765)
 
 The use of large language model Generative AI (GenAI) systems by students and instructors is increasing rapidly, and there is little choice but to adapt to this new situation. Many, but not all, students are using GenAI for homework and assignments, which means that we need to provide equitable access for all students to AI systems that can support and enhance their learning. At the same time, we need to think carefully about just what we want teaching and learning to look like as GenAI systems become readily available. Here we propose that “business as usual” is not a responsible option. Although chatbots can readily answer questions, produce summaries of content, and make the process of education more efficient, there is scant evidence that such time saving is effective, and indeed, it is important that we not allow the use of GenAI systems to circumvent or undermine the learning process. The availability of so-called Retrieval Augmented Generative (RAG) AI systems allows us to expand what we expect students to know and do, by 1) supporting instructors in the design of more complex tasks (that can, for example, elicit evidence of three-dimensional learning (3DL)), 2) supporting students as they reason through such scaffolded tasks, and 3) by evaluating student responses, individually and in aggregate. We present examples of each of these affordances with the associated training materials and bot personas, along with caveats about their use.
 

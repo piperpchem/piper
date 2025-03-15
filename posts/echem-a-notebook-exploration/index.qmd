@@ -1,14 +1,22 @@
 ---
-title: "echem: A notebook exploration of quantum chemistry from laptop to HPC"
+title: "eChem: Accelerated method development in quantum chemistry with notebooks"
 #author: "ssinglet"
-date: "2022-11-11T00:00:00-06:00"
-categories: ["computing", "jupyter", "quantum", "computational", "python"]
+#date: "2022-11-11T00:00:00-06:00"
+date: 2025-03-01
+categories: ["computing", "jupyter", "quantum", "computational", "python", "website"]
 image: echem-a-notebook.png
 license: "CC-BY-NC-ND 4.0"
+keywords: computing, jupyter, physical chemistry teaching learning, python, quantum mechanics, jupyter notebooks, quantum chemistry, teaching, learning
 ---
 
-![](echem-a-notebook.png){width="80%"}
+<img src="echem-a-notebook.png" width="40%" align="right" style="padding: 10px 0px 0px 10px;"/>
 
+We have recently presented the eChem project as an interactive platform for quantum and computational chemistry education [J. Chem. Educ. 100, 1664--1671]. However, education is only one side of the eChem project. Another aspect is that it highly accelerates method development by means of code prototyping in notebooks. Complex equations can be understood and algorithms examined before the actual software programming step is carried out. Here, we illustrate the benefits of notebooks for code prototyping using the example of vibrational spectroscopy -- a type of spectroscopy which involves complex equations with a large number of terms.
+
+<https://doi.org/10.26434/chemrxiv-2025-x0csm>
+
+
+### A notebook exploration of quantum chemistry from laptop to HPC
 The eChem project features an e-book published as a web page (<https://bit.ly/e-chem>), collecting a repository of Jupyter notebooks developed for the dual purpose of explaining and exploring the underlying theory behind computational chemistry in a highly interactive manner as well as providing a tutorial-based presentation of the complex workflows needed to simulate embedded molecular systems of real biochemical and/or technical interest. For students ranging from beginners to advanced users, the eChem book is well suited for self-directed learning, and workshops led by experienced instructors for targeting student bodies with specific needs and interests can readily be formed from its components. The members of the eChem team are engaged in both education and research and as a mirroring activity, we develop the open-source software upon which this e-book is predominantly based. The overreaching vision and goal of our work is to provide a science- and education-enabling software platform for quantum molecular modeling on contemporary and future high-performance computing systems, with the resulting development and workflows now being documented in the eChem book.
 
 Chapters include:
@@ -22,7 +30,7 @@ Chapters include:
 
 ## Reference
 
-<https://doi.org/10.30746/978-91-988114-0-7>
+<https://kthpanor.github.io/echem/docs/title.html>
 
 Fransson T, Delcey M, Brumboiu I, Hodecker M, Li X, Rinkevicius Z, et al. eChem: A notebook exploration of quantum chemistry. ChemRxiv. Cambridge: Cambridge Open Engage; 2022;  This content is a preprint and has not been peer-reviewed.
 <https://doi.org/10.26434/chemrxiv-2022-98wmf-v2>

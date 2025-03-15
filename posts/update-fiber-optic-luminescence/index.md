@@ -1,0 +1,27 @@
+---
+title: "Update of a Classic: A Compact Fiber-Optic-Based Laser Luminescence Instrument To Measure Bimolecular Quenching Rate Constants"
+## https://quarto.org/docs/journals/authors.html
+#author:
+#  - name: ""
+#    affiliations:
+#     - name: ""
+#license: "©2025 American Chemical Society and Division of Chemical Education, Inc."
+license: "CC BY"
+#draft: true
+#date-modified:
+date: 2025-03-01
+categories: [lab, spectroscopy, kinetics]
+keywords: physical chemistry teaching, physical chemistry education, teaching resources, spectrscopy, luminescence spectroscopy, fiber optic laser, kinetics
+
+image: luminescence.webp
+
+---
+<img src="luminescence.webp" width="40%" align="right" style="padding: 10px 0px 0px 10px;"/>
+
+We have constructed a compact laser-based spectrometer that confines the laser light to a fiber-optic and is suitable for use in an open undergraduate physical chemistry laboratory. The instrument employs currently available technology and is relatively inexpensive compared to research-grade instruments. Nanosecond time resolution is achieved, and we have successfully utilized the spectrometer for a classic laser experiment to measure the bimolecular quenching rate constant for the photoexcited tris(2,2′-bipyridyl)ruthenium(II) complex by Fe(III) in aqueous solution using Stern–Volmer analysis. The results are very reproducible with small experimental error and compare well with published values for quenching rate constants of the Ru(II) complex. The experiment exposes students to time-resolved laser measurements that rely on a photochemical kinetic analysis commonly taught as part of the physical chemistry curriculum.
+
+
+# Reference
+
+Mary Sever, Mark A. Young\*, J. Chem. Educ. 2025, 102, 3, 1230–1236, [doi.org/10.1021/acs.jchemed.4c01200](https://doi.org/10.1021/acs.jchemed.4c01200)
+
