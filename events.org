@@ -12,20 +12,6 @@ title-block-banner: true
 
 /Please send your event announcement to Steve Singleton ssinglet@coe.edu/
 
-
-* Chemistry World Conference :noexport:
-#+html: <img src="images/events-chemWorld-2025.png" width="30%" align="right" style="padding-left: 10px;"/>
-
-June 02-04, 2025 | Rome, Italy
-Chemistry 2025 conference gathers global pioneers in chemistry, showcasing transformative advancements and attended by leading scientists, innovators, and industry professionals driving innovation across diverse sectors.
-
-CALL FOR PAPERS: Participants are invited to submit abstracts on research and findings relevant to the scientific sessions. The sample template is available in the “Abstract submission” page of the conference website. Accepted abstracts will appear in the conference extended abstract book, which will be available, on-line and distributed at the event.
-
-HYBRID EVENT: You can participate in person at Rome, Italy or virtually from your home or work.
-
-https://chemistryworldconference.com/program/scientific-sessions/physical-chemistry-and-theoretical-chemistry
-
-
 * POGIL-PCL Online Workshop April 2025
 
 #+html: <img src="images/pogil-pcl.png" width="20%" align="right" style="padding-left: 10px;"/>
@@ -55,7 +41,6 @@ This meeting intends to act as a prompt to draw on the latest research and schol
   
 
 * MERCURY Consortium July 2025
-
 
 https://www.mercuryconsortium.org/conference-2025/
 
