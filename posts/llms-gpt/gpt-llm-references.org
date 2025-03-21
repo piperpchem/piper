@@ -34,6 +34,8 @@ Highlights the emerging applications of generative artificial intelligence (AI) 
 S. M. Supundrika Subasinghe, Simon G. GersibNeal P. Mankad, /J. Chem. Educ./, 2025, [[https://doi.org/10.1021/acs.jchemed.4c01498][doi.org/10.1021/acs.jchemed.4c01498]]
 
 Large language models (LLMs) are positioned to transform how students interact with data in classroom and laboratory settings, both now and in the future. The integration of LLMs into chemical curricula, if done effectively, may improve student equity and learning outcomes and provide an alternative approach to data analysis alongside traditional methods. One of the key strengths of LLMs is their ability to efficiently summarize large data sets and transform them into understandable forms. Here we focus on use of LLMs to process quantitative data and make high-quality data plots without relying exclusively on spreadsheet skills. Specifically, we tested the ability of OpenAI’s ChatGPT to plot Walsh diagrams relevant to an ongoing laboratory experiment conducted in an undergraduate inorganic chemistry course.
+*** Integrating AI in Education: Navigating UNESCO Global Guidelines, Emerging Trends, and Its Intersection with Sustainable Development Goals
+
 *** Discussing the Ethics of Professional AI Use in Undergraduate Chemistry Courses
 
 Emily F. Ruff, Jennifer M. O. Zemke, /J. Chem. Educ./, 2025, [[https://doi.org/10.1021/acs.jchemed.4c01038][doi.org/10.1021/acs.jchemed.4c01038]]
