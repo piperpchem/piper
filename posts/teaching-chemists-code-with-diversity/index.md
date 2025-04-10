@@ -1,0 +1,27 @@
+---
+title: "Teaching chemists to code with diversity in mind: a pedagogy of belonging for end-user conditions"
+## https://quarto.org/docs/journals/authors.html
+#author:
+#  - name: ""
+#    affiliations:
+#     - name: ""
+#license: "©2025 American Chemical Society and Division of Chemical Education, Inc."
+license: "CC BY-NC-ND"
+#draft: true
+#date-modified:
+date: 2025-04-06
+categories: [article, course design]
+keywords: physical chemistry teaching, physical chemistry education, teaching resources, coding, diversity, 
+
+image: formation.png
+
+---
+<img src="formation.png" width="40%" align="right" style="padding: 10px 0px 0px 10px;"/>
+
+While teaching students to code is a valuable skill, we need to consider the equity implications of such instruction. Computer programming is a highly stereotyped activity, and as such can negatively impact a student’s sense of chemistry identity. This is likely to be especially acute for students from historically excluded groups. Recommendations for coding instruction that will support a student’s sense of chemistry identity are given. These include pedagogies that encourage student interaction (Live Coding, spending class time for introductory instruction), differentiating by prior knowledge, and knowing how computer scientists talk about coding. By using pedagogies that increase student’s chemistry identity during programming instruction, we can send the message that all students belong in our field.
+
+
+# Reference
+
+van Staveren M., ChemRxiv. 2025; [doi:10.26434/chemrxiv-2025-sbhws](https://doi.org/10.26434/chemrxiv-2025-sbhws) This content is a preprint and has not been peer-reviewed.
+

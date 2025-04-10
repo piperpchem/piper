@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "How Can We Make Stew With These Beans?"
 ## https://quarto.org/docs/journals/authors.html
 #author:
 #  - name: ""
