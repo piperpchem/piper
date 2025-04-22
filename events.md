@@ -6,17 +6,6 @@ title-block-banner: true
 *Please send your event announcement to Steve Singleton ssinglet@coe.edu*
 
 
-# POGIL-PCL Online Workshop April 2025
-
-<img src="images/pogil-pcl.png" width="20%" align="right" style="padding-left: 10px;"/>
-
-The POGIL-PCL team, led by Jordan Beck, Andrea Carter, and Diane Miller, will host a zoom workshop on two consecutive Mondays, April 14 & 21, 7-9 pm Eastern time. We will do a new POGIL-PCL experiment, &ldquo;[Why does the fluorescence of cytochrome c change as it unfolds](https://drive.google.com/file/d/1BPzGviu1ponM3kLwqGHPCYOXe2mhnQwD/view?usp=sharing)?&rdquo;
-
-Please complete [this form](https://docs.google.com/forms/d/e/1FAIpQLScywqQ4cCedSmtqS5mMXFdwvkTnNfEyTOD0Toetcllf8f7aRA/viewform?usp=sharing) to indicate your interest in attending this workshop.
-
-To participate fully, you should have a computer with audio and video capability as well as access to Google drive. To get the most out of the experience, participants will also complete pre-experiment questions outside of the workshop time.
-
-
 # Gordon Research Conference July 2025
 
 July 6 - 11, 2025
@@ -49,6 +38,17 @@ The 2025 MERCURY Conference will be hosted by the Department of Chemistry at the
 
 
 # Past events
+
+
+## POGIL-PCL Online Workshop April 2025
+
+<img src="images/pogil-pcl.png" width="20%" align="right" style="padding-left: 10px;"/>
+
+The POGIL-PCL team, led by Jordan Beck, Andrea Carter, and Diane Miller, will host a zoom workshop on two consecutive Mondays, April 14 & 21, 7-9 pm Eastern time. We will do a new POGIL-PCL experiment, &ldquo;[Why does the fluorescence of cytochrome c change as it unfolds](https://drive.google.com/file/d/1BPzGviu1ponM3kLwqGHPCYOXe2mhnQwD/view?usp=sharing)?&rdquo;
+
+Please complete [this form](https://docs.google.com/forms/d/e/1FAIpQLScywqQ4cCedSmtqS5mMXFdwvkTnNfEyTOD0Toetcllf8f7aRA/viewform?usp=sharing) to indicate your interest in attending this workshop.
+
+To participate fully, you should have a computer with audio and video capability as well as access to Google drive. To get the most out of the experience, participants will also complete pre-experiment questions outside of the workshop time.
 
 
 ## POGIL-PCL Journal Discussion
