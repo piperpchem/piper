@@ -1,0 +1,27 @@
+---
+title: "Interactive Application and Visualization of the Variational Method to Aid Conceptual Understanding of Introductory Quantum Mechanics"
+## https://quarto.org/docs/journals/authors.html
+#author:
+#  - name: ""
+#    affiliations:
+#     - name: ""
+license: "©2025 American Chemical Society and Division of Chemical Education, Inc."
+#license: "CC BY-NC-SA"
+#draft: true
+#date-modified:
+date: 2025-05-01
+categories: [quantum, jupyter, python]
+keywords: physical chemistry teaching, physical chemistry education, teaching resources
+
+image: variational.webp
+
+---
+<img src="variational.webp" width="40%" align="right" style="padding: 10px 0px 0px 10px;"/>
+
+We introduce a self-guided, interactive JupyterLab to familiarize undergraduate students with introductory quantum mechanics concepts. In the lab, the linear variational method is applied to a confined particle that is subject to various 1-dimensional potentials, including a step potential, a central potential, a double barrier potential, and parabolic and intersecting parabola potentials. Through visualization of multiple scenarios, students learn about parity and its consequences, tunneling and delocalization, the size and quality of the basis set, and the effect of boundaries and potential surface curvature on ground state probabilities. Chemical applications include ammonia inversion, light absorption by cyanine dyes, and vibrational transitions in HCl. The lab is geared toward students with limited exposure to quantum mechanics and no coding or “pen-and-paper” math is required. All code is hidden and student interaction is through buttons, sliders and fillable fields.
+
+
+# Reference
+
+Arjan van der Vaart, Sang T. Le Phan, Brielle Wolfe, J. Chem. Educ., 2025, [doi.org/10.1021/acs.jchemed.4c01560](https://doi.org/10.1021/acs.jchemed.4c01560)
+

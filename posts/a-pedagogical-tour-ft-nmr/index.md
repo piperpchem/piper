@@ -1,0 +1,27 @@
+---
+title: "A Pedagogical Tour of the Fourier Transform with Applications to NMR and IR Spectroscopy"
+## https://quarto.org/docs/journals/authors.html
+#author:
+#  - name: ""
+#    affiliations:
+#     - name: ""
+license: "©2025 American Chemical Society and Division of Chemical Education, Inc."
+#license: "CC BY-NC-SA"
+#draft: true
+#date-modified:
+date: 2025-05-01
+categories: [nmr, spectroscopy, computing]
+keywords: physical chemistry teaching, physical chemistry education, teaching resources, Fourier transforms, Infrared light, Nuclear magnetic resonance spectroscopy, Students, Undergraduates 
+
+image: tour.webp
+
+---
+<img src="tour.webp" width="40%" align="right" style="padding: 10px 0px 0px 10px;"/>
+
+The Fourier Transform (FT) is a fundamental tool that permeates modern science and technology. While chemistry undergraduates encounter the FT as early as the second year, their courses often only mention it in passing because computers frequently perform it automatically behind the scenes. Although this automation enables students to focus on ‘the chemistry’, students miss out on an opportunity to understand and use one of the most powerful tools in the scientific arsenal capable of revealing how time-dependent signals encode chemical structure. Although many educational resources introduce chemists to the FT, they often require familiarity with sophisticated mathematical and computational concepts. Here, we present a series of three self-contained, Python-based laboratory activities designed for undergraduates to understand the FT and apply it to analyze audio signals, an infrared (IR) spectroscopy interferogram, and a nuclear magnetic resonance (NMR) free induction decay (FID). In these activities, students observe how the FT reveals and quantifies the contribution of each frequency present in a temporal signal and how decay time scales dictate signal broadening. Our activities empower students with the tools to transform their own temporal data sets (e.g., FID) to a frequency spectrum. To ensure accessibility of the activities and lower the barrier to implementation, we utilize Google Colab’s open-source, cloud-based platform to run Jupyter notebooks. We also offer a prelaboratory activity that introduces students to the basics of Python and the Colab platform and reviews the math and programming skills needed to complete the lab activities. These lab activities help students build a qualitative, quantitative, and practical understanding of the FT.
+
+
+# Reference
+
+Anthony J. Dominic III, Nicholas L. Cipolla, William C. Pfalzgraff, Jeffrey A. Jankowski, Rebecca J. Rapf, Andrés Montoya-Castillo, *J. Chem. Educ.*, 2025, [doi.org/10.1021/acs.jchemed.4c01439](https://doi.org/10.1021/acs.jchemed.4c01439)
+

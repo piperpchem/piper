@@ -1,0 +1,41 @@
+#+export_file_name: index
+#+options: broken-links:t
+# (ss-toggle-markdown-export-on-save)
+# date-added:
+
+# add filename after "imagefile"
+#+macro: imagefile review.webp
+
+#+begin_export md
+---
+title: "A Review of Undergraduate Chemistry Teaching in Higher Education during 2019–2023"
+## https://quarto.org/docs/journals/authors.html
+#author:
+#  - name: ""
+#    affiliations:
+#     - name: ""
+license: "©2025 American Chemical Society and Division of Chemical Education, Inc."
+#license: "CC BY-NC-SA"
+#draft: true
+#date-modified:
+date: 2025-05-01
+categories: [article, course design]
+keywords: physical chemistry teaching, physical chemistry education, teaching resources
+#+end_export
+image: {{{imagefile}}}
+
+@@html:---
+<img src="@@{{{imagefile}}}@@html:" width="40%" align="right" style="padding: 10px 0px 0px 10px;"/>@@
+
+# Abstract goes below this line.
+
+This review examines the evolution of tertiary undergraduate chemistry teaching from 2019 to 2023, including in response to the global pandemic’s impact on teaching and learning methods and whether those adaptations have persisted. The authors assessed the current educational landscape against standards set by leading accreditation bodies, the American Chemical Society, the Royal Society of Chemistry, and the Royal Australian Chemical Institute. A systematic research method allowed comprehensive coverage of peer reviewed literature using two databases: Web of Science and SciFinder. A total of 511 papers were included in this review, and 245 highly cited articles were classified into five themes: students as learners, curriculum, instructional material, educational innovation, and context. Using these themes, it was possible to find the major implications of research in tertiary chemistry teaching within the literature for the five-year period. Key findings show that experiential learning through in-person laboratory activities is affirmed. Virtual resources developed during the pandemic, however, were mostly moved post pandemic to prelaboratory or complementary activities. Integration of innovative technologies and games into teaching can improve student engagement and learning, but also presents opportunities, such as generative artificial intelligence for the development of student critical thinking skills and communication skills. Students valued learning with authentic examples or big-picture contexts, like climate change or systems thinking. An emergent theme was improvements in inclusive chemistry education. This embracing of technology alongside traditional methods, and the rise of interdisciplinary approaches and inclusivity, equips graduates with the skills necessary for successful careers in chemistry.
+
+
+* Reference
+Wendy A. Loughlin, Sarah L. Cresswell, J. Chem., Educ., 2025, [[https://doi.org/10.1021/acs.jchemed.4c01435][doi.org/10.1021/acs.jchemed.4c01435]]
+
+* Local variables :noexport:
+# Local Variables:
+# eval: (ss-markdown-export-on-save)
+# End:

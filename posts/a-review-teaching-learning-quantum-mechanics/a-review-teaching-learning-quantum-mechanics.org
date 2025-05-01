@@ -1,0 +1,40 @@
+#+export_file_name: index
+#+options: broken-links:t
+# (ss-toggle-markdown-export-on-save)
+# date-added:
+
+# add filename after "imagefile"
+#+macro: imagefile review.png
+
+#+begin_export md
+---
+title: "A review of research on the teaching and learning of quantum mechanics"
+## https://quarto.org/docs/journals/authors.html
+#author:
+#  - name: ""
+#    affiliations:
+#     - name: ""
+#license: "©2025 American Chemical Society and Division of Chemical Education, Inc."
+#license: "CC BY-NC-SA"
+license: "©The Royal Society of Chemistry 2025"
+#draft: true
+#date-modified:
+date: 2025-05-01
+categories: [article, course design, quantum]
+keywords: physical chemistry teaching, physical chemistry education, teaching resources, review of teaching and learning quantum mechanics
+#+end_export
+image: {{{imagefile}}}
+
+@@html:---
+<img src="@@{{{imagefile}}}@@html:" width="40%" align="right" style="padding: 10px 0px 0px 10px;"/>@@
+
+# Abstract goes below this line.
+In this work, we review research on the teaching and learning of quantum mechanics in chemistry courses. This systematic review builds on previous reviews in chemistry education research that focused on the other highly quantitative, calculation-heavy topics covered in upper-level physical chemistry courses (kinetics and thermodynamics). We aim to provide a resource for both practitioners and education researchers. Based on the topics of the research conducted in our sample (N=50), we grouped the articles into six categories: (1) students’ general challenges with quantum mechanics; (2) students’ conceptions of the atom; (3) students’ conceptions of bonding; (4) students’ conceptions of the quantum nature of light; (5) students’ conceptions of commonly used quantum mechanical models; (6) curricular materials and instruction. Relevant trends stemming from this work include that much of the research leans on education research in mathematics and physics to support the claim that students have difficulties with mathematics; however, these claims require further investigation within chemistry education contexts. Moreover, a suprising amount of research on quantum mechanics involved students sampled outside of upper-level chemistry courses (i.e., secondary-level and general chemistry contexts).
+
+
+* Reference
+S. C. McAfee, F. M. Watts and J. G. Rodriguez, Chem. Educ. Res. Pract., 2025, [[https://doi.org/10.1039/D5RP00030K][DOI: /10.1039/D5RP00030K]]
+* Local variables :noexport:
+# Local Variables:
+# eval: (ss-markdown-export-on-save)
+# End:
