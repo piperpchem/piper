@@ -19,9 +19,7 @@ Some references related to Large Language Model (LLM) and Generative Pre-trained
 
 # A Missed Opportunity for No-Code Chatbots? Current Challenges in Publicly Available Chemistry GPTs
 
-[doi.org/10.1021/acs.jchemed.4c01552](https://doi.org/10.1021/acs.jchemed.4c01552)
-
-Martin Sigot Sebastian Tassoti
+Martin Sigot Sebastian Tassoti, J. Chem. Educ., 2025, [doi.org/10.1021/acs.jchemed.4c01552](https://doi.org/10.1021/acs.jchemed.4c01552)
 
 With the emergence of generative artificial intelligence (GenAI) and ChatGPT, individualization of learning pathways was discussed in the educational context. One way to achieve customization is the use of specialized versions of ChatGPT–so-called GPTs. Those GPTs are publicly available and used daily by thousands of people worldwide. In this work, we analyze the current market of chemistry-specialized GPTs in the OpenAI GPT ‘store’. We identify common shortcomings, such as unnecessary activation of features like DALL-E, overly positive use of terms like ‘expert’ or ‘teacher’ and the inclusion of copyrighted material. To highlight the urgency of well-designed GPTs in chemistry education, we analyze the most used chemistry-specific GPT in more detail to discuss further problems with GPTs. In summary, we advocate a collaborative effort within the chemistry education community to develop robust and publicly available GPTs. Future research might benefit from a focus on creating and refining these GPTs and exploring their impact on learning in both secondary and tertiary educational settings.
 
