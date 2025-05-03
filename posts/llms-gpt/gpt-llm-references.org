@@ -13,7 +13,7 @@ title: "Large Language Model (LLM) and Generative Pre-trained Transformer (GPT) 
 #draft: true
 # description:
 # date added 2023-11-21
-date: 2025-02-28
+date: 2025-03-28
 categories: ["article", "ai-ml"]
 keywords: PIPER teaching physical chemistry, GPT, ChatGPT, LLM, teaching, chemistry
 image: llm-gpt.svg
@@ -21,8 +21,15 @@ image: llm-gpt.svg
 
 #+end_export
 Some references related to Large Language Model (LLM) and Generative Pre-trained Transformer (GPT) resources such as ChatGPT, and their use in the chemistry classroom. Please send additions to ssinglet@coe.edu and I will include them in this list.
-*** Investigating the Uses and Impacts of Generative Artificial Intelligence in Chemistry Education
+*** A Missed Opportunity for No-Code Chatbots? Current Challenges in Publicly Available Chemistry GPTs
 
+[[https://doi.org/10.1021/acs.jchemed.4c01552][doi.org/10.1021/acs.jchemed.4c01552]]
+
+Martin Sigot Sebastian Tassoti
+
+With the emergence of generative artificial intelligence (GenAI) and ChatGPT, individualization of learning pathways was discussed in the educational context. One way to achieve customization is the use of specialized versions of ChatGPT–so-called GPTs. Those GPTs are publicly available and used daily by thousands of people worldwide. In this work, we analyze the current market of chemistry-specialized GPTs in the OpenAI GPT ‘store’. We identify common shortcomings, such as unnecessary activation of features like DALL-E, overly positive use of terms like ‘expert’ or ‘teacher’ and the inclusion of copyrighted material. To highlight the urgency of well-designed GPTs in chemistry education, we analyze the most used chemistry-specific GPT in more detail to discuss further problems with GPTs. In summary, we advocate a collaborative effort within the chemistry education community to develop robust and publicly available GPTs. Future research might benefit from a focus on creating and refining these GPTs and exploring their impact on learning in both secondary and tertiary educational settings.
+
+*** Investigating the Uses and Impacts of Generative Artificial Intelligence in Chemistry Education
 [[https://pubs.acs.org/page/jceda8/vi/genai2024?ref=vi_collection][Journal of Chemical Education Virtual Special Issue]]
 
 Guest Editors: Elizabeth Yuriev, Monash University, Australia;
