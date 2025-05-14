@@ -1,0 +1,28 @@
+---
+title: "Why chemistry instructors are shifting to specifications grading: perceived benefits and challenges"
+## https://quarto.org/docs/journals/authors.html
+#author:
+#  - name: ""
+#    affiliations:
+#     - name: ""
+#license: "©2025 American Chemical Society and Division of Chemical Education, Inc."
+license: "© Royal Society of Chemistry 2025"
+#license: "CC BY-NC-SA"
+#draft: true
+#date-modified:
+date: 2025-05-16
+categories: [course design, article]
+keywords: physical chemistry teaching, physical chemistry education, teaching resources, standards-based grading, pedagogy
+
+image: specifications.png
+
+---
+<img src="specifications.png" width="40%" align="right" style="padding: 10px 0px 0px 10px;"/>
+
+Previous research extensively explored factors that are associated with instructors’ adoption of evidence-based instructional practices. However, an overlooked yet important aspect is exploring instructors’ motivation for implementing pedagogical innovations that are seemingly popular yet lack evidence of effectiveness. One such innovation that is gaining attention in postsecondary chemistry education is specifications grading, which aims to emphasize the learning process while mitigating some of the drawbacks of traditional grading. This study aims to provide insights into chemistry instructors’ decision to adopt specifications grading. In particular, we interviewed 29 chemistry instructors from 24 academic institutions in the United States who currently use this alternative grading scheme. The goal of these semi-structured interviews was to characterize these instructors’ perceptions of the advantages of specifications grading, their potential dissatisfaction with traditional grading, and potential challenges associated with implementing specifications grading in their courses. Our results indicate that instructors adopted specifications grading as a means to address their dissatisfaction with traditional grading. The commonly cited relative advantages of specifications grading include a perception that specifications grading increases student learning gains and provides greater flexibility for students. These findings provide insight into the dissemination strategy of innovation, highlighting a need for direct alignment between perceived advantages of pedagogical innovations to instructors’ dissatisfaction and instructors’ expressed real-world needs and aspirations for their classroom.
+
+
+# Reference
+
+Wang, Ying and Machost, Haleigh and Yik, Brandon J. and Stains, Marilyne, *Chem. Educ. Res. Pract.*, 2025, [dx.doi.org/10.1039/D5RP00035A](http://dx.doi.org/10.1039/D5RP00035A)
+
