@@ -26,6 +26,17 @@ This meeting intends to act as a prompt to draw on the latest research and schol
 -   Global perspectives in chemistry education: sustainability, accessibility, and interdisciplinarity
 
 
+# MOLSSI Two Day Workshop July 2025
+
+July 9-10, 2025, Cal Poly San Luis Obispo, CA
+
+[https://molssi.org/join-the-act-cms-community-workshop-empower-your-teaching-with-python-programming/](https://molssi.org/join-the-act-cms-community-workshop-empower-your-teaching-with-python-programming/)
+
+<img src="http://education.molssi.org/python-package-best-practices/_static/molssi_main_logo.png" width="20%" align="right" style="padding-right: 10px;"/>
+
+This workshop is designed for university faculty in the molecular sciences (chemistry, physics, molecular biology, materials science, and related disciplines) who want to learn Python programming and how to incorporate it into their class. This workshop targets faculty who have no or very limited python programming experience and want to upskill and then incorporate cyberinfrastructure skills, like programming, data analysis, data visualization into their courses. The workshop is open to faculty at all academic ranks, including tenure-stream and instructional faculty. 
+
+
 # MERCURY Consortium July 2025
 
 <https://www.mercuryconsortium.org/conference-2025/>
@@ -37,6 +48,18 @@ July 21-25, 2025
 The 2025 MERCURY Conference will be hosted by the Department of Chemistry at the University of Pittsburgh with support from the Pittsburgh Quantum Institute.   The Molecular Sciences Software Institute will host a workshop for students on July 21-22, and the MERCURY Conference will start the evening of July 23 and conclude at lunch on July 25. The conference is an excellent forum for undergraduates to present their work and to learn from experts in the field, allowing them to put their own research into perspective. It is equally valuable as a networking event for faculty working with undergraduates. Undergraduates from all types of institutions are invited to come present their work.
 
 
+# Biennial Conference on Chemical Education 2026
+
+July 26-30, 2026, University of Wisconsin, Madison
+[https://conferences.union.wisc.edu/bcce2026/](https://conferences.union.wisc.edu/bcce2026/)
+
+<img src="https://conferences.union.wisc.edu/bcce2026/wp-content/uploads/sites/20/2024/07/3x-Resolution-Banner-scaled.jpg" width="90%" />
+
+The 29th BCCE will be held on the lakeside campus of the University of Wisconsin–Madison in the Summer of 2026. The conference, like all of its predecessors, provides the chemistry education community with opportunities to interact and engage. The conference will be a mixture of symposia, workshops, poster sessions, exhibits, and spaces for both formal and informal conversations.
+
+All chemistry educators are invited to contribute to the conference by submitting a program proposal (opens August 1, 2025), or abstracts for presentations. You do not have to present in order to attend the BCCE. Also, you do not have to be a member of the American Chemical Society or the ACS Division of Chemical Education to attend or present at the BCCE.
+
+
 # Past events
 
 
@@ -44,7 +67,7 @@ The 2025 MERCURY Conference will be hosted by the Department of Chemistry at the
 
 <img src="images/pogil-pcl.png" width="20%" align="right" style="padding-left: 10px;"/>
 
-The POGIL-PCL team, led by Jordan Beck, Andrea Carter, and Diane Miller, will host a zoom workshop on two consecutive Mondays, April 14 & 21, 7-9 pm Eastern time. We will do a new POGIL-PCL experiment, &ldquo;[Why does the fluorescence of cytochrome c change as it unfolds](https://drive.google.com/file/d/1BPzGviu1ponM3kLwqGHPCYOXe2mhnQwD/view?usp=sharing)?&rdquo;
+The POGIL-PCL team, led by Jordan Beck, Andrea Carter, and Diane Miller, will host a zoom workshop on two consecutive Mondays, April 14 & 21, 7-9 pm Eastern time. We will do a new POGIL-PCL experiment, "[Why does the fluorescence of cytochrome c change as it unfolds](https://drive.google.com/file/d/1BPzGviu1ponM3kLwqGHPCYOXe2mhnQwD/view?usp=sharing)?"
 
 Please complete [this form](https://docs.google.com/forms/d/e/1FAIpQLScywqQ4cCedSmtqS5mMXFdwvkTnNfEyTOD0Toetcllf8f7aRA/viewform?usp=sharing) to indicate your interest in attending this workshop.
 
@@ -57,7 +80,7 @@ November 11, 2024, 2-3 pm Eastern time
 
 <img src="images/pogil-pcl.png" width="20%" align="right" style="padding-left: 10px;"/>
 
-The POGIL-PCL team will host an online zoom discussion of the science practices found in the POGIL-PCL experiment, [How does a molecule&rsquo;s state affect its acidity?](https://drive.google.com/file/d/1sD8DllDoa7E1oc6Jnm4AzH8IxR7O8lUX/view?usp=sharing) We will analyze the first cycle of this experiment based on the process outlined in the paper by [Lavery et al](https://drive.google.com/file/d/1noREgmFzac4rX7Kxl8-isT3NObg2Dkxw/view?usp=sharing).
+The POGIL-PCL team will host an online zoom discussion of the science practices found in the POGIL-PCL experiment, [How does a molecule's state affect its acidity?](https://drive.google.com/file/d/1sD8DllDoa7E1oc6Jnm4AzH8IxR7O8lUX/view?usp=sharing) We will analyze the first cycle of this experiment based on the process outlined in the paper by [Lavery et al](https://drive.google.com/file/d/1noREgmFzac4rX7Kxl8-isT3NObg2Dkxw/view?usp=sharing).
 
 The discussion will provide you an opportunity to see how science practices are embedded in POGIL-PCL experiments and to learn more about this particular experiment. Please use this [google form](https://forms.gle/GYPEVBzCpZx7MUAD7) to let us know if you are interested in participating. A google calendar link will be sent out prior to the discussion.
 
@@ -68,7 +91,7 @@ September 23, 2024, 3-4 pm Eastern time
 
 <img src="images/pogil-pcl.png" width="20%" align="right" style="padding-left: 10px;"/>
 
-The POGIL-PCL Journal Group will discuss the paper &ldquo;Recommendations for Improving End-User Programming Education: A Case Study with Undergraduate Chemistry Students&rdquo;, Fuchs, et al. <https://doi.org/10.1021/acs.jchemed.4c00219> (Creative Commons). Please use [this google form](https://forms.gle/2L2yrPpxubfV4q1LA) to indicate your interest in participating.
+The POGIL-PCL Journal Group will discuss the paper "Recommendations for Improving End-User Programming Education: A Case Study with Undergraduate Chemistry Students", Fuchs, et al. <https://doi.org/10.1021/acs.jchemed.4c00219> (Creative Commons). Please use [this google form](https://forms.gle/2L2yrPpxubfV4q1LA) to indicate your interest in participating.
 
 
 ## ECRICE 2024: European Conference on Research in Chemical Education
@@ -113,9 +136,9 @@ handling skills using Python for people working in the molecular sciences and le
 
 August 13, 2-3 pm Eastern time
 
-<img src="pogil-pcl.png" width="20%" align="right" style="padding-left: 10px;"/>
+<img src="images/pogil-pcl.png" width="20%" align="right" style="padding-left: 10px;"/>
 
-The POGIL-PCL Journal Group will discuss two versions of the &ldquo;classic temperature dependence of vapor pressure&rdquo; experiment alongside a recent paper describing a simple, [inexpensive isoteniscope](https://pubs.acs.org/doi/10.1021/acs.jchemed.3c01138). Please use this form to indicate your interest in this discussion, which will be led by Brian Gilbert and Michael Everest: [https://forms.gle/Ppj9AoGsC7a798Yy5](https://forms.gle/Ppj9AoGsC7a798Yy5)
+The POGIL-PCL Journal Group will discuss two versions of the "classic temperature dependence of vapor pressure" experiment alongside a recent paper describing a simple, [inexpensive isoteniscope](https://pubs.acs.org/doi/10.1021/acs.jchemed.3c01138). Please use this form to indicate your interest in this discussion, which will be led by Brian Gilbert and Michael Everest: [https://forms.gle/Ppj9AoGsC7a798Yy5](https://forms.gle/Ppj9AoGsC7a798Yy5)
 
 
 ## Biennial Conference on Chemical Education (BCCE)
@@ -146,9 +169,9 @@ The program is designed to discuss the role of chemistry education not only in c
 
 July 11, 2024
 
-<img src="pogil-pcl.png" width="30%" align="right" style="padding-left: 10px;"/>
+<img src="images/pogil-pcl.png" width="30%" align="right" style="padding-left: 10px;"/>
 
-The POGIL-PCL team will host a hybrid zoom workshop on July 11, 12-4 pm Eastern time. We will do a new POGIL-PCL experiment, &ldquo;What is the pKa of an Acid-Base Indicator?&rdquo;, developed by Rebecca Michelsen. Each participant will do the experiment in their own laboratory - with discussions happening over zoom in real time.
+The POGIL-PCL team will host a hybrid zoom workshop on July 11, 12-4 pm Eastern time. We will do a new POGIL-PCL experiment, "What is the pKa of an Acid-Base Indicator?", developed by Rebecca Michelsen. Each participant will do the experiment in their own laboratory - with discussions happening over zoom in real time.
 
 To participate fully, you should have a computer with audio and video capability as well as access to Google drive. To get the most out of the experience, participants will also complete pre-experiment questions outside of the workshop time. Participants will also need to prepare stock solutions and set up spectrometers to carry out measurements during the four-hour workshop.
 
@@ -178,7 +201,7 @@ This two-day workshop is designed to transform attendees from users to developer
 
 June 11, 2-3pm EDT
 
-We will host a discussion of an article titled &ldquo;Alternative Assessment to Lab Reports: A Phenomenology Study of Undergraduate Biochemistry Students’ Perceptions of Interview Assessment&rdquo; (J. Chem. Educ., Burrows et al.). Please complete this form if you are interested in participating in this discussion: <https://forms.gle/Kcv2xNjGSTQL4sSD7>. Google calendar invitations will go out on June 7. 
+We will host a discussion of an article titled "Alternative Assessment to Lab Reports: A Phenomenology Study of Undergraduate Biochemistry Students’ Perceptions of Interview Assessment" (J. Chem. Educ., Burrows et al.). Please complete this form if you are interested in participating in this discussion: <https://forms.gle/Kcv2xNjGSTQL4sSD7>. Google calendar invitations will go out on June 7. 
 
 
 ## ESCIP2024 Workshop: “Teaching scientific computing at the dawn of AI”
