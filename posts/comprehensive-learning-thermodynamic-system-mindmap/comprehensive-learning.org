@@ -1,0 +1,39 @@
+#+export_file_name: index
+#+options: broken-links:t
+# (ss-toggle-markdown-export-on-save)
+# date-added:
+
+# add filename after "imagefile"
+#+macro: imagefile mindmap.webp
+
+#+begin_export md
+---
+title: "Comprehensive Learning on the Thermodynamic Description of Multicomponent Systems: A Guided Mind Mapping Approach"
+## https://quarto.org/docs/journals/authors.html
+#author:
+#  - name: ""
+#    affiliations:
+#     - name: ""
+license: "©2025 American Chemical Society and Division of Chemical Education, Inc."
+#license: "CC BY-NC-SA"
+#draft: true
+#date-modified:
+date: 2025-05-13
+categories: [thermdynamics, article]
+keywords: physical chemistry teaching, physical chemistry education, teaching resources, thermodynamics, mind mapping, multi-component systems
+#+end_export
+image: {{{imagefile}}}
+
+@@html:---
+<img src="@@{{{imagefile}}}@@html:" width="40%" align="right" style="padding: 10px 0px 0px 10px;"/>@@
+
+# Abstract goes below this line.
+The physical chemistry course encompasses a diverse range of abstract concepts, logical reasoning, mathematical formulations, and calculations. Many students in the field of chemistry approach this course with confusion. Mind mapping can provide a coherent knowledge framework that aids students in achieving a clearer understanding of the various dimensions of these concepts. This study aims to delineate the design and construction of mind maps to facilitate student comprehension regarding the thermodynamic description of multicomponent systems. Students’ responses to test exercises related to general formulas and their derivation of formulas served as primary data sources for analysis. The findings indicate that nearly all students successfully derived and applied thermodynamic formulas using guided mind mapping techniques. Furthermore, while mind mapping can help students engage with connections between chapters across different contexts, it may not sufficiently address the deeper understanding of individual concepts. Therefore, it is imperative for educators to elucidate the derivation process for key formulas by demonstrating “how this is accomplished”. By emphasizing interconnections between chapters, encouraging practice with newly acquired concepts alongside previously mastered knowledge, and fostering repeated reflection through practice, students can progressively attain a more integrated state of understanding. Ultimately, it is concluded that the guided mind mapping approach can effectively support comprehensive learning among students regarding the thermodynamic description of multicomponent systems.
+
+
+* Reference
+Le Luo, /J. Chem. Educ./, 2025, [[https://doi.org/10.1021/acs.jchemed.4c01382][doi.org/10.1021/acs.jchemed.4c01382]]
+* Local variables :noexport:
+# Local Variables:
+# eval: (ss-markdown-export-on-save)
+# End:
