@@ -13,7 +13,7 @@ title: "Large Language Model (LLM) and Generative Pre-trained Transformer (GPT) 
 #draft: true
 # description:
 # date added 2023-11-21
-date: 2025-03-28
+date: 2025-05-18
 categories: ["article", "ai-ml"]
 keywords: PIPER teaching physical chemistry, GPT, ChatGPT, LLM, teaching, chemistry
 image: llm-gpt.svg
@@ -21,6 +21,11 @@ image: llm-gpt.svg
 
 #+end_export
 Some references related to Large Language Model (LLM) and Generative Pre-trained Transformer (GPT) resources such as ChatGPT, and their use in the chemistry classroom. Please send additions to ssinglet@coe.edu and I will include them in this list.
+*** An Investigation of Change in Prompting Strategies in a Semester-Long Course on the Use of GenAI
+Martin Sigot Sebastian Tassoti, J. Chem. Educ., 2025, [[https://doi.org/10.1021/acs.jchemed.4c01287][https://doi.org/10.1021/acs.jchemed.4c01287]]
+
+The increasing relevance of generative artificial intelligence in our everyday life prompts educational researchers to carefully assess science-learning experiences using this new technology. In this study, prompting strategies of preservice chemistry teachers were evaluated through the duration of a semester in several course settings. A course was developed that addresses the use of GenAI in contexts like problem solving in chemistry and teaching and learning chemistry and had the students individually work on a chemistry-related project. The course instructs the students in a specific prompting technique, the 5S prompting framework, to foster their prompting skills. During the semester and for a period after the semester, approximately 1600 prompts of students given to GenAI were collected via a custom-made interface that allowed researchers to see students’ prompts. The analysis of these conversations shows that students incorporated the prompting strategies they were taught in their conversations and interactions with GenAI during and after the semester. In this publication, the 5S prompting framework and its implementation in students’ prompting habits as well as implications for teaching about GenAI in chemistry-specific contexts are discussed.
+
 *** A Missed Opportunity for No-Code Chatbots? Current Challenges in Publicly Available Chemistry GPTs
 
 Martin Sigot Sebastian Tassoti, J. Chem. Educ., 2025, [[https://doi.org/10.1021/acs.jchemed.4c01552][doi.org/10.1021/acs.jchemed.4c01552]]
