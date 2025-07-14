@@ -1,0 +1,41 @@
+#+export_file_name: index
+#+options: broken-links:t
+# (ss-toggle-markdown-export-on-save)
+# date-added:
+
+# add filename after "imagefile"
+#+macro: imagefile est.webp
+
+#+begin_export md
+---
+title: "Integrating Electronic Structure Theory Calculations with Python and Cheminformatics Tools"
+## https://quarto.org/docs/journals/authors.html
+#author:
+#  - name: ""
+#    affiliations:
+#     - name: ""
+license: "©2025 American Chemical Society and Division of Chemical Education, Inc."
+#license: "CC BY-NC-SA"
+#draft: true
+#date-modified:
+date: 2025-06-01
+categories: [computational, computing, jupyter, python]
+keywords: physical chemistry teaching, physical chemistry education, teaching resources, computational, python, computing, gaussian, electronic structure 
+#+end_export
+image: {{{imagefile}}}
+
+@@html:---
+<img src="@@{{{imagefile}}}@@html:" width="40%" align="right" style="padding: 10px 0px 0px 10px;"/>@@
+
+# Abstract goes below this line.
+The integration of electronic structure theory (EST) calculations with Python programming and cheminformatics tools presents a unique opportunity for enhancing chemistry education. This study shows how integrating Gaussian calculations with Python programming and libraries can be an effective approach for teaching computational chemistry. We present a comprehensive approach that bridges the gap between graphical user interface (GUI) interactions and programming in computational chemistry education. Our method introduces common calculations using Gaussian 16, demonstrating molecule generation, geometry optimization, and property prediction. We go beyond GUI interactions by providing complementary Python code that automates and expands these processes including scripts for generating Gaussian input files from various molecular representations. To enhance educational value, we incorporate implementations for generating molecular derivatives using RDKit and SURGE, enabling students to systematically explore structural variations. We demonstrate the integration of these tools in a practical example involving the analysis of explosive derivatives. This work also outlines several project ideas that utilize these integrated tools, providing a framework for educators to incorporate these methods into their chemistry curricula. Overall, we emphasize understanding the underlying principles of computer-based calculations and the importance of developing computational literacy through hands-on code development and customization in computational chemistry education. By integrating EST calculations with both commercial (Gaussian) and open-source (PySCF) packages, Python programming, and cheminformatics tools, this approach aims to develop students as not just software users but as computational chemists who understand the underlying principles and can adapt various EST platforms to tackle novel chemical challenges.
+
+* Reference
+Dongseok Han, Hojin Han, Edward Chen, Walter J. Cesarski, Hyeongyun Lim, Hongseok Shin, Samuel V. Cowart, Enoch A. Nagelli, Simuck F. Yuk, Keunhong Jeong, /J. Chem. Educ./, 2025, [[https://doi.org/10.1021/acs.jchemed.4c01171][doi.org/10.1021/acs.jchemed.4c01171]]
+
+Github repository: [[https://github.com/doas1min/Chem_Education][https://github.com/doas1min/Chem_Education]]
+
+* Local variables :noexport:
+# Local Variables:
+# eval: (ss-markdown-export-on-save)
+# End:

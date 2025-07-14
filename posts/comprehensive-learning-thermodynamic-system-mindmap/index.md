@@ -10,7 +10,7 @@ license: "©2025 American Chemical Society and Division of Chemical Education, I
 #draft: true
 #date-modified:
 date: 2025-05-13
-categories: [thermdynamics, article]
+categories: [thermo, article]
 keywords: physical chemistry teaching, physical chemistry education, teaching resources, thermodynamics, mind mapping, multi-component systems
 
 image: mindmap.webp

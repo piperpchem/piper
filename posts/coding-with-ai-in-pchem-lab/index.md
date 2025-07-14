@@ -1,0 +1,27 @@
+---
+title: "Coding with AI in the Physical Chemistry Laboratory"
+## https://quarto.org/docs/journals/authors.html
+#author:
+#  - name: ""
+#    affiliations:
+#     - name: ""
+#license: "©2025 American Chemical Society and Division of Chemical Education, Inc."
+license: "CC BY"
+#draft: true
+#date-modified:
+date: 2024-09-01
+categories: [ai-ml, lab]
+keywords: physical chemistry teaching, physical chemistry education, teaching resources, ai, machine learning, physical chemistry laboratory, python, jupyter
+
+image: coding-ai.jpeg
+
+---
+<img src="coding-ai.jpeg" width="40%" align="right" style="padding: 10px 0px 0px 10px;"/>
+
+Experiments in the physical chemistry laboratory often require moderately complex fitting of data, but the software packages to do this can be expensive and challenging to use. Open-source programming platforms are a common replacement, but students frequently start their physical chemistry laboratory courses without a background in programming, requiring either giving detailed instructions and code to students or devoting significant class time to developing those skills. Large language model artificial intelligence systems (LLMs) are capable of generating, editing, and debugging code and are freely available. The use of LLMs to generate Python code to carry out several plotting and fitting exercises in a one-semester physical chemistry laboratory was studied. Students were able to successfully use the LLM to generate code which they then used to complete laboratory analysis tasks. This represents a possible mechanism for getting students quickly using code to complete data analysis and is an approach that they can freely apply in their future careers, regardless of what those are.
+
+
+# Reference
+
+Patrick M. Hare, *J. Chem. Educ.*, 2024, [doi.org/10.1021/acs.jchemed.4c00560](https://doi.org/10.1021/acs.jchemed.4c00560)
+

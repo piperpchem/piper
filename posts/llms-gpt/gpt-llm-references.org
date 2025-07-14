@@ -13,19 +13,34 @@ title: "Large Language Model (LLM) and Generative Pre-trained Transformer (GPT) 
 #draft: true
 # description:
 # date added 2023-11-21
-date: 2025-05-18
+date: 2025-07-07
 categories: ["article", "ai-ml"]
-keywords: PIPER teaching physical chemistry, GPT, ChatGPT, LLM, teaching, chemistry
+keywords: PIPER, teaching physical chemistry, GPT, ChatGPT, LLM, teaching, chemistry, artificial intelligence, AI, physical chemistry resources
 image: llm-gpt.svg
 ---
 
 #+end_export
-Some references related to Large Language Model (LLM) and Generative Pre-trained Transformer (GPT) resources such as ChatGPT, and their use in the chemistry classroom. Please send additions to ssinglet@coe.edu and I will include them in this list.
+References related to Large Language Model (LLM) and Generative Pre-trained Transformer (GPT) resources (e.g., ChatGPT) and their use in the chemistry classroom. Please send additions to ssinglet@coe.edu and I will include them in this list.
+*** Classification of artificial intelligence applications in chemistry: from automation to digital scientific thinking
+
+Ananikov VP. ChemRxiv. 2025; [[https://doi.org/10.26434/chemrxiv-2025-fbk8w][doi:10.26434/chemrxiv-2025-fbk8w]]  This content is a preprint and has not been peer-reviewed.
+
+
+This article proposes a three-level classification of artificial intelligence (AI) application in chemical sciences, reflecting the increasing degree of technology involvement in scientific and production processes: from automation of routine tasks (the level of "AI Assistant"), to the creation of specialized analytical solutions for processing experimental data (the level of "AI Analyst") and further to the prospect of intelligent systems capable of forming scientific hypotheses and designing substances and processes (the level of "AI Researcher"). This hierarchy enables systematic implementation of AI in practical chemistry, materials science, pharmaceuticals, catalytic technologies, environmental control, and other key areas. The first level contributes to increased efficiency in a wide range of tasks: in production, research and education, preparation of documentation, patent and market research, support of regulatory procedures, automated preparation of analytical data, as well as staff training and knowledge transfer within the organization. The second level provides in-depth data analysis, reduced R&D timelines, and technology scaling. The third level opens up opportunities for breakthrough solutions, including autonomous design of new molecules, processes, and materials. The term "technology-as-participant" is introduced for the first time as a designation of a new form of interaction between humans and AI, in which the digital system becomes an integral part of the scientific process, not just a tool.
+
 *** An Investigation of Change in Prompting Strategies in a Semester-Long Course on the Use of GenAI
 Martin Sigot Sebastian Tassoti, J. Chem. Educ., 2025, [[https://doi.org/10.1021/acs.jchemed.4c01287][https://doi.org/10.1021/acs.jchemed.4c01287]]
 
 The increasing relevance of generative artificial intelligence in our everyday life prompts educational researchers to carefully assess science-learning experiences using this new technology. In this study, prompting strategies of preservice chemistry teachers were evaluated through the duration of a semester in several course settings. A course was developed that addresses the use of GenAI in contexts like problem solving in chemistry and teaching and learning chemistry and had the students individually work on a chemistry-related project. The course instructs the students in a specific prompting technique, the 5S prompting framework, to foster their prompting skills. During the semester and for a period after the semester, approximately 1600 prompts of students given to GenAI were collected via a custom-made interface that allowed researchers to see students’ prompts. The analysis of these conversations shows that students incorporated the prompting strategies they were taught in their conversations and interactions with GenAI during and after the semester. In this publication, the 5S prompting framework and its implementation in students’ prompting habits as well as implications for teaching about GenAI in chemistry-specific contexts are discussed.
+*** Considering the Ethics of Large Machine Learning Models in the Chemical Sciences
+Spotte-Smith, Evan Walter Clark, ChemRxiv. 2025; [[https://doi.org/10.26434/chemrxiv-2025-ct5k8-v2][doi:10.26434/chemrxiv-2025-ct5k8-v2]].  This content is a preprint and has not been peer-reviewed.
 
+Foundation models, including large language models, vision-language models, and similar large-scale machine learning tools, are quickly becoming ubiquitous in society and in the professional world. Chemical practitioners are not immune to the appeal of foundation models, nor are they immune to the many risks and harms that these models introduce. In this work, I present the first analysis of foundation models using the combined lens of scientific ethics and chemical professional ethics. I find that general-purpose generative foundation models are in many ways incompatible with the moral practice of chemistry, though there are fewer ethical problems with chemistry-specific foundation models. My discussion concludes with an examination of how the harm associated with foundation models can be minimized and further poses a set of serious lingering questions for chemical practitioners and scientific ethicists.
+*** AI+Chemistry Education in Top Chinese University: Embedding Computational Thinking into Curriculum
+
+Wang R. ChemRxiv. 2025; [[https://doi.org/doi:10.26434/chemrxiv-2025-8kh8t][doi:10.26434/chemrxiv-2025-8kh8t]] This content is a preprint and has not been peer-reviewed.
+
+Integrating Artificial General Intelligence (AGI) into chemistry education requires shifting from treating AI as an opaque tool to cultivating students' computational thinking—the ability to deconstruct algorithmic logic and apply it to solve chemical problems. Based on pre-curriculum investigation and analysis, this paper proposes an innovative interdisciplinary teaching framework that bridges AGI theory with chemistry education through computational thinking. By employing multidimensional strategies such as embodied cognition, metacognitive approaches, and phenomenon-based learning, we empower students to deconstruct the "black box" of AI algorithms and develop innovative domain-specific solutions. Pilot implementations demonstrate significant improvements in students' understanding and application of AI for chemical problem-solving. Capitalizing on this advantage, the course has been included as a core required course in compulsory Chemical Engineering + AI undergaduation program of Tanwei College, Tsinghua University. This approach not only equips students with technical proficiency but also cultivates a generation of AI+Chemistry capable of co-designing AGI systems to address real-world challenges. 
 *** A Missed Opportunity for No-Code Chatbots? Current Challenges in Publicly Available Chemistry GPTs
 
 Martin Sigot Sebastian Tassoti, J. Chem. Educ., 2025, [[https://doi.org/10.1021/acs.jchemed.4c01552][doi.org/10.1021/acs.jchemed.4c01552]]
@@ -44,7 +59,7 @@ Highlights the emerging applications of generative artificial intelligence (AI) 
 S. M. Supundrika Subasinghe, Simon G. GersibNeal P. Mankad, /J. Chem. Educ./, 2025, [[https://doi.org/10.1021/acs.jchemed.4c01498][doi.org/10.1021/acs.jchemed.4c01498]]
 
 Large language models (LLMs) are positioned to transform how students interact with data in classroom and laboratory settings, both now and in the future. The integration of LLMs into chemical curricula, if done effectively, may improve student equity and learning outcomes and provide an alternative approach to data analysis alongside traditional methods. One of the key strengths of LLMs is their ability to efficiently summarize large data sets and transform them into understandable forms. Here we focus on use of LLMs to process quantitative data and make high-quality data plots without relying exclusively on spreadsheet skills. Specifically, we tested the ability of OpenAI’s ChatGPT to plot Walsh diagrams relevant to an ongoing laboratory experiment conducted in an undergraduate inorganic chemistry course.
-*** Integrating AI in Education: Navigating UNESCO Global Guidelines, Emerging Trends, and Its Intersection with Sustainable Development Goals
+*** Integrating AI in Education: Navigating UNESCO Global Guidelines, Emerging Trends, and Its Intersection with Sustainable Development Goals :noexport:
 
 *** Discussing the Ethics of Professional AI Use in Undergraduate Chemistry Courses
 
