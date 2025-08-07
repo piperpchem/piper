@@ -8,7 +8,7 @@ SITE_DIR=/home/ssinglet/work/piper
 pushd $SITE_DIR
 
 # stage all changes
-git add $SITE_DIR/posts
+git add $SITE_DIR/posts/*
 
 ## excerpt from https://lukmayer.github.io/blog/posts/fast_quarto.html
 # Get list of changed .qmd or .md files in git working tree
@@ -26,12 +26,11 @@ else
     echo "Rendering changed files:"
     echo "$CHANGED_FILES"
     quarto render $CHANGED_FILES
+    # Commit changes to git.
+    echo "Enter a commit message:"
+    read commit_message
+    git commit -m "$commit_message"
 fi
-
-# Commit changes to git.
-echo "Enter a commit message:"
-read commit_message
-git commit -m "$commit_message"
 
 # Commit changes.
 # msg="rebuilding site $(date)"
