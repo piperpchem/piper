@@ -1,0 +1,943 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.7.33">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="dcterms.date" content="2025-07-07">
+<meta name="keywords" content="PIPER, teaching physical chemistry, GPT, ChatGPT, LLM, teaching, chemistry, artificial intelligence, AI, physical chemistry resources">
+
+<title>Large Language Model (LLM) and Generative Pre-trained Transformer (GPT) References for Teachers – PIPER: Resources for Teaching Physical Chemistry</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<link href="../../images/profile.png" rel="icon" type="image/png">
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-ea385d0e468b0dd5ea5bf0780b1290d9.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark-bc185b5c5bdbcb35c2eb49d8a876ef70.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-ea385d0e468b0dd5ea5bf0780b1290d9.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-4916d7bb78bc3ca22a470f5ddda57925.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-dark-17397291c1577c25cee72d434ee0883b.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="../../site_libs/bootstrap/bootstrap-4916d7bb78bc3ca22a470f5ddda57925.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+
+<meta property="og:title" content="Large Language Model (LLM) and Generative Pre-trained Transformer (GPT) References for Teachers – PIPER: Resources for Teaching Physical Chemistry">
+<meta property="og:description" content="PIPER teaching resources for physical chemistry">
+<meta property="og:image" content="https://chemistry.coe.edu/piper/posts/llms-gpt/llm-gpt.svg">
+<meta property="og:site_name" content="PIPER: Resources for Teaching Physical Chemistry">
+</head>
+
+<body class="nav-fixed fullcontent quarto-light"><script id="quarto-html-before-body" type="application/javascript">
+    const toggleBodyColorMode = (bsSheetEl) => {
+      const mode = bsSheetEl.getAttribute("data-mode");
+      const bodyEl = window.document.querySelector("body");
+      if (mode === "dark") {
+        bodyEl.classList.add("quarto-dark");
+        bodyEl.classList.remove("quarto-light");
+      } else {
+        bodyEl.classList.add("quarto-light");
+        bodyEl.classList.remove("quarto-dark");
+      }
+    }
+    const toggleBodyColorPrimary = () => {
+      const bsSheetEl = window.document.querySelector("link#quarto-bootstrap:not([rel=disabled-stylesheet])");
+      if (bsSheetEl) {
+        toggleBodyColorMode(bsSheetEl);
+      }
+    }
+    const setColorSchemeToggle = (alternate) => {
+      const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
+      for (let i=0; i < toggles.length; i++) {
+        const toggle = toggles[i];
+        if (toggle) {
+          if (alternate) {
+            toggle.classList.add("alternate");
+          } else {
+            toggle.classList.remove("alternate");
+          }
+        }
+      }
+    };
+    const toggleColorMode = (alternate) => {
+      // Switch the stylesheets
+      const primaryStylesheets = window.document.querySelectorAll('link.quarto-color-scheme:not(.quarto-color-alternate)');
+      const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
+      manageTransitions('#quarto-margin-sidebar .nav-link', false);
+      if (alternate) {
+        // note: dark is layered on light, we don't disable primary!
+        enableStylesheet(alternateStylesheets);
+        for (const sheetNode of alternateStylesheets) {
+          if (sheetNode.id === "quarto-bootstrap") {
+            toggleBodyColorMode(sheetNode);
+          }
+        }
+      } else {
+        disableStylesheet(alternateStylesheets);
+        enableStylesheet(primaryStylesheets)
+        toggleBodyColorPrimary();
+      }
+      manageTransitions('#quarto-margin-sidebar .nav-link', true);
+      // Switch the toggles
+      setColorSchemeToggle(alternate)
+      // Hack to workaround the fact that safari doesn't
+      // properly recolor the scrollbar when toggling (#1455)
+      if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
+        manageTransitions("body", false);
+        window.scrollTo(0, 1);
+        setTimeout(() => {
+          window.scrollTo(0, 0);
+          manageTransitions("body", true);
+        }, 40);
+      }
+    }
+    const disableStylesheet = (stylesheets) => {
+      for (let i=0; i < stylesheets.length; i++) {
+        const stylesheet = stylesheets[i];
+        stylesheet.rel = 'disabled-stylesheet';
+      }
+    }
+    const enableStylesheet = (stylesheets) => {
+      for (let i=0; i < stylesheets.length; i++) {
+        const stylesheet = stylesheets[i];
+        if(stylesheet.rel !== 'stylesheet') { // for Chrome, which will still FOUC without this check
+          stylesheet.rel = 'stylesheet';
+        }
+      }
+    }
+    const manageTransitions = (selector, allowTransitions) => {
+      const els = window.document.querySelectorAll(selector);
+      for (let i=0; i < els.length; i++) {
+        const el = els[i];
+        if (allowTransitions) {
+          el.classList.remove('notransition');
+        } else {
+          el.classList.add('notransition');
+        }
+      }
+    }
+    const isFileUrl = () => {
+      return window.location.protocol === 'file:';
+    }
+    const hasAlternateSentinel = () => {
+      let styleSentinel = getColorSchemeSentinel();
+      if (styleSentinel !== null) {
+        return styleSentinel === "alternate";
+      } else {
+        return false;
+      }
+    }
+    const setStyleSentinel = (alternate) => {
+      const value = alternate ? "alternate" : "default";
+      if (!isFileUrl()) {
+        window.localStorage.setItem("quarto-color-scheme", value);
+      } else {
+        localAlternateSentinel = value;
+      }
+    }
+    const getColorSchemeSentinel = () => {
+      if (!isFileUrl()) {
+        const storageValue = window.localStorage.getItem("quarto-color-scheme");
+        return storageValue != null ? storageValue : localAlternateSentinel;
+      } else {
+        return localAlternateSentinel;
+      }
+    }
+    const toggleGiscusIfUsed = (isAlternate, darkModeDefault) => {
+      const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
+      const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
+      let newTheme = '';
+      if(authorPrefersDark) {
+        newTheme = isAlternate ? baseTheme : alternateTheme;
+      } else {
+        newTheme = isAlternate ? alternateTheme : baseTheme;
+      }
+      const changeGiscusTheme = () => {
+        // From: https://github.com/giscus/giscus/issues/336
+        const sendMessage = (message) => {
+          const iframe = document.querySelector('iframe.giscus-frame');
+          if (!iframe) return;
+          iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+        }
+        sendMessage({
+          setConfig: {
+            theme: newTheme
+          }
+        });
+      }
+      const isGiscussLoaded = window.document.querySelector('iframe.giscus-frame') !== null;
+      if (isGiscussLoaded) {
+        changeGiscusTheme();
+      }
+    };
+    const authorPrefersDark = false;
+    const darkModeDefault = authorPrefersDark;
+      document.querySelector('link#quarto-text-highlighting-styles.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
+      document.querySelector('link#quarto-bootstrap.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
+    let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
+    // Dark / light mode switch
+    window.quartoToggleColorScheme = () => {
+      // Read the current dark / light value
+      let toAlternate = !hasAlternateSentinel();
+      toggleColorMode(toAlternate);
+      setStyleSentinel(toAlternate);
+      toggleGiscusIfUsed(toAlternate, darkModeDefault);
+      window.dispatchEvent(new Event('resize'));
+    };
+    // Switch to dark mode if need be
+    if (hasAlternateSentinel()) {
+      toggleColorMode(true);
+    } else {
+      toggleColorMode(false);
+    }
+  </script>
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="../../index.html">
+    <span class="navbar-title">PIPER: Resources for Teaching Physical Chemistry</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../../resources.html"> 
+<span class="menu-text">Resources</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../events.html"> 
+<span class="menu-text">Events</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../community.html"> 
+<span class="menu-text">Communities</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../about.html"> 
+<span class="menu-text">About</span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="../../index.xml"> <i class="bi bi-rss-fill" role="img" aria-label="RSS">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Large Language Model (LLM) and Generative Pre-trained Transformer (GPT) References for Teachers</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">article</div>
+    <div class="quarto-category">ai-ml</div>
+  </div>
+  </div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  <!--  -->
+  <!-- <div> -->
+  <!--   <div class="quarto-title-meta-heading">Published</div> -->
+  <!--   <div class="quarto-title-meta-contents"> -->
+  <!--     <p class="date">July 7, 2025</p> -->
+  <!--   </div> -->
+  <!-- </div> -->
+  <!--  -->
+
+    
+  </div>
+  
+
+<!--  -->
+<!-- <div> -->
+<!--   <div class="keywords"> -->
+<!--     <div class="block-title">Keywords</div> -->
+<!--     <p>PIPER, teaching physical chemistry, GPT, ChatGPT, LLM, teaching, chemistry, artificial intelligence, AI, physical chemistry resources</p> -->
+<!--   </div> -->
+<!-- </div> -->
+<!--  -->
+</header>
+
+
+<p>References related to Large Language Model (LLM) and Generative Pre-trained Transformer (GPT) resources (e.g., ChatGPT) and their use in the chemistry classroom. Please send additions to ssinglet@coe.edu and I will include them in this list.</p>
+<section id="classification-of-artificial-intelligence-applications-in-chemistry-from-automation-to-digital-scientific-thinking" class="level1">
+<h1>Classification of artificial intelligence applications in chemistry: from automation to digital scientific thinking</h1>
+<p>Ananikov VP. ChemRxiv. 2025; <a href="https://doi.org/10.26434/chemrxiv-2025-fbk8w">doi:10.26434/chemrxiv-2025-fbk8w</a> This content is a preprint and has not been peer-reviewed.</p>
+<p>This article proposes a three-level classification of artificial intelligence (AI) application in chemical sciences, reflecting the increasing degree of technology involvement in scientific and production processes: from automation of routine tasks (the level of “AI Assistant”), to the creation of specialized analytical solutions for processing experimental data (the level of “AI Analyst”) and further to the prospect of intelligent systems capable of forming scientific hypotheses and designing substances and processes (the level of “AI Researcher”). This hierarchy enables systematic implementation of AI in practical chemistry, materials science, pharmaceuticals, catalytic technologies, environmental control, and other key areas. The first level contributes to increased efficiency in a wide range of tasks: in production, research and education, preparation of documentation, patent and market research, support of regulatory procedures, automated preparation of analytical data, as well as staff training and knowledge transfer within the organization. The second level provides in-depth data analysis, reduced R&amp;D timelines, and technology scaling. The third level opens up opportunities for breakthrough solutions, including autonomous design of new molecules, processes, and materials. The term “technology-as-participant” is introduced for the first time as a designation of a new form of interaction between humans and AI, in which the digital system becomes an integral part of the scientific process, not just a tool.</p>
+</section>
+<section id="an-investigation-of-change-in-prompting-strategies-in-a-semester-long-course-on-the-use-of-genai" class="level1">
+<h1>An Investigation of Change in Prompting Strategies in a Semester-Long Course on the Use of GenAI</h1>
+<p>Martin Sigot Sebastian Tassoti, J. Chem. Educ., 2025, <a href="https://doi.org/10.1021/acs.jchemed.4c01287">https://doi.org/10.1021/acs.jchemed.4c01287</a></p>
+<p>The increasing relevance of generative artificial intelligence in our everyday life prompts educational researchers to carefully assess science-learning experiences using this new technology. In this study, prompting strategies of preservice chemistry teachers were evaluated through the duration of a semester in several course settings. A course was developed that addresses the use of GenAI in contexts like problem solving in chemistry and teaching and learning chemistry and had the students individually work on a chemistry-related project. The course instructs the students in a specific prompting technique, the 5S prompting framework, to foster their prompting skills. During the semester and for a period after the semester, approximately 1600 prompts of students given to GenAI were collected via a custom-made interface that allowed researchers to see students’ prompts. The analysis of these conversations shows that students incorporated the prompting strategies they were taught in their conversations and interactions with GenAI during and after the semester. In this publication, the 5S prompting framework and its implementation in students’ prompting habits as well as implications for teaching about GenAI in chemistry-specific contexts are discussed.</p>
+</section>
+<section id="considering-the-ethics-of-large-machine-learning-models-in-the-chemical-sciences" class="level1">
+<h1>Considering the Ethics of Large Machine Learning Models in the Chemical Sciences</h1>
+<p>Spotte-Smith, Evan Walter Clark, ChemRxiv. 2025; <a href="https://doi.org/10.26434/chemrxiv-2025-ct5k8-v2">doi:10.26434/chemrxiv-2025-ct5k8-v2</a>. This content is a preprint and has not been peer-reviewed.</p>
+<p>Foundation models, including large language models, vision-language models, and similar large-scale machine learning tools, are quickly becoming ubiquitous in society and in the professional world. Chemical practitioners are not immune to the appeal of foundation models, nor are they immune to the many risks and harms that these models introduce. In this work, I present the first analysis of foundation models using the combined lens of scientific ethics and chemical professional ethics. I find that general-purpose generative foundation models are in many ways incompatible with the moral practice of chemistry, though there are fewer ethical problems with chemistry-specific foundation models. My discussion concludes with an examination of how the harm associated with foundation models can be minimized and further poses a set of serious lingering questions for chemical practitioners and scientific ethicists.</p>
+</section>
+<section id="aichemistry-education-in-top-chinese-university-embedding-computational-thinking-into-curriculum" class="level1">
+<h1>AI+Chemistry Education in Top Chinese University: Embedding Computational Thinking into Curriculum</h1>
+<p>Wang R. ChemRxiv. 2025; <a href="https://doi.org/doi:10.26434/chemrxiv-2025-8kh8t">doi:10.26434/chemrxiv-2025-8kh8t</a> This content is a preprint and has not been peer-reviewed.</p>
+<p>Integrating Artificial General Intelligence (AGI) into chemistry education requires shifting from treating AI as an opaque tool to cultivating students’ computational thinking—the ability to deconstruct algorithmic logic and apply it to solve chemical problems. Based on pre-curriculum investigation and analysis, this paper proposes an innovative interdisciplinary teaching framework that bridges AGI theory with chemistry education through computational thinking. By employing multidimensional strategies such as embodied cognition, metacognitive approaches, and phenomenon-based learning, we empower students to deconstruct the “black box” of AI algorithms and develop innovative domain-specific solutions. Pilot implementations demonstrate significant improvements in students’ understanding and application of AI for chemical problem-solving. Capitalizing on this advantage, the course has been included as a core required course in compulsory Chemical Engineering + AI undergaduation program of Tanwei College, Tsinghua University. This approach not only equips students with technical proficiency but also cultivates a generation of AI+Chemistry capable of co-designing AGI systems to address real-world challenges.</p>
+</section>
+<section id="a-missed-opportunity-for-no-code-chatbots-current-challenges-in-publicly-available-chemistry-gpts" class="level1">
+<h1>A Missed Opportunity for No-Code Chatbots? Current Challenges in Publicly Available Chemistry GPTs</h1>
+<p>Martin Sigot Sebastian Tassoti, J. Chem. Educ., 2025, <a href="https://doi.org/10.1021/acs.jchemed.4c01552">doi.org/10.1021/acs.jchemed.4c01552</a></p>
+<p>With the emergence of generative artificial intelligence (GenAI) and ChatGPT, individualization of learning pathways was discussed in the educational context. One way to achieve customization is the use of specialized versions of ChatGPT–so-called GPTs. Those GPTs are publicly available and used daily by thousands of people worldwide. In this work, we analyze the current market of chemistry-specialized GPTs in the OpenAI GPT ‘store’. We identify common shortcomings, such as unnecessary activation of features like DALL-E, overly positive use of terms like ‘expert’ or ‘teacher’ and the inclusion of copyrighted material. To highlight the urgency of well-designed GPTs in chemistry education, we analyze the most used chemistry-specific GPT in more detail to discuss further problems with GPTs. In summary, we advocate a collaborative effort within the chemistry education community to develop robust and publicly available GPTs. Future research might benefit from a focus on creating and refining these GPTs and exploring their impact on learning in both secondary and tertiary educational settings.</p>
+</section>
+<section id="investigating-the-uses-and-impacts-of-generative-artificial-intelligence-in-chemistry-education" class="level1">
+<h1>Investigating the Uses and Impacts of Generative Artificial Intelligence in Chemistry Education</h1>
+<p><a href="https://pubs.acs.org/page/jceda8/vi/genai2024?ref=vi_collection">Journal of Chemical Education Virtual Special Issue</a></p>
+<p>Guest Editors: Elizabeth Yuriev, Monash University, Australia; Donald J. Wink, University of Illinois at Chicago, USA; Thomas A. Holme, Iowa State University, USA</p>
+<p>Highlights the emerging applications of generative artificial intelligence (AI) in chemistry education. An accompanying editorial by the Guest Editor Team introduces the VSI.</p>
+</section>
+<section id="large-language-models-llms-as-graphing-tools-for-advanced-chemistry-education-and-research" class="level1">
+<h1>Large Language Models (LLMs) as Graphing Tools for Advanced Chemistry Education and Research</h1>
+<p>S. M. Supundrika Subasinghe, Simon G. GersibNeal P. Mankad, <em>J. Chem. Educ.</em>, 2025, <a href="https://doi.org/10.1021/acs.jchemed.4c01498">doi.org/10.1021/acs.jchemed.4c01498</a></p>
+<p>Large language models (LLMs) are positioned to transform how students interact with data in classroom and laboratory settings, both now and in the future. The integration of LLMs into chemical curricula, if done effectively, may improve student equity and learning outcomes and provide an alternative approach to data analysis alongside traditional methods. One of the key strengths of LLMs is their ability to efficiently summarize large data sets and transform them into understandable forms. Here we focus on use of LLMs to process quantitative data and make high-quality data plots without relying exclusively on spreadsheet skills. Specifically, we tested the ability of OpenAI’s ChatGPT to plot Walsh diagrams relevant to an ongoing laboratory experiment conducted in an undergraduate inorganic chemistry course.</p>
+</section>
+<section id="discussing-the-ethics-of-professional-ai-use-in-undergraduate-chemistry-courses" class="level1">
+<h1>Discussing the Ethics of Professional AI Use in Undergraduate Chemistry Courses</h1>
+<p>Emily F. Ruff, Jennifer M. O. Zemke, <em>J. Chem. Educ.</em>, 2025, <a href="https://doi.org/10.1021/acs.jchemed.4c01038">doi.org/10.1021/acs.jchemed.4c01038</a></p>
+<p>Teaching resources are needed to inform today’s undergraduate students about emerging uses of AI and help them think critically about corresponding ethical issues. We designed and piloted two exercises using articles from the popular press to introduce students to professional uses of AI in chemistry and related areas. Using student writing and follow-up assignments, we find that students are optimistic that AI will advance these fields but are also concerned that human labor and ideas should be protected. We close with suggestions for other instructors designing similar assignments.</p>
+</section>
+<section id="artificial-intelligence-in-chemistry-researchimplications-for-teaching-and-learning" class="level1">
+<h1>Artificial Intelligence in Chemistry Research─Implications for Teaching and Learning</h1>
+<p>Sandra Berber, Mathea Brückner, Nikolai Maurer, Johannes Huwer, <em>J. Chem. Educ.</em>, 2025, <a href="https://doi.org/10.1021/acs.jchemed.4c01033">doi.org/10.1021/acs.jchemed.4c01033</a></p>
+<p>Despite its growing relevance, the discussion of AI as a tool in research in (secondary) chemistry education remains limited. To address this gap, a review of AI applications in chemical and chemistry-related research was first carried out. Based on this review a workshop for pre- and in-service chemistry teachers was conducted to provide an initial overview of AI applications in scientific research. The workshop introduced key areas such as retrosynthesis, protein structure prediction, image processing, and autonomous laboratories, fostering awareness of AI’s role in scientific innovation. Participating secondary education science teachers reported an increased familiarity with AI applications and expressed intentions to incorporate these topics into their teaching.</p>
+</section>
+<section id="let-us-not-squander-the-affordances-of-llms-for-the-sake-of-expedience-using-retrieval-augmented-generative-ai-chatbots-to-support-and-evaluate-student-reasoning" class="level1">
+<h1>Let Us Not Squander the Affordances of LLMs for the Sake of Expedience: Using Retrieval Augmented Generative AI Chatbots to Support and Evaluate Student Reasoning</h1>
+<p>Melanie M. Cooper and Michael W. Klymkowsky, <em>J. Chem. Educ.</em>, 2024, <a href="https://doi.org/10.1021/acs.jchemed.4c00765">doi.org/10.1021/acs.jchemed.4c00765</a></p>
+<p>The use of large language model Generative AI (GenAI) systems by students and instructors is increasing rapidly, and there is little choice but to adapt to this new situation. Many, but not all, students are using GenAI for homework and assignments, which means that we need to provide equitable access for all students to AI systems that can support and enhance their learning. At the same time, we need to think carefully about just what we want teaching and learning to look like as GenAI systems become readily available. Here we propose that “business as usual” is not a responsible option. Although chatbots can readily answer questions, produce summaries of content, and make the process of education more efficient, there is scant evidence that such time saving is effective, and indeed, it is important that we not allow the use of GenAI systems to circumvent or undermine the learning process. The availability of so-called Retrieval Augmented Generative (RAG) AI systems allows us to expand what we expect students to know and do, by 1) supporting instructors in the design of more complex tasks (that can, for example, elicit evidence of three-dimensional learning (3DL)), 2) supporting students as they reason through such scaffolded tasks, and 3) by evaluating student responses, individually and in aggregate. We present examples of each of these affordances with the associated training materials and bot personas, along with caveats about their use.</p>
+</section>
+<section id="using-generative-ai-systems-for-critical-thinking-engagement-in-an-advanced-chemistry-course-a-case-study" class="level1">
+<h1>Using Generative AI Systems for Critical Thinking Engagement in an Advanced Chemistry Course: A Case Study</h1>
+<p>Pence, et. al., J. Chem. Educ. 2024, <a href="https://doi.org/10.1021/acs.jchemed.4c00242">doi: 10.1021/acs.jchemed.4c00242</a></p>
+<p>A series of critical thinking assignments was created for students in an advanced chemistry course to interact with and evaluate generative AI (GenAI) systems. Students explored GenAI’s facility with producing summaries of C&amp;EN articles, analyzing titration data, and closely reading literature articles. For each assignment, the students evaluated the output using a critical thinking exercise and presented their results using written reports. The students found GenAI to be effective at summarizing news articles, although it demonstrated inaccuracies in mathematical calculations and produced mixed results in answering technical questions based on specific literature articles. The assignments provided valuable practice for students’ critical thinking skills.</p>
+</section>
+<section id="enhancing-ai-responses-in-chemistry-integrating-text-generation-image-creation-and-image-interpretation-through-different-levels-of-prompts" class="level1">
+<h1>Enhancing AI Responses in Chemistry: Integrating Text Generation, Image Creation, and Image Interpretation through Different Levels of Prompts</h1>
+<p>Wilton J. D. Nascimento Júnior, Carla Morais, Gildo Girotto Júnior, <em>J. Chem. Ed.</em>, 2024, <a href="https://doi.org/10.1021/acs.jchemed.4c00230">doi.org/10.1021/acs.jchemed.4c00230</a></p>
+<p>Generative Artificial Intelligence technologies can potentially transform education, benefiting teachers and students. This study evaluated various GAIs, including ChatGPT 3.5, ChatGPT 4.0, Google Bard, Bing Chat, Adobe Firefly, Leonardo.AI, and DALL-E, focusing on textual and imagery content. Utilizing initial, intermediate, and advanced prompts, we aim to simulate GAI responses tailored to users with varying levels of knowledge. We aim to investigate the possibilities of integrating content from Chemistry Teaching. The systems presented responses appropriate to the scientific consensus for textual generation, but they revealed alternative chemical content conceptions. In terms of the interpretation of chemical system representations, only ChatGPT 4.0 accurately identified the content in all of the images. In terms of image production, even with more advanced prompts and subprompts, Generative Artificial Intelligence still presents difficulties in content production. The use of prompts involving the Python language promoted an improvement in the images produced. In general, we can consider content production as support for chemistry teaching, but only with more advanced prompts do the answers tend to present fewer errors. The importance of previously understanding chemistry concepts and systems’ functioning is noted.</p>
+</section>
+<section id="chatgpt-as-an-instructors-assistant-for-generating-and-scoring-exams" class="level1">
+<h1>ChatGPT as an Instructor’s Assistant for Generating and Scoring Exams</h1>
+<p>Alberto A. Fernández, Margarita López-Torres, Jesús J. Fernández, Digna Vázquez-García J. Chem. Educ. 2024, <a href="https://doi.org/10.1021/acs.jchemed.4c00231" class="uri">https://doi.org/10.1021/acs.jchemed.4c00231</a>, CC-BY</p>
+<p>This study assessed ChatGPT’s proficiency in responding to questions from University Entrance Exams typically administered to senior secondary students. Our findings indicate that ChatGPT version 4.0 consistently outperformed students, achieving higher average scores across exams from the past four years. However, it still committed errors in about 20% of its responses. Despite this, ChatGPT 4.0 demonstrated a robust capability to comprehend and produce natural language within a chemical context. Consequently, by applying diverse prompt engineering techniques, this AI was able to create short-answer questions and numerical problems that closely mimic the format and conceptual content of University Entrance Exams. We also confirmed that ChatGPT 4.0 could grade exams, showing a significant correlation with scores given by human evaluators but lower than that among human graders. This discrepancy and other practical considerations limit its application in grading exams.</p>
+</section>
+<section id="exploring-the-concept-of-valence-and-the-nature-of-science-via-generative-artificial-intelligence-and-general-chemistry-textbooks" class="level1">
+<h1>Exploring the Concept of Valence and the Nature of Science via Generative Artificial Intelligence and General Chemistry Textbooks</h1>
+<p>Rebecca M. Jones, Eva-Maria Rudler, Conner Preston, J. Chem. Educ., 2024, <a href="https://doi.org/10.1021/acs.jchemed.4c00271" class="uri">https://doi.org/10.1021/acs.jchemed.4c00271</a></p>
+<p>This paper explores historical and modern perspectives of the concept of valence in the context of collegiate general chemistry and draws comparisons to responses from generative artificial intelligence (genAI) tools such as ChatGPT. A fundamental concept in chemistry, valence in the early and mid-20th century was primarily defined as the “combining capacity” of atoms. Twenty-first century textbooks do not include this historical definition but rather use valence as an adjective to modify other nouns, e.g., valence electron or valence orbital. To explore these different perspectives in other information sources that could be used by students, we used a systematic series of prompts about valence to analyze the responses from ChatGPT, Bard, Liner, and ChatSonic from September and December 2023. Our findings show the historical definition is very common in responses to prompts which use valence or valency as a noun but less common when prompts include valence as an adjective. Regarding this concept, the state-of-the-art genAI tools are more consistent with textbooks from the 1950s than modern collegiate general chemistry textbooks. These findings present an opportunity for chemistry educators to observe and discuss with students the nature of science and how our understanding of chemistry changes. Including implications for educators, we present an example activity that may be deployed in general chemistry classes.</p>
+</section>
+<section id="student-perceptions-of-artificial-intelligence-utility-in-the-introductory-chemistry-classroom" class="level1">
+<h1>Student Perceptions of Artificial Intelligence Utility in the Introductory Chemistry Classroom</h1>
+<p>Mendez, James D., J. Chem. Educ., 2024, <a href="https://doi.org/10.1021/acs.jchemed.4c00075" class="uri">https://doi.org/10.1021/acs.jchemed.4c00075</a></p>
+<p>This study investigates student perceptions of generative artificial intelligence (AI) in an introductory chemistry course. Students engaged with AI chatbots of their choice to correct missed exam questions, revealing overall positive attitudes toward their usefulness. Despite this positive perception, the study shows a disconnect between the overall media portrayal of AI in academia and how actual students use it. Only a small number of students had used AI before this activity. This study highlights the need for training on responsible AI use to address ongoing ethical concerns over the misuse of these systems and to get ahead of future issues.</p>
+</section>
+<section id="large-language-models-are-catalyzing-chemistry-education" class="level1">
+<h1>Large Language Models are Catalyzing Chemistry Education</h1>
+<p>Du Y, Duan C, Bran A, Sotnikova A, Qu Y, Kulik H, et al., ChemRxiv. 2024; <a href="https://doi.org/10.26434/chemrxiv-2024-h722v">doi:10.26434/chemrxiv-2024-h722v</a></p>
+<p>Large language models (LLMs) have demonstrated outstanding capabilities in general problem-solving and been shown to improve productivity in certain domains. Thanks to their flexibility, recent work has leveraged them for diverse scientific applications, ranging from predictive modeling, scientific Q&amp;A, and even as autonomous agents towards automation in chemistry. The democratization of high-quality chemistry education faces several challenges, including heterogeneity among sub-fields, limited access to personalized guidance, and an uneven distribution of resources. Additionally, hands-on laboratory experiments, a crucial component of chemistry education, are difficult to scale due to inherent safety risks that necessitate close supervision. We propose that LLMs can help overcome these obstacles by providing scalable solutions that tailor educational content to individual needs, enhancing the overall learning experience. In this perspective, we discuss how LLMs can catalyze chemistry education across multiple dimensions, from preparing and delivering lectures and tackling guidance in both wet lab and computational experiments, to re-thinking evaluation methodologies in the classroom. We also discuss some potential risks of this technology, such as the possibility of generating inaccurate or biased content, and emphasize the need for further development to ensure the successful integration of LLMs in the chemistry classroom.</p>
+</section>
+<section id="using-chatgpt-to-support-lesson-planning-for-the-historical-experiments-of-thomson-millikan-and-rutherford" class="level1">
+<h1>Using ChatGPT to Support Lesson Planning for the Historical Experiments of Thomson, Millikan, and Rutherford</h1>
+<p>Ted M. Clark, Matthew Fhaner, Matthew Stoltzfus, and Matt Scott Queen, J. Chem. Ed., 2024, <a href="https://doi.org/10.1021/acs.jchemed.4c00200">doi.org/10.1021/acs.jchemed.4c00200</a></p>
+<p>Four General Chemistry instructors investigated the use of ChatGPT-4 to improve their lessons plans for the historical experiments of Thomson, Millikan, and Rutherford. The instructors varied in their prior knowledge for these experiments and their initial lessons addressed somewhat different learning objectives. This led to different conversations with the chatbot as the instructors used the resource in different ways and discussed topics they each found relevant. The output from ChatGPT-4 was robust and each instructor identified ways it could be used to improve their instruction. The chatbot was able to accomplish instructional tasks these instructors found useful, such as outlining a lesson plan, recommending resources, discussing instructional strategies, describing calculations, offering explanations for different levels of leaners, and generating assessments. A limitation was its ability create images or visual aids the instructors found useful. Overall, these instructors found the chatbot could support, but not replace, an instructor in a course like General Chemistry.</p>
+</section>
+<section id="students-experience-of-a-chatgpt-enabled-final-exam-in-a-non-majors-chemistry-course" class="level1">
+<h1>Students’ Experience of a ChatGPT Enabled Final Exam in a Non-Majors Chemistry Course</h1>
+<p>Morgan J. Clark, Micke Reynders, and Thomas A. Holme, Journal of Chemical Education, 2024, <a href="https://doi.org/10.1021/acs.jchemed.4c00161">DOI: 10.1021/acs.jchemed.4c00161</a></p>
+<p>In the field of education, ChatGPT has become a topic of debate for its usefulness as a learning tool. This article focuses on non-science majors’ (n = 29) perceptions of a ChatGPT enabled final exam, where, prior to the exam, students wrote papers on science and sustainability and, during the final exam, students were asked to compare their paper to one produced on the same topic by ChatGPT. Thus, the underlying chemistry, its broader impacts, and connection to sustainability and writing styles were compared. Students’ perceptions were analyzed through a developed coding framework that enabled the visualization of emerging themes. The most common themes revealed that students believed the ChatGPT essay did not read as “human-like”, used more intricate words, and often did not include enough science to support its arguments. Students also noted that their essays provided more chemistry details and were easier to read as they focused on connecting chemistry concepts to their essay topic as well as sustainable policies and practices. Students were impressed, however, by ChatGPT’s ability to discuss various sustainability solutions, policies, and practices. The final exam inspired self-reflection for the students to improve not only their writing but also their analysis of sustainability responses. Overall, students rated the comparative activity as a final exam to be favorable and remarked on the importance of analyzing AI generated work for the future of learning.</p>
+</section>
+<section id="can-chatgpt-enhance-chemistry-laboratory-teaching-using-prompt-engineering-to-enable-ai-in-generating-laboratory-activities" class="level1">
+<h1>Can ChatGPT Enhance Chemistry Laboratory Teaching? Using Prompt Engineering to Enable AI in Generating Laboratory Activities</h1>
+<p>José Luís Araújo and Isabel Saúde, Journal of Chemical Education, 2024, <a href="https://doi.org/10.1021/acs.jchemed.3c00745" class="uri">https://doi.org/10.1021/acs.jchemed.3c00745</a></p>
+<p>The rapid evolution of Artificial Intelligence (AI) is profoundly shaping our society. Among various AI tools, ChatGPT stands out for its user-friendly nature and wide accessibility to the public. However, despite their countless potential benefits, these tools also face significant challenges, especially in sensitive areas like Education. In this publication, we conduct a prompt engineering essay with ChatGPT to understand the potential and challenges of this tool in designing new, high-quality chemistry laboratory activities. We aimed to assess its performance in proposing scientifically and pedagogically suitable protocols for chemistry laboratory activities based on the 11th-grade Portuguese curriculum. The initial exploratory essay was conducted to fine-tune the prompt, followed by the analysis of proposals for the five mandatory laboratory activities in this subject. ChatGPT demonstrates the ability to interpret and reproduce the specialized symbolic language of chemistry, effectively conceptualizing problems and laboratory activities in a clear and understandable manner for a broader audience (i.e., chemistry students). However, it is crucial to highlight the scientific-pedagogical limitations concerning the accuracy and appropriateness of the proposed laboratory activities, particularly in terms of safety and sustainability. Therefore, the use of AI in education should be approached critically and reflectively. While AI holds immense potential to transform the dynamics of teaching and learning, the role and expertise of the Chemistry teacher remain of the utmost importance to ensure the scientific and pedagogical quality of Chemistry classes.</p>
+</section>
+<section id="comment-on-comparing-the-performance-of-college-chemistry-students-with-chatgpt-for-calculations-involving-acids-and-bases" class="level1">
+<h1>Comment on “Comparing the Performance of College Chemistry Students with ChatGPT for Calculations Involving Acids and Bases”</h1>
+<p>Joshua Schrier, Journal of Chemical Education, 2024, <a href="https://doi.org/10.1021/acs.jchemed.4c00058">10.1021/acs.jchemed.4c00058</a></p>
+<p>In a recent paper in this Journal ( J. Chem. Educ. 2023, 100, 3934−3944), Clark et al.&nbsp;evaluated the performance of the GPT-3.5 large language model (LLM) on ten undergraduate pH calculation problems. They reported that GPT-3.5 gave especially poor results for salt and titration problems, returning the correct results only 10% and 0% of the time, respectively, and that, despite a correct application of heuristics, the LLM made mathematical errors and used flawed strategies. However, these problems are partially mitigated using the more advanced GPT-4 model and entirely corrected using simple prompting and calculator tool use patterns demonstrated herein.</p>
+</section>
+<section id="leveraging-chatgpt-for-enhancing-critical-thinking-skills" class="level1">
+<h1>Leveraging ChatGPT for Enhancing Critical Thinking Skills</h1>
+<p>Ying Guo, Daniel Lee <a href="https://doi.org/10.1021/acs.jchemed.3c00505">doi.org/10.1021/acs.jchemed.3c00505</a></p>
+<p>This article presents a study conducted at Georgia Gwinnett College (GGC) to explore the use of ChatGPT, a large language model, for fostering critical thinking skills in higher education. The study implemented a ChatGPT-based activity in introductory chemistry courses, where students engaged with ChatGPT in three stages: account setup and orientation, essay creation, and output revision and validation. The results showed significant improvements in students’ confidence to ask insightful questions, analyze information, and comprehend complex concepts. Students reported that ChatGPT provided diverse perspectives and challenged their current ways of thinking. They also expressed an increased utilization of ChatGPT to enhance critical thinking skills and a willingness to recommend it to others. However, challenges included low-quality student comments and difficulties in validating information sources. The study highlights the importance of comprehensive training for educators and access to reliable resources. Future research should focus on training educators in integrating ChatGPT effectively and ensuring student awareness of privacy and security considerations. In conclusion, this study provides valuable insights for leveraging AI technologies like ChatGPT to foster critical thinking skills in higher education.</p>
+</section>
+<section id="an-analysis-of-ai-generated-laboratory-reports-across-the-chemistry-curriculum-and-student-perceptions-of-chatgpt" class="level1">
+<h1>An Analysis of AI-Generated Laboratory Reports across the Chemistry Curriculum and Student Perceptions of ChatGPT</h1>
+<p>Joseph K. West, Jeanne L. Franz, Sara M. Hein, Hannah R. Leverentz-Culp, Jonathon F. Mauser, Emily F. Ruff, and Jennifer M. Zemke <a href="https://doi.org/10.1021/acs.jchemed.3c00581">doi.org/10.1021/acs.jchemed.3c00581</a></p>
+<p>AI technologies are rapidly pervading many areas of our world. AI-driven text generators such as ChatGPT are at the forefront of this due to their simplicity and accessibility. Their influence on higher education is already being observed, and perceptions among faculty and students vary widely. We have undertaken a cross-curriculum study of ChatGPT’s ability to generate laboratory reports. AI-generated reports from general, organic, analytical, physical, inorganic, and biochemistry courses were graded as if they were student reports and analyzed for grade distributions and common strengths and weaknesses. To further gauge ChatGPT’s current impact, we surveyed all students in our Spring 2023 laboratory courses regarding their awareness and use of ChatGPT. We have also laid out suggestions, guidance, and considerations for instructors who wish to prohibit ChatGPT use by their students as well as for those who wish to begin incorporating this new, powerful tool into their teaching.</p>
+</section>
+<section id="using-generative-artificial-intelligence-in-chemistry-education-research-prioritizing-ethical-use-and-accessibility" class="level1">
+<h1>Using generative artificial intelligence in chemistry education research: prioritizing ethical use and accessibility</h1>
+<p>Deng JM, Lalani Z, McDermaid LA, Szozda AR, <a href="https://doi.org/10.26434/chemrxiv-2023-24zfl" class="uri">https://doi.org/10.26434/chemrxiv-2023-24zfl</a> (unreviewed preprint)</p>
+<p>Generative artificial intelligence (GenAI) has the potential to drastically alter how we teach and conduct research in chemistry education. There have been many reports on the potential uses, limitations, and considerations for GenAI tools in teaching and learning, but there have been fewer discussions of how such tools could be leveraged in educational research, including in chemistry education research. GenAI tools can be used to facilitate and support researchers in every stage of traditional educational research projects (e.g.&nbsp;conducting literature reviews, designing research questions and methods, communicating results). However, these tools also have existing limitations that researchers must be aware of prior to and during use. In this research commentary, we share insights on how chemistry education researchers can use GenAI tools in their work ethically. We also share how GenAI tools can be leveraged to improve accessibility and equity in research.</p>
+</section>
+<section id="chatgpt-needs-a-chemistry-tutor-too" class="level1">
+<h1>ChatGPT Needs a Chemistry Tutor, Too</h1>
+<p>Alfredo J. Leon and Dinesh Vidhani, Journal of Chemical Education, <a href="https://doi.org/10.1021/acs.jchemed.3c00288" class="uri">https://doi.org/10.1021/acs.jchemed.3c00288</a></p>
+<p>Artificial intelligence (AI) technology has the potential to revolutionize the education sector. This study sought to determine the efficacy of ChatGPT to correctly answer questions a learner would use and to elucidate how the AI was processing potential prompts. Our goal was to evaluate the role of prompt formats, response consistency, and reliability of ChatGPT responses. Analyzing prompt format, we see that the data do not demonstrate a statistically significant difference between multiple-choice and free-response questions. Neither format achieved scores higher than 37%, and testing at different locations did not improve scores. Interestingly, ChatGPT’s free version provides accurate responses to discipline-specific questions that contain information from unrelated topics as distractors, improving its accuracy over the free-response questions. It is important to consider, while ChatGPT can identify the correct answer within a given context, it may not be able to determine if the answer it selects is correct computationally or through analysis. The results of this study can guide future AI and ChatGPT training practices and implementations to ensure they are used to their fullest potential.</p>
+</section>
+<section id="scibench-evaluating-college-level-scientific-problem-solving-abilities-of-large-language-models" class="level1">
+<h1>SciBench: Evaluating College-Level Scientific Problem-Solving Abilities of Large Language Models</h1>
+<p>Xiaoxuan Wang, et al, arXiv Computer Science, <a href="https://arxiv.org/abs/2307.10635" class="uri">https://arxiv.org/abs/2307.10635</a></p>
+<p>Abstract: Recent advances in large language models (LLMs) have demonstrated notable progress on many mathematical benchmarks. However, most of these benchmarks only feature problems grounded in junior and senior high school subjects, contain only multiple-choice questions, and are confined to a limited scope of elementary arithmetic operations. To address these issues, this paper introduces an expansive benchmark suite SciBench that aims to systematically examine the reasoning capabilities required for complex scientific problem solving. SciBench contains two carefully curated datasets: an open set featuring a range of collegiate-level scientific problems drawn from mathematics, chemistry, and physics textbooks, and a closed set comprising problems from undergraduate-level exams in computer science and mathematics. Based on the two datasets, we conduct an in-depth benchmark study of two representative LLMs with various prompting strategies. The results reveal that current LLMs fall short of delivering satisfactory performance, with an overall score of merely 35.80%. Furthermore, through a detailed user study, we categorize the errors made by LLMs into ten problem-solving abilities. Our analysis indicates that no single prompting strategy significantly outperforms others and some strategies that demonstrate improvements in certain problem-solving skills result in declines in other skills. We envision that SciBench will catalyze further developments in the reasoning abilities of LLMs, thereby ultimately contributing to scientific research and discovery.</p>
+</section>
+<section id="challenging-chatgpt-with-chemistry-related-subjects" class="level1">
+<h1>Challenging ChatGPT with Chemistry-Related Subjects</h1>
+<p>Pimentel, et al <a href="https://doi.org/10.26434/chemrxiv-2023-xl6w3" class="uri">https://doi.org/10.26434/chemrxiv-2023-xl6w3</a> (unreviewed)</p>
+<p>Abstract: Tools based on large language models such as ChatGPT may revolutionize information retrieval and knowledge discovery, particularly with the vast amount of electronic material available. In this communication we evaluate how two versions of ChatGPT can answer complex questions on chemistry-related subjects in six topics. The tools are still insufficient to deal with subtleties of complex topics, especially as they do not have access to the whole of the scientific literature. However, the progress from ChatGPT-3 to ChatGPT-4 is an indicator that we shall soon have tools to assist scientists in surveys, reviews of the literature, and for teaching.</p>
+</section>
+<section id="do-large-language-models-understand-chemistry-a-conversation-with-chatgpt" class="level1">
+<h1>Do Large Language Models Understand Chemistry? A Conversation with ChatGPT</h1>
+<p>Pimentel, et al,Journal of Chemical Information and Modeling 2023 63 (6), 1649-1655, <a href="https://doi.org/10.1021/acs.jcim.3c00285" class="uri">https://doi.org/10.1021/acs.jcim.3c00285</a></p>
+<p>Abstract: Large language models (LLMs) have promised a revolution in answering complex questions using the ChatGPT model. Its application in chemistry is still in its infancy. This viewpoint addresses the question of how well ChatGPT understands chemistry by posing five simple tasks in different subareas of chemistry.</p>
+</section>
+<section id="generative-ai-in-education-and-research-opportunities-concerns-and-solutions" class="level1">
+<h1>Generative AI in Education and Research: Opportunities, Concerns, and Solutions</h1>
+<p>Alasadi &amp; Baiz, J. Chem. Educ. 2023, 100, 8, 2965–2971, <a href="https://doi.org/10.1021/acs.jchemed.3c00323" class="uri">https://doi.org/10.1021/acs.jchemed.3c00323</a></p>
+<p>Abstract: In this article, we discuss the role of generative artificial intelligence (AI) in education. The integration of AI in education has sparked a paradigm shift in teaching and learning, presenting both unparalleled opportunities and complex challenges. This paper explores critical aspects of implementing AI in education to advance educational goals, ethical considerations in scientific publications, and the attribution of credit for AI-driven discoveries. We also examine the implications of using AI-generated content in professional activities and describe equity and accessibility concerns. By weaving these key questions into a comprehensive discussion, this article aims to provide a balanced perspective on the responsible and effective use of these technologies in education, highlighting the need for a thoughtful, ethical, and inclusive approach to their integration.</p>
+</section>
+<section id="exploring-the-use-of-large-language-models-llms-in-chemical-engineering-education-building-core-course-problem-models-with-chat-gpt" class="level1">
+<h1>Exploring the use of large language models (LLMs) in chemical engineering education: Building core course problem models with Chat-GPT</h1>
+<p>Meng-Lin Tsai, et al, Education for Chemical Engineers, <a href="https://doi.org/10.1016/j.ece.2023.05.001" class="uri">https://doi.org/10.1016/j.ece.2023.05.001</a></p>
+<p>Abstract: This study highlights the potential benefits of integrating Large Language Models (LLMs) into chemical engineering education. In this study, Chat-GPT, a user-friendly LLM, is used as a problem-solving tool. Chemical engineering education has traditionally focused on fundamental knowledge in the classroom with limited opportunities for hands-on problem-solving. To address this issue, our study proposes an LLMs-assisted problem-solving procedure. This approach promotes critical thinking, enhances problem-solving abilities, and facilitates a deeper understanding of core subjects. Furthermore, incorporating programming into chemical engineering education prepares students with vital Industry 4.0 skills for contemporary industrial practices. During our experimental lecture, we introduced a simple example of building a model to calculate steam turbine cycle efficiency, and assigned projects to students for exploring the possible use of LLMs in solving various aspect of chemical engineering problems. Although it received mixed feedback from students, it was found to be an accessible and practical tool for improving problem-solving efficiency. Analyzing the student projects, we identified five common difficulties and misconceptions and provided helpful suggestions for overcoming them. Our course has limitations regarding using advanced tools and addressing complex problems. We further provide two additional examples to better demonstrate how to integrate LLMs into core courses. We emphasize the importance of universities, professors, and students actively embracing and utilizing LLMs as tools for chemical engineering education. Students must develop critical thinking skills and a thorough understanding of the principles behind LLMs, taking responsibility for their use and creations. This study provides valuable insights for enhancing chemical engineering education’s learning experience and outcomes by integrating LLMs.</p>
+</section>
+<section id="chatgpt-in-physics-education-a-pilot-study-on-easy-to-implement-activities" class="level1">
+<h1>ChatGPT in physics education: A pilot study on easy-to-implement activities</h1>
+<p>Bitzenbauer, Cont. Ed. Tech., 15, 3, <a href="https://doi.org/10.30935/cedtech/13176" class="uri">https://doi.org/10.30935/cedtech/13176</a></p>
+<p>Abstract: Large language models, such as ChatGPT, have great potential to enhance learning and support teachers, but they must be used with care to tackle limitations and biases. This paper presents two easy-to-implement examples of how ChatGPT can be used in physics classrooms to foster critical thinking skills at the secondary school level. A pilot study (n=53) examining the implementation of these examples found that the intervention had a positive impact on students’ perceptions of ChatGPT, with an increase in agreement with statements related to its benefits and incorporation into their daily lives.</p>
+</section>
+<section id="assessment-of-chemistry-knowledge-in-large-language-models-that-generate-code" class="level1">
+<h1>Assessment of chemistry knowledge in large language models that generate code</h1>
+<p>White, et al, Digital Discovery, 2023,2, 368-376, <a href="https://doi.org/10.1039/D2DD00087C" class="uri">https://doi.org/10.1039/D2DD00087C</a>, unreviewed preprint: <a href="https://doi.org/10.26434/chemrxiv-2022-3md3n-v2" class="uri">https://doi.org/10.26434/chemrxiv-2022-3md3n-v2</a></p>
+<p>Abstract: In this work, we investigate the question: do code-generating large language models know chemistry? Our results indicate, mostly yes. To evaluate this, we introduce an expandable framework for evaluating chemistry knowledge in these models, through prompting models to solve chemistry problems posed as coding tasks. To do so, we produce a benchmark set of problems, and evaluate these models based on correctness of code by automated testing and evaluation by experts. We find that recent LLMs are able to write correct code across a variety of topics in chemistry and their accuracy can be increased by 30 percentage points via prompt engineering strategies, like putting copyright notices at the top of files. Our dataset and evaluation tools are open source which can be contributed to or built upon by future researchers, and will serve as a community resource for evaluating the performance of new models as they emerge. We also describe some good practices for employing LLMs in chemistry. The general success of these models demonstrates that their impact on chemistry teaching and research is poised to be enormous.</p>
+</section>
+<section id="natural-language-processing-models-that-automate-programming-will-transform-chemistry-research-and-teaching" class="level1">
+<h1>Natural language processing models that automate programming will transform chemistry research and teaching</h1>
+<p>Hocky and White, Digital Discovery, 2022, 1, 79-83, <a href="https://doi.org/10.1039/D1DD00009H" class="uri">https://doi.org/10.1039/D1DD00009H</a></p>
+<p>Abstract: Natural language processing models have emerged that can generate useable software and automate a number of programming tasks with high fidelity. These tools have yet to have an impact on the chemistry community. Yet, our initial testing demonstrates that this form of artificial intelligence is poised to transform chemistry and chemical engineering research. Here, we review developments that brought us to this point, examine applications in chemistry, and give our perspective on how this may fundamentally alter research and teaching.</p>
+</section>
+<section id="what-is-chatgpt-doingand-why-does-it-work" class="level1">
+<h1>What is ChatGPT doing…and why does it work?</h1>
+<p>Stephen Wolfram Writings: <a href="https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/" class="uri">https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/</a></p>
+<p>YouTube video: <a href="https://youtu.be/flXrLGPY3SU?t=575" class="uri">https://youtu.be/flXrLGPY3SU?t=575</a></p>
+<p><span hidden="">KEYWORDS: GPT, ChatGPT, LLM, teaching, chemistry </span></p>
+</section>
+<section id="future-trends-forum-discussing-the-future-of-education-and-technology" class="level1">
+<h1>Future Trends Forum: Discussing the future of education and technology</h1>
+<p>Bryan Alexander, <a href="http://forum.futureofeducation.us/about/">Future Trends Forum</a> YouTube video series on AI</p>
+<ul>
+<li><p><a href="https://www.youtube.com/watch?v=vrxNpMnVeFc">How can we teach creatively with AI?</a></p>
+<p>Depauw University professor Harry Brown describes and shows his class experiments.</p></li>
+<li><p><a href="https://www.youtube.com/watch?v=UDx0jksjVwM">How should academics react to AI?</a></p>
+<p>How should higher education respond to new developments in artificial intelligence, such as ChatGPT and image creating applications?</p></li>
+<li><p><a href="https://www.youtube.com/watch?v=jCOQ-pWoMyY">How might Higher Education respond to AI?</a></p>
+<p>Computer scientist and ed tech leader Ruben Puentedura explores the implications of large language model artificial intelligence.</p></li>
+<li><p><a href="https://www.youtube.com/watch?v=crBPM6DGQCQ&amp;list=PLlcx8yl6hlPC3QjlbIHzxGqCP3qRa0zcg&amp;index=2">Open Source AI for Higher Education</a></p>
+<p>How can higher education grapple with artificial intelligence? We ask this question with a focus on an underdiscussed aspect: open source AI. Our guide is the excellent Forum favorite, computer scientist Ruben R. Puentedura, widely known as the creator of the SAMR framework for understanding the intersection of teaching and tech.</p></li>
+</ul>
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    // Ensure there is a toggle, if there isn't float one in the top right
+    if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
+      const a = window.document.createElement('a');
+      a.classList.add('top-right');
+      a.classList.add('quarto-color-scheme-toggle');
+      a.href = "";
+      a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
+      const i = window.document.createElement("i");
+      i.classList.add('bi');
+      a.appendChild(i);
+      window.document.body.appendChild(a);
+    }
+    setColorSchemeToggle(hasAlternateSentinel())
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+        const codeEl = trigger.previousElementSibling.cloneNode(true);
+        for (const childEl of codeEl.children) {
+          if (isCodeAnnotation(childEl)) {
+            childEl.remove();
+          }
+        }
+        return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp("https:\/\/chemistry\.coe\.edu\/piper");
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+</div> <!-- /content -->
+
+
+
+
+</body></html>
