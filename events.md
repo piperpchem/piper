@@ -19,9 +19,9 @@ LABSIP will be holding a joint social with the ACS Colloid Mentoring Undergradua
 
 <img src="images/pogil-pcl.png" width="20%" align="right" style="padding-left: 10px;"/>
 
-Friday September 12 from 3-4 pm ET [sign up form](https://forms.gle/raCP7JHdukbfy4nL7)
+Friday, September 12 from 3-4 pm ET [sign up form](https://forms.gle/raCP7JHdukbfy4nL7)
 
-Jordan Beck will lead a discussion of the very broad question: What is physical chemistry?  To address this question and how the answer has evolved, we will look at various artifacts including published and unpublished surveys of physical chemistry educators, the physical chemistry ACCM, and historical ACS Exams physical chemistry exams.  Jordan Beck will lead the discussion and start by giving a brief overview of the artifacts and his initial findings from the ACS Exams archive.  He will then open up the discussion with a special focus on receiving feedback about how to expand the analysis of the ACS Exams physical chemistry exams archive to best serve the needs of the community. [Sign up form](https://forms.gle/raCP7JHdukbfy4nL7)
+Jordan Beck will lead a discussion of the very broad question: What is physical chemistry?  To address this question and how the answer has evolved, we will look at various artifacts including published and unpublished surveys of physical chemistry educators, the physical chemistry ACCM, and historical ACS Exams physical chemistry exams.  Jordan will lead the discussion and start by giving a brief overview of the artifacts and his initial findings from the ACS Exams archive.  He will then open up the discussion with a special focus on receiving feedback about how to expand the analysis of the ACS Exams physical chemistry exams archive to best serve the needs of the community. [Sign up form](https://forms.gle/raCP7JHdukbfy4nL7)
 
 
 # Workshop on One Semester Physical Chemistry Courses, September 2025
