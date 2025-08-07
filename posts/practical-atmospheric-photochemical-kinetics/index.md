@@ -1,6 +1,5 @@
 ---
 title: "Practical Atmospheric Photochemical Kinetics for Undergraduate Teaching and Research"
-
 ## https://quarto.org/docs/journals/authors.html
 #author:
 #  - name: ""
