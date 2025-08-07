@@ -1,15 +1,16 @@
 #!/bin/bash
 
 # If a command fails then the deploy stops
-set -e
+#set -eE
+#trap 'echo "Error on line $(caller | awk "{print \$1}")"' ERR
 
 SITE_DIR=/home/ssinglet/work/piper
 pushd $SITE_DIR
 
-# state all changes
-git add .
+# stage all changes
+git add $SITE_DIR/posts
 
-## https://lukmayer.github.io/blog/posts/fast_quarto.html
+## excerpt from https://lukmayer.github.io/blog/posts/fast_quarto.html
 # Get list of changed .qmd or .md files in git working tree
 CHANGED_FILES=$(git status --porcelain --untracked-files=no | awk '{print $2}' | grep -E '\.qmd$|\.md$')
 
