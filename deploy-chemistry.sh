@@ -6,6 +6,7 @@ set -e
 SITE_DIR=/home/ssinglet/work/piper
 pushd $SITE_DIR
 
+# state all changes
 git add .
 
 ## https://lukmayer.github.io/blog/posts/fast_quarto.html
@@ -26,8 +27,10 @@ else
     quarto render $CHANGED_FILES
 fi
 
-# Add changes to git.
-#git add posts/*
+# Commit changes to git.
+echo "Enter a commit message:"
+read commit_message
+git commit -m "$commit_message"
 
 # Commit changes.
 # msg="rebuilding site $(date)"
