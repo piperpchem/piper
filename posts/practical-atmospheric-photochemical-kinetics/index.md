@@ -23,5 +23,6 @@ Including practical atmospheric chemistry in the undergraduate syllabus presents
 
 # Reference
 
-1.  D’Souza Metcalf J., Winkless R., Smith S. C., Rickard A. R., Dillon T. J.,  ChemRxiv. 2025; [doi:10.26434/chemrxiv-2025-l5rgh-v2](https://doi.org/10.26434/chemrxiv-2025-l5rgh-v2)  This content is a preprint and has not been peer-reviewed.
+1.  D’Souza Metcalf J., Winkless R., Smith S. C., Rickard A. R., Dillon T. J.,  ChemRxiv. 2025; [doi:10.26434/chemrxiv-2025-l5rgh-v2](https://doi.org/10.26434/chemrxiv-2025-l5rgh-v2)  
+    This content is a preprint and has not been peer-reviewed.
 
