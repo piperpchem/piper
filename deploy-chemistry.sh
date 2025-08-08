@@ -8,7 +8,7 @@ SITE_DIR=/home/ssinglet/work/piper
 pushd $SITE_DIR
 
 # stage all changes
-git add $SITE_DIR/posts/*
+git add .
 
 ## excerpt from https://lukmayer.github.io/blog/posts/fast_quarto.html
 # Get list of changed .qmd or .md files in git working tree
@@ -39,13 +39,13 @@ fi
 # fi
 # git commit -m "$msg"
 
-# Push source and build repos to github pages site
-#git push origin master
-
-# copy to chemistry.coe.edu
+# upload site files to chemistry.coe.edu
 printf "Uploading to chemistry.coe.edu..."
 # --omit-dir-times avoids error about setting time for directory "."
-rsync -avz --omit-dir-times --delete _site/* chemistry.coe.edu:/var/www/html/piper
-
+rsync -avz --omit-dir-times --delete docs/* chemistry.coe.edu:/var/www/html/piper
 echo "Done with sync"
+
+# Push source and build repos to github pages site
+git push origin main
+
 popd
