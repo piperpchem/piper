@@ -1,0 +1,37 @@
+#+export_file_name: index
+#+options: broken-links:t
+# (ss-toggle-markdown-export-on-save)
+# date-added:
+
+# add filename after "imagefile"
+#+macro: imagefile modular-integration.gif
+
+#+begin_export md
+---
+title: "Modular Integration of Python Programming in Undergraduate Physical Chemistry Experiments"
+## https://quarto.org/docs/journals/authors.html
+#author:
+#  - name: ""
+#    affiliations:
+#     - name: ""
+#license: "©2025 American Chemical Society and Division of Chemical Education, Inc."
+license: "CC BY"
+#draft: true
+#date-modified:
+date: 2025-08-24 
+categories: [jupyter, python, computing]
+keywords: physical chemistry teaching, physical chemistry education, teaching resources, python, jupyter, computing, active learning, arduino
+#+end_export
+image: {{{imagefile}}}
+
+@@html:---
+<img src="@@{{{imagefile}}}@@html:" width="40%" align="right" style="padding: 10px 0px 0px 10px;"/>@@
+
+# Abstract goes below this line.
+Programming is a key transferable skill within the chemical sciences with applications supporting data acquisition, as a tool for chemical and spectroscopic analysis and as an environment for theoretical modeling. Of the many available programming languages, Python stands out due to its broad functionality and open-source structure. However, introducing any programming training to an undergraduate chemistry curriculum can be challenging due to students’ lack of previous experience and limited time in pre-existing curricula for dedicated training. Here, we present a modular approach to introducing undergraduate students to Python programming through a series of taught undergraduate physical chemistry laboratory experiments. Students are first provided with a carefully scaffolded approach to basic Python syntax before enhancing the student skill set through context-based learning integrated with practical chemistry challenges. In this way, we demonstrate how a modularly integrated approach can provide a complete introduction to Python programming regardless of previous experience and without needing dedicated training time.
+* Reference
+D. J. Hughes, S. C. Perry, J. Chem. Educ., 2025,  [[https://doi.org/10.1021/acs.jchemed.5c00677][doi.org/10.1021/acs.jchemed.5c00677]]
+* Local variables :noexport:
+# Local Variables:
+# eval: (ss-markdown-export-on-save)
+# End:

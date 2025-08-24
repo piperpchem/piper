@@ -17,6 +17,20 @@ image: llm-gpt.svg
 References related to Large Language Model (LLM) and Generative Pre-trained Transformer (GPT) resources (e.g., ChatGPT) and their use in the chemistry classroom. Please send additions to ssinglet@coe.edu and I will include them in this list.
 
 
+# Exploring the artificial intelligence interaction profiles of participants with different levels of teaching experience for lesson planning in the context of acids and bases
+
+S.V. Gunbater, et al, Chem. Educ. Res. Pract., 2025,  [doi.org/10.1039/D5RP00064E](https://doi.org/10.1039/D5RP00064E)
+
+In this multi-case study, the ChatGPT interaction profiles of participants with varying years of teaching experience were examined during lesson planning for the topic of acids and bases. Six participants (i.e., two senior pre-service science teachers, one induction year science teacher, two experienced science teachers, and an experienced science teacher educator) participated in the study. A lesson plan in the Content Representation (CoRe) format, a copy of dialogue with ChatGPT (i.e., conversation history with ChatGPT), a reflection paper on details of the lesson planning with ChatGPT, and online focus group interview data were collected from all participants. Both deductive and inductive analyses of the multiple data sources revealed four profiles, namely, Artificial Intelligence (AI)-reliant planners, AI-collaborative planners, AI-assisted plan refiners, and AI-independent planners. In light of the results, science pre-service teachers and teachers should be trained on what AI can offer them, how AI tools can be effectively utilized in science education, and the ethical considerations of AI use.
+
+
+# NMR-Challenge for LLMs: Evaluating Chemical Reasoning in Humans and AI
+
+Sharlin S, Agbere F, Ishimwe K, Osifová Z, Socha O, Dračínský M, et al. NMR-Challenge for LLMs: Evaluating Chemical Reasoning in Humans and AI. ChemRxiv. 2025; [doi:10.26434/chemrxiv-2025-x8h36-v2](https://doi.org/10.26434/chemrxiv-2025-x8h36-v2) (preprint)
+
+Nuclear Magnetic Resonance (NMR) structure determination is an important problem in education, industry, and research. Solving NMR spectra requires expert knowledge, critical thinking, and careful evaluation of multiple features of spectral data. This study explores the capabilities of large language models (LLMs) for solving NMR spectral tasks. We selected 115 problems from NMR-Challenge.com, which has been used by students practicing NMR structure elucidation, collecting >1 million human responses, and developed a plain text problem format for evaluating LLM reasoning in this domain. We evaluated 7 LLMs (GPT-4o, GPT-4o-mini, o1, o1-mini, o3-mini, Claude-3.5 Sonnet, and Gemini-2.0-Flash), comparing 5 prompts to spur chain-of-thought reasoning in different ways, especially comparing the influence of providing background NMR chemistry knowledge, reasoning strategy, or both. The top-performing students surpassed smaller models like GPT-4o by 24%, 33%, and 29% on the Easy, Moderate, and Hard sets. However, reasoning models like o1 exceeded student performance by 13%, 14%, and 19%, respectively. This work also illustrates how NMR spectral problems can be used to benchmark LLMs on reasoning-heavy tasks in chemistry, though for this particular set of problems, current LLMs already exceed undergraduate student performance.
+
+
 # Classification of artificial intelligence applications in chemistry: from automation to digital scientific thinking
 
 Ananikov VP. ChemRxiv. 2025; [doi:10.26434/chemrxiv-2025-fbk8w](https://doi.org/10.26434/chemrxiv-2025-fbk8w)  This content is a preprint and has not been peer-reviewed.

@@ -23,7 +23,7 @@ Integrating coding skills into chemistry education is crucial for preparing stud
 
 # Reference
 
-Dong L, Liu F. Streamlining Coding Assignments and Grading on the Cloud: A Preconfigured JupyterHub Image for Chemistry Education. ChemRxiv. 2025; [doi.org/10.26434/chemrxiv-2025-07k5s](https://doi.org/10.26434/chemrxiv-2025-07k5s)
+D. L. Liu, F. Liu, J. Chem. Educ., 2025, [doi.org/10.1021/acs.jchemed.5c00312](https://doi.org/10.1021/acs.jchemed.5c00312)
 
-This content is a preprint and has not been peer-reviewed.
+Dong L, Liu F. Streamlining Coding Assignments and Grading on the Cloud: A Preconfigured JupyterHub Image for Chemistry Education. ChemRxiv. 2025; [doi.org/10.26434/chemrxiv-2025-07k5s](https://doi.org/10.26434/chemrxiv-2025-07k5s) (preprint)
 
