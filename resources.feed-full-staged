@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>PIPER: Resources for Teaching Physical Chemistry</title>
+<link>https://chemistry.coe.edu/piper/resources.html</link>
+<atom:link href="https://chemistry.coe.edu/piper/resources.xml" rel="self" type="application/rss+xml"/>
+<description>PIPER teaching resources for physical chemistry</description>
+<generator>quarto-1.7.33</generator>
+<lastBuildDate>Sun, 24 Aug 2025 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>{B4F502887207:/posts/modular-integration-of-python/index.html}</title>
+  <link>https://chemistry.coe.edu/piper/posts/modular-integration-of-python/</link>
+  <description>{B4F502887207:/posts/modular-integration-of-python/index.html}</description>
+  <category>jupyter</category>
+  <category>python</category>
+  <category>computing</category>
+  <guid>https://chemistry.coe.edu/piper/posts/modular-integration-of-python/</guid>
+  <pubDate>Sun, 24 Aug 2025 05:00:00 GMT</pubDate>
+  <media:content url="https://chemistry.coe.edu/piper/posts/modular-integration-of-python/modular-integration.gif" medium="image" type="image/gif"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/llms-gpt/index.html}</title>
+  <link>https://chemistry.coe.edu/piper/posts/llms-gpt/</link>
+  <description>{B4F502887207:/posts/llms-gpt/index.html}</description>
+  <category>article</category>
+  <category>ai-ml</category>
+  <guid>https://chemistry.coe.edu/piper/posts/llms-gpt/</guid>
+  <pubDate>Wed, 20 Aug 2025 05:00:00 GMT</pubDate>
+  <media:content url="https://chemistry.coe.edu/piper/posts/llms-gpt/llm-gpt.svg" medium="image" type="image/svg+xml"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/problem-based-learning-scaffolding-kinetics/index.html}</title>
+  <link>https://chemistry.coe.edu/piper/posts/problem-based-learning-scaffolding-kinetics/</link>
+  <description>{B4F502887207:/posts/problem-based-learning-scaffolding-kinetics/index.html}</description>
+  <category>kinetics</category>
+  <category>course design</category>
+  <guid>https://chemistry.coe.edu/piper/posts/problem-based-learning-scaffolding-kinetics/</guid>
+  <pubDate>Wed, 13 Aug 2025 05:00:00 GMT</pubDate>
+  <media:content url="https://chemistry.coe.edu/piper/posts/problem-based-learning-scaffolding-kinetics/pbl.png" medium="image" type="image/png" height="185" width="144"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/practical-atmospheric-photochemical-kinetics/index.html}</title>
+  <link>https://chemistry.coe.edu/piper/posts/practical-atmospheric-photochemical-kinetics/</link>
+  <description>{B4F502887207:/posts/practical-atmospheric-photochemical-kinetics/index.html}</description>
+  <category>kinetics</category>
+  <category>environment</category>
+  <category>spectroscopy</category>
+  <guid>https://chemistry.coe.edu/piper/posts/practical-atmospheric-photochemical-kinetics/</guid>
+  <pubDate>Thu, 07 Aug 2025 05:00:00 GMT</pubDate>
+  <media:content url="https://chemistry.coe.edu/piper/posts/practical-atmospheric-photochemical-kinetics/practical.png" medium="image" type="image/png" height="53" width="144"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/fluid-interface-thermodynamics/index.html}</title>
+  <link>https://chemistry.coe.edu/piper/posts/fluid-interface-thermodynamics/</link>
+  <description>{B4F502887207:/posts/fluid-interface-thermodynamics/index.html}</description>
+  <category>thermodynamics</category>
+  <guid>https://chemistry.coe.edu/piper/posts/fluid-interface-thermodynamics/</guid>
+  <pubDate>Mon, 28 Jul 2025 05:00:00 GMT</pubDate>
+  <media:content url="https://chemistry.coe.edu/piper/posts/fluid-interface-thermodynamics/fluid.gif" medium="image" type="image/gif"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/3d-printing-thermophysical-properties/index.html}</title>
+  <link>https://chemistry.coe.edu/piper/posts/3d-printing-thermophysical-properties/</link>
+  <description>{B4F502887207:/posts/3d-printing-thermophysical-properties/index.html}</description>
+  <category>thermo</category>
+  <guid>https://chemistry.coe.edu/piper/posts/3d-printing-thermophysical-properties/</guid>
+  <pubDate>Wed, 18 Jun 2025 05:00:00 GMT</pubDate>
+  <media:content url="https://chemistry.coe.edu/piper/posts/3d-printing-thermophysical-properties/3dthermo.webp" medium="image" type="image/webp"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/investigation-simple-complex-kinetics-labview/index.html}</title>
+  <link>https://chemistry.coe.edu/piper/posts/investigation-simple-complex-kinetics-labview/</link>
+  <description>{B4F502887207:/posts/investigation-simple-complex-kinetics-labview/index.html}</description>
+  <category>kinetics</category>
+  <category>computing</category>
+  <guid>https://chemistry.coe.edu/piper/posts/investigation-simple-complex-kinetics-labview/</guid>
+  <pubDate>Wed, 18 Jun 2025 05:00:00 GMT</pubDate>
+  <media:content url="https://chemistry.coe.edu/piper/posts/investigation-simple-complex-kinetics-labview/investigation.webp" medium="image" type="image/webp"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/integrating-electronic-structure-python-cheminformatics/index.html}</title>
+  <link>https://chemistry.coe.edu/piper/posts/integrating-electronic-structure-python-cheminformatics/</link>
+  <description>{B4F502887207:/posts/integrating-electronic-structure-python-cheminformatics/index.html}</description>
+  <category>computational</category>
+  <category>computing</category>
+  <category>jupyter</category>
+  <category>python</category>
+  <guid>https://chemistry.coe.edu/piper/posts/integrating-electronic-structure-python-cheminformatics/</guid>
+  <pubDate>Sun, 01 Jun 2025 05:00:00 GMT</pubDate>
+  <media:content url="https://chemistry.coe.edu/piper/posts/integrating-electronic-structure-python-cheminformatics/est.webp" medium="image" type="image/webp"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/why-chemistry-instructors-specifications-grading/index.html}</title>
+  <link>https://chemistry.coe.edu/piper/posts/why-chemistry-instructors-specifications-grading/</link>
+  <description>{B4F502887207:/posts/why-chemistry-instructors-specifications-grading/index.html}</description>
+  <category>course design</category>
+  <category>article</category>
+  <guid>https://chemistry.coe.edu/piper/posts/why-chemistry-instructors-specifications-grading/</guid>
+  <pubDate>Fri, 16 May 2025 05:00:00 GMT</pubDate>
+  <media:content url="https://chemistry.coe.edu/piper/posts/why-chemistry-instructors-specifications-grading/specifications.png" medium="image" type="image/png" height="88" width="144"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/computer-based-exercise-racemization/index.html}</title>
+  <link>https://chemistry.coe.edu/piper/posts/computer-based-exercise-racemization/</link>
+  <description>{B4F502887207:/posts/computer-based-exercise-racemization/index.html}</description>
+  <category>computational</category>
+  <category>activity</category>
+  <guid>https://chemistry.coe.edu/piper/posts/computer-based-exercise-racemization/</guid>
+  <pubDate>Wed, 14 May 2025 05:00:00 GMT</pubDate>
+  <media:content url="https://chemistry.coe.edu/piper/posts/computer-based-exercise-racemization/racemization.webp" medium="image" type="image/webp"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/effects-of-delaying-chemistry-lab/index.html}</title>
+  <link>https://chemistry.coe.edu/piper/posts/effects-of-delaying-chemistry-lab/</link>
+  <description>{B4F502887207:/posts/effects-of-delaying-chemistry-lab/index.html}</description>
+  <category>course design</category>
+  <guid>https://chemistry.coe.edu/piper/posts/effects-of-delaying-chemistry-lab/</guid>
+  <pubDate>Wed, 14 May 2025 05:00:00 GMT</pubDate>
+  <media:content url="https://chemistry.coe.edu/piper/posts/effects-of-delaying-chemistry-lab/delaying-lab.webp" medium="image" type="image/webp"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/expanding-horizons-UV-vis-spectroscopy/index.html}</title>
+  <link>https://chemistry.coe.edu/piper/posts/expanding-horizons-UV-vis-spectroscopy/</link>
+  <description>{B4F502887207:/posts/expanding-horizons-UV-vis-spectroscopy/index.html}</description>
+  <category>spectroscopy</category>
+  <category>article</category>
+  <guid>https://chemistry.coe.edu/piper/posts/expanding-horizons-UV-vis-spectroscopy/</guid>
+  <pubDate>Wed, 14 May 2025 05:00:00 GMT</pubDate>
+  <media:content url="https://chemistry.coe.edu/piper/posts/expanding-horizons-UV-vis-spectroscopy/uv-vis.webp" medium="image" type="image/webp"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/comprehensive-learning-thermodynamic-system-mindmap/index.html}</title>
+  <link>https://chemistry.coe.edu/piper/posts/comprehensive-learning-thermodynamic-system-mindmap/</link>
+  <description>{B4F502887207:/posts/comprehensive-learning-thermodynamic-system-mindmap/index.html}</description>
+  <category>thermo</category>
+  <category>article</category>
+  <guid>https://chemistry.coe.edu/piper/posts/comprehensive-learning-thermodynamic-system-mindmap/</guid>
+  <pubDate>Tue, 13 May 2025 05:00:00 GMT</pubDate>
+  <media:content url="https://chemistry.coe.edu/piper/posts/comprehensive-learning-thermodynamic-system-mindmap/mindmap.webp" medium="image" type="image/webp"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/a-pedagogical-tour-ft-nmr/index.html}</title>
+  <link>https://chemistry.coe.edu/piper/posts/a-pedagogical-tour-ft-nmr/</link>
+  <description>{B4F502887207:/posts/a-pedagogical-tour-ft-nmr/index.html}</description>
+  <category>nmr</category>
+  <category>spectroscopy</category>
+  <category>computing</category>
+  <guid>https://chemistry.coe.edu/piper/posts/a-pedagogical-tour-ft-nmr/</guid>
+  <pubDate>Thu, 01 May 2025 05:00:00 GMT</pubDate>
+  <media:content url="https://chemistry.coe.edu/piper/posts/a-pedagogical-tour-ft-nmr/tour.webp" medium="image" type="image/webp"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/a-review-teaching-learning-quantum-mechanics/index.html}</title>
+  <link>https://chemistry.coe.edu/piper/posts/a-review-teaching-learning-quantum-mechanics/</link>
+  <description>{B4F502887207:/posts/a-review-teaching-learning-quantum-mechanics/index.html}</description>
+  <category>article</category>
+  <category>course design</category>
+  <category>quantum</category>
+  <guid>https://chemistry.coe.edu/piper/posts/a-review-teaching-learning-quantum-mechanics/</guid>
+  <pubDate>Thu, 01 May 2025 05:00:00 GMT</pubDate>
+  <media:content url="https://chemistry.coe.edu/piper/posts/a-review-teaching-learning-quantum-mechanics/review.png" medium="image" type="image/png" height="82" width="144"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/interactive-application-variational-method/index.html}</title>
+  <link>https://chemistry.coe.edu/piper/posts/interactive-application-variational-method/</link>
+  <description>{B4F502887207:/posts/interactive-application-variational-method/index.html}</description>
+  <category>quantum</category>
+  <category>jupyter</category>
+  <category>python</category>
+  <guid>https://chemistry.coe.edu/piper/posts/interactive-application-variational-method/</guid>
+  <pubDate>Thu, 01 May 2025 05:00:00 GMT</pubDate>
+  <media:content url="https://chemistry.coe.edu/piper/posts/interactive-application-variational-method/variational.webp" medium="image" type="image/webp"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/open-source-dft-bonding-solids/index.html}</title>
+  <link>https://chemistry.coe.edu/piper/posts/open-source-dft-bonding-solids/</link>
+  <description>{B4F502887207:/posts/open-source-dft-bonding-solids/index.html}</description>
+  <category>computational</category>
+  <guid>https://chemistry.coe.edu/piper/posts/open-source-dft-bonding-solids/</guid>
+  <pubDate>Thu, 01 May 2025 05:00:00 GMT</pubDate>
+  <media:content url="https://chemistry.coe.edu/piper/posts/open-source-dft-bonding-solids/open-source-dft.webp" medium="image" type="image/webp"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/pedagogical-revision-spontaneous-emission/index.html}</title>
+  <link>https://chemistry.coe.edu/piper/posts/pedagogical-revision-spontaneous-emission/</link>
+  <description>{B4F502887207:/posts/pedagogical-revision-spontaneous-emission/index.html}</description>
+  <category>article</category>
+  <category>quantum</category>
+  <guid>https://chemistry.coe.edu/piper/posts/pedagogical-revision-spontaneous-emission/</guid>
+  <pubDate>Thu, 01 May 2025 05:00:00 GMT</pubDate>
+  <media:content url="https://chemistry.coe.edu/piper/posts/pedagogical-revision-spontaneous-emission/spontaneous.webp" medium="image" type="image/webp"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/review-undergraduate-chemistry-teaching-2019-2023/index.html}</title>
+  <link>https://chemistry.coe.edu/piper/posts/review-undergraduate-chemistry-teaching-2019-2023/</link>
+  <description>{B4F502887207:/posts/review-undergraduate-chemistry-teaching-2019-2023/index.html}</description>
+  <category>article</category>
+  <category>course design</category>
+  <guid>https://chemistry.coe.edu/piper/posts/review-undergraduate-chemistry-teaching-2019-2023/</guid>
+  <pubDate>Thu, 01 May 2025 05:00:00 GMT</pubDate>
+  <media:content url="https://chemistry.coe.edu/piper/posts/review-undergraduate-chemistry-teaching-2019-2023/review.webp" medium="image" type="image/webp"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/thermal-effect-optically-detected-vacancies/index.html}</title>
+  <link>https://chemistry.coe.edu/piper/posts/thermal-effect-optically-detected-vacancies/</link>
+  <description>{B4F502887207:/posts/thermal-effect-optically-detected-vacancies/index.html}</description>
+  <category>lab</category>
+  <guid>https://chemistry.coe.edu/piper/posts/thermal-effect-optically-detected-vacancies/</guid>
+  <pubDate>Thu, 01 May 2025 05:00:00 GMT</pubDate>
+  <media:content url="https://chemistry.coe.edu/piper/posts/thermal-effect-optically-detected-vacancies/thermal.webp" medium="image" type="image/webp"/>
+</item>
+</channel>
+</rss>
