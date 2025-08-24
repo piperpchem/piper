@@ -10,7 +10,7 @@ license: "©2025 American Chemical Society and Division of Chemical Education, I
 #draft: true
 #date-modified:
 date: 2025-07-28  
-categories: [thermodynamics]
+categories: [thermo]
 keywords: physical chemistry teaching, physical chemistry education, teaching resources, fluid interface, thermodynamics
 
 image: fluid.gif
