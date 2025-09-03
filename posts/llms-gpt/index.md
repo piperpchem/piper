@@ -17,6 +17,13 @@ image: llm-gpt.svg
 References related to Large Language Model (LLM) and Generative Pre-trained Transformer (GPT) resources (e.g., ChatGPT) and their use in the chemistry classroom. Please send additions to ssinglet@coe.edu and I will include them in this list.
 
 
+# No Such Things as Sodium and Chlorine Atoms: A Debate with Copilot
+
+Abayneh Lemma, Tamra Legron-Rodriguez, [doi.org/10.1021/acs.jchemed.5c00602](https://doi.org/10.1021/acs.jchemed.5c00602)
+
+One can find expressions such as “building blocks of matter”, “sodium and chlorine atoms in sodium chloride”, “atoms make up all substances”, “bromine replaced chlorine atoms in SN2 substitution”, or “the number of sodium atoms in the reactant and product sides” in books, articles, and personal communications. Some argue that such expressions create obstacles for students in understanding fundamental chemistry concepts like the particulate nature of matter, colligative properties, physical and chemical changes, and more advanced topics such as emergence and supervenience. Given students’ wide use of artificial intelligence (AI) tools such as Copilot and ChatGPT, we examined the nature of expressions AI generates to such prompts and drew ontological and conceptual implications. We developed a prompting protocol and used it for a debate with Copilot. We noted that Copilot generates similar types of misleading expressions. However, as the debate continued, Copilot adjusted its responses in a more adaptive way, gradually refining its explanations. Maintaining such an adaptive correction can be challenging for students. So, it is crucial to help students develop the desired evaluative habits through course assignments and discussions.
+
+
 # Harnessing GenAI for Higher Education: A Study of a Retrieval Augmented Generation Chatbot’s Impact on Learning
 
 Maung Thway, Jose Recatala-Gomez, Fun Siong Lim, Kedar Hippalgaonkar, Leonard W. T. Ng
