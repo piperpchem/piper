@@ -16,7 +16,7 @@ title-block-banner: true
 
 Tuesday, September 9 at 1 pm – 2 pm ET, contact: [[mailto:pchemlabsip@gmail.com][pchemlabsip@gmail.com]]
 
-Drs. Sara Sohail (Swathmore College) and Ashely Ringer McDonald (California Polytechnic State University) will be sharing their experiences teaching/planning a one-semester physical chemistry course. After the talks, workshop attendees will be encouraged to share their ideas on what questions/issues we may want to explore as a community about one-semester physical chemistry courses.
+In this zoom workshop, Drs. Sara Sohail (Swathmore College) and Ashely Ringer McDonald (California Polytechnic State University) will be sharing their experiences teaching/planning a one-semester physical chemistry course. After the talks, workshop attendees will be encouraged to share their ideas on what questions/issues we may want to explore as a community about one-semester physical chemistry courses.
 
 * POGIL-PCL Journal Discussion, September 2025
 #+html: <img src="images/pogil-pcl.png" width="20%" align="right" style="padding-left: 10px;"/>
