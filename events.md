@@ -19,7 +19,7 @@ Jordan Beck will lead a discussion of the broad question: What is physical chemi
 
 Tuesday, September 9 at 1 pm – 2 pm ET, contact: [pchemlabsip@gmail.com](mailto:pchemlabsip@gmail.com)
 
-In the Zoom workshop, Drs. Sara Sohail (Swathmore College) and Ashely Ringer McDonald (California Polytechnic State University) will be sharing their experiences teaching/planning a one-semester physical chemistry course. After the talks, workshop attendees will be encouraged to share their ideas on what questions/issues we may want to explore as a community about one-semester physical chemistry courses.
+Drs. Sara Sohail (Swathmore College) and Ashely Ringer McDonald (California Polytechnic State University) will be sharing their experiences teaching/planning a one-semester physical chemistry course. After the talks, workshop attendees will be encouraged to share their ideas on what questions/issues we may want to explore as a community about one-semester physical chemistry courses.
 
 
 # POGIL-PCL Journal Discussion, October 2025
