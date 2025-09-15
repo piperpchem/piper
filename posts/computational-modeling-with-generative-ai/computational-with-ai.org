@@ -1,0 +1,39 @@
+#+export_file_name: index
+#+options: broken-links:t
+# (ss-toggle-markdown-export-on-save)
+# date-added:
+
+# add filename after "imagefile"
+#+macro: imagefile comp-ai.webp
+
+#+begin_export md
+---
+title: "Bridging Artificial Intelligence and Real Intelligence: Self-Scaffolding Computational Modeling with Generative AI in Chemistry"
+## https://quarto.org/docs/journals/authors.html
+#author:
+#  - name: ""
+#    affiliations:
+#     - name: ""
+#license: "©2025 American Chemical Society and Division of Chemical Education, Inc."
+license: "CC BY"
+#draft: true
+#date-modified:
+date: 2025-09-15
+categories: [ai-ml, computational]
+keywords: physical chemistry teaching, physical chemistry education, teaching resources, computational modeling, generative ai, llms, ChatGPT, modeling, chemistry
+#+end_export
+image: {{{imagefile}}}
+
+@@html:---
+<img src="@@{{{imagefile}}}@@html:" width="40%" align="right" style="padding: 10px 0px 0px 10px;"/>@@
+
+ # Abstract goes below this line. -----
+Chemistry education researchers have, for many years, explored different ways of learning chemistry through modeling and open-ended problem-solving. With the emergence of generative artificial intelligence (GenAI) tools such as ChatGPT, students now have access to dynamic scaffolds that can potentially support them in modeling. However, we still know little about how these tools function within such contexts. This study investigates how students in higher education use GenAI to engage in complex computational modeling in chemistry. Using cognitive clinical interviews with think-aloud protocols, the role of GenAI in students’ modeling activities is analyzed through the lens of distributed cognition. The findings from this study reveal four distinct patterns of GenAI use: (1) Leveraging AI to retrieve and clarify information, (2) Using GenAI to test and critique ideas, (3) Outsourcing thinking to the AI, and (4) GenAI output exceeds student understanding. Productive interactions occurred when students actively orchestrated the AI as part of a distributed cognitive system, using it to retrieve, evaluate, and build upon their own reasoning. In contrast, unproductive use occurred when students outsourced thinking to the AI or were overwhelmed by outputs they could not integrate into their existing knowledge. These findings suggest that effective use of GenAI in chemistry education depends not only on technical proficiency, but also on students’ ability to structure prompts, evaluate AI output, and retain control of the problem-solving process. We argue that the use of GenAI should be explicitly addressed in chemistry instruction and propose that students be taught to engage with GenAI as part of a distributed cognitive system─ – retaining executive control, providing appropriate context, and iteratively refining their inquiries─ – to support meaningful engagement and learning in chemistry.
+
+* Reference
+Andreas Haraldsrud, Tor Ole B. Odden, /J. Chem. Educ./, 2025, [[https://doi.org/10.1021/acs.jchemed.5c00657][doi.org/10.1021/acs.jchemed.5c00657]]
+
+* Local variables :noexport:
+# Local Variables:
+# eval: (ss-markdown-export-on-save)
+# End:
