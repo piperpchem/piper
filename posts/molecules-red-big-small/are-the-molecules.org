@@ -41,7 +41,7 @@ Students make predictions about the behavior of systems of absorbing molecules, 
 
 Lead Author: Rob Whitnell, Guilford College
 
-[[https://chemistry.coe.edu/piper/pclform.html?expt=conjugatedDyes][View student version]]
+[[https://www.pogilpcl.org/s/Are-the-molecules-big_-Beers-Law-application-101.pdf][View student version]]
 
 The Instructor’s Handbook with implementation details, sample data, and expected answers is available through the [[https://www.pogilpcl.org/get-connected][POGIL-PCL project]]. 
 
