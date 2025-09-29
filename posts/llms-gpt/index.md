@@ -17,6 +17,13 @@ image: llm-gpt.svg
 References related to Large Language Model (LLM) and Generative Pre-trained Transformer (GPT) resources (e.g., ChatGPT) and their use in the chemistry classroom. Please send additions to ssinglet@coe.edu and I will include them in this list.
 
 
+# Using Exam Preparation and Reflection to Introduce Artificial Intelligence Tools in Honors General Chemistry
+
+Morgan A. Vincent, Benjamin J. Lear, [doi.org/10.1021/acs.jchemed.5c00618](https://doi.org/10.1021/acs.jchemed.5c00618)
+
+We report an intervention, performed during the Fall of 2024, in which a large language model artificial intelligence chatbot was introduced as a tool for pre-exam study and postexam reflection within an honors general chemistry course (CHEM 110H) at Penn State University. Through a combination of a structured 75 min instructional session and scaffolded pre- and postexam AI-based assignments, students engaged with AI tools such as ChatGPT, Microsoft Copilot, and Google Gemini intended to support content review and metacognitive development. Pre- and postcourse surveys revealed significant increases in students’ frequency of AI use, academic confidence in using AI, and perceived utility of AI, alongside reductions in anxiety regarding ethics of its use in academics. Survey data also showed a shift toward more positive and cohesive student perceptions of AI, suggesting that reflective, ethically framed AI integration can promote autonomous, meaningful engagement with new technologies without compromising academic performance. These findings highlight the value of intentional AI training in STEM education and underscore the need for continued study across diverse educational contexts.
+
+
 # No Such Things as Sodium and Chlorine Atoms: A Debate with Copilot
 
 Abayneh Lemma, Tamra Legron-Rodriguez, [doi.org/10.1021/acs.jchemed.5c00602](https://doi.org/10.1021/acs.jchemed.5c00602)
