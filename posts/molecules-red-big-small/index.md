@@ -46,5 +46,7 @@ Lead Author: Rob Whitnell, Guilford College
 
 [View student version](https://www.pogilpcl.org/s/Are-the-molecules-big_-Beers-Law-application-101.pdf)
 
-The Instructor’s Handbook with implementation details, sample data, and expected answers is available through the [POGIL-PCL project](https://www.pogilpcl.org/get-connected). 
+The Instructor’s Handbook with implementation details, sample data, and expected answers is available through the [POGIL-PCL project](https://www.pogilpcl.org/get-connected).
+
+Intellectual Property and Copyrights [statement](https://www.pogilpcl.org/statement-of-intellectual-property).
 
