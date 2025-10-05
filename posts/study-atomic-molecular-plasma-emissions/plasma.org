@@ -1,0 +1,38 @@
+#+export_file_name: index
+#+options: broken-links:t
+# (ss-toggle-markdown-export-on-save)
+# date-added:
+
+# add filename after "imagefile"
+#+macro: imagefile plasma.webp
+
+#+begin_export md
+---
+title: "Study of Atomic and Molecular Plasma Emissions Using a Concentric Glass Tube Assembly with Hollow Electrodes"
+## https://quarto.org/docs/journals/authors.html
+#author:
+#  - name: ""
+#    affiliations:
+#     - name: ""
+license: "©2025 American Chemical Society and Division of Chemical Education, Inc."
+#license: "CC BY-NC-SA"
+#draft: true
+#date-modified:
+date: 2025-10-01
+categories: [lab]
+keywords: physical chemistry teaching, physical chemistry education, teaching resources, atomic emission, plasma
+#+end_export
+image: {{{imagefile}}}
+
+@@html:---
+<img src="@@{{{imagefile}}}@@html:" width="40%" align="right" style="padding: 10px 0px 0px 10px;"/>@@
+
+# Abstract goes below this line.
+A practical approach for constructing a plasma discharge system is outlined, designed for advanced physical and analytical chemistry courses. The primary objective is to enhance students’ experiential learning in experimental atomic and molecular emission spectroscopy by employing a concentric glass tube connected to metallic hollow electrodes. This method ensures that students gain a deeper understanding of the technique compared to using a commercial discharge lamp. Additionally, it aims to aid instructors in constructing a homemade plasma chamber for conducting plasma emission experiments. The plasma discharge procedure necessitates a variable high-voltage power supply of 5 kV, a vacuum pressure gauge, and a high-vacuum pump to observe plasma generation as it relates to vacuum pressure and discharge voltage. The benefit for students lies in the chance to perform a plasma ignition experiment that showcases essential quantum mechanical principles, including (i) the analysis of plasma emission lines with a spectroscope to explore the Rydberg-Bohr law, (ii) the splitting of the plasma beam into two streams within an inhomogeneous magnetic field, which exemplifies the Lorentz Plasma-Confinement effect, and (iii) the assessment of Paschen’s law for optimal plots of breakdown voltage vs vacuum pressure.
+* Reference
+Tarek. R. Farhat, Tae Jin Kim, Amanda Flint, /J. Chem. Educ./ 2025, [[https://doi.org/10.1021/acs.jchemed.5c00464][doi.org/10.1021/acs.jchemed.5c00464]]
+
+* Local variables :noexport:
+# Local Variables:
+# eval: (ss-markdown-export-on-save)
+# End:

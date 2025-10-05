@@ -1,0 +1,26 @@
+---
+title: "Prompting and Assessing Critical Thinking in Undergraduate Physical Chemistry Labs: Effects of Instructional Design and Performance In-Situ Assessment"
+## https://quarto.org/docs/journals/authors.html
+#author:
+#  - name: ""
+#    affiliations:
+#     - name: ""
+#license: "©2025 American Chemical Society and Division of Chemical Education, Inc."
+license: "CC BY-NC-ND"
+#draft: true
+#date-modified:
+date: 2025-09-25
+categories: [article, course design]
+keywords: physical chemistry teaching, physical chemistry education, teaching resources, laboratory design
+
+---
+<img src="" width="40%" align="right" style="padding: 10px 0px 0px 10px;"/>
+
+Background: Assessing Critical Thinking (CT) performance in authentic settings remains challenging, particularly in laboratory courses. Aim: This study examines the impact of modified laboratory manuals (LM) embedding cognitive prompts, relevant knowledge activation, and defined learning objectives through CT immersion approach in fostering CT in a physical chemistry laboratory course. Sample: 31 second-year undergraduate chemistry students were randomly divided into experimental group (n=11), using the modified LMs, and control group (n=20) following the original ones. Methods: The study employed a domain-specific analysis using the Contextual Critical Thinking Coding Manual (CCTCM) to assess CT in students&rsquo; verbal interactions during lab-sessions. Results: In-depth analysis for six cases involving fourteen students (seven from each group) revealed increases in frequency and diversity of CT skills among the experimental group. Dominant CT skills were identified in both groups, such as Categorization and Querying Evidence, while others were dominant in the experimental group, such as Clarifying Meaning, Analyzing Arguments, Stating Results & Describing Methods, and Self-Examination. Contextual analysis revealed that the intervention group focused primarily on advanced experimental-topics when applying CT. Conclusions: While general measures showed non-sensitivity to the within-discipline CT development, the contextualized analysis using the CCTCM, even with small samples, highlighted differences in CT skills utilization, emphasizing the positive effect of the modified LMs in strengthening meaningful CT behaviors and advanced scientific discourse in authentic lab settings. The CCTCM enables instructors to identify frequent and underutilized CT skills, offering an opportunity for targeted instructional strategies that promote deeper engagement and CT in laboratory courses.
+
+
+# Reference
+
+Danial L, Koenen J, Tiemann R., ChemRxiv. 2025; 
+[doi.org/10.26434/chemrxiv-2025-ms8cp](https://doi.org/10.26434/chemrxiv-2025-ms8cp) This content is a preprint and has not been peer-reviewed.
+
