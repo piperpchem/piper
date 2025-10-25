@@ -13,12 +13,6 @@ title-block-banner: true
 /Please send event announcements to ssinglet@coe.edu/
 
 
-* POGIL-PCL Journal Discussion, October 2025
-#+html: <img src="images/pogil-pcl.png" width="20%" align="right" style="padding-left: 10px;"/>
-Wednesday October 15 from 3-4 pm EDT, [[https://forms.gle/dd9tQ4jbXQs3GNG39][signup form]].
-
-Steve Singleton and Sally Hunnicutt will lead a discussion of the paper "Ensuring We Assess What We Value in Laboratory Work" (A.J. Seen, [[https://doi.org/10.1021/acs.jchemed.4c01407][J Chem Educ, 2025, 102, 2172-72]]). To sign up, please [[https://forms.gle/dd9tQ4jbXQs3GNG39][complete this form]].
-
 * Biennial Conference on Chemical Education, July 2026
  July 26-30, 2026, University of Wisconsin, Madison
  [[https://conferences.union.wisc.edu/bcce2026/][https://conferences.union.wisc.edu/bcce2026/]]
@@ -31,6 +25,12 @@ Steve Singleton and Sally Hunnicutt will lead a discussion of the paper "Ensurin
  
 
 * Past events
+* POGIL-PCL Journal Discussion, October 2025
+#+html: <img src="images/pogil-pcl.png" width="20%" align="right" style="padding-left: 10px;"/>
+Wednesday October 15 from 3-4 pm EDT, [[https://forms.gle/dd9tQ4jbXQs3GNG39][signup form]].
+
+Steve Singleton and Sally Hunnicutt will lead a discussion of the paper "Ensuring We Assess What We Value in Laboratory Work" (A.J. Seen, [[https://doi.org/10.1021/acs.jchemed.4c01407][J Chem Educ, 2025, 102, 2172-72]]). To sign up, please [[https://forms.gle/dd9tQ4jbXQs3GNG39][complete this form]].
+
 * POGIL-PCL Journal Discussion, September 2025
 #+html: <img src="images/pogil-pcl.png" width="20%" align="right" style="padding-left: 10px;"/>
  Friday, September 12 from 3-4 pm EDT: [[https://forms.gle/raCP7JHdukbfy4nL7][Sign up form]]
