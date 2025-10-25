@@ -17,6 +17,13 @@ image: llm-gpt.svg
 References related to Large Language Model (LLM) and Generative Pre-trained Transformer (GPT) resources (e.g., ChatGPT) and their use in the chemistry classroom. Please send additions to ssinglet@coe.edu and I will include them in this list.
 
 
+# AI-Assisted Grading Increases Quality Feedback and Grading Efficiency in Undergraduate Chemistry Courses
+
+Amanda Abiad, et. al., J. Chem. Ed., [doi.org/10.1021/acs.jchemed.5c00664](https://doi.org/10.1021/acs.jchemed.5c00664)
+
+Online grading platforms constantly evolve to meet the needs of educational institutions. Current grading systems require significant involvement from instructors and graduate teaching assistants (GTAs) to provide feedback to the students, especially for laboratory-based courses. Here, we report our initial efforts using artificial intelligence (AI)-assisted grading through Stemble. Stemble is a grading platform designed for chemistry courses that provides AI-generated feedback to students. Our initial efforts in implementing this platform for more than 2000 students and 50+ GTAs have demonstrated that AI assisted grading provides more-detailed feedback to students while decreasing the grading time needed for GTAs to review students’ work.
+
+
 # Using Exam Preparation and Reflection to Introduce Artificial Intelligence Tools in Honors General Chemistry
 
 Morgan A. Vincent, Benjamin J. Lear, [doi.org/10.1021/acs.jchemed.5c00618](https://doi.org/10.1021/acs.jchemed.5c00618)
