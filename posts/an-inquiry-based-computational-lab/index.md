@@ -23,6 +23,6 @@ An undergraduate-level Computational Chemistry project was incorporated initiall
 
 # Reference
 
-Monsurat M. Lawal and Tugba G. Kucukkal, Journal of Chemical Education Article ASAP,
+Monsurat M. Lawal and Tugba G. Kucukkal, J. Chem. Educ. 2024, 101, 7, 2903–2911,
  <https://doi.org/10.1021/acs.jchemed.3c01352>
 

@@ -48,8 +48,6 @@ Students make predictions at several points in the experiment, in particular ide
 
 Reeves, M. S., Berghout, H. L., Perri, M. J., Singleton, S. M., & Whitnell, R. M., 2019, &ldquo;How Can You Measure a Reaction Enthalpy without Going into the Lab?&rdquo; *Using Computational Methods To Teach Chemical Principles*, 51–63,  <https://doi.org/10.1021/bk-2019-1312.ch005>
 
-[View student version](https://www.pogilpcl.org/catalog)
-
 The Instructor’s Handbook with implementation details, sample data, and expected answers is available through the [POGIL-PCL project](https://www.pogilpcl.org/get-connected). 
 
 Highlight author: Rob Whitnell

@@ -44,7 +44,7 @@ Reeves, M. S., Berghout, H. L., Perri, M. J., Singleton, S. M., & Whitnell, R. M
 
 # [[https://chemistry.coe.edu/piper/pclform.html?expt=measureEnthalpy][View student version]]
 
-[[https://www.pogilpcl.org/catalog][View student version]]
+# [[https://www.pogilpcl.org/catalog][View student version]]
 
 The Instructor’s Handbook with implementation details, sample data, and expected answers is available through the [[https://www.pogilpcl.org/get-connected][POGIL-PCL project]]. 
 
