@@ -42,7 +42,9 @@ Students make predictions at several points in the experiment, in particular ide
 * Reference
 Reeves, M. S., Berghout, H. L., Perri, M. J., Singleton, S. M., & Whitnell, R. M., 2019, "How Can You Measure a Reaction Enthalpy without Going into the Lab?" /Using Computational Methods To Teach Chemical Principles/, 51–63,  [[https://doi.org/10.1021/bk-2019-1312.ch005]]
 
-[[https://chemistry.coe.edu/piper/pclform.html?expt=measureEnthalpy][View student version]]
+# [[https://chemistry.coe.edu/piper/pclform.html?expt=measureEnthalpy][View student version]]
+
+[[https://www.pogilpcl.org/catalog][View student version]]
 
 The Instructor’s Handbook with implementation details, sample data, and expected answers is available through the [[https://www.pogilpcl.org/get-connected][POGIL-PCL project]]. 
 
