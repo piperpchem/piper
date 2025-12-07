@@ -1,5 +1,6 @@
 ---
 keywords:
+  - Chemistry
   - PChem 
   - Physical chemistry
   - Physical chemistry teaching
@@ -7,11 +8,14 @@ keywords:
   - Learning physical chemistry
   - Resources physical chemistry
   - Quantum mechanics
+  - computational chemistry
+  - computing chemistry
   - Thermodynamics 
   - Kinetics
   - Physical chemistry labs
   - Python
-  - Python programming 
+  - Python programming
+  - spectroscopy
   - Teaching
   - Learning
   - Laboratory
