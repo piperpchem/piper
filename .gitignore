@@ -4,3 +4,4 @@
 posts/*/*.html
 .#*
 /docs/
+**/*.quarto_ipynb
