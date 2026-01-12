@@ -3,7 +3,7 @@ title: "Teaching Programming across the Chemistry Curriculum"
 #author: "ssinglet"
 date: "2022-01-19T00:00:00-06:00"
 categories: ["book", "python", "computing", "jupyter"]
-image: teaching-programming-across-chemistry.jpg
+image: teaching-programming-across-chemistry.webp
 ---
 
 ![](teaching-programming-across-chemistry.webp){width="50%"}
