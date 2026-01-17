@@ -1,0 +1,38 @@
+#+export_file_name: index
+#+options: broken-links:t toc:nil
+# (ss-toggle-markdown-export-on-save)
+# date-added:
+
+# add filename after "imagefile"
+#+macro: imagefile spectrometer.webp
+
+#+begin_export md
+---
+title: "Spectrometer Assembly and Python-Based Data Science Lab on the Reduction Kinetics of Methylene Blue"
+## https://quarto.org/docs/journals/authors.html
+#author:
+#  - name: ""
+#    affiliations:
+#     - name: ""
+license: "©2026 American Chemical Society and Division of Chemical Education, Inc."
+#license: "CC BY-NC-SA"
+#draft: true
+#date-modified:
+date: 2026-01-10
+categories: [lab, kinetics, spectroscopy, python]
+keywords: physical chemistry teaching, physical chemistry education, teaching resources, kinetics, spectroscopy, python
+#+end_export
+image: {{{imagefile}}}
+
+@@html:---
+<img src="@@{{{imagefile}}}@@html:" width="40%" align="right" style="padding: 10px 0px 0px 10px;"/>@@
+
+# Abstract goes below this line.
+Integrating data science and Python programming into secondary chemistry education addresses gaps in preparing students for STEM (science, technology, engineering, and mathematics) careers, where computational and analytical skills are essential. Traditional laboratories often treat instruments as “black boxes,” restricting students’ ability to grasp basic principles. High instrumentation costs and limited access to advanced data analysis tools restrict hands-on learning. We present a cost-effective laboratory module combining a do-it-yourself (DIY) spectrometer kit with data analysis using Python in Google Colaboratory (Colab). Students learn to plot data, perform least-squares fitting, calculate errors, and conduct kinetic studies, thereby developing analytical chemistry skills. These skills are applied in a problem-based learning environment to bridge introductory chemistry with quantitative analysis. Student feedback indicated a perceived improvement in understanding of instrumental components, calibration, and analytical techniques such as determining limits of linearity and dynamic range of detectors. By demystifying instruments and promoting chemical literacy and computational proficiency, this curriculum offers a model for integrating data science into secondary chemistry education.
+
+* Reference
+Subhojyoti Chatterjee, Hyuncheol Oh, Emil Gillett,Autumn Bruncz,John Ferguson, Jessica Dupas, Malayasia J. Moses, Shawna Lee-Paul, Lawrence Tauzin, Charlisa R. Daniels, Stephan Link, Christy F. Landes, /J. Chem. Educ./, 2026, [[https://doi.org/10.1021/acs.jchemed.5c00919][doi.org/10.1021/acs.jchemed.5c00919]]. 
+* Local variables :noexport:
+# Local Variables:
+# eval: (ss-markdown-export-on-save)
+# End:

@@ -21,16 +21,23 @@ Please send your additions to ssinglet@coe.edu and I will include them in this l
 
 # Looking back and to the future after four-plus years of language in chemistry
 
-Glen M. Hocky and Andrew D. White, [doi.org/10.26434/chemrxiv-2025-25m1s](https://doi.org/10.26434/chemrxiv-2025-25m1s)
+Glen M. Hocky and Andrew D. White, 2025, [doi.org/10.26434/chemrxiv-2025-25m1s](https://doi.org/10.26434/chemrxiv-2025-25m1s)
 
 Four years ago we wrote an article predicting the disrupting effect of large language models in the fields of chemical education and research. Here we review and grade our past predictions, give our perspective on some of the progress that has made in the intervening years, and finally give some forecasts of what might be coming next.
 
 
 # Beyond Vibes: Preserving Learning While Embracing AI-Assisted Coding in STEM Education
 
-Gianmarc Grazioli, [doi.org/10.26434/chemrxiv-2025-6v56k](https://doi.org/10.26434/chemrxiv-2025-6v56k)
+Gianmarc Grazioli, 2025, [doi.org/10.26434/chemrxiv-2025-6v56k](https://doi.org/10.26434/chemrxiv-2025-6v56k)
 
 Generative AI tools that write and debug code are rapidly becoming standard in scientific, technical, and data-driven workplaces. Higher education should respond not by banning these tools, but by integrating them in ways that preserve deep learning, build student agency, and reflect professional practice. This article offers a practical framework for faculty who want students to use AI to write code in STEM courses ranging from lab courses with analysis and data visualization components, to disciplines transitioning from tools like Excel or SPSS to scalable open-source Python workflows. Key recommendations include pairing AI-assisted, project-based learning with one-on-one, code-review-style oral exams during which students must be able to explain every line of their code, and ensuring that students achieve conceptual mastery of core programming principles that can be overlooked when relying on AI code generation (e.g. data types of variables, inputs, and outputs, principled use of methods and attributes from Python objects, etc.). These strategies aim to prevent cognitive offloading of essential conceptual knowledge, which is a significant risk associated with "vibe coding," where students rely on AI to generate code without understanding it themselves, while still enabling students to build domain-specific AI fluency required in an increasingly AI-driven economy.
+
+
+# Exploring the Potential of Using ChatGPT in Chemistry Education
+
+Christian Morbidoni, et al, 2026, [doi.org/10.1021/acs.jchemed.5c00854](https://doi.org/10.1021/acs.jchemed.5c00854)
+
+This study investigates the performance of different OpenAI GPT model versions (GPT-3.5 Turbo, GPT-4 Turbo, GPT-4o, o1-preview and GPT-5 at different reasoning effort values) in solving chemistry problems across various educational and conceptual difficulty levels. The evaluation, aimed at assessing both accuracy and reasoning quality, was based on a data set comprising 150 multiple-choice questions and 10 open-ended questions at the high school level, as well as 75 multiple-choice questions, 10 open-ended questions, and 100 stoichiometry exercises at the university level. The results reveal a clear trend of improvement in both accuracy and consistency with successive GPT model versions, with o1-preview and GPT-5 demonstrating the highest overall performance due to their reasoning capabilities. Error analysis shows that, while conceptual understanding is generally strong, computational mistakes remain frequent, particularly in tasks related to chemical equilibrium exercises and redox reaction balancing, though GPT-5 markedly reduced these errors compared to earlier models. Additionally, misinterpretations of questions requiring judgment or historical context have emerged as a recurring issue. While prompt formulation influences performance in specific contexts, such as redox balancing, the overall sophistication of the model appears to be the primary determinant of performance. These findings suggest that recent advancements in large language models have significantly enhanced their potential for chemistry education, although careful oversight remains necessary to address numerical inaccuracies and interpretative limitations.
 
 
 # AI-Assisted Grading Increases Quality Feedback and Grading Efficiency in Undergraduate Chemistry Courses
