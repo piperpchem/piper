@@ -1,10 +1,10 @@
-
+#+options: toc:nil
 #+export_file_name: index
 # (ss-toggle-markdown-export-on-save)
 
 #+begin_export md
 ---
-title: "Large Language Model (LLM) and Generative Pre-trained Transformer (GPT) References for Teachers"
+title: "Large Language Model (LLM) and Generative Pre-trained Transformer (GPT) References for Chemistry Teachers"
 ## https://quarto.org/docs/journals/authors.html
 #author:
 #  - name: 
@@ -13,15 +13,25 @@ title: "Large Language Model (LLM) and Generative Pre-trained Transformer (GPT) 
 #draft: true
 # description:
 # date added 2023-11-21
-date: 2025-10-19
+date: 2026-01-05
 categories: ["article", "ai-ml"]
 keywords: PIPER, teaching physical chemistry, GPT, ChatGPT, LLM, teaching, chemistry, artificial intelligence, AI, physical chemistry resources
 image: llm-gpt.svg
 ---
 
 #+end_export
-References related to Large Language Model (LLM) and Generative Pre-trained Transformer (GPT) resources (e.g., ChatGPT) and their use in the chemistry classroom. Please send additions to ssinglet@coe.edu and I will include them in this list.
+References related to Large Language Model (LLM) and Generative Pre-trained Transformer (GPT) resources (e.g., ChatGPT) and their use in the chemistry classroom.
 
+Please send your additions to ssinglet@coe.edu and I will include them in this list.
+*** Looking back and to the future after four-plus years of language in chemistry
+Glen M. Hocky and Andrew D. White, [[https://doi.org/10.26434/chemrxiv-2025-25m1s][doi.org/10.26434/chemrxiv-2025-25m1s]]
+
+Four years ago we wrote an article predicting the disrupting effect of large language models in the fields of chemical education and research. Here we review and grade our past predictions, give our perspective on some of the progress that has made in the intervening years, and finally give some forecasts of what might be coming next.
+
+*** Beyond Vibes: Preserving Learning While Embracing AI-Assisted Coding in STEM Education
+Gianmarc Grazioli, [[https://doi.org/10.26434/chemrxiv-2025-6v56k][doi.org/10.26434/chemrxiv-2025-6v56k]]
+
+Generative AI tools that write and debug code are rapidly becoming standard in scientific, technical, and data-driven workplaces. Higher education should respond not by banning these tools, but by integrating them in ways that preserve deep learning, build student agency, and reflect professional practice. This article offers a practical framework for faculty who want students to use AI to write code in STEM courses ranging from lab courses with analysis and data visualization components, to disciplines transitioning from tools like Excel or SPSS to scalable open-source Python workflows. Key recommendations include pairing AI-assisted, project-based learning with one-on-one, code-review-style oral exams during which students must be able to explain every line of their code, and ensuring that students achieve conceptual mastery of core programming principles that can be overlooked when relying on AI code generation (e.g. data types of variables, inputs, and outputs, principled use of methods and attributes from Python objects, etc.). These strategies aim to prevent cognitive offloading of essential conceptual knowledge, which is a significant risk associated with "vibe coding," where students rely on AI to generate code without understanding it themselves, while still enabling students to build domain-specific AI fluency required in an increasingly AI-driven economy.
 *** AI-Assisted Grading Increases Quality Feedback and Grading Efficiency in Undergraduate Chemistry Courses
 Amanda Abiad, et. al., J. Chem. Ed., [[https://doi.org/10.1021/acs.jchemed.5c00664][doi.org/10.1021/acs.jchemed.5c00664]]
 
