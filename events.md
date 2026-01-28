@@ -10,7 +10,7 @@ title-block-banner: true
 
 <img src="images/pogil-pcl.png" width="20%" align="right" style="padding-left: 10px;"/>
 
-POGIL-PCL will host a journal discussion February 23 from 4-5 pm EST. Kathryn Haas, Diane Miller, and Rob Whitnell will lead a discussion on the paper "Assessing Science Practices in Undergraduate Chemistry Laboratories: Why We Need to Do Better - and How We Should" (Ramesh, V.P., Seery, M. K., Cole, R. J. Chem Educ. 2026, 103, 27-35). Please use this [form](https://forms.gle/J6XbSkNURN8RJp2H6) to indicate your interest in attending. A zoom link and calendar invitation will go out by February 16.
+POGIL-PCL will host a journal discussion February 23 from 4-5 pm EST. Kathryn Haas, Diane Miller, and Rob Whitnell will lead a discussion on the paper "Assessing Science Practices in Undergraduate Chemistry Laboratories: Why We Need to Do Better - and How We Should" (Ramesh, V.P., Seery, M. K., Cole, R. [J. Chem Educ. 2026, 103, 27-35](https://chemistry.coe.edu/piper/posts/assessing-science-practices-laboratories/)). Please use this [form](https://forms.gle/J6XbSkNURN8RJp2H6) to indicate your interest in attending. A zoom link and calendar invitation will go out by February 16.
 
 
 # Biennial Conference on Chemical Education, July 2026
