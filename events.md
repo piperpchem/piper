@@ -1,19 +1,3 @@
-
-# Table of Contents
-
-1.  [POGIL-PCL Journal Discussion](#org3e02969)
-2.  [Biennial Conference on Chemical Education, July 2026](#orgda3f913)
-3.  [Past events](#orgcbfa016)
-4.  [POGIL-PCL Journal Discussion, October 2025](#org39f9ccd)
-5.  [POGIL-PCL Journal Discussion, September 2025](#org2a8d717)
-    1.  [Workshop on One Semester Physical Chemistry Courses, September 2025](#org1fc1b7c)
-    2.  [LABSIP Social at ACS, August 2025](#orga38d994)
-    3.  [LABSIP Seminar August 2025](#orgd1b18fe)
-    4.  [MERCURY Consortium July 2025](#orgee96ef8)
-    5.  [Gordon Research Conference July 2025](#org51191b1)
-    6.  [MOLSSI Two Day Workshop July 2025](#org7fc77ba)
-    7.  [POGIL-PCL Online Workshop April 2025](#org64f22ae)
-
 ---
 title: "Events for Physical Chemistry Educators"
 title-block-banner: true
@@ -22,16 +6,12 @@ title-block-banner: true
 *Please send event announcements to ssinglet@coe.edu*
 
 
-<a id="org3e02969"></a>
-
 # POGIL-PCL Journal Discussion
 
 <img src="images/pogil-pcl.png" width="20%" align="right" style="padding-left: 10px;"/>
 
 POGIL-PCL will host a journal discussion February 23 from 4-5 pm EST. Kathryn Haas, Diane Miller, and Rob Whitnell will lead a discussion on the paper "Assessing Science Practices in Undergraduate Chemistry Laboratories: Why We Need to Do Better - and How We Should" (Ramesh, V.P., Seery, M. K., Cole, R. J. Chem Educ. 2026, 103, 27-35). Please use this [form](https://forms.gle/J6XbSkNURN8RJp2H6) to indicate your interest in attending. A zoom link and calendar invitation will go out by February 16.
 
-
-<a id="orgda3f913"></a>
 
 # Biennial Conference on Chemical Education, July 2026
 
@@ -45,12 +25,8 @@ The 29th BCCE will be held on the lakeside campus of the University of Wisconsin
 All chemistry educators are invited to contribute to the conference by submitting a program proposal (opens August 1, 2025), or abstracts for presentations. You do not have to present in order to attend the BCCE. Also, you do not have to be a member of the American Chemical Society or the ACS Division of Chemical Education to attend or present at the BCCE.
 
 
-<a id="orgcbfa016"></a>
-
 # Past events
 
-
-<a id="org39f9ccd"></a>
 
 # POGIL-PCL Journal Discussion, October 2025
 
@@ -61,8 +37,6 @@ Wednesday October 15 from 3-4 pm EDT, [signup form](https://forms.gle/dd9tQ4jbXQ
 Steve Singleton and Sally Hunnicutt will lead a discussion of the paper "Ensuring We Assess What We Value in Laboratory Work" (A.J. Seen, [J Chem Educ, 2025, 102, 2172-72](https://doi.org/10.1021/acs.jchemed.4c01407)). To sign up, please [complete this form](https://forms.gle/dd9tQ4jbXQs3GNG39).
 
 
-<a id="org2a8d717"></a>
-
 # POGIL-PCL Journal Discussion, September 2025
 
 <img src="images/pogil-pcl.png" width="20%" align="right" style="padding-left: 10px;"/>
@@ -72,16 +46,12 @@ Friday, September 12 from 3-4 pm EDT: [Sign up form](https://forms.gle/raCP7JHdu
 Jordan Beck will lead a discussion of the broad question: What is physical chemistry?  To address this question and how the answer has evolved, we will look at various artifacts including published and unpublished surveys of physical chemistry educators, the physical chemistry ACCM, and historical ACS Exams physical chemistry exams.  Jordan will lead the discussion and start by giving a brief overview of the artifacts and his initial findings from the ACS Exams archive.  He will then open up the discussion with a special focus on receiving feedback about how to expand the analysis of the ACS Exams physical chemistry exams archive to best serve the needs of the community. [Sign up form](https://forms.gle/raCP7JHdukbfy4nL7)
 
 
-<a id="org1fc1b7c"></a>
-
 ## Workshop on One Semester Physical Chemistry Courses, September 2025
 
 Tuesday, September 9 at 1 pm – 2 pm ET, contact: [pchemlabsip@gmail.com](mailto:pchemlabsip@gmail.com)
 
 In this zoom workshop, Drs. Sara Sohail (Swathmore College) and Ashely Ringer McDonald (California Polytechnic State University) will be sharing their experiences teaching/planning a one-semester physical chemistry course. After the talks, workshop attendees will be encouraged to share their ideas on what questions/issues we may want to explore as a community about one-semester physical chemistry courses.
 
-
-<a id="orga38d994"></a>
 
 ## LABSIP Social at ACS, August 2025
 
@@ -91,8 +61,6 @@ Monday, August 18 at 7-9 pm ET, contact: [pchemlabsip@gmail.com](mailto:pchemlab
 
 LABSIP will be holding a joint social with the ACS Colloid Mentoring Undergraduate Surface Science Research Symposium during the ACS Fall 2025 meeting in DC. The event will be held at Prost DC on 919 5th St NW in DC. It should be a fun evening and opportunity to network and connect with members of the physical chemistry community.
 
-
-<a id="orgd1b18fe"></a>
 
 ## LABSIP Seminar August 2025
 
@@ -105,8 +73,6 @@ Craig Teague will speak about his work in physical chemistry pedagogy and the st
 Craig is the Associate Dean of Academic Affairs and a Professor of Chemistry at Cornell College. He is co-editor of "Engaging Students in Physical Chemistry" (<https://pubs.acs.org/doi/book/10.1021/bk-2018-1279>), an ACS Symposium Series eBook, and is at work on a follow-up volume. Craig has co-authored several articles related to chemical pedagogy: “Partition Functions and Statistical Thermodynamics: Spreadsheet Activities to Promote Connections in Physical Chemistry” (<https://pubs.acs.org/doi/10.1021/bk-2018-1279.ch004>), “Focusing on Student Learning: Efforts at Multiple Levels” (<https://pubs.acs.org/doi/10.1021/bk-2020-1343.ch005>) and “The Hydrogen Atom Spectrum: Experimental Analysis Using Iterative Model Building” (<https://pubs.acs.org/doi/10.1021/acs.jchemed.2c00348>). Craig mentioned that he will talk a bit about the hydrogen atom spectrum article to illustrate how he thinks about physical chemistry labs through the POGIL-PCL lens so if you get a chance you might want to look over that article.
 
 
-<a id="orgee96ef8"></a>
-
 ## MERCURY Consortium July 2025
 
 <https://www.mercuryconsortium.org/conference-2025/>
@@ -117,8 +83,6 @@ July 21-25, 2025
 
 The 2025 MERCURY Conference will be hosted by the Department of Chemistry at the University of Pittsburgh with support from the Pittsburgh Quantum Institute.   The Molecular Sciences Software Institute will host a workshop for students on July 21-22, and the MERCURY Conference will start the evening of July 23 and conclude at lunch on July 25. The conference is an excellent forum for undergraduates to present their work and to learn from experts in the field, allowing them to put their own research into perspective. It is equally valuable as a networking event for faculty working with undergraduates. Undergraduates from all types of institutions are invited to come present their work.
 
-
-<a id="org51191b1"></a>
 
 ## Gordon Research Conference July 2025
 
@@ -140,8 +104,6 @@ This meeting intends to act as a prompt to draw on the latest research and schol
 -   Global perspectives in chemistry education: sustainability, accessibility, and interdisciplinarity
 
 
-<a id="org7fc77ba"></a>
-
 ## MOLSSI Two Day Workshop July 2025
 
 July 9-10, 2025, Cal Poly San Luis Obispo, CA
@@ -152,8 +114,6 @@ July 9-10, 2025, Cal Poly San Luis Obispo, CA
 
 This workshop is designed for university faculty in the molecular sciences (chemistry, physics, molecular biology, materials science, and related disciplines) who want to learn Python programming and how to incorporate it into their class. This workshop targets faculty who have no or very limited python programming experience and want to upskill and then incorporate cyberinfrastructure skills, like programming, data analysis, data visualization into their courses. The workshop is open to faculty at all academic ranks, including tenure-stream and instructional faculty. 
 
-
-<a id="org64f22ae"></a>
 
 ## POGIL-PCL Online Workshop April 2025
 

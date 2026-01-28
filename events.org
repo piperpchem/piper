@@ -1,5 +1,5 @@
 #+export_file_name: events.md
-#+options: broken-links:t
+#+options: broken-links:t toc:nil num:nil
 # (ss-toggle-markdown-export-on-save)
 # date-added:
 
