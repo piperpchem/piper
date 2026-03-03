@@ -21,7 +21,7 @@ All chemistry educators are invited to contribute to the conference by submittin
 # Past events
 
 
-# POGIL-PCL Journal Discussion
+# POGIL-PCL Journal Discussion February 23, 2026
 
 <img src="images/pogil-pcl.png" width="20%" align="right" style="padding-left: 10px;"/>
 

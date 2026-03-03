@@ -24,7 +24,7 @@ title-block-banner: true
  
 
 * Past events
-* POGIL-PCL Journal Discussion
+* POGIL-PCL Journal Discussion February 23, 2026
 #+html: <img src="images/pogil-pcl.png" width="20%" align="right" style="padding-left: 10px;"/>
 
 
