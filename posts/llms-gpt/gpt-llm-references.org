@@ -13,7 +13,7 @@ title: "Large Language Model (LLM) and Generative Pre-trained Transformer (GPT) 
 #draft: true
 # description:
 # date added 2023-11-21
-date: 2026-01-05
+date: 2026-02-05
 categories: ["article", "ai-ml"]
 keywords: PIPER, teaching physical chemistry, GPT, ChatGPT, LLM, teaching, chemistry, artificial intelligence, AI, physical chemistry resources
 image: llm-gpt.svg
@@ -23,8 +23,13 @@ image: llm-gpt.svg
 References related to Large Language Model (LLM) and Generative Pre-trained Transformer (GPT) resources (e.g., ChatGPT) and their use in the chemistry classroom.
 
 Please send your additions to ssinglet@coe.edu and I will include them in this list.
+*** General-Purpose Models for the Chemical Sciences: LLMs and Beyond
+Nawaf Alampara, et al, /Chemical Reviews/, 2026, [[https://doi.org/10.1021/acs.chemrev.5c00583][doi.org/10.1021/acs.chemrev.5c00583]] (CC-BY-4.0)
+
+Data-driven techniques have a large potential to transform and accelerate the chemical sciences. However, chemical sciences also pose the unique challenge of very diverse, small, fuzzy data sets that are difficult to leverage in conventional machine learning approaches. A new class of models, which can be summarized under the term general-purpose models (GPMs) such as large language models, has shown the ability to solve tasks they have not been directly trained on, and to flexibly operate with low amounts of data in different formats. In this review, we discuss the fundamental building principles of GPMs and review recent and emerging applications of those models in the chemical sciences. While many of these applications are still in the prototype phase, we expect that the increasing interest in GPMs will make many of them mature in the coming years. 
+
 *** Translating UNESCO Artificial Intelligence Guidelines to Chemical Education and Its Intersection with Sustainable Development Goals
-Yali Li, Laura Tolosa, Francklin Rivas Echeverria, Ronald Marquez, [[https://doi.org/10.1021/acs.jchemed.5c00819][doi.org/10.1021/acs.jchemed.5c00819]]
+Yali Li, Laura Tolosa, Francklin Rivas Echeverria, Ronald Marquez, /J. Chem. Educ./, [[https://doi.org/10.1021/acs.jchemed.5c00819][doi.org/10.1021/acs.jchemed.5c00819]]
 
 This Perspective explores the integration of AI in education, drawing from UNESCO guidelines and global recommendations from 2022 to 2025, underscoring the imperative of a human-centered pedagogical approach. The analysis highlights the transformative potential of AI in educational practices, focusing on enhanced personalized learning, teacher training, and academic management, all of which are seen as possibly contributing to advancing sustainable development goal 4 (SDG 4, quality education). It also discusses the risk of epistemic drift, where reliance on opaque algorithms may detach scientific inquiry from a causal understanding. We show examples of prompt engineering techniques for scientific illustration generation in the fields of chemistry and physical chemistry, and discuss its advantages, and limitations. Furthermore, the rapid development of AI technologies has outpaced the policy debates in most academic institutions, creating a significant policy gap in higher education. This is coupled with global disparity, where most academic institutions in high-income countries have implemented AI-driven tools by 2025, while access in low-income regions remains constrained. We argue that to harness the potential benefits of AI, the chemical education community must move beyond technical adoption to foster critical AI chemical literacy. This involves targeted investments in digital infrastructure and the development of assessments that prioritize human reasoning over algorithmic output. We conclude that the responsible integration of AI requires a shift from a content delivery model to a knowledge creation model guided by the high-level ethical frameworks proposed by UNESCO.
 
