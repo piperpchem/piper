@@ -6,13 +6,6 @@ title-block-banner: true
 *Please send event announcements to ssinglet@coe.edu*
 
 
-# POGIL-PCL Journal Discussion
-
-<img src="images/pogil-pcl.png" width="20%" align="right" style="padding-left: 10px;"/>
-
-POGIL-PCL will host a journal discussion February 23 from 4-5 pm EST. Kathryn Haas, Diane Miller, and Rob Whitnell will lead a discussion on the paper "Assessing Science Practices in Undergraduate Chemistry Laboratories: Why We Need to Do Better - and How We Should" (Ramesh, V.P., Seery, M. K., Cole, R. [J. Chem Educ. 2026, 103, 27-35](https://chemistry.coe.edu/piper/posts/assessing-science-practices-laboratories/)). Please use this [form](https://forms.gle/J6XbSkNURN8RJp2H6) to indicate your interest in attending. A zoom link and calendar invitation will go out by February 16.
-
-
 # Biennial Conference on Chemical Education, July 2026
 
 July 26-30, 2026, University of Wisconsin, Madison
@@ -28,13 +21,20 @@ All chemistry educators are invited to contribute to the conference by submittin
 # Past events
 
 
+# POGIL-PCL Journal Discussion
+
+<img src="images/pogil-pcl.png" width="20%" align="right" style="padding-left: 10px;"/>
+
+POGIL-PCL will host a journal discussion February 23 from 4-5 pm EST. Kathryn Haas, Diane Miller, and Rob Whitnell will lead a discussion on the paper &ldquo;Assessing Science Practices in Undergraduate Chemistry Laboratories: Why We Need to Do Better - and How We Should&rdquo; (Ramesh, V.P., Seery, M. K., Cole, R. [J. Chem Educ. 2026, 103, 27-35](https://chemistry.coe.edu/piper/posts/assessing-science-practices-laboratories/)). Please use this [form](https://forms.gle/J6XbSkNURN8RJp2H6) to indicate your interest in attending. A zoom link and calendar invitation will go out by February 16.
+
+
 # POGIL-PCL Journal Discussion, October 2025
 
 <img src="images/pogil-pcl.png" width="20%" align="right" style="padding-left: 10px;"/>
 
 Wednesday October 15 from 3-4 pm EDT, [signup form](https://forms.gle/dd9tQ4jbXQs3GNG39).
 
-Steve Singleton and Sally Hunnicutt will lead a discussion of the paper "Ensuring We Assess What We Value in Laboratory Work" (A.J. Seen, [J Chem Educ, 2025, 102, 2172-72](https://doi.org/10.1021/acs.jchemed.4c01407)). To sign up, please [complete this form](https://forms.gle/dd9tQ4jbXQs3GNG39).
+Steve Singleton and Sally Hunnicutt will lead a discussion of the paper &ldquo;Ensuring We Assess What We Value in Laboratory Work&rdquo; (A.J. Seen, [J Chem Educ, 2025, 102, 2172-72](https://doi.org/10.1021/acs.jchemed.4c01407)). To sign up, please [complete this form](https://forms.gle/dd9tQ4jbXQs3GNG39).
 
 
 # POGIL-PCL Journal Discussion, September 2025
@@ -70,7 +70,7 @@ AUGUST 4, 2025 3-4 pm EST.  Contact pchemlabsip@gmail.com to join the zoom meeti
 
 Craig Teague will speak about his work in physical chemistry pedagogy and the structure of the undergrad physical chemistry curriculum.
 
-Craig is the Associate Dean of Academic Affairs and a Professor of Chemistry at Cornell College. He is co-editor of "Engaging Students in Physical Chemistry" (<https://pubs.acs.org/doi/book/10.1021/bk-2018-1279>), an ACS Symposium Series eBook, and is at work on a follow-up volume. Craig has co-authored several articles related to chemical pedagogy: “Partition Functions and Statistical Thermodynamics: Spreadsheet Activities to Promote Connections in Physical Chemistry” (<https://pubs.acs.org/doi/10.1021/bk-2018-1279.ch004>), “Focusing on Student Learning: Efforts at Multiple Levels” (<https://pubs.acs.org/doi/10.1021/bk-2020-1343.ch005>) and “The Hydrogen Atom Spectrum: Experimental Analysis Using Iterative Model Building” (<https://pubs.acs.org/doi/10.1021/acs.jchemed.2c00348>). Craig mentioned that he will talk a bit about the hydrogen atom spectrum article to illustrate how he thinks about physical chemistry labs through the POGIL-PCL lens so if you get a chance you might want to look over that article.
+Craig is the Associate Dean of Academic Affairs and a Professor of Chemistry at Cornell College. He is co-editor of &ldquo;Engaging Students in Physical Chemistry&rdquo; (<https://pubs.acs.org/doi/book/10.1021/bk-2018-1279>), an ACS Symposium Series eBook, and is at work on a follow-up volume. Craig has co-authored several articles related to chemical pedagogy: “Partition Functions and Statistical Thermodynamics: Spreadsheet Activities to Promote Connections in Physical Chemistry” (<https://pubs.acs.org/doi/10.1021/bk-2018-1279.ch004>), “Focusing on Student Learning: Efforts at Multiple Levels” (<https://pubs.acs.org/doi/10.1021/bk-2020-1343.ch005>) and “The Hydrogen Atom Spectrum: Experimental Analysis Using Iterative Model Building” (<https://pubs.acs.org/doi/10.1021/acs.jchemed.2c00348>). Craig mentioned that he will talk a bit about the hydrogen atom spectrum article to illustrate how he thinks about physical chemistry labs through the POGIL-PCL lens so if you get a chance you might want to look over that article.
 
 
 ## MERCURY Consortium July 2025
@@ -119,7 +119,7 @@ This workshop is designed for university faculty in the molecular sciences (chem
 
 <img src="images/pogil-pcl.png" width="20%" align="right" style="padding-left: 10px;"/>
 
-The POGIL-PCL team, led by Jordan Beck, Andrea Carter, and Diane Miller, will host a zoom workshop on two consecutive Mondays, April 14 & 21, 7-9 pm Eastern time. We will do a new POGIL-PCL experiment, "[Why does the fluorescence of cytochrome c change as it unfolds](https://drive.google.com/file/d/1BPzGviu1ponM3kLwqGHPCYOXe2mhnQwD/view?usp=sharing)?"
+The POGIL-PCL team, led by Jordan Beck, Andrea Carter, and Diane Miller, will host a zoom workshop on two consecutive Mondays, April 14 & 21, 7-9 pm Eastern time. We will do a new POGIL-PCL experiment, &ldquo;[Why does the fluorescence of cytochrome c change as it unfolds](https://drive.google.com/file/d/1BPzGviu1ponM3kLwqGHPCYOXe2mhnQwD/view?usp=sharing)?&rdquo;
 
 Please complete [this form](https://docs.google.com/forms/d/e/1FAIpQLScywqQ4cCedSmtqS5mMXFdwvkTnNfEyTOD0Toetcllf8f7aRA/viewform?usp=sharing) to indicate your interest in attending this workshop.
 
