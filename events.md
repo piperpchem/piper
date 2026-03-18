@@ -6,7 +6,7 @@ title-block-banner: true
 *Please send event announcements to ssinglet@coe.edu*
 
 
-# ACS LABSIP-PChem Social
+# ACS LABSIP-PChem Social March 2026
 
 Tuesday, March 24
 
