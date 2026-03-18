@@ -12,6 +12,12 @@ title-block-banner: true
 
 /Please send event announcements to ssinglet@coe.edu/
 
+* ACS LABSIP-PChem Social
+Tuesday, March 24
+
+LABSIP will be co-hosting a social with organizers of the PHYS Physical Chemistry at Undergraduate Institutions Symposia on Tuesday, March 24 at Hudson Grille from 6:30 pm - 8:30 pm at the National ACS meeting in Atlanta. Please come and join us for some appetizers, drinks, and good conversations! So that we can get a rough estimate of the number of attendees, please RSVP by Monday, March 23. You are also always welcome to show up without a RSVP.  
+https://forms.gle/HdtKc9R4gjy9oVUB7
+
 * Biennial Conference on Chemical Education, July 2026
  July 26-30, 2026, University of Wisconsin, Madison
  [[https://conferences.union.wisc.edu/bcce2026/][https://conferences.union.wisc.edu/bcce2026/]]
@@ -24,7 +30,7 @@ title-block-banner: true
  
 
 * Past events
-* POGIL-PCL Journal Discussion February 23, 2026
+* POGIL-PCL Journal Discussion, February 23, 2026
 #+html: <img src="images/pogil-pcl.png" width="20%" align="right" style="padding-left: 10px;"/>
 
 
