@@ -1,0 +1,39 @@
+#+export_file_name: index
+#+options: broken-links:t toc:nil
+# (ss-toggle-markdown-export-on-save)
+# date-added:
+
+# add filename after "imagefile"
+#+macro: imagefile PES.webp
+
+#+begin_export md
+---
+title: "Construction of Potential Energy Surface for Ne Atom and H2+ Ion Collision Reaction Based on Artificial Intelligence"
+## https://quarto.org/docs/journals/authors.html
+#author:
+#  - name: ""
+#    affiliations:
+#     - name: ""
+license: "©2026 American Chemical Society and Division of Chemical Education, Inc."
+#license: "CC BY-NC-SA"
+#draft: true
+#date-modified:
+date: 2026-03-19
+categories: [ai-ml, quantum, computational, lab]
+keywords: physical chemistry teaching, physical chemistry education, teaching resources, artificial intelligence, laboratory experiment, potential energy surface, quantum mechanics
+#+end_export
+image: {{{imagefile}}}
+
+@@html:---
+<img src="@@{{{imagefile}}}@@html:" width="40%" align="right" style="padding: 10px 0px 0px 10px;"/>@@
+
+# Abstract goes below this line.
+In undergraduate chemistry education, the applications of machine learning methods remain limited, particularly in potential energy surface (PES) fitting for molecular dynamics simulations. To address this gap, this experiment focuses on the one-dimensional triatomic collision reaction Ne + H_{2}^{+} → NeH^{+} + H, a classical reaction in physical chemistry. Starting with quantum chemistry calculations, we developed a user-friendly open-source package in Python, leveraging the machine learning framework PyTorch to fit the PES of this reaction. The trained model was then used to visualize molecular dynamics simulations. Through this experiment, students gain comprehensive experience in applying quantum chemistry calculations and machine learning techniques to solve a specific chemical problem while developing insights into PES fitting using neural networks.
+
+* Reference
+Qianxiang Xu, Yudong Zhao, Yongmei Liu, Ye-Fei Li, /J. Chem. Educ./, 2026, [[https://doi.org/10.1021/acs.jchemed.5c00678][doi.org/10.1021/acs.jchemed.5c00678]]
+
+* Local variables :noexport:
+# Local Variables:
+# eval: (ss-markdown-export-on-save)
+# End:
