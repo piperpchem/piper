@@ -11,17 +11,17 @@ pushd $SITE_DIR
 quarto render
 
 # Add changes to git.
-#git add posts/*
+git add .
 
 # Commit changes.
-# msg="rebuilding site $(date)"
-# if [ -n "$*" ]; then
-#     msg="$*"
-# fi
-# git commit -m "$msg"
+msg="full render $(date)"
+if [ -n "$*" ]; then
+    msg="$*"
+fi
+git commit -m "$msg"
 
 # Push source and build repos to github pages site
-#git push origin master
+git push origin master
 
 # copy to chemistry.coe.edu
 printf "Uploading to chemistry.coe.edu..."
