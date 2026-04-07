@@ -6,10 +6,20 @@ title-block-banner: true
 *Please send event announcements to ssinglet@coe.edu*
 
 
-# ACS LABSIP-PChem Social, March 24, 2026
+# POGIL-PCL Jupyter Group Workshop
 
-LABSIP will be co-hosting a social with organizers of the PHYS Physical Chemistry at Undergraduate Institutions Symposia on Tuesday, March 24 at Hudson Grille from 6:30 pm - 8:30 pm at the National ACS meeting in Atlanta. Please come and join us for some appetizers, drinks, and good conversations! So that we can get a rough estimate of the number of attendees, please RSVP by Monday, March 23. You are also always welcome to show up without a RSVP.  
-<https://forms.gle/HdtKc9R4gjy9oVUB7>
+The POGIL-PCL Jupyter group is hosting an online workshop Wed Apr 15, 1-2:30 PT; 4-5:30 ET (1.5 hrs).
+
+This workshop will provide training on analyzing data using python in Jupyter Notebooks.  The training will be focused on Enzyme Kinetics from the &ldquo;How should apples be prepared for a fruit salad?&rdquo; (Apple Enzyme Kinetics POGIL-PCL experiment).  
+
+A Python Jupyter Notebook (based on a notebook from Dora Geng and Dr. Kathryn Haas) will be used to find initial rates and determine Km and Vmax from a suite of experiments.  This approach introduces students to coding and the benefits of a Jupyter Notebook:  instead of importing, analyzing, and collating 15 different kinetics runs one at a time, students can set up a notebook to analyze all runs in a few seconds. All faculty are invited to attend.  No previous experience with coding python, Jupyter, or enzyme kinetics is required!
+
+Before attending, please
+
+-   complete this [RSVP survey](https://forms.gle/JN4KA4XekYrEFB4z9) (responses helpful even if unable to attend workshop); a zoom link will be sent before the workshop
+-   register for a free account using your academic email address on [ChemCompute.org](https://chemcompute.org).  Email Mark Perri (perrim@sonoma.edu) with any questions.
+
+Hope to see you April 15.
 
 
 # Biennial Conference on Chemical Education, July 2026
@@ -25,6 +35,12 @@ All chemistry educators are invited to contribute to the conference by submittin
 
 
 # Past events
+
+
+# ACS LABSIP-PChem Social, March 24, 2026
+
+LABSIP will be co-hosting a social with organizers of the PHYS Physical Chemistry at Undergraduate Institutions Symposia on Tuesday, March 24 at Hudson Grille from 6:30 pm - 8:30 pm at the National ACS meeting in Atlanta. Please come and join us for some appetizers, drinks, and good conversations! So that we can get a rough estimate of the number of attendees, please RSVP by Monday, March 23. You are also always welcome to show up without a RSVP.  
+<https://forms.gle/HdtKc9R4gjy9oVUB7>
 
 
 # POGIL-PCL Journal Discussion, February 23, 2026
