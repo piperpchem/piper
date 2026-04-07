@@ -12,7 +12,7 @@ title-block-banner: true
 
 /Please send event announcements to ssinglet@coe.edu/
 
-* POGIL-PCL Jupyter Group Workshop
+* POGIL-PCL Jupyter Group Workshop: Apr 15, 2026
 
 The POGIL-PCL Jupyter group is hosting an online workshop Wed Apr 15, 1-2:30 PT; 4-5:30 ET (1.5 hrs).
 
