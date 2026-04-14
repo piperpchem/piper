@@ -1,0 +1,38 @@
+#+export_file_name: index
+#+options: broken-links:t toc:nil
+# (ss-toggle-markdown-export-on-save)
+# date-added:
+
+# add filename after "imagefile"
+#+macro: imagefile green-photo.webp
+
+#+begin_export md
+---
+title: "A Green and Low-Cost Photochromic Kinetics Experiment for Teaching Experimental Uncertainty at the Undergraduate Level"
+## https://quarto.org/docs/journals/authors.html
+#author:
+#  - name: ""
+#    affiliations:
+#     - name: ""
+license: "©2026 The Authors. Published by American Chemical Society and Division of Chemical Education, Inc."
+#license: "CC BY-NC-SA"
+#draft: true
+#date-modified:
+date: 2026-04-14
+categories: [lab, kinetics]
+keywords: physical chemistry teaching, physical chemistry education, teaching resources, First-Year Undergraduate, Laboratory Instruction, Physical Chemistry,Hands-On Learning/Manipulatives, Kinetics, Rate Law, Chemometrics, Cooperative Learning
+#+end_export
+image: {{{imagefile}}}
+
+@@html:---
+<img src="@@{{{imagefile}}}@@html:" width="40%" align="right" style="padding: 10px 0px 0px 10px;"/>@@
+
+# Abstract goes below this line.
+In Science, it is essential for students to develop a solid understanding of measurement uncertainty and statistical analysis. Various approaches, such as graphical methods, software, simulations, and practical exercises, have been proposed to support this learning. Nevertheless, there is a necessity for chemical experiments that enable students to engage a statistical analysis of measured chemical parameters during a wet-lab session. In this regard, T-type photochromic compounds, with their reversible behavior, offer a valuable opportunity for repeated, reproducible measurements under controlled conditions, generating meaningful data sets within typical laboratory time constraints. This article presents a 2 h-hands-on experiment using the T-type photochromic behavior of the commercially available and widely used in chemical education compound 6-NO_{2}–BIPS to introduce undergraduate students to experimental uncertainty in kinetic parameters. The experiment offers a time-efficient, cost-effective, and green approach. The study was conducted over two sessions with 60 undergraduate students, using 16 different spectrophotometers, and organized into 16 pairs in the first session and 14 pairs in the second. A total of 124 absorption decay curves were recorded over a temperature range of 22 to 28 °C, using a single 100 mL stock solution. This enabled the students to analyze kinetic data, determine reaction orders p and rate constants k, and explore key uncertainty concepts such as mean values, standard deviations, and zeta scores. Advanced instructor-only postlab analyses showed no significant differences between the two sessions, confirmed normality for the reaction order p, and revealed non-normality for k, likely due to uncontrolled temperature effects. No evidence of significant photodegradation was observed, even after 8 to 10 consecutive measurements using the same cuvette.
+
+* Reference
+Jonathan Piard, Sylvain Clède, /J. Chem. Educ./, 2026, [[https://doi.org/10.1021/acs.jchemed.5c00755][doi.org/10.1021/acs.jchemed.5c00755]]
+* Local variables :noexport:
+# Local Variables:
+# eval: (ss-markdown-export-on-save)
+# End:
