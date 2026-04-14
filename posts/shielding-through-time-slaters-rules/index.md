@@ -1,0 +1,28 @@
+---
+title: "Shielding through Time: Bridging the History and Teaching of Slater’s Rules"
+## https://quarto.org/docs/journals/authors.html
+#author:
+#  - name: ""
+#    affiliations:
+#     - name: ""
+#license: "©2026 American Chemical Society and Division of Chemical Education, Inc."
+license: "CC BY"
+#draft: true
+#date-modified:
+date: 2026-04-13
+categories: [article]
+keywords: physical chemistry teaching, physical chemistry education, teaching resources,  textbooks, effective nuclear charge, history of chemistry, Slater’s rules, shielding
+
+image: shielding.webp
+
+---
+<img src="shielding.webp" width="40%" align="right" style="padding: 10px 0px 0px 10px;"/>
+
+Slater’s rules and effective nuclear charge (Z<sub>eff</sub> or Z<sup>\*</sup>) are staple concepts regularly invoked in undergraduate inorganic chemistry classrooms to explain periodic trends such as atomic radii, ionization energy, and electronegativity. Typically introduced in foundational inorganic chemistry courses, Slater’s rules are presented as an easy-to-use procedure to calculate shielding constants which can be applied to assess effective nuclear charge and predict and understand periodic trends. However, many learners are offered only minimal insight into the development and historical context of chemistry concepts like Slater’s rules. To promote deeper understanding, improve scientific literacy, and understand the evolving nature of science, educators could teach both the concepts and the historical lineage of Slater’s rules. In this article, we explore the historical evolution of Slater’s rules and present an example of we can integrate this understanding into our teaching.
+The subject of chemistry is not static, but rather dynamic and changing. Teaching the evolving nature of science is incredibly important and recognized as a critical learning outcome for students. This article presents a historical overview of the development of Slater’s rules and its inclusion in chemistry education. To bridge our historical research with practice, this article includes an active-learning activity related to Slater’s rules and student feedback from the initial implementation. By weaving historical narrative into teaching Slater’s rules, including explaining why, how, and by whom the rules were developed, instructors can help students see Slater’s rules not as mere list of instructions, but as a window into how chemistry develops at the intersection of empirical evidence and interdisciplinary context. In concert, this story is an effective example of how chemistry as a science has changed over time.
+
+
+# Reference
+
+Grace Juwon Lee, Rebecca M. Jones, *J. Chem. Educ.*, 2026, [doi.org/10.1021/acs.jchemed.5c01117](https://doi.org/10.1021/acs.jchemed.5c01117)
+
