@@ -1,0 +1,38 @@
+#+export_file_name: index
+#+options: broken-links:t toc:nil
+# (ss-toggle-markdown-export-on-save)
+# date-added:
+
+# add filename after "imagefile"
+#+macro: imagefile continuous.png
+
+#+begin_export md
+---
+title: "Continuous Feedback at Scale: Closing the Instruction–Response–Feedback Loop in a Large Physical Chemistry Laboratory Course"
+## https://quarto.org/docs/journals/authors.html
+#author:
+#  - name: ""
+#    affiliations:
+#     - name: ""
+#license: "©2026 American Chemical Society and Division of Chemical Education, Inc."
+license: "CC BY"
+#draft: true
+#date-modified:
+date: 2026-04-09
+categories: [course design, lab]
+keywords: physical chemistry teaching, physical chemistry education, teaching resources, Physical Chemistry Laboratory, Formative Assessment, Feedback Loop, Instruction–Response–Feedback (IRF), Laboratory Course Design, Student Engagement
+#+end_export
+image: {{{imagefile}}}
+
+@@html:---
+<img src="@@{{{imagefile}}}@@html:" width="40%" align="right" style="padding: 10px 0px 0px 10px;"/>@@
+
+# Abstract goes below this line.
+The classical structure of physical chemistry laboratory courses often relies on delayed, report- based assessment, which can hinder conceptual understanding and student engagement, particularly in large classes. In this study, we report the redesign of an undergraduate physical chemistry laboratory course aimed at closing the Instruction–Response–Feedback (I–R–F) loop through a scalable systematic implementation of continuous and structured feedback mechanisms. The course was offered to two cohorts of approximately 50 students each, one during the daytime and one during the evening, demonstrating the scalability of the approach. Key elements included short post-laboratory assessments, weekly collective discussion sessions, and a final project in which students designed their own experimental scripts. Student self-assessment surveys and qualitative feedback collected at the beginning and end of the course indicate improvements in engagement, conceptual understanding, and perceived learning. The results show that effective closure of the feedback loop is feasible even in large laboratory classes and can significantly enhance the educational value of experimental physical chemistry courses.
+* Reference
+Matheus Wenzl Fernandes Martins, Elaine Andrade de Mattos, Leticia Almeida Souza, Danilo Silva Oliveira, Paulo Marques de Oliveira Filho, Rodrigo Iost Michellin, Vitor Leite Martins, and Thiago C. Correra, ChemRxiv, [[https://doi.org/10.26434/chemrxiv.15001763/v1][doi.org/10.26434/chemrxiv.15001763/v1]]
+
+* Local variables :noexport:
+# Local Variables:
+# eval: (ss-markdown-export-on-save)
+# End:

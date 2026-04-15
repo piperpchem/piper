@@ -1,0 +1,27 @@
+---
+title: "Graphene Quantum Dots as a Teaching Platform: A Computational Module for Exploring Structure–Property–Function Relationships"
+## https://quarto.org/docs/journals/authors.html
+#author:
+#  - name: ""
+#    affiliations:
+#     - name: ""
+license: "©2026 American Chemical Society and Division of Chemical Education, Inc."
+#license: "CC BY-NC-SA"
+#draft: true
+#date-modified:
+date: 2026-02-16
+categories: [activity, computational, quantum]
+keywords: physical chemistry teaching, physical chemistry education, teaching resources, Undergraduate Courses, Graduate Education, Physical Chemistry, Computational Chemistry, Nanomaterials, Quantum Chemistry, Density Functional Theory, Molecular Orbital Theory
+
+image: graphene.gif
+
+---
+<img src="graphene.gif" width="40%" align="right" style="padding: 10px 0px 0px 10px;"/>
+
+Graphene quantum dots (GQDs) provide an engaging platform for integrating nanomaterials science into upper-level undergraduate and introductory graduate chemistry instruction. This tutorial presents a computational learning module that guides students in exploring how structural modifications─including size variation, pore formation, and heteroatom doping, affect the electronic properties and reactivity of GQDs. Using density functional theory (DFT) and molecular orbital (MO) analysis, students investigate relationships among the energy gap, orbital localization, and chemical reactivity, with the oxygen reduction reaction (ORR) serving as a representative application. The module provides theoretical background, step-by-step computational procedures, and all necessary input and output files for seamless implementation in classroom or laboratory settings. Through guided analysis and visualization, students connect molecular structure to electronic behavior and catalytic performance, strengthening their understanding of structure–property–function relationships while developing transferable skills in data analysis, computational reasoning, and critical thinking.
+
+
+# Reference
+
+Xinjie Wan, Neil Qiang Su, *J. Chem. Educ.* 2026, 103, 3, 1195–1205, [doi.org/10.1021/acs.jchemed.5c01492](https://doi.org/10.1021/acs.jchemed.5c01492)
+
