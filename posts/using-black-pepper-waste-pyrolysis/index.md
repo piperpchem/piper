@@ -1,0 +1,27 @@
+---
+title: "Using Black Pepper Crop Waste Pyrolysis for Activation Energy Determination with Introductory Undergraduate Chemistry Students: A Grounded Theory Study"
+## https://quarto.org/docs/journals/authors.html
+#author:
+#  - name: ""
+#    affiliations:
+#     - name: ""
+#license: "©2026 American Chemical Society and Division of Chemical Education, Inc."
+license: "CC BY"
+#draft: true
+#date-modified:
+date: 2026-04-10
+categories: [kinetics]
+keywords: physical chemistry teaching, physical chemistry education, teaching resources, Activation energy, Biomass, Kinetics, Pyrolysis
+
+image: blackpepper.gif
+
+---
+<img src="blackpepper.gif" width="40%" align="right" style="padding: 10px 0px 0px 10px;"/>
+
+This study describes a pedagogical strategy that uses the investigation of activation energy (E<sub>a</sub>) in the biomass pyrolysis process as a context for learning kinetic concepts. Conducted between September and December 2023, the intervention involved 18 second-semester Chemistry undergraduate students at the Federal University of Espírito Santo (UFES), Brazil. This study aims to evaluate the impact of a biomass-based experimental approach on students’ understanding of chemical kinetics. Using Grounded Theory data analysis protocols, analytical categories were developed to describe “The Resignification of Chemical Kinetics: From Data Analysis to Socioscientific Action”. This process outlines the students’ journey from tackling a technical-analytical challenge with authentic pyrolysis data to applying their knowledge in creative and socially relevant projects. The results showed that engagement with genuine experimental data and collaboration among students were crucial for knowledge construction. The ability to apply learned concepts to create socially and environmentally relevant extension project proposals demonstrated meaningful student engagement and an enhanced ability to connect kinetic concepts with experimental observations.
+
+
+# Reference
+
+Gyovana L. Welsing, Marta A. Machado, Paulo R. G. de Moura, *J. Chem. Educ.*, 2026, [doi.org/10.1021/acs.jchemed.6c00159](https://doi.org/10.1021/acs.jchemed.6c00159)
+
