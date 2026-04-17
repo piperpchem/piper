@@ -13,7 +13,7 @@ title: "Large Language Model (LLM) and Generative Pre-trained Transformer (GPT) 
 #draft: true
 # description:
 # date added 2023-11-21
-date: 2026-02-05
+date: 2026-04-15
 categories: ["article", "ai-ml"]
 keywords: PIPER, teaching physical chemistry, GPT, ChatGPT, LLM, teaching, chemistry, artificial intelligence, AI, physical chemistry resources
 image: llm-gpt.svg
