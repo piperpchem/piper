@@ -12,6 +12,18 @@ title-block-banner: true
 
 /Please send event announcements to ssinglet@coe.edu/
 
+* Biennial Conference on Chemical Education, July 2026
+ July 26-30, 2026, University of Wisconsin, Madison
+ [[https://conferences.union.wisc.edu/bcce2026/][https://conferences.union.wisc.edu/bcce2026/]]
+
+ #+html: <img src="https://conferences.union.wisc.edu/bcce2026/wp-content/uploads/sites/20/2024/07/3x-Resolution-Banner-scaled.jpg" width="90%" />
+
+ The 29th BCCE will be held on the lakeside campus of the University of Wisconsin–Madison in the Summer of 2026. The conference, like all of its predecessors, provides the chemistry education community with opportunities to interact and engage. The conference will be a mixture of symposia, workshops, poster sessions, exhibits, and spaces for both formal and informal conversations.
+
+ All chemistry educators are invited to contribute to the conference by submitting a program proposal (opens August 1, 2025), or abstracts for presentations. You do not have to present in order to attend the BCCE. Also, you do not have to be a member of the American Chemical Society or the ACS Division of Chemical Education to attend or present at the BCCE.
+ 
+
+* Past events
 * POGIL-PCL Jupyter Group Workshop: Apr 15, 2026
 
 The POGIL-PCL Jupyter group is hosting an online workshop Wed Apr 15, 1-2:30 PT; 4-5:30 ET (1.5 hrs).
@@ -26,18 +38,6 @@ Before attending, please
 
 Hope to see you April 15.
 
-* Biennial Conference on Chemical Education, July 2026
- July 26-30, 2026, University of Wisconsin, Madison
- [[https://conferences.union.wisc.edu/bcce2026/][https://conferences.union.wisc.edu/bcce2026/]]
-
- #+html: <img src="https://conferences.union.wisc.edu/bcce2026/wp-content/uploads/sites/20/2024/07/3x-Resolution-Banner-scaled.jpg" width="90%" />
-
- The 29th BCCE will be held on the lakeside campus of the University of Wisconsin–Madison in the Summer of 2026. The conference, like all of its predecessors, provides the chemistry education community with opportunities to interact and engage. The conference will be a mixture of symposia, workshops, poster sessions, exhibits, and spaces for both formal and informal conversations.
-
- All chemistry educators are invited to contribute to the conference by submitting a program proposal (opens August 1, 2025), or abstracts for presentations. You do not have to present in order to attend the BCCE. Also, you do not have to be a member of the American Chemical Society or the ACS Division of Chemical Education to attend or present at the BCCE.
- 
-
-* Past events
 * ACS LABSIP-PChem Social, March 24, 2026
 
 LABSIP will be co-hosting a social with organizers of the PHYS Physical Chemistry at Undergraduate Institutions Symposia on Tuesday, March 24 at Hudson Grille from 6:30 pm - 8:30 pm at the National ACS meeting in Atlanta. Please come and join us for some appetizers, drinks, and good conversations! So that we can get a rough estimate of the number of attendees, please RSVP by Monday, March 23. You are also always welcome to show up without a RSVP.  
