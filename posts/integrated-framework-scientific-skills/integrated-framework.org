@@ -1,0 +1,38 @@
+#+export_file_name: index
+#+options: broken-links:t toc:nil
+# (ss-toggle-markdown-export-on-save)
+# date-added:
+
+# add filename after "imagefile"
+#+macro: imagefile scientific-skills.webp
+
+#+begin_export md
+---
+title: "An Integrated Framework of Scientific Skills in Chemistry Aligned with Education 5.0"
+## https://quarto.org/docs/journals/authors.html
+#author:
+#  - name: ""
+#    affiliations:
+#     - name: ""
+license: "©2026 American Chemical Society and Division of Chemical Education, Inc."
+#license: "CC BY-NC-SA"
+#draft: true
+#date-modified:
+date: 2026-05-06
+categories: [course-design, article]
+keywords: physical chemistry teaching, physical chemistry education, teaching resources, science process skills, chemical thinking
+#+end_export
+image: {{{imagefile}}}
+
+@@html:---
+<img src="@@{{{imagefile}}}@@html:" width="40%" align="right" style="padding: 10px 0px 0px 10px;"/>@@
+
+# Abstract goes below this line.
+Chemistry education faces the challenge of developing Scientific Skills (SS) that transcend technical laboratory proficiency to integrate disciplinary reasoning, cognitive competencies, and ethical and sustainable attitudes. Although Science Process Skills (SPS), 21st-Century Competencies (4Cs), and Chemical Thinking (CT) are frequently recognized as essential components of scientific performance, their development in chemistry education has largely progressed along parallel and fragmented trajectories. To date, there remains a lack of an integrative conceptual framework that articulates the functional relationships among these constructs and clarifies what constitutes an SS in contemporary chemistry education. This article proposes a conceptual and theoretical framework─the Integrated Framework of Scientific Skills in Chemistry (IF-SSC)─that redefines SS through the convergence of SPS, the 4Cs, and CT, aligned with the principles of Education 5.0. Epistemic practices and epistemological framing are adopted as the analytical lens guiding the selection, integration, and scope of the framework. The IF-SSC conceptualizes SS as a triadic structure that connects experimental inquiry, sociocognitive competencies, and disciplinary chemical reasoning, situating scientific learning within an ethical, collaborative, and sustainability-oriented vision. Rather than proposing an empirical intervention, this work offers a theoretically grounded model that integrates cognitive, procedural, metacognitive, communicative, and technological dimensions of chemical learning. The manuscript proposes testable hypotheses regarding progression, mediation, enhancement, and systemic requirements and offers design-oriented criteria to support pedagogical operationalization and authentic assessment. The IF-SSC provides a shared conceptual language with implications for curriculum development, performance-based evaluation, and chemistry education research, particularly in undergraduate contexts.
+* Reference
+Wendy Villalobos-González, /J. Chem. Educ./, 2026, [[https://doi.org/10.1021/acs.jchemed.5c01781][doi.org/10.1021/acs.jchemed.5c01781]]
+
+* Local variables :noexport:
+# Local Variables:
+# eval: (ss-markdown-export-on-save)
+# End:

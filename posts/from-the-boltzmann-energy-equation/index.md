@@ -10,7 +10,7 @@ license: "©2026 American Chemical Society and Division of Chemical Education, I
 #draft: true
 #date-modified:
 date: 2026-04-13
-categories: [article, thermodynamics, stat-mech]
+categories: [article, thermo, stat-mech]
 keywords: physical chemistry teaching, physical chemistry education, teaching resources, Upper-Division Undergraduate, Graduate Education, Research, Physical Chemistry, Misconceptions, Discrepant Events, Thermodynamics, Statistical Mechanics, Boltzmann Entropy, Equilibrium
 
 image: boltzmann.gif

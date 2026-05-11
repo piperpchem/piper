@@ -1,0 +1,28 @@
+---
+title: "An Evaluation of the Process Oriented Guided Inquiry Learning for Physical Chemistry Laboratory (POGIL-PCL) Approach for Engaging Students in Scientific Practices"
+## https://quarto.org/docs/journals/authors.html
+#author:
+#  - name: ""
+#    affiliations:
+#     - name: ""
+license: "©2026 American Chemical Society and Division of Chemical Education, Inc."
+#license: "CC BY-NC-SA"
+#draft: true
+#date-modified:
+date: 2026-05-10
+categories: [course design, pogil-pcl, lab, article]
+keywords: physical chemistry teaching, physical chemistry education, teaching resources, Upper-Division Undergraduate, Laboratory Instruction, Physical Chemistry, Inquiry-Based Discovery Learning, Kinetics, Dyes Pigments, Phases Phase Transitions Diagrams, Atomic Properties Structure, Constructivism
+
+image: evaluation.webp
+
+---
+<img src="evaluation.webp" width="40%" align="right" style="padding: 10px 0px 0px 10px;"/>
+
+The Process Oriented Guided Inquiry Learning for Physical Chemistry Laboratory (POGIL-PCL) community has developed guided-inquiry experiments for physical chemistry laboratory courses with the goal of improving student engagement and meaningful learning. The present study evaluated and compared the extent to which four POGIL-PCL experiments and four analogous traditional experiments support student engagement in scientific practices. To account for the specific context of POGIL-PCL, we developed a modified three-level version of the Three-Dimensional Learning Assessment Protocol that considers the role of instructor facilitation and the context of advanced students who have become integrated into their communities of practice. In comparison to their traditional counterparts, the POGIL-PCL experiments were found to offer more consistent and higher-level opportunities for student engagement in scientific practices. The POGIL-PCL experiments showed stronger alignment with some practices more than others, namely, analyzing and interpreting data, using mathematics and computational thinking, developing and using models, and planning and carrying out investigations. The cyclic nature of POGIL-PCL provided students with repeated and iterative opportunities for engagement with scientific practices within a given experiment, and it was found that those opportunities for engagement in certain scientific practices were concentrated in particular parts of the POGIL-PCL data-think cycle. These findings provide insight into how POGIL-PCL experiments can be strengthened by the incorporation of prompts that more deliberately cue for additional scientific practices as well as through revisions to make engagement with the practices more consistent across a variety of contexts.
+
+
+# Reference
+
+Kathryn L. Haas, Diane M. Miller, Jordan P. Beck, Sally S. Hunnicutt, Alexander Grushow
+Melissa S. Reeves, Teresa J. Bixby, *J. Chem. Educ.*, 2026, [doi.org/10.1021/acs.jchemed.5c01377](https://doi.org/10.1021/acs.jchemed.5c01377)
+
