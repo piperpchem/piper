@@ -1,0 +1,27 @@
+---
+title: "Computer Vision-Based Quantification of Dissolution Kinetics: An Undergraduate Experiment with Sodium Chloride"
+## https://quarto.org/docs/journals/authors.html
+#author:
+#  - name: ""
+#    affiliations:
+#     - name: ""
+license: "©2026 American Chemical Society and Division of Chemical Education, Inc."
+#license: "CC BY-NC-SA"
+#draft: true
+#date-modified:
+date: 2026-04-28
+categories: [lab, kinetics, computing]
+keywords: physical chemistry teaching, physical chemistry education, teaching resources, computer-based learning, activation energy, computer vision
+
+image: computer-vision-kinetics.webp
+
+---
+<img src="computer-vision-kinetics.webp" width="40%" align="right" style="padding: 10px 0px 0px 10px;"/>
+
+Dissolution is a pivotal theme in physical chemistry, yet coupling real-time visual observation with continuous quantitative measurements remains challenging in many teaching laboratories. Herein, we present a computer vision (CV)-based method to convert videos of the dissolution process into size vs time data sets, thereby bridging observation with quantitative analysis and providing an efficient, intuitive laboratory workflow suitable for classroom use. Using cubic sodium chloride crystals as a model system, students determine dissolution rates and estimate apparent activation energies (Ea) via Arrhenius analysis. Integrating CV-based measurements with quantitative modeling enables students to gain a deeper understanding of the dissolution process and develop transferable skills in data analysis and modeling. The setup is low-cost, safe, and portable, making it well suited for undergraduate physical chemistry and related courses; it can also be readily adapted as a demonstration for middle-school students.
+
+
+# Reference
+
+Yan-Yang Li, et al, *J. Chem. Educ.*, 2026, [doi.org/10.1021/acs.jchemed.5c01711](https://doi.org/10.1021/acs.jchemed.5c01711)
+
