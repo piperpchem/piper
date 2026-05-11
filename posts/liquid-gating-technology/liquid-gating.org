@@ -1,0 +1,38 @@
+#+export_file_name: index
+#+options: broken-links:t toc:nil
+# (ss-toggle-markdown-export-on-save)
+# date-added:
+
+# add filename after "imagefile"
+#+macro: imagefile liquid-gating.webp
+
+#+begin_export md
+---
+title: "Liquid Gating Technology: A Teaching Innovation for Interfacial Characterization in Undergraduate Education"
+## https://quarto.org/docs/journals/authors.html
+#author:
+#  - name: ""
+#    affiliations:
+#     - name: ""
+#license: "©2026 American Chemical Society and Division of Chemical Education, Inc."
+#license: "CC BY-NC-SA"
+#draft: true
+#date-modified:
+date: 2026-05-01
+categories: [lab]
+keywords: physical chemistry teaching, physical chemistry education, teaching resources, liquid gating, interfacial science, membrane science
+#+end_export
+image: {{{imagefile}}}
+
+@@html:---
+<img src="@@{{{imagefile}}}@@html:" width="40%" align="right" style="padding: 10px 0px 0px 10px;"/>@@
+
+# Abstract goes below this line.
+The incorporation of cutting-edge technologies into the interfacial characterization within modern chemical education not only builds students’ foundational knowledge but also reinforces their grasp of interfacial science. This study presents an innovative teaching curriculum that introduces liquid gating technology into undergraduate laboratory experiments. Students learn the liquid gating mechanism and explore its physicochemical characteristics by analyzing output pressure signals, which elucidate the properties of multiphase composite interfaces. The experimental characterization of interfaces in a stable liquid gating system reports the critical pressure (PCrit) required for a transport fluid to pass through. Moreover, the effects of several parameters, including the properties of the porous solid, gating liquid, and transport fluid, on PCrit are systematically investigated. With the assistance of artificial intelligence (AI) technology, students can perform in-depth reviews of experimental data. The feedback highlights its substantial educational value, providing hands-on experience in interfacial characterization and promoting further exploration of technological applications.
+
+* Reference
+Yi Fan, Shuai Wang, Runheng Lin, Yuecheng Gong, Laiying Zhang, Xu Hou, /J. Chem. Educ./, 2026, [[https://doi.org/10.1021/acs.jchemed.5c00511][doi.org/10.1021/acs.jchemed.5c00511]]
+* Local variables :noexport:
+# Local Variables:
+# eval: (ss-markdown-export-on-save)
+# End:
