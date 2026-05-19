@@ -6,12 +6,31 @@ title-block-banner: true
 *Please send event announcements to ssinglet@coe.edu*
 
 
+# POGIL-PCL Jupyter Workshop: June 4, 2026
+
+On **June 4**, 12-2 PT/1-2pm MT/2-4pm CT/2-5pm ET, Rob Whittnell and Mark Perri will host a workshop that shows how python and Jupyter notebooks can be used to supplement the experiment *Are the Molecules that Make a Solution Red Big or Small?* (a POGIL-PCL version of the classic conjugated dyes lab).
+
+Participants will have the chance to
+
+-   calculate the electronic structure and UV-Vis spectrum of a conjugated dye using ChemCompute
+-   use the Particle In a Box model to calculate the energy and wavelength of the LUMO ← HOMO transition
+-   compare the computed UV-Vis spectrum with an experimental absorption spectrum and also with the calculated transition from the Particle In a Box approximation.
+
+Prior to the workshop, participants should
+
+-   be familiar with Jupyter notebooks and python at the level of this introductory notebook: <https://github.com/markperri/POGIL-PCL-June-2026-Workshop-Intro-Materials>
+-   review the instructor&rsquo;s manual for the conjugated dye experiment; it’s not necessary to have previously used the experiment in a class, but participants should be familiar with the experiment before the workshop
+-   have a working account on chemcompute.org; contact mperri@sonomastate.edu if you have problems registering an account.
+
+To register for the workshop, please complete this brief survey: <https://forms.gle/eJrYte3z5vGTS9kL6>. A Zoom link will be sent prior to the workshop. 
+
+
 # Biennial Conference on Chemical Education, July 2026
 
 July 26-30, 2026, University of Wisconsin, Madison
 [https://conferences.union.wisc.edu/bcce2026/](https://conferences.union.wisc.edu/bcce2026/)
 
-<img src="https://conferences.union.wisc.edu/bcce2026/wp-content/uploads/sites/20/2024/07/3x-Resolution-Banner-scaled.jpg" width="90%" />
+<img src="images/bcce-2026.png" width="75%" align="center" />
 
 The 29th BCCE will be held on the lakeside campus of the University of Wisconsin–Madison in the Summer of 2026. The conference, like all of its predecessors, provides the chemistry education community with opportunities to interact and engage. The conference will be a mixture of symposia, workshops, poster sessions, exhibits, and spaces for both formal and informal conversations.
 
